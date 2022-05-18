@@ -1,0 +1,5 @@
+citation: []
+commutative_only: false
+definition: $abc=0$ implies $acb=0$
+name: symmetric
+symmetric: true

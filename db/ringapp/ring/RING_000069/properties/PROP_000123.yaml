@@ -1,0 +1,11 @@
+citation_left: []
+citation_right: []
+crosstable_pk: 3999
+has_on_left: true
+has_on_right: true
+property: PROP_000123
+reason_left: 'Logic 295: Bezout domain on the left or right and commutative ===> GCD
+  domain'
+reason_right: 'Logic 295: Bezout domain on the left or right and commutative ===>
+  GCD domain'
+ring: RING_000069

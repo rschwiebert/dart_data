@@ -1,0 +1,5 @@
+citation: []
+commutative_only: false
+definition: The only idempotents are 0 and 1
+name: strongly connected
+symmetric: true

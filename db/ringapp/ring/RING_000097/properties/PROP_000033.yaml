@@ -1,0 +1,10 @@
+citation_left: []
+citation_right: []
+crosstable_pk: 16752
+has_on_left: true
+has_on_right: true
+property: PROP_000033
+reason_left: Nilpotent elements are exactly the Jacobson radical, which squares to
+  zero.
+reason_right: symmetry with left side
+ring: RING_000097

@@ -1,0 +1,6 @@
+citation: []
+commutative_only: true
+definition: A domain in which nonzero nonunits can be written as a finite product
+  of irreducible elements.
+name: atomic domain
+symmetric: true

@@ -1,0 +1,8 @@
+citation:
+- CITE_000300
+- CITE_000244
+- CITE_000253
+commutative_only: false
+definition: For every $x$, there exists $y$ such that $x=xyx$
+name: von Neumann regular
+symmetric: true

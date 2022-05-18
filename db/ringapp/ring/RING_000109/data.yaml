@@ -1,0 +1,14 @@
+citation:
+- CITE_000237
+description: Let $F$ be the algebraic closure of the field of two elements, and $F[t,
+  \sigma]$ be the twisted polynomial ring with $\sigma$ is the automorphism $x\mapsto
+  x^2$ on $F$. Finally, $R$ is the localization $F[t,\sigma]S^{-1}$ where $S$ is the
+  set of nonnegative powers of $t$.
+is_commutative: false
+keywords:
+- KWD_000005
+- KWD_000027
+krull_dim: (unknown)
+name: Cozzens' simple V-domain
+notes: Has a unique simple right $R$ module (up to isomorphism)
+optional_template: ''

@@ -1,0 +1,9 @@
+citation_left: []
+citation_right: []
+crosstable_pk: 11051
+has_on_left: false
+has_on_right: false
+property: PROP_000028
+reason_left: 'Logic 175: primary <==> semiprimary and top simple'
+reason_right: 'Logic 175: primary <==> semiprimary and top simple'
+ring: RING_000091

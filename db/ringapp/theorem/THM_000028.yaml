@@ -1,0 +1,10 @@
+alias: When a group ring is local
+categories:
+- THMCAT_000003
+citation:
+- CITE_000266
+commutative_only: false
+link: null
+statement: 'For a ring $R$ and a group $G$:  If $R[G]$ is local, then $R$ is local,
+  $R/J(R)$ has characteristic $p>0$, and $G$ is a $p$-group.  The converse holds if
+  $G$ is a locally finite group.'

@@ -1,0 +1,6 @@
+citation:
+- CITE_000285
+commutative_only: false
+definition: For every $x\in R$, $x^2=x$.
+name: Boolean
+symmetric: true

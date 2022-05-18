@@ -1,0 +1,9 @@
+citation: []
+description: The polynomial ring $\mathbb Z[x]$ over the integers.
+is_commutative: true
+keywords:
+- KWD_000002
+krull_dim: '2'
+name: $\mathbb Z[x]$
+notes: All prime ideals are $1$-or-$2$ generated, but $(3,x,y)$ is not.
+optional_template: ''

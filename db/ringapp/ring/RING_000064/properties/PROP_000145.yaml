@@ -1,0 +1,10 @@
+citation_left:
+- CITE_000140
+citation_right: []
+crosstable_pk: 10524
+has_on_left: true
+has_on_right: true
+property: PROP_000145
+reason_left: $k((x))$ is the field of fractions
+reason_right: symmetry with left side
+ring: RING_000064

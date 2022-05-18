@@ -1,0 +1,9 @@
+citation_left: []
+citation_right: []
+crosstable_pk: 2488
+has_on_left: false
+has_on_right: false
+property: PROP_000075
+reason_left: 'Logic 69: V ring on the left or right ===> semiprimitive'
+reason_right: 'Logic 69: V ring on the left or right ===> semiprimitive'
+ring: RING_000013

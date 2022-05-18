@@ -1,0 +1,10 @@
+citation_left: []
+citation_right: []
+crosstable_pk: 895
+has_on_left: false
+has_on_right: false
+property: PROP_000070
+reason_left: 'Logic 58: hereditary on the right ===> semihereditary on the right'
+reason_right: A hereditary ring is a UFD iff it's a PID, but this is a UFD that isn't
+  a PIDR.B. Ash A course in Algebraic Number theory, p 24
+ring: RING_000006

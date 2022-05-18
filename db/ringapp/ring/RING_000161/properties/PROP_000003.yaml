@@ -1,0 +1,10 @@
+citation_left:
+- CITE_000458
+citation_right: []
+crosstable_pk: 17157
+has_on_left: true
+has_on_right: true
+property: PROP_000003
+reason_left: null
+reason_right: symmetry with left side
+ring: RING_000161

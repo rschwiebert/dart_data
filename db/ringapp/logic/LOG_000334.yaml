@@ -1,0 +1,11 @@
+active: true
+citation: []
+concs:
+- PSIDE_000004
+- PSIDE_000022
+hyps:
+- PSIDE_000004
+- PSIDE_000038
+- PSIDE_000033
+symmetric: true
+variety: 1

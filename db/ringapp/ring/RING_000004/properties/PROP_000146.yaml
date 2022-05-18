@@ -1,0 +1,9 @@
+citation_left: []
+citation_right: []
+crosstable_pk: 11702
+has_on_left: true
+has_on_right: true
+property: PROP_000146
+reason_left: 'Logic 376: Zorn ===> potent'
+reason_right: 'Logic 376: Zorn ===> potent'
+ring: RING_000004

@@ -1,0 +1,9 @@
+citation_left: []
+citation_right: []
+crosstable_pk: 8380
+has_on_left: true
+has_on_right: true
+property: PROP_000026
+reason_left: 'Logic 152: nil radical ===> lift/rad'
+reason_right: 'Logic 152: nil radical ===> lift/rad'
+ring: RING_000019

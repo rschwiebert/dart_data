@@ -1,0 +1,11 @@
+alias: Commutative equivalents to von Neumann regularity
+categories:
+- THMCAT_000006
+citation:
+- CITE_000334
+commutative_only: true
+link: null
+statement: 'The following properties are equivalent to "von Neumann regular" in commutative
+  rings:  1) strongly regular (since it is reduced) 2) unit-regular (since strongly
+  regular-> unit-regular -> VNR) 3) V-ring (everybody attributes this to Kaplansky
+  (Michler & Villamayor))'

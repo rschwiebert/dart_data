@@ -1,0 +1,9 @@
+citation_left: []
+citation_right: []
+crosstable_pk: 1153
+has_on_left: false
+has_on_right: false
+property: PROP_000033
+reason_left: There are only trivial ideals, but there are nontrivial nilpotents
+reason_right: symmetry with left side
+ring: RING_000012

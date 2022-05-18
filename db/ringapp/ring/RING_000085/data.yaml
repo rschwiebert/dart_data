@@ -1,0 +1,10 @@
+citation: []
+description: Field of fractions of the $p$-adic integers.
+is_commutative: true
+keywords:
+- KWD_000032
+- KWD_000024
+krull_dim: (unknown)
+name: field of $p$-adic numbers
+notes: null
+optional_template: ''

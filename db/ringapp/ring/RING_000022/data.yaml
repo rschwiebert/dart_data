@@ -1,0 +1,12 @@
+citation:
+- CITE_000080
+description: Quotient of the free algebra $\mathbb Z\langle x,y\rangle$ by the ideal  $(y^2,yx)$.
+  Attributed to Dieudonne
+is_commutative: false
+keywords:
+- KWD_000026
+- KWD_000003
+krull_dim: null
+name: $\mathbb Z\langle x,y\rangle/(y^2, yx)$
+notes: null
+optional_template: ''

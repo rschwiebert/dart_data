@@ -1,0 +1,8 @@
+citation:
+- CITE_000343
+- CITE_000344
+commutative_only: true
+definition: A commutative integral domain whose localizations at maximal ideals are
+  all discrete valuation rings, or a field
+name: almost Dedekind domain
+symmetric: true

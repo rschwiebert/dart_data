@@ -1,0 +1,10 @@
+citation_left: []
+citation_right: []
+crosstable_pk: 5712
+has_on_left: null
+has_on_right: true
+property: PROP_000099
+reason_left: null
+reason_right: 'Logic 115: finite uniform dimension on the right ===> finitely generated
+  socle on the right'
+ring: RING_000056

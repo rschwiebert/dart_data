@@ -1,0 +1,9 @@
+citation_left: []
+citation_right: []
+crosstable_pk: 15951
+has_on_left: false
+has_on_right: false
+property: PROP_000104
+reason_left: The lattice of nontrivial ideals looks like three diamonds ($M_3$) stacked.
+reason_right: The lattice of nontrivial ideals looks like three diamonds ($M_3$) stacked.
+ring: RING_000025

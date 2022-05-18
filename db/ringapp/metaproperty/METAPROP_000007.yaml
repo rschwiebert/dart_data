@@ -1,0 +1,2 @@
+definition: If $R$ has the property and $e$ is an idempotent, $eRe$ also has the property.
+name: passes to $eRe$ for any idempotent $e$

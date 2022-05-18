@@ -1,0 +1,13 @@
+citation:
+- CITE_000463
+description: 'Let $k$ be a field of characteristic $p>0$ such that $[k:k^p]=\infty$.  Let
+  $A=k[[x]]$.  The required ring is the subring $R$ of elements of $A$ of elements
+  of the form $\sum_0^\infty k_ix^i$ satisfying $[k^p(k_0, k_1,k_2,\ldots): k^p] <\infty$.'
+is_commutative: true
+keywords:
+- KWD_000012
+- KWD_000007
+krull_dim: '1'
+name: Noetherian ring that is not Grothendieck and not Nagata
+notes: null
+optional_template: ''

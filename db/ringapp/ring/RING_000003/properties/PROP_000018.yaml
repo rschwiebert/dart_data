@@ -1,0 +1,11 @@
+citation_left: []
+citation_right: []
+crosstable_pk: 8090
+has_on_left: true
+has_on_right: true
+property: PROP_000018
+reason_left: 'Logic 342: Artinian on the left or right and commutative and serial
+  on the left or right ===> Frobenius and commutative'
+reason_right: 'Logic 342: Artinian on the left or right and commutative and serial
+  on the left or right ===> Frobenius and commutative'
+ring: RING_000003

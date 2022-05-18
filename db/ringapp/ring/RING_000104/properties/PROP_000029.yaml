@@ -1,0 +1,9 @@
+citation_left: []
+citation_right: []
+crosstable_pk: 13542
+has_on_left: false
+has_on_right: false
+property: PROP_000029
+reason_left: 'Logic 238: commutative and top simple ===> local'
+reason_right: 'Logic 238: commutative and top simple ===> local'
+ring: RING_000104

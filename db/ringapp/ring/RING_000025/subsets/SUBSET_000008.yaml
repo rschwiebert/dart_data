@@ -1,0 +1,5 @@
+citation: []
+crosstable_pk: 199
+ring: RING_000025
+subset: $\{0, \sum_{g\in \mathcal Q_8}g\}$
+subset_type: SUBSET_000008

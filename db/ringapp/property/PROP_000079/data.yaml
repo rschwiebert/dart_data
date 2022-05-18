@@ -1,0 +1,6 @@
+citation: []
+commutative_only: false
+definition: Every finitely generated faithful right module is a generator for the
+  category of $R$ modules
+name: finitely pseudo-Frobenius
+symmetric: false

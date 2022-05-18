@@ -1,0 +1,5 @@
+citation: []
+commutative_only: false
+definition: The set of nilpotent elements in $R$ forms an ideal.
+name: NI (nilpotents form an ideal)
+symmetric: true

@@ -1,0 +1,5 @@
+citation: []
+commutative_only: false
+definition: Idempotents of $R/J(R)$ lift to idempotents in R
+name: lift/rad
+symmetric: true

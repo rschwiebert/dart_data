@@ -1,0 +1,11 @@
+citation_left: []
+citation_right: []
+crosstable_pk: 15382
+has_on_left: false
+has_on_right: false
+property: PROP_000043
+reason_left: 'Logic 424: Armendariz and finite ===> semicommutative  (SI condition,
+  zero-insertive)'
+reason_right: 'Logic 424: Armendariz and finite ===> semicommutative  (SI condition,
+  zero-insertive)'
+ring: RING_000112

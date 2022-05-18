@@ -1,0 +1,4 @@
+description: For a ring $R$ and an indeterminate $X$, the underlying set is the set
+  of all finite $R$-combinations of $\{X^i\mid i\in \mathbb Z\}$. Addition and multiplication
+  just as with polynomial multiplication.
+name: Laurent polynomials

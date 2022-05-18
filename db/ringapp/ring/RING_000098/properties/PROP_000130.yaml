@@ -1,0 +1,9 @@
+citation_left: []
+citation_right: []
+crosstable_pk: 12350
+has_on_left: true
+has_on_right: true
+property: PROP_000130
+reason_left: 'Logic 394: unique factorization domain ===> Krull domain'
+reason_right: 'Logic 394: unique factorization domain ===> Krull domain'
+ring: RING_000098

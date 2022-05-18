@@ -1,0 +1,9 @@
+citation_left: []
+citation_right: []
+crosstable_pk: 15683
+has_on_left: false
+has_on_right: false
+property: PROP_000109
+reason_left: 'Logic 157: quasi-continuous on the right ===> CS on the right'
+reason_right: 'Logic 157: quasi-continuous on the right ===> CS on the right'
+ring: RING_000059

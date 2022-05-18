@@ -1,0 +1,11 @@
+citation_left: []
+citation_right: []
+crosstable_pk: 1026
+has_on_left: false
+has_on_right: false
+property: PROP_000069
+reason_left: Ring is not a subring of a division ring"On the immersion of an algebraic
+  ring into a field" A. L. Malcev (1937)
+reason_right: Ring is not a subring of a division ring"On the immersion of an algebraic
+  ring into a field" A. L. Malcev (1937)
+ring: RING_000059

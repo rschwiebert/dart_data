@@ -1,0 +1,11 @@
+citation_left: []
+citation_right: []
+crosstable_pk: 3020
+has_on_left: true
+has_on_right: true
+property: PROP_000102
+reason_left: 'Logic 87: pseudo-Frobenius on the right <==> Kasch on the left and cogenerator
+  ring on the right'
+reason_right: 'Logic 87: pseudo-Frobenius on the right <==> Kasch on the left and
+  cogenerator ring on the right'
+ring: RING_000049

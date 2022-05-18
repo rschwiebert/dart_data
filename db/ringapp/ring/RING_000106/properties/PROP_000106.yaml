@@ -1,0 +1,9 @@
+citation_left: []
+citation_right: []
+crosstable_pk: 13681
+has_on_left: true
+has_on_right: true
+property: PROP_000106
+reason_left: symmetry with right side
+reason_right: 'Logic 55: Ore domain on the right ===> Ikeda-Nakayama on the right'
+ring: RING_000106

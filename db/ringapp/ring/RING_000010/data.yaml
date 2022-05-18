@@ -1,0 +1,10 @@
+citation: []
+description: Quotient ring of the integers (1) by an ideal $(n)$ where $n=p^k$ for
+  some prime number $p$, natural number $k>1$.
+is_commutative: true
+keywords:
+- KWD_000003
+krull_dim: '0'
+name: $\mathbb Z/(p^k)$, $p$ a prime, $k>1$
+notes: ''
+optional_template: ''

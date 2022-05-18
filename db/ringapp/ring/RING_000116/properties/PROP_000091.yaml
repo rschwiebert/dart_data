@@ -1,0 +1,10 @@
+citation_left: []
+citation_right: []
+crosstable_pk: 16455
+has_on_left: false
+has_on_right: false
+property: PROP_000091
+reason_left: symmetry with right side
+reason_right: 'Logic 459: dual on the right and Noetherian on the right ===> essential
+  socle on the left'
+ring: RING_000116

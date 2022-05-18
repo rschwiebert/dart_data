@@ -1,0 +1,6 @@
+citation: []
+commutative_only: false
+definition: $R$ is right CS, and any right ideal isomorphic to a direct summand of
+  $R$ is itself a summand.
+name: continuous
+symmetric: false

@@ -1,0 +1,7 @@
+citation:
+- CITE_000259
+- CITE_000240
+commutative_only: false
+definition: $R$ is quasi-Frobenius and the right socle is isomorphic to $R/J(R)$
+name: Frobenius
+symmetric: true

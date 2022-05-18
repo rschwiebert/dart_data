@@ -1,0 +1,12 @@
+citation: []
+description: 'For a countably infinite field $k$, $k[x,y]_{(x,y)}/(x^2-y^3)$: a quotient
+  of the localization at $(x,y)$'
+is_commutative: true
+keywords:
+- KWD_000005
+- KWD_000002
+- KWD_000003
+krull_dim: '1'
+name: $k[x,y]_{(x,y)}/(x^2-y^3)$
+notes: null
+optional_template: ''

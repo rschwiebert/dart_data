@@ -1,0 +1,8 @@
+alias: Frobenius' theorem
+categories:
+- THMCAT_000002
+citation: []
+commutative_only: false
+link: https://en.wikipedia.org/wiki/Frobenius_theorem_(real_division_algebras)
+statement: The only finite dimensional associative division algebras over the real
+  numbers are the reals, the complex numbers, and the quaternions.

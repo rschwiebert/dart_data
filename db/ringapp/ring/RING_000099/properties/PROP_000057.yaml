@@ -1,0 +1,9 @@
+citation_left: []
+citation_right: []
+crosstable_pk: 12506
+has_on_left: false
+has_on_right: false
+property: PROP_000057
+reason_left: 'Logic 315: quadratically closed field ===> Pythagorean field'
+reason_right: 'Logic 315: quadratically closed field ===> Pythagorean field'
+ring: RING_000099

@@ -1,0 +1,9 @@
+citation_left: []
+citation_right: []
+crosstable_pk: 14321
+has_on_left: false
+has_on_right: false
+property: PROP_000031
+reason_left: 'Logic 35: von Neumann regular <==> semiprimitive and top regular'
+reason_right: 'Logic 35: von Neumann regular <==> semiprimitive and top regular'
+ring: RING_000109

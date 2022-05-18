@@ -1,0 +1,10 @@
+alias: $\mathcal Z(R_R)\subseteq \ell.ann(soc(R_R))$, and they are equal when $R$
+  is right Artinian.
+categories:
+- THMCAT_000004
+citation:
+- CITE_000328
+commutative_only: false
+link: null
+statement: For any ring $R$, the right singular ideal $\mathcal Z(R_R)\subseteq \ell.ann(soc(R_R))$.  When
+  $R$ is right Artinian, equality holds.

@@ -1,0 +1,9 @@
+citation_left: []
+citation_right: []
+crosstable_pk: 985
+has_on_left: true
+has_on_right: true
+property: PROP_000021
+reason_left: (x,y,z)^4=0obvious
+reason_right: symmetry with left side
+ring: RING_000050

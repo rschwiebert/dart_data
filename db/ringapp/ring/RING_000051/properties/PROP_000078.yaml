@@ -1,0 +1,10 @@
+citation_left: []
+citation_right: []
+crosstable_pk: 6491
+has_on_left: false
+has_on_right: false
+property: PROP_000078
+reason_left: symmetry with right side
+reason_right: 'Logic 83: pseudo-Frobenius on the right <==> finitely cogenerated on
+  the right and self-injective on the right'
+ring: RING_000051

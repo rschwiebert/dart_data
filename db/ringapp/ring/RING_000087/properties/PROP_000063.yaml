@@ -1,0 +1,9 @@
+citation_left: []
+citation_right: []
+crosstable_pk: 10895
+has_on_left: true
+has_on_right: true
+property: PROP_000063
+reason_left: It's a finite dimensional $\mathbb R$ algebra.
+reason_right: It's a finite dimensional $\mathbb R$ algebra.
+ring: RING_000087

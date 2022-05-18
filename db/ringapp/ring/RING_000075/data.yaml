@@ -1,0 +1,10 @@
+citation: []
+description: $\left\{a+bi+cj+dk \in \mathbb{H} \mid a,b,c,d \in \mathbb{Z} \right\}$
+is_commutative: false
+keywords:
+- KWD_000029
+- KWD_000007
+krull_dim: null
+name: Lipschitz quaternions
+notes: Not a maximal order in the rational quaternions.
+optional_template: ''

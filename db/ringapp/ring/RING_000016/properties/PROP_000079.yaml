@@ -1,0 +1,11 @@
+citation_left: []
+citation_right: []
+crosstable_pk: 2357
+has_on_left: false
+has_on_right: false
+property: PROP_000079
+reason_left: 'Logic 231: finitely pseudo-Frobenius on the right and nil radical and
+  semiperfect ===> self-injective on the right'
+reason_right: 'Logic 231: finitely pseudo-Frobenius on the right and nil radical and
+  semiperfect ===> self-injective on the right'
+ring: RING_000016

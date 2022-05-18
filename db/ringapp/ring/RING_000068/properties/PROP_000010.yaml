@@ -1,0 +1,9 @@
+citation_left: []
+citation_right: []
+crosstable_pk: 17544
+has_on_left: true
+has_on_right: true
+property: PROP_000010
+reason_left: The coordinatewise multiplication ensures nonzero elements are not nilpotent.
+reason_right: symmetry with left side
+ring: RING_000068

@@ -1,0 +1,12 @@
+citation:
+- CITE_000234
+description: Countable direct product of the formal power series ring $\mathbb Q[[X,Y]]$
+  in two indeterminates.
+is_commutative: true
+keywords:
+- KWD_000011
+- KWD_000012
+krull_dim: (unknown)
+name: $\prod_{i=1}^\infty \mathbb Q[[X,Y]]$
+notes: null
+optional_template: ''

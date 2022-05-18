@@ -1,0 +1,9 @@
+citation_left: []
+citation_right: []
+crosstable_pk: 15422
+has_on_left: false
+has_on_right: false
+property: PROP_000150
+reason_left: $T^2-4+X$ reduces to $T^2-4=(T-4)(T+4)$ which doesn't lift
+reason_right: symmetry with left side
+ring: RING_000061

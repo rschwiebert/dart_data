@@ -1,0 +1,9 @@
+citation_left: []
+citation_right: []
+crosstable_pk: 18297
+has_on_left: false
+has_on_right: false
+property: PROP_000111
+reason_left: 'Logic 298: Dedekind domain ===> normal domain'
+reason_right: 'Logic 298: Dedekind domain ===> normal domain'
+ring: RING_000131

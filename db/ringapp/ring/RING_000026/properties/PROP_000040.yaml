@@ -1,0 +1,9 @@
+citation_left: []
+citation_right: []
+crosstable_pk: 1049
+has_on_left: false
+has_on_right: false
+property: PROP_000040
+reason_left: $b$ is a noncentral idempotent.
+reason_right: symmetry with left side
+ring: RING_000026

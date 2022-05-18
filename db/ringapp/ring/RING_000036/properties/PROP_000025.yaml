@@ -1,0 +1,9 @@
+citation_left: []
+citation_right: []
+crosstable_pk: 17984
+has_on_left: false
+has_on_right: false
+property: PROP_000025
+reason_left: 'Logic 228: commutative and connected and semiperfect ===> local'
+reason_right: 'Logic 228: commutative and connected and semiperfect ===> local'
+ring: RING_000036

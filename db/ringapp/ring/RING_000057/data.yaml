@@ -1,0 +1,10 @@
+citation: []
+description: The ring direct product of infinitely many copies of the field of two
+  elements
+is_commutative: true
+keywords:
+- KWD_000011
+krull_dim: '0'
+name: $\prod_{i=1}^\infty F_2$
+notes: By Cantor's diagonal argument, the ring is uncountable.
+optional_template: ''

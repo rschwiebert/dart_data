@@ -1,0 +1,9 @@
+citation_left: []
+citation_right: []
+crosstable_pk: 12508
+has_on_left: false
+has_on_right: false
+property: PROP_000116
+reason_left: 'Logic 318: regular local <==> local and regular'
+reason_right: 'Logic 318: regular local <==> local and regular'
+ring: RING_000099

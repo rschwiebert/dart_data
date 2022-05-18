@@ -1,0 +1,9 @@
+alias: Ore's theorem on the classical quotient ring of a domain
+categories:
+- THMCAT_000006
+- THMCAT_000007
+citation: []
+commutative_only: false
+link: https://en.wikipedia.org/wiki/Ore_condition
+statement: 'The following are equivalent for a domain $R$: 1) $R$ has a right classical
+  ring of quotients that is a division ring; 2) $R$ is a right Ore domain.'

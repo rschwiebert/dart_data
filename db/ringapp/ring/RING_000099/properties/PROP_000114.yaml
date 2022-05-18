@@ -1,0 +1,13 @@
+citation_left: []
+citation_right: []
+crosstable_pk: 12469
+has_on_left: false
+has_on_right: false
+property: PROP_000114
+reason_left: 'Logic 312: commutative and principal ideal domain on the left and right
+  <==> Bezout domain on the left and right and commutative and unique factorization
+  domain'
+reason_right: 'Logic 312: commutative and principal ideal domain on the left and right
+  <==> Bezout domain on the left and right and commutative and unique factorization
+  domain'
+ring: RING_000099

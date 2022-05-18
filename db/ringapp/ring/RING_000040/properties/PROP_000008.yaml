@@ -1,0 +1,11 @@
+citation_left: []
+citation_right: []
+crosstable_pk: 9227
+has_on_left: false
+has_on_right: false
+property: PROP_000008
+reason_left: 'Logic 222: domain and valuation ring on the right <==> Bezout domain
+  on the right and local'
+reason_right: 'Logic 222: domain and valuation ring on the right <==> Bezout domain
+  on the right and local'
+ring: RING_000040

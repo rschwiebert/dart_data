@@ -1,0 +1,10 @@
+citation_left: []
+citation_right: []
+crosstable_pk: 18007
+has_on_left: false
+has_on_right: false
+property: PROP_000143
+reason_left: Has a idempotent radical, therefore completion is isomorphic to R/M,
+  not R
+reason_right: symmetry with left side
+ring: RING_000047

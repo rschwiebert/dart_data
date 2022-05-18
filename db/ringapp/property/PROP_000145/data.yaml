@@ -1,0 +1,8 @@
+citation: []
+commutative_only: true
+definition: '$R$ is a commutative domain with field of fractions $K$, and $K=R[u^{-1}]$
+  for some nonzero $u\in R$. Equivalently: $K$ is finitely generated as a ring over
+  $R$; Equivalently: There is a nonzero $u\in R$ contained in all nonzero prime ideals
+  of $R$'
+name: Goldman domain
+symmetric: true

@@ -1,0 +1,9 @@
+citation_left: []
+citation_right: []
+crosstable_pk: 16741
+has_on_left: false
+has_on_right: false
+property: PROP_000083
+reason_left: $\begin{bmatrix}2&0\\0&1\end{bmatrix}$ is left regular but not a unit
+reason_right: $\begin{bmatrix}2&0\\0&1\end{bmatrix}$ is right regular but not a unit
+ring: RING_000019

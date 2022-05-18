@@ -1,0 +1,6 @@
+citation: []
+crosstable_pk: 87
+dimension_type: DIM_000003
+left_dimension: '512'
+right_dimension: '512'
+ring: RING_000072

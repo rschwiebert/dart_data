@@ -1,0 +1,9 @@
+citation_left: []
+citation_right: []
+crosstable_pk: 8586
+has_on_left: false
+has_on_right: false
+property: PROP_000074
+reason_left: 'Logic 67: primitive on the left or right ===> semiprimitive'
+reason_right: 'Logic 67: primitive on the left or right ===> semiprimitive'
+ring: RING_000055

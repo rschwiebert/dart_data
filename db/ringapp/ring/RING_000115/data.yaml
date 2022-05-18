@@ -1,0 +1,15 @@
+citation:
+- CITE_000335
+description: Let $L$ be a field, $K=L((Y))$, and define an endomorphism of $K$ by
+  $\alpha(Y)=Y^n$.  Let $S=K[X;\alpha]$ be the twisted power series with $Xk:=\alpha(k)X$.
+  The ring is $R=T(S, E)$, where $E$ is $S$'s minimal left cogenerator. $E$ can be
+  realized as the set $[X^{-1}]$... ( to be completed)
+is_commutative: false
+keywords:
+- KWD_000012
+- KWD_000009
+- KWD_000027
+krull_dim: (unknown)
+name: Left-not-right pseudo-Frobenius ring
+notes: null
+optional_template: ''

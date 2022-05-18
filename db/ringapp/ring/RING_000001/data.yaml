@@ -1,0 +1,12 @@
+citation:
+- CITE_000159
+description: The ring of integers $\mathbb Z=\{...-3, -2, -1, 0, 1, 2, 3,...\}$ OR
+  equivalence relation on $\mathbb N\times \mathbb N$ given by $(a,b)\sim(c,d)$ iff
+  $a-b=c-d$
+is_commutative: true
+keywords:
+- KWD_000017
+krull_dim: '1'
+name: '$\mathbb Z$: the ring of integers'
+notes: null
+optional_template: ''

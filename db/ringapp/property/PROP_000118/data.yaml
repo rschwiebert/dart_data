@@ -1,0 +1,5 @@
+citation: []
+commutative_only: true
+definition: Ring whose localizations at primes all are normal domains
+name: normal
+symmetric: true

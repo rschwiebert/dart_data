@@ -1,0 +1,13 @@
+citation: []
+description: With real numbers $\mathbb R$, $\mathbb R[x]/(x^2+1)$ OR the set of real
+  matrices of form $\left[\begin{smallmatrix}a&b\\-b&a\end{smallmatrix}\right]$ with
+  determinant greater than $0$. OR the real Clifford algebra for signature (-)
+is_commutative: true
+keywords:
+- KWD_000015
+- KWD_000003
+- KWD_000007
+krull_dim: '0'
+name: '$\mathbb C$: the field of complex numbers'
+notes: null
+optional_template: ''

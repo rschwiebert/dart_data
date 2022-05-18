@@ -1,0 +1,7 @@
+citation:
+- CITE_000298
+- CITE_000281
+commutative_only: false
+definition: For every $x$, there exists a unit $u$ such that $x=xux$
+name: unit regular
+symmetric: true

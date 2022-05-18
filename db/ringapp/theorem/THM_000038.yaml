@@ -1,0 +1,8 @@
+alias: "Baker\u2013Heegner\u2013Stark theorem on $\\mathbb Q[\\sqrt{d}]$"
+categories:
+- THMCAT_000003
+citation: []
+commutative_only: true
+link: https://en.wikipedia.org/wiki/Stark%E2%80%93Heegner_theorem
+statement: If $d<0$ is an integer, then $\mathbb Q[\sqrt{d}]$ is a UFD iff $d \in
+  \{\, -1, -2, -3, -7, -11, -19, -43, -67, -163\,\}$

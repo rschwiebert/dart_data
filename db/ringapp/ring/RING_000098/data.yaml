@@ -1,0 +1,10 @@
+citation: []
+description: For a countably infinite field $k$, the polynomial ring in $n$ variables,
+  $n>1$
+is_commutative: true
+keywords:
+- KWD_000002
+krull_dim: $n$
+name: $k[x_1, x_2,\ldots, x_n]$
+notes: null
+optional_template: ''

@@ -1,0 +1,9 @@
+citation_left: []
+citation_right: []
+crosstable_pk: 1123
+has_on_left: true
+has_on_right: true
+property: PROP_000096
+reason_left: $R/J(R)$ is commutative
+reason_right: $R/J(R)$ is commutative
+ring: RING_000030

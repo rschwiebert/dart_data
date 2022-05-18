@@ -1,0 +1,12 @@
+citation:
+- CITE_000314
+description: A quotient of the free algebra on two noncommuting indeterminates $\mathbb
+  Q\langle a,b\rangle/(a^2)$.
+is_commutative: false
+keywords:
+- KWD_000026
+- KWD_000003
+krull_dim: (unknown)
+name: $\mathbb Q\langle a,b\rangle/(a^2)$
+notes: null
+optional_template: ''

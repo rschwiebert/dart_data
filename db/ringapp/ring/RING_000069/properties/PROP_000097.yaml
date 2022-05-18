@@ -1,0 +1,11 @@
+citation_left: []
+citation_right: []
+crosstable_pk: 4020
+has_on_left: false
+has_on_right: false
+property: PROP_000097
+reason_left: 'Logic 105: perfect on the right <==> T-nilpotent radical on the right
+  and semilocal'
+reason_right: 'Logic 105: perfect on the right <==> T-nilpotent radical on the right
+  and semilocal'
+ring: RING_000069

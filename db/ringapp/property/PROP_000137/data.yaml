@@ -1,0 +1,6 @@
+citation: []
+commutative_only: true
+definition: A domain $R$ whose integral closure in its quotient field is a finitely
+  generated $R$ module.
+name: N-1
+symmetric: true

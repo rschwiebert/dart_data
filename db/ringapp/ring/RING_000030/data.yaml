@@ -1,0 +1,10 @@
+citation:
+- CITE_000112
+description: Triangular ring $\begin{bmatrix}\mathbb Z&\mathbb Z/(2)\\ 0&\mathbb Z/(2)\end{bmatrix}$
+is_commutative: false
+keywords:
+- KWD_000004
+krull_dim: null
+name: Right-not-left nonsingular ring
+notes: null
+optional_template: ''

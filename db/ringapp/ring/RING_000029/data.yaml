@@ -1,0 +1,11 @@
+citation:
+- CITE_000113
+description: Let $A=\mathbb Z/(4)$ and $B=(2)/(4)$ be that ideal in $A$. $R$ is the
+  triangular ring $\begin{bmatrix}A&B\\ 0&A \end{bmatrix}$
+is_commutative: false
+keywords:
+- KWD_000004
+krull_dim: '0'
+name: Osofsky's $32$ element ring
+notes: null
+optional_template: ''

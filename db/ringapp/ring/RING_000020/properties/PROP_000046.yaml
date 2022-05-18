@@ -1,0 +1,9 @@
+citation_left: []
+citation_right: []
+crosstable_pk: 8240
+has_on_left: true
+has_on_right: true
+property: PROP_000046
+reason_left: 'Logic 125: strongly $\pi$-regular ===> $\pi$-regular'
+reason_right: 'Logic 125: strongly $\pi$-regular ===> $\pi$-regular'
+ring: RING_000020

@@ -1,0 +1,6 @@
+citation: []
+commutative_only: false
+definition: For every element $x\in R$, there exists a natural number $n_x> 1$ such
+  that $x^{n_x}=x$.
+name: periodic
+symmetric: true

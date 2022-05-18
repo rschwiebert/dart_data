@@ -1,0 +1,10 @@
+citation: []
+description: The ring is the set of continuous real-valued functions on the unit interval
+  $[0.1]$, with pointwise addition and multiplication.
+is_commutative: true
+keywords:
+- KWD_000016
+krull_dim: (unknown)
+name: $C([0,1])$, the ring of continuous real-valued functions on the unit interval
+notes: null
+optional_template: ''

@@ -1,0 +1,4 @@
+definition: (right global dimension) The supremum of projective dimensions of right
+  $R$ modules.  Also known as "homological dimension."
+name: global dimension
+symmetric: false

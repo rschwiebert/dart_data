@@ -1,0 +1,9 @@
+citation_left: []
+citation_right: []
+crosstable_pk: 15020
+has_on_left: true
+has_on_right: true
+property: PROP_000034
+reason_left: 'Logic 195: semicommutative  (SI condition, zero-insertive) ===> 2-primal'
+reason_right: 'Logic 195: semicommutative  (SI condition, zero-insertive) ===> 2-primal'
+ring: RING_000114

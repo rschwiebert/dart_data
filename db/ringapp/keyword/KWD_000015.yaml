@@ -1,0 +1,3 @@
+description: Given a ring $R$ and a natural number $n$, the set $M_n(R)$ with ordinary
+  matrix operations.
+name: matrix ring

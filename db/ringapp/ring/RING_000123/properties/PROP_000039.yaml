@@ -1,0 +1,9 @@
+citation_left: []
+citation_right: []
+crosstable_pk: 16192
+has_on_left: true
+has_on_right: true
+property: PROP_000039
+reason_left: 'Logic 118: ACC annihilator on the left or right ===> orthogonally finite'
+reason_right: 'Logic 118: ACC annihilator on the left or right ===> orthogonally finite'
+ring: RING_000123

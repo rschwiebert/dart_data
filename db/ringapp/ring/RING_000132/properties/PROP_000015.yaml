@@ -1,0 +1,11 @@
+citation_left: []
+citation_right: []
+crosstable_pk: 18496
+has_on_left: false
+has_on_right: false
+property: PROP_000015
+reason_left: 'Logic 186: Bezout domain on the right <==> Ore domain on the right and
+  semi free ideal ring'
+reason_right: 'Logic 186: Bezout domain on the right <==> Ore domain on the right
+  and semi free ideal ring'
+ring: RING_000132

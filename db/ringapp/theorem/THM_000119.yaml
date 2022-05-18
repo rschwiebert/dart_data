@@ -1,0 +1,10 @@
+alias: When a group ring is von Neumann regular
+categories:
+- THMCAT_000003
+citation:
+- CITE_000396
+commutative_only: false
+link: null
+statement: The group ring $R[G]$ is von Neumann regular if and only if $R$ is von
+  Neumann regular and $G$ is a locally finite group such that the order of every finite
+  subgroup of $G$ is a unit in $R$.

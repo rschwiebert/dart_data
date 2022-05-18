@@ -1,0 +1,9 @@
+alias: Artin - Wedderburn theorem
+categories:
+- THMCAT_000002
+citation:
+- CITE_000274
+commutative_only: false
+link: https://en.wikipedia.org/wiki/Artin%E2%80%93Wedderburn_theorem
+statement: A semisimple ring is a finite direct product of full matrix rings over
+  division rings

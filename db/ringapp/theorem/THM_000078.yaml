@@ -1,0 +1,12 @@
+alias: Classical quotient ring of a commutative reduced ring
+categories:
+- THMCAT_000007
+citation:
+- CITE_000337
+- CITE_000338
+commutative_only: true
+link: null
+statement: 'If $R$ is a commutative reduced ring, the following are equivalent: 1)
+  the classical quotient ring of $R$ is von Neumann regular; 2) The spectrum of minimal
+  ideals of $R$ is compact in the Zariski topology, and if a finitely generated ideal
+  is contained in a union of minimal primes, it is contained in one of them.'

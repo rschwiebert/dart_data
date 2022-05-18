@@ -1,0 +1,9 @@
+citation_left: []
+citation_right: []
+crosstable_pk: 9657
+has_on_left: true
+has_on_right: true
+property: PROP_000034
+reason_left: 'Logic 177: reversible ===> 2-primal'
+reason_right: 'Logic 177: reversible ===> 2-primal'
+ring: RING_000025

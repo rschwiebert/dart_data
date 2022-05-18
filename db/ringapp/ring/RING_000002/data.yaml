@@ -1,0 +1,10 @@
+citation: []
+description: Field of fractions of the integers $\mathbb Z$
+is_commutative: true
+keywords:
+- KWD_000017
+- KWD_000024
+krull_dim: '0'
+name: '$\mathbb Q$: the field of rational numbers'
+notes: smallest ordered field
+optional_template: ''

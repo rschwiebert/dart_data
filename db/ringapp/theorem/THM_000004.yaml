@@ -1,0 +1,12 @@
+alias: Jacobson density theorem
+categories:
+- THMCAT_000002
+citation:
+- CITE_000274
+- CITE_000287
+commutative_only: false
+link: https://en.wikipedia.org/wiki/Jacobson_density_theorem
+statement: Let $U$ be a simple right $R$ module, and $D$ be the ring of endomorphisms
+  of $U$. If $A$ is any $D$ linear operator and $X$ is any finite subset of $R$, there
+  exists $r\in R$ such that $xr=xA$ for all $x\in X$.  As a corollary every right
+  (left) primitive ring is a dense subring of a ring of linear transformations.

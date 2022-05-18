@@ -1,0 +1,11 @@
+citation:
+- CITE_000004
+description: Group ring of the quaternion group $\mathcal Q_8$ with the field of two
+  elements $F_2$.
+is_commutative: false
+keywords:
+- KWD_000021
+krull_dim: '0'
+name: $F_2[\mathcal Q_8]$
+notes: null
+optional_template: ''

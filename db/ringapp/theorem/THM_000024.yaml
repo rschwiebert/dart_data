@@ -1,0 +1,9 @@
+alias: $J(R)=\mathcal Z(R_R)$ for principally injective rings
+categories:
+- THMCAT_000004
+citation:
+- CITE_000262
+commutative_only: false
+link: null
+statement: If $R$ is right principally injective, then $J(R)=\mathcal Z(R_R)$ (where
+  $J(R)$ is the Jacobson radical and $\mathcal Z(R_R)$ is the right singular ideal.

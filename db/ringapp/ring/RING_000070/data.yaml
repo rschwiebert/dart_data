@@ -1,0 +1,19 @@
+citation:
+- CITE_000094
+- CITE_000098
+- CITE_000097
+- CITE_000099
+- CITE_000096
+- CITE_000095
+description: Construction described on the expanded details page for this ring.
+is_commutative: false
+keywords:
+- KWD_000008
+- KWD_000003
+- KWD_000007
+krull_dim: null
+name: Bergman's exchange ring that isn't clean
+notes: "Description is \u0160ter's construction of the opposite ring of Bergman's\
+  \ original. It has been said that all examples of nonclean exchange rings so far\
+  \ are based on this one."
+optional_template: bergmans-exchange-ring.html

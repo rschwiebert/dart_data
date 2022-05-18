@@ -1,0 +1,5 @@
+citation: []
+commutative_only: true
+definition: an ordered field such that for every $x$ there exists an integer $n>x$.
+name: Archimedean field
+symmetric: true

@@ -1,0 +1,10 @@
+citation_left: []
+citation_right: []
+crosstable_pk: 15188
+has_on_left: true
+has_on_right: true
+property: PROP_000077
+reason_left: 'Logic 259: commutative and principal ideal ring on the right and semiprimary
+  ===> serial on the left and right'
+reason_right: symmetry with left side
+ring: RING_000053

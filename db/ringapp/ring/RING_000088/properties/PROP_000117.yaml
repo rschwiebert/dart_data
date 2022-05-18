@@ -1,0 +1,9 @@
+citation_left: []
+citation_right: []
+crosstable_pk: 10516
+has_on_left: false
+has_on_right: false
+property: PROP_000117
+reason_left: 'Logic 352: Cohen-Macaulay ===> universally catenary'
+reason_right: 'Logic 352: Cohen-Macaulay ===> universally catenary'
+ring: RING_000088

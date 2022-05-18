@@ -1,0 +1,10 @@
+citation_left: []
+citation_right: []
+crosstable_pk: 1109
+has_on_left: true
+has_on_right: true
+property: PROP_000034
+reason_left: The set of nilpotent elements is clearly equal to the Jacobson radical,
+  which is the prime radical since this ring is Artinian
+reason_right: symmetry with left side
+ring: RING_000014

@@ -1,0 +1,9 @@
+citation_left: []
+citation_right: []
+crosstable_pk: 3331
+has_on_left: true
+has_on_right: true
+property: PROP_000118
+reason_left: 'Logic 329: commutative and von Neumann regular ===> normal'
+reason_right: 'Logic 329: commutative and von Neumann regular ===> normal'
+ring: RING_000009

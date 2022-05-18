@@ -1,0 +1,12 @@
+citation:
+- CITE_000236
+description: Let $k$ be a universal differential field with derivation $D$, and let
+  $R=k[y, D]$ be the differential polynomial ring. (Underlying set and addition operation
+  is the same as $k[y]$, and $ya=ay+D(a)$.)
+is_commutative: false
+keywords:
+- KWD_000019
+krull_dim: (unknown)
+name: Kolchin's simple V-domain
+notes: Has a unique simple right $R$ module (up to isomorphism)
+optional_template: ''

@@ -1,0 +1,11 @@
+citation_left: []
+citation_right: []
+crosstable_pk: 6424
+has_on_left: false
+has_on_right: false
+property: PROP_000080
+reason_left: 'Logic 218: orthogonally finite and self-injective on the right ===>
+  semiperfect'
+reason_right: 'Logic 218: orthogonally finite and self-injective on the right ===>
+  semiperfect'
+ring: RING_000006

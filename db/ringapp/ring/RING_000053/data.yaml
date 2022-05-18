@@ -1,0 +1,10 @@
+citation: []
+description: The quotient of the integers by an ideal $(n)$ where $n>1$ is divisible
+  by at least two different primes, and $n$ isn't squarefree
+is_commutative: true
+keywords:
+- KWD_000003
+krull_dim: '0'
+name: $\mathbb Z/(n)$, $n$ divisible by two primes and a square
+notes: ''
+optional_template: ''

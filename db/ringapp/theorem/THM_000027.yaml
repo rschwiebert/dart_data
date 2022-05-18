@@ -1,0 +1,9 @@
+alias: When a group ring is perfect
+categories:
+- THMCAT_000003
+citation:
+- CITE_000265
+commutative_only: false
+link: null
+statement: 'For a ring $R$ and a group $G$: $R[G]$ is right perfect iff $R$ is right
+  perfect and $G$ is finite.'

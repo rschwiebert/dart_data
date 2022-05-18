@@ -1,0 +1,11 @@
+citation_left: []
+citation_right: []
+crosstable_pk: 3376
+has_on_left: false
+has_on_right: false
+property: PROP_000098
+reason_left: 'Logic 244: commutative and essential socle on the right and self-injective
+  on the right and simple socle on the right ===> local'
+reason_right: 'Logic 244: commutative and essential socle on the right and self-injective
+  on the right and simple socle on the right ===> local'
+ring: RING_000009

@@ -1,0 +1,11 @@
+citation:
+- CITE_000077
+description: Let $F$ be the field of two elements, and $R=F\langle x,y,z\rangle /I$
+  where $I=(FxF)^2+(FyF)^2+(FzF)^2 + FxyzF + FyzxF + FzxyF$
+is_commutative: false
+keywords:
+- KWD_000003
+krull_dim: '0'
+name: Reversible non-symmetric ring
+notes: $13$ dimensional $F$ algebra.
+optional_template: ''

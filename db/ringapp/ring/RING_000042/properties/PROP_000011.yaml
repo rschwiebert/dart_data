@@ -1,0 +1,11 @@
+citation_left: []
+citation_right: []
+crosstable_pk: 8979
+has_on_left: false
+has_on_right: false
+property: PROP_000011
+reason_left: 'Logic 248: nonzero socle on the right and semiprime ===> nonzero socle
+  on the left'
+reason_right: 'Logic 248: nonzero socle on the right and semiprime ===> nonzero socle
+  on the left'
+ring: RING_000042

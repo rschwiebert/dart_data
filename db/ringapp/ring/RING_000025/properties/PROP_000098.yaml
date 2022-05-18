@@ -1,0 +1,9 @@
+citation_left: []
+citation_right: []
+crosstable_pk: 9741
+has_on_left: true
+has_on_right: true
+property: PROP_000098
+reason_left: local + left/right dual -> simple socles
+reason_right: local + left/right dual -> simple socles
+ring: RING_000025

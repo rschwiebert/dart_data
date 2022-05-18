@@ -1,0 +1,10 @@
+alias: "Akizuki\u2013Hopkins\u2013Levitzki"
+categories:
+- THMCAT_000005
+citation:
+- CITE_000116
+commutative_only: false
+link: https://en.wikipedia.org/wiki/Hopkins%E2%80%93Levitzki_theorem
+statement: 'Let $R$ be a semiprimary ring. Then for an $R$ module $M$, the following
+  are equivalent:  1) $M$ is Noetherian; 2) $M$ is Artinian; 3) $M$ has a finite composition
+  series.'

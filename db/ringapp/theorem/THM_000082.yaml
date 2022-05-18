@@ -1,0 +1,11 @@
+alias: Krull dimension of an infinite product of zero dimensional rings
+categories:
+- THMCAT_000040
+citation:
+- CITE_000350
+commutative_only: true
+link: null
+statement: 'If $R_\alpha$ is a family of commutative rings with Krull dimension $0$,
+  and $R=\prod_\alpha R_\alpha$, then the following are equivalent:  1) $R$ has Krull
+  dimension $0$; 2) $R$ has finite Krull dimension; 3) $J(R)=N(R)$; 4) $N(R)=\prod_\alpha
+  N(R_\alpha)$.'

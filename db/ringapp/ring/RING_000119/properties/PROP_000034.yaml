@@ -1,0 +1,9 @@
+citation_left: []
+citation_right: []
+crosstable_pk: 15567
+has_on_left: false
+has_on_right: false
+property: PROP_000034
+reason_left: 'Logic 223: 2-primal ===> Dedekind finite'
+reason_right: 'Logic 223: 2-primal ===> Dedekind finite'
+ring: RING_000119

@@ -1,0 +1,9 @@
+citation_left: []
+citation_right: []
+crosstable_pk: 924
+has_on_left: true
+has_on_right: false
+property: PROP_000076
+reason_left: The ring has exactly three left ideals.
+reason_right: 'Logic 72: valuation ring on the right ===> uniform on the right'
+ring: RING_000038

@@ -1,0 +1,9 @@
+citation_left: []
+citation_right: []
+crosstable_pk: 3903
+has_on_left: false
+has_on_right: false
+property: PROP_000047
+reason_left: 'Logic 128: exchange ===> $I_0$'
+reason_right: 'Logic 128: exchange ===> $I_0$'
+ring: RING_000032

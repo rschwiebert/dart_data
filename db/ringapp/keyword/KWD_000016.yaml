@@ -1,0 +1,3 @@
+description: 'Given a ring $R$ and a set $X$, the underlying set is the set of functions
+  $X\to R$. Addition: $(f+g)(x)=f(x)+g(x)$. Multiplication: $(fg)(x)=f(x)g(x)$.'
+name: ring of functions

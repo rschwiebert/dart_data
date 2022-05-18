@@ -1,0 +1,5 @@
+bibtex_types: inproceedings, conference, incollection
+description: Conference Papers
+hidden: false
+order: 1
+type: Conference

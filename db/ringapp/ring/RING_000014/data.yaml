@@ -1,0 +1,10 @@
+citation: []
+description: The ring of $n \times n$ matrices over a countably infinite field $k$
+  whose entries below the diagonal are zero.
+is_commutative: false
+keywords:
+- KWD_000015
+krull_dim: '0'
+name: '$T_n(k)$:  the upper triangular matrix ring over a field'
+notes: null
+optional_template: ''

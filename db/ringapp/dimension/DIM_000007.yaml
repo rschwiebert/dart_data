@@ -1,0 +1,6 @@
+definition: (right Loewy length) The right Loewy series for $R$ is defined transfinitely
+  by $M_0=\{0\}$,  and $M_{\alpha+1}$ is given by $\mathrm {Soc}(M/M_\alpha)=M_{\alpha+1}/M_\alpha$
+  for non-limit ordinals, and $M_\alpha=\cup_{\beta < \alpha} M_\beta$ for a limit
+  ordinal $\alpha$.
+name: Loewy length
+symmetric: false

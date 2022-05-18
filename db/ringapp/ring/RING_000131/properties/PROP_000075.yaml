@@ -1,0 +1,10 @@
+citation_left: []
+citation_right: []
+crosstable_pk: 18350
+has_on_left: false
+has_on_right: false
+property: PROP_000075
+reason_left: symmetry with right side
+reason_right: 'Logic 409: Noetherian on the right and prime and V ring on the right
+  ===> simple'
+ring: RING_000131

@@ -1,0 +1,11 @@
+citation_left: []
+citation_right: []
+crosstable_pk: 18534
+has_on_left: false
+has_on_right: false
+property: PROP_000123
+reason_left: 'Logic 321: commutative and unique factorization domain <==> ACC principal
+  on the left and right and commutative and GCD domain'
+reason_right: 'Logic 321: commutative and unique factorization domain <==> ACC principal
+  on the left and right and commutative and GCD domain'
+ring: RING_000123

@@ -1,0 +1,11 @@
+citation_left: []
+citation_right: []
+crosstable_pk: 17327
+has_on_left: false
+has_on_right: false
+property: PROP_000082
+reason_left: 'Logic 374: perfect on the right and self-injective on the left and right
+  ===> quasi-Frobenius'
+reason_right: 'Logic 374: perfect on the right and self-injective on the left and
+  right ===> quasi-Frobenius'
+ring: RING_000161

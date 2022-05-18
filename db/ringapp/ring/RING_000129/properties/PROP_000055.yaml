@@ -1,0 +1,9 @@
+citation_left: []
+citation_right: []
+crosstable_pk: 17889
+has_on_left: false
+has_on_right: false
+property: PROP_000055
+reason_left: 'Logic 398: algebraically closed field ===> perfect field'
+reason_right: 'Logic 398: algebraically closed field ===> perfect field'
+ring: RING_000129

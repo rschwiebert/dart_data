@@ -1,0 +1,9 @@
+citation_left: []
+citation_right: []
+crosstable_pk: 1136
+has_on_left: false
+has_on_right: false
+property: PROP_000043
+reason_left: The set of powers of $x$ is infinite, for example.
+reason_right: symmetry with left side
+ring: RING_000048

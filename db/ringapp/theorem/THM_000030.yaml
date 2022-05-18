@@ -1,0 +1,9 @@
+alias: Chase's theorem on products of flat modules
+categories:
+- THMCAT_000005
+citation:
+- CITE_000280
+commutative_only: false
+link: null
+statement: 'For a ring $R$, t.f.a.e: 1) Every direct product of flat right $R$ modules
+  is flat; 2)  Every product of copies of $R$ is flat; 3) $R$ is left coherent.'

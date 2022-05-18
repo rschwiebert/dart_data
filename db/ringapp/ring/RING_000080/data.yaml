@@ -1,0 +1,13 @@
+citation:
+- CITE_000100
+description: See the expanded details page for this ring for the construction.
+is_commutative: false
+keywords:
+- KWD_000030
+- KWD_000008
+- KWD_000015
+- KWD_000016
+krull_dim: null
+name: O'Meara's infinite matrix algebra
+notes: null
+optional_template: omearas-matrix-algebra.html

@@ -1,0 +1,14 @@
+citation:
+- CITE_000400
+description: Let $\bar{\mathbb Q}$ be the algebraic closure of $\mathbb Q$ in $\mathbb
+  C$.The required ring is $R=\bar{\mathbb Q}+X\mathbb C[[X]]$, a subring of the power
+  series ring $\mathbb C[[X]]$.
+is_commutative: true
+keywords:
+- KWD_000022
+- KWD_000012
+- KWD_000007
+krull_dim: '1'
+name: Mori but not Krull domain
+notes: null
+optional_template: ''

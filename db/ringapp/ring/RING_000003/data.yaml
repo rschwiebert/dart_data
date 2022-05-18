@@ -1,0 +1,11 @@
+citation: []
+description: Let $X$ be the set of all Cauchy sequences from the rationals $\mathbb
+  Q$. Two sequences are equivalent if they converge to the same point. The real numbers
+  are the equivalence classes.
+is_commutative: true
+keywords:
+- KWD_000017
+krull_dim: '0'
+name: '$\mathbb R$: the field of real numbers'
+notes: largest Archimedian field
+optional_template: ''

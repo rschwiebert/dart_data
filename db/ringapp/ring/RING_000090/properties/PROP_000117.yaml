@@ -1,0 +1,10 @@
+citation_left:
+- CITE_000160
+citation_right: []
+crosstable_pk: 10804
+has_on_left: false
+has_on_right: false
+property: PROP_000117
+reason_left: $(x,y)$ is maximal of height $1$ and the grade of $M$ on $R$ is zero.
+reason_right: symmetry with left side
+ring: RING_000090

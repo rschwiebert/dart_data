@@ -1,0 +1,9 @@
+citation_left: []
+citation_right: []
+crosstable_pk: 13136
+has_on_left: true
+has_on_right: true
+property: PROP_000070
+reason_left: symmetry with right side
+reason_right: 'Logic 140: free ideal ring on the right ===> hereditary on the right'
+ring: RING_000101

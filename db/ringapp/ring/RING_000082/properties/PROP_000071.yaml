@@ -1,0 +1,9 @@
+citation_left: []
+citation_right: []
+crosstable_pk: 4675
+has_on_left: true
+has_on_right: true
+property: PROP_000071
+reason_left: 'Logic 31: von Neumann regular ===> semihereditary on the left and right'
+reason_right: 'Logic 31: von Neumann regular ===> semihereditary on the left and right'
+ring: RING_000082

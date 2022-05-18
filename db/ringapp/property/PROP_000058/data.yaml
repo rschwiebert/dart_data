@@ -1,0 +1,5 @@
+citation: []
+commutative_only: true
+definition: the field is totally ordered with an order compatible with the ring operations
+name: ordered field
+symmetric: true

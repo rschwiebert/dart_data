@@ -1,0 +1,12 @@
+alias: When a group ring is Noetherian
+categories:
+- THMCAT_000003
+citation:
+- CITE_000397
+commutative_only: false
+link: null
+statement: The group ring $R[G]$ is right Noetherian IF $R$ is right Noetherian and
+  $G$ is finite.  The converse does not hold.  If $R[G]$ is right Noetherian, then
+  $R$ is right Noetherian and $G$ has the maximum condition on subgroups.  if $G$
+  is additionally abelian, $R[G]$ is right Noetherian iff $R$ is right Noetherian
+  and $G$ is finitely generated.

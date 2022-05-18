@@ -1,0 +1,11 @@
+alias: When a group ring is semilocal
+categories:
+- THMCAT_000003
+citation:
+- CITE_000267
+commutative_only: false
+link: null
+statement: 'For a ring $R$ and a group $G$:  $R[G]$ is semilocal iff the following
+  two conditions hold:  1) $R$ is semilocal; 2) $G$ is finite OR $G=G_p\times G_p''$
+  where $G_p$ is an infinite $p$-group, and $G_p''$ is a finite group with no elements
+  of order divisible by $p$, and $p$ is the characteristic of $R/J(R)$.'

@@ -1,0 +1,11 @@
+citation_left: []
+citation_right:
+- CITE_000462
+crosstable_pk: 17560
+has_on_left: null
+has_on_right: true
+property: PROP_000147
+reason_left: null
+reason_right: Boyle's theorem 5 says it is right QI, Cor. 10 pt 2 is satisfied, hence
+  pt 1 holds
+ring: RING_000109

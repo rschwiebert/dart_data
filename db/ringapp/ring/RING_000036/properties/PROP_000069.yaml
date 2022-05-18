@@ -1,0 +1,9 @@
+citation_left: []
+citation_right: []
+crosstable_pk: 857
+has_on_left: true
+has_on_right: true
+property: PROP_000069
+reason_left: Is a commutative domain
+reason_right: Is a commutative domain
+ring: RING_000036

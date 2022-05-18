@@ -1,0 +1,8 @@
+alias: $soc(_RR)=soc(R_R)$ in dual rings
+categories:
+- THMCAT_000004
+citation:
+- CITE_000327
+commutative_only: false
+link: null
+statement: If $R$ is a two-sided dual ring, $soc(_RR)=\ell.ann(J(R))=r.ann(J(R))=soc(R_R)$.

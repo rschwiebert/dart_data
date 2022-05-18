@@ -1,0 +1,9 @@
+citation_left: []
+citation_right: []
+crosstable_pk: 1120
+has_on_left: false
+has_on_right: false
+property: PROP_000032
+reason_left: $E_{11}E_{22}=0$ but $E_{11}E_{12}E_{22}\neq 0$
+reason_right: symmetry with left side
+ring: RING_000030

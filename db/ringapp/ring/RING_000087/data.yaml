@@ -1,0 +1,10 @@
+citation:
+- CITE_000134
+description: $R=\begin{bmatrix}\mathbb C&\mathbb H\\0&\mathbb H\end{bmatrix}$
+is_commutative: false
+keywords:
+- KWD_000004
+krull_dim: '0'
+name: Berberian's incompressible Baer ring
+notes: null
+optional_template: ''

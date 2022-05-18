@@ -1,0 +1,9 @@
+citation_left: []
+citation_right: []
+crosstable_pk: 12132
+has_on_left: false
+has_on_right: true
+property: PROP_000148
+reason_left: 'Logic 388: max ring on the right ===> T-nilpotent radical on the right'
+reason_right: 'Logic 389: perfect on the right <==> max ring on the right and semilocal'
+ring: RING_000044

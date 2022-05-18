@@ -1,0 +1,9 @@
+citation_left: []
+citation_right: []
+crosstable_pk: 16622
+has_on_left: false
+has_on_right: false
+property: PROP_000063
+reason_left: 'Logic 8: Artinian on the left or right ===> semiprimary'
+reason_right: 'Logic 8: Artinian on the left or right ===> semiprimary'
+ring: RING_000125

@@ -1,0 +1,11 @@
+citation_left: []
+citation_right: []
+crosstable_pk: 249
+has_on_left: false
+has_on_right: false
+property: PROP_000085
+reason_left: 'Logic 113: finite uniform dimension on the left or right ===> stably
+  finite'
+reason_right: 'Logic 113: finite uniform dimension on the left or right ===> stably
+  finite'
+ring: RING_000015

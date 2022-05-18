@@ -1,0 +1,11 @@
+citation_left: []
+citation_right: []
+crosstable_pk: 17147
+has_on_left: false
+has_on_right: false
+property: PROP_000015
+reason_left: 'Logic 191: Noetherian on the right and semi free ideal ring ===> free
+  ideal ring on the right'
+reason_right: 'Logic 191: Noetherian on the right and semi free ideal ring ===> free
+  ideal ring on the right'
+ring: RING_000065

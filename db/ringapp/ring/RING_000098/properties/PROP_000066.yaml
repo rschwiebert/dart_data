@@ -1,0 +1,10 @@
+citation_left: []
+citation_right: []
+crosstable_pk: 12273
+has_on_left: false
+has_on_right: false
+property: PROP_000066
+reason_left: symmetry with right side
+reason_right: 'Logic 50: principal ideal domain on the right <==> domain and principal
+  ideal ring on the right'
+ring: RING_000098

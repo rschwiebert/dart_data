@@ -1,0 +1,10 @@
+citation_left:
+- CITE_000136
+citation_right: []
+crosstable_pk: 10521
+has_on_left: false
+has_on_right: false
+property: PROP_000125
+reason_left: It has a homomorphic image that isn't Hilbert
+reason_right: symmetry with left side
+ring: RING_000088

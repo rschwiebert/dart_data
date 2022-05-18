@@ -1,0 +1,10 @@
+citation_left: []
+citation_right: []
+crosstable_pk: 10936
+has_on_left: true
+has_on_right: true
+property: PROP_000033
+reason_left: The set of nilpotent elements is the ideal of strictly upper triangular
+  matrices.
+reason_right: symmetry with left side
+ring: RING_000087

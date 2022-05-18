@@ -1,0 +1,9 @@
+citation_left: []
+citation_right: []
+crosstable_pk: 5902
+has_on_left: true
+has_on_right: true
+property: PROP_000009
+reason_left: 'Logic 64: domain <==> 2-primal and prime'
+reason_right: 'Logic 64: domain <==> 2-primal and prime'
+ring: RING_000017

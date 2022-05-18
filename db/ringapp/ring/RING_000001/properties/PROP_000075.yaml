@@ -1,0 +1,10 @@
+citation_left: []
+citation_right: []
+crosstable_pk: 11506
+has_on_left: false
+has_on_right: false
+property: PROP_000075
+reason_left: For commutative rings, "V ring" and "von Neumann regular" are equivalent,
+  and it's not von Neumann regular
+reason_right: symmetry with left side
+ring: RING_000001

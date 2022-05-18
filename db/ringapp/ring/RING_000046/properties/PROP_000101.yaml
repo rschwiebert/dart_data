@@ -1,0 +1,10 @@
+citation_left: []
+citation_right: []
+crosstable_pk: 1070
+has_on_left: null
+has_on_right: false
+property: PROP_000101
+reason_left: null
+reason_right: Has simple right socle, and it is not contained in Right socle $\begin{smallmatrix}0&0
+  \\ 0&Z_{(2)}\end{smallmatrix}$
+ring: RING_000046

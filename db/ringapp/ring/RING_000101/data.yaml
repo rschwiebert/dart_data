@@ -1,0 +1,14 @@
+citation: []
+description: The field of rational functions $\mathbb Q(x)$. Also described as the
+  quotient field for $\mathbb Q[x]$.  We establish an order on this field by declaring
+  a nonzero element $\frac{f(x)}{g(x)}$ to be positive if the leading coefficients
+  of $f$ and $g$ have the same sign.  The element $x$ is larger than all of  $\mathbb
+  Q$, so that the field is non-Archimedean.
+is_commutative: true
+keywords:
+- KWD_000002
+- KWD_000024
+krull_dim: (unknown)
+name: '$\mathbb Q(x)$: rational functions over the rational numbers'
+notes: null
+optional_template: ''

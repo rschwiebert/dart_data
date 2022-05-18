@@ -1,0 +1,11 @@
+citation_left: []
+citation_right: []
+crosstable_pk: 960
+has_on_left: true
+has_on_right: false
+property: PROP_000069
+reason_left: 'Logic 51: principal ideal domain on the right <==> Ore domain on the
+  right and free ideal ring on the right'
+reason_right: Since s is not onto, we can show the right uniform dimension is not
+  1.T.Y. Lam Lectures on modules and rings p 308
+ring: RING_000021

@@ -1,0 +1,9 @@
+citation_left: []
+citation_right: []
+crosstable_pk: 3717
+has_on_left: true
+has_on_right: true
+property: PROP_000072
+reason_left: 'Logic 59: semihereditary on the right ===> Rickart on the right'
+reason_right: 'Logic 59: semihereditary on the right ===> Rickart on the right'
+ring: RING_000034

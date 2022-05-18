@@ -1,0 +1,11 @@
+alias: Structure of self-injective von Neumann regular rings
+categories:
+- THMCAT_000002
+citation:
+- CITE_000332
+- CITE_000333
+commutative_only: false
+link: null
+statement: A right self-injective von Neumann regular ring is uniquely a direct product
+  of rings of types $I$, $II$ and $III$.  Additionally, there are two subtypes of
+  $I$ and of $II$ for which the ring can be uniquely expressed as a product.

@@ -1,0 +1,13 @@
+citation:
+- CITE_000090
+description: "Let $X$ be a zero-dimensional topological space such that the Stone-\u010C\
+  ech compactification $\\beta X$ is not zero-dimensional. The required ring is $R=C(X)$,\
+  \ the set of continuous functions from $X$ into $\\mathbb R$.  (A topological space\
+  \ is called zero-dimensional if it has a base of clopen sets.)"
+is_commutative: true
+keywords:
+- KWD_000016
+krull_dim: null
+name: McGovern's commutative Zorn ring that isn't clean
+notes: null
+optional_template: ''

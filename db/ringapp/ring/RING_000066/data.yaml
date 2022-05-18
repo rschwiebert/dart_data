@@ -1,0 +1,11 @@
+citation: []
+description: $k\langle x,y\rangle /(xy - yx - 1)$ where $k$ is a countably infinite
+  field of characteristic $0$.
+is_commutative: false
+keywords:
+- KWD_000026
+- KWD_000003
+krull_dim: null
+name: Algebra of differential operators on the line (1st Weyl algebra)
+notes: null
+optional_template: ''

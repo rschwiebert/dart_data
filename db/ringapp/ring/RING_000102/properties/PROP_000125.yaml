@@ -1,0 +1,9 @@
+citation_left: []
+citation_right: []
+crosstable_pk: 13369
+has_on_left: true
+has_on_right: true
+property: PROP_000125
+reason_left: 'Logic 336: commutative and rad-nil and semiregular ===> Jacobson (Hilbert)'
+reason_right: 'Logic 336: commutative and rad-nil and semiregular ===> Jacobson (Hilbert)'
+ring: RING_000102

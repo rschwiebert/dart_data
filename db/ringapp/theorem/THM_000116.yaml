@@ -1,0 +1,13 @@
+alias: When a group ring is hereditary (Dicks's theorem)
+categories:
+- THMCAT_000003
+citation:
+- CITE_000387
+commutative_only: false
+link: null
+statement: Say $G$ is $R$ torsion-free if the orders of finite subgroups of $G$ are
+  units in $R$.  The group ring $R[G]$ is right hereditary if any of the following
+  occur. 1) $R$ is semisimple and $G$ is the fundamental group of a connected graph
+  of finite $R$-torsion free groups; 2) $R$ is right $\aleph_0$-Noetherian, von Neumann
+  regular and $G$ is a countable, locally-finite $R$ torsion-free group; 3) $R$ is
+  right hereditary and $G$ is a finite $R$ torsion-free group.

@@ -1,0 +1,5 @@
+citation: []
+crosstable_pk: 213
+ring: RING_000030
+subset: $\begin{bmatrix}0&\mathbb Z/(2)\\0&0\end{bmatrix}$
+subset_type: SUBSET_000008

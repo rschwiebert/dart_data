@@ -1,0 +1,9 @@
+citation_left: []
+citation_right: []
+crosstable_pk: 4694
+has_on_left: false
+has_on_right: false
+property: PROP_000045
+reason_left: 'Logic 123: strongly $\pi$-regular ===> stable range 1'
+reason_right: 'Logic 123: strongly $\pi$-regular ===> stable range 1'
+ring: RING_000082

@@ -1,0 +1,12 @@
+citation:
+- CITE_000109
+description: Let $\sigma$ be a field automorphism of infinite order of a countably
+  infinite field $k$. Let $R$ be the skew Laurent polynomial ring $k[x,x^{-1};\sigma]$
+is_commutative: false
+keywords:
+- KWD_000002
+- KWD_000027
+krull_dim: null
+name: $k[x,x^{-1};\sigma]$
+notes: null
+optional_template: ''

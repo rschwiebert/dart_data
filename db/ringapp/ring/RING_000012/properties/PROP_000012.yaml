@@ -1,0 +1,9 @@
+citation_left: []
+citation_right: []
+crosstable_pk: 2081
+has_on_left: false
+has_on_right: false
+property: PROP_000012
+reason_left: 'Logic 193: division ring <==> connected and strongly regular'
+reason_right: 'Logic 193: division ring <==> connected and strongly regular'
+ring: RING_000012

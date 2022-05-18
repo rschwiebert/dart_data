@@ -1,0 +1,5 @@
+citation: []
+commutative_only: false
+definition: For every $x$ with right annihilator zero, $x$ is a unit
+name: cohopfian
+symmetric: false

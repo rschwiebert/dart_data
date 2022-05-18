@@ -1,0 +1,10 @@
+citation_left: []
+citation_right: []
+crosstable_pk: 10787
+has_on_left: false
+has_on_right: false
+property: PROP_000089
+reason_left: symmetry with right side
+reason_right: 'Logic 199: ACC annihilator on the right and cohopfian on the right
+  and Ikeda-Nakayama on the left and right ===> quasi-Frobenius'
+ring: RING_000054

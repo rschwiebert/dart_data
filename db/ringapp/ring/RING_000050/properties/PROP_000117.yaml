@@ -1,0 +1,9 @@
+citation_left: []
+citation_right: []
+crosstable_pk: 2866
+has_on_left: true
+has_on_right: true
+property: PROP_000117
+reason_left: 'Logic 292: Artinian on the left or right and commutative ===> Cohen-Macaulay'
+reason_right: 'Logic 292: Artinian on the left or right and commutative ===> Cohen-Macaulay'
+ring: RING_000050

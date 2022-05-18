@@ -1,0 +1,8 @@
+citation:
+- CITE_000326
+- CITE_000325
+- CITE_000324
+commutative_only: false
+definition: For every right ideal $B$, $r.ann(l.ann(B))=B$
+name: dual
+symmetric: false

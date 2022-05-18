@@ -1,0 +1,10 @@
+active: true
+citation:
+- CITE_000027
+concs:
+- PSIDE_000124
+- PSIDE_000126
+hyps:
+- PSIDE_000123
+symmetric: true
+variety: 1

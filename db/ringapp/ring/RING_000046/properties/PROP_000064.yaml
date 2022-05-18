@@ -1,0 +1,9 @@
+citation_left: []
+citation_right: []
+crosstable_pk: 1064
+has_on_left: true
+has_on_right: true
+property: PROP_000064
+reason_left: Classification of left ideals of triangular matrix ring
+reason_right: Classification of right ideals of triangular matrix ring
+ring: RING_000046

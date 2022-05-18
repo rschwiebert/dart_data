@@ -1,0 +1,12 @@
+citation:
+- CITE_000399
+description: Let $B$ be the ring of $2$-adic integers, and $Q$ be its field of quotients.  The
+  required ring is the trivial extension $R=B\ltimes Q/B$.
+is_commutative: true
+keywords:
+- KWD_000024
+- KWD_000009
+krull_dim: '1'
+name: Pseudo-Frobenius, not quasi-Frobenius ring
+notes: null
+optional_template: ''

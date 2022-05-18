@@ -1,0 +1,6 @@
+citation:
+- CITE_000270
+commutative_only: false
+definition: The product of nonzero right ideals is nonzero
+name: prime
+symmetric: true

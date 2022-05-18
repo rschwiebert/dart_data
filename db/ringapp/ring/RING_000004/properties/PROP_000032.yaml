@@ -1,0 +1,11 @@
+citation_left: []
+citation_right: []
+crosstable_pk: 5324
+has_on_left: true
+has_on_right: true
+property: PROP_000032
+reason_left: 'Logic 112: duo on the left or right ===> semicommutative  (SI condition,
+  zero-insertive)'
+reason_right: 'Logic 112: duo on the left or right ===> semicommutative  (SI condition,
+  zero-insertive)'
+ring: RING_000004

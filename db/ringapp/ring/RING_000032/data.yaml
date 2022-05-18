@@ -1,0 +1,10 @@
+citation: []
+description: The quotient $\mathbb Z[x]/(x^2-1)$ over the integers $\mathbb Z$.
+is_commutative: true
+keywords:
+- KWD_000002
+- KWD_000003
+krull_dim: null
+name: $\mathbb Z[x]/(x^2-1)$
+notes: ''
+optional_template: ''

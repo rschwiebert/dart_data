@@ -1,0 +1,10 @@
+alias: Characterizations of quasi-Frobenius rings
+categories:
+- THMCAT_000005
+- THMCAT_000006
+citation: []
+commutative_only: false
+link: null
+statement: 0) $R$ is quasi-Frobenius; 1) Every injective right $R$ module is projective;
+  2) Every projective right $R$ module is injective; 3) the left-hand versions of
+  the above.

@@ -1,0 +1,9 @@
+citation_left: []
+citation_right: []
+crosstable_pk: 16273
+has_on_left: false
+has_on_right: false
+property: PROP_000063
+reason_left: symmetry with right side
+reason_right: 'Logic 214: simple Artinian <==> Artinian on the right and prime'
+ring: RING_000123

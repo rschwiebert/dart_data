@@ -1,0 +1,9 @@
+citation: []
+description: The algebraic closure of the rationals
+is_commutative: true
+keywords:
+- KWD_000022
+krull_dim: '0'
+name: Field of algebraic numbers
+notes: ''
+optional_template: ''

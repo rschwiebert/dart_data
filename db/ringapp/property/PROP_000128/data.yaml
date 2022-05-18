@@ -1,0 +1,5 @@
+citation: []
+commutative_only: true
+definition: $Nil(R)=J(R)$
+name: rad-nil
+symmetric: true

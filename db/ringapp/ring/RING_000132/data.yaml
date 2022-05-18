@@ -1,0 +1,13 @@
+citation:
+- CITE_000501
+description: Let $F$ be a perfect field of characteristic $2$. The ring $R$ is the
+  ring $\mathbb F[x,y,z]/(x^2+y^3+z^7)$ localized at $(x,y,z)$.
+is_commutative: true
+keywords:
+- KWD_000005
+- KWD_000002
+- KWD_000003
+krull_dim: '2'
+name: Samuel's UFD having a non-UFD power series ring
+notes: null
+optional_template: ''

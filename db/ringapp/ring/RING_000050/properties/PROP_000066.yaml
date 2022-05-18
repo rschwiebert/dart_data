@@ -1,0 +1,11 @@
+citation_left: []
+citation_right: []
+crosstable_pk: 2860
+has_on_left: false
+has_on_right: false
+property: PROP_000066
+reason_left: 'Logic 258: local and principal ideal ring on the right and semiprimary
+  ===> valuation ring on the right'
+reason_right: 'Logic 258: local and principal ideal ring on the right and semiprimary
+  ===> valuation ring on the right'
+ring: RING_000050

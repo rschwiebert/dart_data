@@ -1,0 +1,9 @@
+citation_left: []
+citation_right: []
+crosstable_pk: 11494
+has_on_left: false
+has_on_right: false
+property: PROP_000100
+reason_left: The socle can only be 0 or the whole ring, but the ring is not semisimple
+reason_right: The socle can only be 0 or the whole ring, but the ring is not semisimple
+ring: RING_000028

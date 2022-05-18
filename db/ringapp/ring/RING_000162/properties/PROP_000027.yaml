@@ -1,0 +1,11 @@
+citation_left: []
+citation_right: []
+crosstable_pk: 17241
+has_on_left: true
+has_on_right: true
+property: PROP_000027
+reason_left: 'Logic 232: Dedekind finite and self-injective on the left or right ===>
+  stable range 1'
+reason_right: 'Logic 232: Dedekind finite and self-injective on the left or right
+  ===> stable range 1'
+ring: RING_000162

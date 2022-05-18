@@ -1,0 +1,4 @@
+definition: $R$ has right composition length $n$ if it has a composition series as
+  a right module with $n$ factors. Analogously defined for left composition length.
+name: composition length
+symmetric: false

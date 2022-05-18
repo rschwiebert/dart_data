@@ -1,0 +1,6 @@
+citation: []
+commutative_only: true
+definition: An ordered field for which every positive element is the square of another
+  element
+name: Euclidean field
+symmetric: true

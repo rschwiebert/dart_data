@@ -1,0 +1,10 @@
+citation_left: []
+citation_right: []
+crosstable_pk: 3601
+has_on_left: true
+has_on_right: true
+property: PROP_000087
+reason_left: 'Logic 11: Noetherian on the right ===> coherent on the right'
+reason_right: 'Logic 335: Artinian on the left and right and commutative <==> coherent
+  on the right and commutative and perfect on the left and right'
+ring: RING_000010

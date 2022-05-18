@@ -1,0 +1,6 @@
+citation: []
+commutative_only: false
+definition: Every right ideal not contained in $J(R)$ contains a nonzero idempotent.
+  Also called "semipotent".
+name: $I_0$
+symmetric: true

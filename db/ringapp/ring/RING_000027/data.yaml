@@ -1,0 +1,11 @@
+citation:
+- CITE_000155
+- CITE_000162
+description: Ring of formal power series over a field $k$
+is_commutative: true
+keywords:
+- KWD_000012
+krull_dim: '0'
+name: $k[[x]]$
+notes: null
+optional_template: ''

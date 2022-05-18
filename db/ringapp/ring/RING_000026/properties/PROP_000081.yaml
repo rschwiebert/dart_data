@@ -1,0 +1,11 @@
+citation_left: []
+citation_right: []
+crosstable_pk: 1052
+has_on_left: false
+has_on_right: false
+property: PROP_000081
+reason_left: Inside the ring, elements have only order $2$ or infinite order. There
+  are simple modules with elements of any composite order, however.
+reason_right: Inside the ring, elements have only order $2$ or infinite order. There
+  are simple modules with elements of any composite order, however.
+ring: RING_000026

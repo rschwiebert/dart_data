@@ -1,0 +1,11 @@
+alias: Characterizations of semiperfect rings
+categories:
+- THMCAT_000005
+- THMCAT_000006
+citation: []
+commutative_only: false
+link: null
+statement: 'The following are equivalent:  0) $R$ is semiperfect; 1) all finitely
+  generated right $R$ modules have projective covers; 2) all simple right $R$ modules
+  have projective covers; 3) $R$ has a complete orthogonal set of idempotents whose
+  corner rings are all local rings.'

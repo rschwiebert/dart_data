@@ -1,0 +1,6 @@
+citation: []
+commutative_only: true
+definition: A domain in which every nonzero nonunit is a product of irreducible elements,
+  unique up to equivalence
+name: unique factorization domain
+symmetric: true

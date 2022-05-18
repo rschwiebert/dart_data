@@ -1,0 +1,9 @@
+alias: When a group ring is prime
+categories:
+- THMCAT_000003
+citation:
+- CITE_000398
+commutative_only: false
+link: null
+statement: The group ring $R[G]$ is prime if and only if $R$ is a prime ring and $G$
+  has no nontrivial finite normal subgroups.

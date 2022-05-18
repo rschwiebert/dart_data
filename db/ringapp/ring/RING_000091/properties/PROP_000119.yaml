@@ -1,0 +1,9 @@
+citation_left: []
+citation_right: []
+crosstable_pk: 11711
+has_on_left: false
+has_on_right: false
+property: PROP_000119
+reason_left: 'Logic 375: analytically normal ===> local'
+reason_right: 'Logic 375: analytically normal ===> local'
+ring: RING_000091

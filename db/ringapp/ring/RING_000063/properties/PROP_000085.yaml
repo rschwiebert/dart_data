@@ -1,0 +1,10 @@
+citation_left: []
+citation_right: []
+crosstable_pk: 6060
+has_on_left: true
+has_on_right: true
+property: PROP_000085
+reason_left: symmetry with right side
+reason_right: 'Logic 278: finitely cogenerated on the right ===> finite uniform dimension
+  on the right'
+ring: RING_000063

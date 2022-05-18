@@ -1,0 +1,6 @@
+citation: []
+crosstable_pk: 82
+dimension_type: DIM_000003
+left_dimension: $q^{n(n+1)/2}$
+right_dimension: $q^{n(n+1)/2}$
+ring: RING_000013

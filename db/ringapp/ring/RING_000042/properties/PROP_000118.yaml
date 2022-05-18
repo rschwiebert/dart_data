@@ -1,0 +1,9 @@
+citation_left: []
+citation_right: []
+crosstable_pk: 8998
+has_on_left: false
+has_on_right: false
+property: PROP_000118
+reason_left: 'Logic 309: normal ===> reduced'
+reason_right: 'Logic 309: normal ===> reduced'
+ring: RING_000042

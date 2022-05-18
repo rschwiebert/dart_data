@@ -1,0 +1,9 @@
+citation_left: []
+citation_right: []
+crosstable_pk: 11526
+has_on_left: false
+has_on_right: false
+property: PROP_000047
+reason_left: 'Logic 196: exchange and quasi-duo on the left or right ===> clean'
+reason_right: 'Logic 196: exchange and quasi-duo on the left or right ===> clean'
+ring: RING_000007

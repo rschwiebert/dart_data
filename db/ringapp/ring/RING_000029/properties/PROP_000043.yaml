@@ -1,0 +1,9 @@
+citation_left: []
+citation_right: []
+crosstable_pk: 836
+has_on_left: true
+has_on_right: true
+property: PROP_000043
+reason_left: Has 32 elements
+reason_right: symmetry with left side
+ring: RING_000029

@@ -1,0 +1,3 @@
+description: Constructed as a formal matrix ring $\begin{bmatrix}R&M\\N&S\end{bmatrix}$
+  where $M$ is an $R, S$ bimodule and $N$ is an $S,R$ bimodule.
+name: Morita context

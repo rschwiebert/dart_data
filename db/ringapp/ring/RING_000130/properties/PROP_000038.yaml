@@ -1,0 +1,9 @@
+citation_left: []
+citation_right: []
+crosstable_pk: 18069
+has_on_left: true
+has_on_right: true
+property: PROP_000038
+reason_left: Since the underlying space is connected, the ring is connected
+reason_right: symmetry with left side
+ring: RING_000130

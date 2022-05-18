@@ -1,0 +1,9 @@
+citation_left: []
+citation_right: []
+crosstable_pk: 8331
+has_on_left: true
+has_on_right: true
+property: PROP_000039
+reason_left: 'Logic 117: ACC principal on the left or right ===> orthogonally finite'
+reason_right: 'Logic 117: ACC principal on the left or right ===> orthogonally finite'
+ring: RING_000019

@@ -1,0 +1,9 @@
+citation_left: []
+citation_right: []
+crosstable_pk: 9283
+has_on_left: false
+has_on_right: false
+property: PROP_000123
+reason_left: 'Logic 307: GCD domain ===> Schreier domain'
+reason_right: 'Logic 307: GCD domain ===> Schreier domain'
+ring: RING_000040

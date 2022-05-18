@@ -1,0 +1,9 @@
+citation_left: []
+citation_right: []
+crosstable_pk: 10973
+has_on_left: true
+has_on_right: true
+property: PROP_000117
+reason_left: Because it is Noetherian, $2$ dimensional and normal.
+reason_right: symmetry with left side
+ring: RING_000006

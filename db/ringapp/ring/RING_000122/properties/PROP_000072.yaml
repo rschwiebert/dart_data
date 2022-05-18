@@ -1,0 +1,9 @@
+citation_left: []
+citation_right: []
+crosstable_pk: 16144
+has_on_left: false
+has_on_right: false
+property: PROP_000072
+reason_left: symmetry with right side
+reason_right: 'Logic 61: Rickart on the right ===> nonsingular on the right'
+ring: RING_000122

@@ -1,0 +1,6 @@
+citation: []
+commutative_only: true
+definition: Noetherian local ring where the minimal number of generators for the maximal
+  ideal is equal to its Krull dimension
+name: regular local
+symmetric: true

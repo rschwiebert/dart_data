@@ -1,0 +1,9 @@
+citation_left: []
+citation_right: []
+crosstable_pk: 5894
+has_on_left: true
+has_on_right: true
+property: PROP_000052
+reason_left: 'Logic 48: unit regular ===> clean'
+reason_right: 'Logic 48: unit regular ===> clean'
+ring: RING_000017

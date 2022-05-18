@@ -1,0 +1,6 @@
+citation: []
+commutative_only: true
+definition: A domain $R$ such that for every finite extension $L$ of its quotient
+  field $K$, the integral closure of $R$ in $L$ is a finitely generated A-module
+name: Japanese (N-2)
+symmetric: true

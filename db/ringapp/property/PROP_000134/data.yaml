@@ -1,0 +1,6 @@
+citation: []
+commutative_only: true
+definition: for every finitely generated $R$-algebra $S$, the singular points of $Spec(S)$
+  form a closed subset.
+name: J-2
+symmetric: true

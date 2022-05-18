@@ -1,0 +1,5 @@
+citation: []
+commutative_only: false
+definition: Every matrix ring of $R$ is Dedekind finite
+name: stably finite
+symmetric: true

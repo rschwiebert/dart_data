@@ -1,0 +1,9 @@
+citation_left: []
+citation_right: []
+crosstable_pk: 18462
+has_on_left: false
+has_on_right: false
+property: PROP_000043
+reason_left: 'Logic 167: domain and finite ===> commutative and division ring'
+reason_right: 'Logic 167: domain and finite ===> commutative and division ring'
+ring: RING_000132

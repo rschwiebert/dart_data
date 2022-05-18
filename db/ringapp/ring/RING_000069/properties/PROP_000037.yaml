@@ -1,0 +1,9 @@
+citation_left: []
+citation_right: []
+crosstable_pk: 3933
+has_on_left: true
+has_on_right: true
+property: PROP_000037
+reason_left: 'Logic 63: domain ===> strongly connected'
+reason_right: 'Logic 63: domain ===> strongly connected'
+ring: RING_000069

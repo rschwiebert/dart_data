@@ -1,0 +1,9 @@
+citation_left: []
+citation_right: []
+crosstable_pk: 846
+has_on_left: false
+has_on_right: false
+property: PROP_000064
+reason_left: The sequence of ideals (2^(1/2^n)) does not stabilize
+reason_right: The sequence of ideals (2^(1/2^n)) does not stabilize
+ring: RING_000033

@@ -1,0 +1,5 @@
+citation: []
+commutative_only: false
+definition: $xy=yx$ for all $x$ and $y$ in the ring
+name: commutative
+symmetric: true

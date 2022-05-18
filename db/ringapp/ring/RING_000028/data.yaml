@@ -1,0 +1,11 @@
+citation:
+- CITE_000106
+description: Let $k$ be any simple ring of characteristic $0$, and let $d$ be a non-inner
+  derivation on $k$. the differential polynomial ring $R=k[x;d]$.
+is_commutative: false
+keywords:
+- KWD_000019
+krull_dim: null
+name: Non-Artinian simple ring
+notes: null
+optional_template: ''

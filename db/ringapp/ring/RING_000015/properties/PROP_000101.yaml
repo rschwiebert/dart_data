@@ -1,0 +1,11 @@
+citation_left: []
+citation_right: []
+crosstable_pk: 323
+has_on_left: true
+has_on_right: true
+property: PROP_000101
+reason_left: Every nonzero left ideal contains a transformation with $1$ dimensional
+  image
+reason_right: Every nonzero right ideal contains a transformation with $1$ dimensional
+  image
+ring: RING_000015

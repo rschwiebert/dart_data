@@ -1,0 +1,9 @@
+citation_left: []
+citation_right: []
+crosstable_pk: 9176
+has_on_left: null
+has_on_right: true
+property: PROP_000086
+reason_left: null
+reason_right: 'Logic 10: Noetherian on the right ===> Goldie on the right'
+ring: RING_000040

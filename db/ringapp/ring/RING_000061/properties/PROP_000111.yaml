@@ -1,0 +1,9 @@
+citation_left: []
+citation_right: []
+crosstable_pk: 2692
+has_on_left: false
+has_on_right: false
+property: PROP_000111
+reason_left: 'Logic 297: Dedekind domain ===> Prufer domain'
+reason_right: 'Logic 297: Dedekind domain ===> Prufer domain'
+ring: RING_000061

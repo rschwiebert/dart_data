@@ -1,0 +1,6 @@
+citation: []
+commutative_only: false
+definition: Given any idempotent $e\in R$, we have $Z(eRe)=eZ(R)e$. ($Z(-)$ denotes
+  the center of the ring.)  (See Berberian's Baer and Baer * Rings, definition 3.29)
+name: compressible
+symmetric: true

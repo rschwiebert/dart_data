@@ -1,0 +1,9 @@
+citation_left: []
+citation_right: []
+crosstable_pk: 1182
+has_on_left: false
+has_on_right: false
+property: PROP_000002
+reason_left: $2$ is not a unit.
+reason_right: symmetry with left side
+ring: RING_000076

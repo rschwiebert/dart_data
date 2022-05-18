@@ -1,0 +1,12 @@
+citation:
+- CITE_000107
+description: Let $k$ be a countably infinite field. Let $S$ be the power series ring
+  over $k$ in two noncommuting variables $x,y$. The ring is $R=S/(y^2,yx)$
+is_commutative: false
+keywords:
+- KWD_000012
+- KWD_000003
+krull_dim: null
+name: Local right-not-left Kasch ring
+notes: null
+optional_template: ''

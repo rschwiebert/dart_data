@@ -1,0 +1,4 @@
+description: Given two rings $R$ and $S$, and an $R, S$ bimodule $M$, the underlying
+  set is $R\times M\times S$. Addition and multiplication are given by matrix operations
+  in $\begin{bmatrix}R&M\\0&S\end{bmatrix}$
+name: triangular ring

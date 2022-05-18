@@ -1,0 +1,11 @@
+citation_left: []
+citation_right: []
+crosstable_pk: 18061
+has_on_left: true
+has_on_right: true
+property: PROP_000125
+reason_left: 'Logic 346: commutative and Dedekind domain and semiprimitive ===> commutative
+  and Jacobson (Hilbert)'
+reason_right: 'Logic 346: commutative and Dedekind domain and semiprimitive ===> commutative
+  and Jacobson (Hilbert)'
+ring: RING_000007

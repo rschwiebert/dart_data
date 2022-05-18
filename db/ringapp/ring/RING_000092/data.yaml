@@ -1,0 +1,12 @@
+citation:
+- CITE_000165
+- CITE_000166
+description: The $I$-adic completion of $\mathbb R[x,y]$ where $I=(x^2+y^2-1)$.
+is_commutative: true
+keywords:
+- KWD_000032
+- KWD_000002
+krull_dim: '2'
+name: $\mathbb R[x,y]$ completed $I$-adically with $I=(x^2+y^2-1)$
+notes: null
+optional_template: ''

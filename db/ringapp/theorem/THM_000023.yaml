@@ -1,0 +1,9 @@
+alias: "Kaplansky, Jaffard, Ohm theorem for constructing B\xE9zout domains"
+categories:
+- THMCAT_000003
+citation:
+- CITE_000227
+commutative_only: true
+link: null
+statement: "If $G$ is a lattice-ordered Abelian group, there exists a integral domain\
+  \ with value group $G$, and furthermore that ring is a B\xE9zout domain."

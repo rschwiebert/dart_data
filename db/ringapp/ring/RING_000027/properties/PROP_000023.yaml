@@ -1,0 +1,9 @@
+citation_left: []
+citation_right: []
+crosstable_pk: 828
+has_on_left: true
+has_on_right: true
+property: PROP_000023
+reason_left: unique maximal ideal (x)
+reason_right: symmetry with left side
+ring: RING_000027

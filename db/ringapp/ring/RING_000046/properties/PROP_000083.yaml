@@ -1,0 +1,11 @@
+citation_left: []
+citation_right: []
+crosstable_pk: 966
+has_on_left: true
+has_on_right: false
+property: PROP_000083
+reason_left: Straightforward calculation that left regular elements are units.Varadarajan
+  Hopfian and co-Hopfian objects (1992)
+reason_right: '[[1,1],[0,2]] is right regular but not a unit.Varadarajan Hopfian and
+  co-Hopfian objects (1992)'
+ring: RING_000046

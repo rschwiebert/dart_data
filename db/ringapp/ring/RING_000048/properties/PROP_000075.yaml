@@ -1,0 +1,11 @@
+citation_left: []
+citation_right: []
+crosstable_pk: 1971
+has_on_left: true
+has_on_right: true
+property: PROP_000075
+reason_left: 'Logic 172: commutative and von Neumann regular <==> V ring on the left
+  and right and commutative'
+reason_right: 'Logic 172: commutative and von Neumann regular <==> V ring on the left
+  and right and commutative'
+ring: RING_000048

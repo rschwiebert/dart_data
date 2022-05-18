@@ -1,0 +1,9 @@
+alias: When a group ring is Artinian
+categories:
+- THMCAT_000003
+citation:
+- CITE_000395
+commutative_only: false
+link: null
+statement: The group ring $R[G$]$ is right Artinian if and only if $R$ is right Artinian
+  and $G$ is finite.

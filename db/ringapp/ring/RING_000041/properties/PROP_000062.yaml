@@ -1,0 +1,9 @@
+citation_left: []
+citation_right: []
+crosstable_pk: 9155
+has_on_left: false
+has_on_right: false
+property: PROP_000062
+reason_left: 'Logic 347: Archimedean field ===> ordered field'
+reason_right: 'Logic 347: Archimedean field ===> ordered field'
+ring: RING_000041

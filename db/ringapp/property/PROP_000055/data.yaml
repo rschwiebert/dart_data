@@ -1,0 +1,5 @@
+citation: []
+commutative_only: true
+definition: Every nonconstant polynomial over the field has a root in the field
+name: algebraically closed field
+symmetric: true

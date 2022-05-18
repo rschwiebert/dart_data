@@ -1,0 +1,12 @@
+citation:
+- CITE_000081
+description: Let $s$ be a field endomorphism from a countably infinite field $k$ to
+  $k$ such that the image $L$ has infinite index in $k$. Define multiplication on
+  $R=k\times k$ by $(x,y)(x',y')=(xx',s(x)y'+yx')$. $R$ is the ring
+is_commutative: false
+keywords:
+- KWD_000004
+krull_dim: '0'
+name: Right-not-left coherent ring
+notes: null
+optional_template: ''

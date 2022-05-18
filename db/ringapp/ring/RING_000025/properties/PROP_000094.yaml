@@ -1,0 +1,11 @@
+citation_left: []
+citation_right: []
+crosstable_pk: 15956
+has_on_left: true
+has_on_right: true
+property: PROP_000094
+reason_left: The set of regular elements is the set of units, and therefore satisfies
+  Ore conditions
+reason_right: The set of regular elements is the set of units, and therefore satisfies
+  Ore conditions
+ring: RING_000025

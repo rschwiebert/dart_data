@@ -1,0 +1,10 @@
+citation_left: []
+citation_right: []
+crosstable_pk: 970
+has_on_left: false
+has_on_right: false
+property: PROP_000021
+reason_left: x^{1/2^k} has nilpotency index 2^k, so there are elements of arbitrarily
+  high nilpotency indexrschwiebert
+reason_right: symmetry with left side
+ring: RING_000047

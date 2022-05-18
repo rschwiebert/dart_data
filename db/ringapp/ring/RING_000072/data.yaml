@@ -1,0 +1,14 @@
+citation:
+- CITE_000079
+- CITE_000078
+description: Let $F_2$ be the field of two elements, and consider the subring of matrices
+  of the form $\begin{bmatrix}a&b&p&0&0&0\\c&d&q&0&0&0\\0&0&r&0&0&0\\0&0&0&r&s&t\\0&0&0&0&a&b\\0&0&0&0&c&d\end{bmatrix}$
+  with entries in $F_2$.
+is_commutative: false
+keywords:
+- KWD_000015
+- KWD_000007
+krull_dim: '0'
+name: Nakayama's quasi-Frobenius ring that isn't Frobenius
+notes: Jacobson radical is the subset with $a=b=c=d=r=0$.
+optional_template: ''

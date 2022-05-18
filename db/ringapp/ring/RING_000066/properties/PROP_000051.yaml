@@ -1,0 +1,10 @@
+citation_left:
+- CITE_000342
+citation_right: []
+crosstable_pk: 15181
+has_on_left: false
+has_on_right: false
+property: PROP_000051
+reason_left: It is simple, but infinite dimensional over its center
+reason_right: symmetry with left side
+ring: RING_000066

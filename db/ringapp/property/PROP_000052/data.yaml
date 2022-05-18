@@ -1,0 +1,8 @@
+citation:
+- CITE_000306
+- CITE_000304
+- CITE_000305
+commutative_only: false
+definition: Every element is the sum of a unit and an idempotent
+name: clean
+symmetric: true

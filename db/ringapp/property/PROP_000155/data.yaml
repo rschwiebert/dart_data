@@ -1,0 +1,8 @@
+citation:
+- CITE_000307
+- CITE_000308
+commutative_only: false
+definition: $R$ is called Armendariz if whenever $(\sum a_ix^i)(\sum b_jx^j)=0\in
+  R[x]$, then $a_ib_j=0$ for all combinations of $i,j$.
+name: Armendariz
+symmetric: true

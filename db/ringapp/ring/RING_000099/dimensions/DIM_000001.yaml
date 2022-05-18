@@ -1,0 +1,6 @@
+citation: []
+crosstable_pk: 233
+dimension_type: DIM_000001
+left_dimension: $n$
+right_dimension: $n$
+ring: RING_000099

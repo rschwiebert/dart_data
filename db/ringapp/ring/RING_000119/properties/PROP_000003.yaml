@@ -1,0 +1,9 @@
+citation_left: []
+citation_right: []
+crosstable_pk: 15975
+has_on_left: false
+has_on_right: false
+property: PROP_000003
+reason_left: Admits $k[x,x^{-1}]$ as a quotient (the kernel is a nontrivial ideal)
+reason_right: symmetry with left side
+ring: RING_000119

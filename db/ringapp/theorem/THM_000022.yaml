@@ -1,0 +1,10 @@
+alias: Krull's valuation domain theorem
+categories:
+- THMCAT_000003
+citation:
+- CITE_000225
+- CITE_000226
+commutative_only: true
+link: null
+statement: If $G$ is a totally ordered Abelian group, then there exists a valuation
+  domain with divisibility group $G$.

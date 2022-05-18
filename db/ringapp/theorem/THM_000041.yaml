@@ -1,0 +1,10 @@
+alias: Characterizations of von Neumann regular rings
+categories:
+- THMCAT_000005
+- THMCAT_000006
+citation: []
+commutative_only: false
+link: null
+statement: 'The following are equivalent: 0) $R$ is von Neumann regular; 1) all right
+  $R$ modules are flat; 2) all right $R$ modules are principally injective 3) (all
+  the left-hand versions of previous points)'

@@ -1,0 +1,9 @@
+alias: Finite generation of projective ideals
+categories:
+- THMCAT_000041
+citation:
+- CITE_000351
+commutative_only: true
+link: https://www.sciencedirect.com/science/article/pii/0021869373900458
+statement: Let $I$ be an ideal of a commutative ring $R$. Then if $I$ is not contained
+  in any minimal prime ideal, it is finitely generated.

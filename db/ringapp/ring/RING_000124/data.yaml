@@ -1,0 +1,13 @@
+citation:
+- CITE_000403
+description: Let $S$ be the semigroup of positive pairs of rationals under addition,
+  along with $(0,0)$, and $k$ be a field (for concreteness we suppose the field of
+  two elements, but any field works.) The semigroup algebra $R=k[S]$ is the required
+  ring.
+is_commutative: true
+keywords:
+- KWD_000010
+krull_dim: (unknown)
+name: Cohn's Schreier domain that isn't GCD
+notes: null
+optional_template: ''

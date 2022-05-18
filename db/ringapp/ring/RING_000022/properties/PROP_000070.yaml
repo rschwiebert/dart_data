@@ -1,0 +1,9 @@
+citation_left: []
+citation_right: []
+crosstable_pk: 5683
+has_on_left: false
+has_on_right: false
+property: PROP_000070
+reason_left: 'Logic 58: hereditary on the right ===> semihereditary on the right'
+reason_right: 'Logic 58: hereditary on the right ===> semihereditary on the right'
+ring: RING_000022

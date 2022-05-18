@@ -1,0 +1,5 @@
+citation: []
+commutative_only: true
+definition: Noetherian ring whose localizations at primes are regular local rings
+name: regular
+symmetric: true

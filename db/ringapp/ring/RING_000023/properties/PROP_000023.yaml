@@ -1,0 +1,9 @@
+citation_left: []
+citation_right: []
+crosstable_pk: 882
+has_on_left: true
+has_on_right: true
+property: PROP_000023
+reason_left: The unique maximal ideal is (x,y), which is nilpotentobvious
+reason_right: symmetry with left side
+ring: RING_000023

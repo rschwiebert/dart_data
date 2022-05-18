@@ -1,0 +1,11 @@
+citation_left: []
+citation_right: []
+crosstable_pk: 5803
+has_on_left: true
+has_on_right: true
+property: PROP_000109
+reason_left: 'Logic 158: Ikeda-Nakayama on the right ===> quasi-continuous on the
+  right'
+reason_right: 'Logic 158: Ikeda-Nakayama on the right ===> quasi-continuous on the
+  right'
+ring: RING_000018

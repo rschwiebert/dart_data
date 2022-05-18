@@ -1,0 +1,10 @@
+citation: []
+description: The ring quotient of the integers (1) by an ideal $(p)$ where $p$ is
+  an odd prime number.
+is_commutative: true
+keywords:
+- KWD_000003
+krull_dim: '0'
+name: $\mathbb Z/(p)$, $p$ an odd prime
+notes: null
+optional_template: ''

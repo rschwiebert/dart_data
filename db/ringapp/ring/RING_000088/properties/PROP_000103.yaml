@@ -1,0 +1,10 @@
+citation_left: []
+citation_right: []
+crosstable_pk: 10488
+has_on_left: false
+has_on_right: false
+property: PROP_000103
+reason_left: symmetry with right side
+reason_right: 'Logic 212: finitely cogenerated on the right <==> essential socle on
+  the right and finitely generated socle on the right'
+ring: RING_000088

@@ -1,0 +1,9 @@
+alias: Amitsur's nil radical theorem
+categories:
+- THMCAT_000004
+citation:
+- CITE_000117
+commutative_only: false
+link: null
+statement: Let $R$ be a $k$ algebra such that $\dim(R) < |k|$. Then $J(R)$ is the
+  largest nil ideal of $R$.

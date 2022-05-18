@@ -1,0 +1,11 @@
+alias: Characterizations of semisimplicity
+categories:
+- THMCAT_000005
+- THMCAT_000006
+citation: []
+commutative_only: false
+link: null
+statement: 0) $R_R$ is a direct sum of simple submodules; 1) Every right $R$ module
+  is a sum of simple submodules; 2) Every right $R$ module is projective; 3) Every
+  right $R$ module is injective; 4) $R$ has right global dimension $0$; 5) all the
+  left-handed versions of previous conditions.

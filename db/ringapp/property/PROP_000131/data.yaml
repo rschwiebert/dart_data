@@ -1,0 +1,7 @@
+citation: []
+commutative_only: true
+definition: A commutative ring is called catenary if there exists an $n$ such that
+  any chain of prime ideals can be refined to a maximal chain of prime ideals with
+  length $n$.
+name: catenary
+symmetric: true

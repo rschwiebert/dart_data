@@ -1,0 +1,9 @@
+citation_left: []
+citation_right: []
+crosstable_pk: 9801
+has_on_left: true
+has_on_right: true
+property: PROP_000061
+reason_left: 'Logic 296: characteristic 0 field ===> perfect field'
+reason_right: 'Logic 296: characteristic 0 field ===> perfect field'
+ring: RING_000003

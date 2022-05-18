@@ -1,0 +1,9 @@
+citation_left: []
+citation_right: []
+crosstable_pk: 146
+has_on_left: false
+has_on_right: false
+property: PROP_000005
+reason_left: 'Logic 26: semisimple ===> serial on the left and right'
+reason_right: 'Logic 26: semisimple ===> serial on the left and right'
+ring: RING_000001

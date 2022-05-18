@@ -1,0 +1,10 @@
+citation_left:
+- CITE_000403
+citation_right: []
+crosstable_pk: 16289
+has_on_left: false
+has_on_right: false
+property: PROP_000123
+reason_left: $(1,2)$ and $(2,1)$ do not have a GCD
+reason_right: symmetry with left side
+ring: RING_000124

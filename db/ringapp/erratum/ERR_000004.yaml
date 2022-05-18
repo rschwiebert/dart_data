@@ -1,0 +1,6 @@
+corrected_location:
+- CITE_000310
+description: It is claimed that semicommutative rings are McCoy, but this is false.  The
+  mistake was that semicommutativity does not pass to polynomial rings.
+error_location: CITE_000309
+example: null

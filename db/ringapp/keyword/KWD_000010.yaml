@@ -1,0 +1,4 @@
+description: Given a ring $R$ and a semigroup $S$, the underlying set is the set of
+  finite $R$-combinations of elements of $S$. Addition and multiplication defined
+  the same as for group rings.
+name: semigroup ring

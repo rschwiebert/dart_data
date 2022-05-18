@@ -1,0 +1,11 @@
+citation_left: []
+citation_right: []
+crosstable_pk: 6543
+has_on_left: false
+has_on_right: false
+property: PROP_000112
+reason_left: 'Logic 331: Prufer domain and commutative <==> commutative and distributive
+  on the left and right and domain'
+reason_right: 'Logic 331: Prufer domain and commutative <==> commutative and distributive
+  on the left and right and domain'
+ring: RING_000051

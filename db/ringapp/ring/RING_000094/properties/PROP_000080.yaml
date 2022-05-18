@@ -1,0 +1,11 @@
+citation_left:
+- CITE_000204
+citation_right: []
+crosstable_pk: 11501
+has_on_left: false
+has_on_right: false
+property: PROP_000080
+reason_left: Because it is not quasi-Frobenius, Osofsky's result says it cannot be
+  self-injective
+reason_right: symmetry with left side
+ring: RING_000094

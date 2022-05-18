@@ -1,0 +1,9 @@
+alias: Maschke's Theorem (on when a group algebra is semisimple.)
+categories:
+- THMCAT_000003
+citation:
+- CITE_000115
+commutative_only: false
+link: https://en.wikipedia.org/wiki/Maschke%27s_theorem
+statement: For any ring $R$ and group $G$, the group ring $R[G]$ is semisimple iff
+  $R$ is semisimple and $|G|$ is a unit in $R$.

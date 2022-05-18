@@ -1,0 +1,12 @@
+citation:
+- CITE_000108
+description: Let $M$ be the direct sum of $\mathbb Z/p_i\mathbb Z$ where $p_i$ is
+  the $i$'th prime. The ring $R$ is the trivial extension $T(\mathbb Z, M)$ of $M$
+  by $\mathbb Z$.
+is_commutative: true
+keywords:
+- KWD_000009
+krull_dim: '1'
+name: Kasch not semilocal ring
+notes: null
+optional_template: ''

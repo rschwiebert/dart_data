@@ -1,0 +1,13 @@
+citation:
+- CITE_000420
+description: Let $S$ be the <a href="https://ringtheory.herokuapp.com/rings/ring/66/">first
+  Weyl algebra over $\mathbb Q$</a>, and $M$ be a maximal right ideal of $S$.  The
+  required ring is the triangular ring $\begin{bmatrix}\mathbb Z &\frac{S}{M} \\ 0
+  & S\end{bmatrix}$
+is_commutative: false
+keywords:
+- KWD_000004
+krull_dim: (unknown)
+name: Right-not-left ACC on annihilators triangular ring
+notes: null
+optional_template: ''

@@ -1,0 +1,9 @@
+citation_left: []
+citation_right: []
+crosstable_pk: 13029
+has_on_left: true
+has_on_right: true
+property: PROP_000036
+reason_left: 'Logic 44: reduced ===> symmetric'
+reason_right: 'Logic 44: reduced ===> symmetric'
+ring: RING_000100

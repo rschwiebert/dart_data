@@ -1,0 +1,9 @@
+citation_left: []
+citation_right: []
+crosstable_pk: 10710
+has_on_left: false
+has_on_right: false
+property: PROP_000145
+reason_left: 'Logic 372: Goldman domain ===> commutative and domain'
+reason_right: 'Logic 372: Goldman domain ===> commutative and domain'
+ring: RING_000038

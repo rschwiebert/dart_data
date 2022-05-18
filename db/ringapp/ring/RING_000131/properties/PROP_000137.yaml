@@ -1,0 +1,10 @@
+citation_left: []
+citation_right: []
+crosstable_pk: 18269
+has_on_left: false
+has_on_right: false
+property: PROP_000137
+reason_left: Integral closure is $\mathbb Q[\{x_i\mid i\in\mathbb N\}]$ which is not
+  finitely generated as an $R$ module
+reason_right: symmetry with left side
+ring: RING_000131

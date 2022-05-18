@@ -1,0 +1,9 @@
+citation_left: []
+citation_right: []
+crosstable_pk: 15550
+has_on_left: false
+has_on_right: false
+property: PROP_000041
+reason_left: $xy=1$ but $yx\neq 1$,  by construction
+reason_right: symmetry with left side
+ring: RING_000119

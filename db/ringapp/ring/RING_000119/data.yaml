@@ -1,0 +1,11 @@
+citation:
+- CITE_000394
+description: For a countable field $k$, the ring is the quotient $k\langle x,y \rangle/(xy-1)$.
+is_commutative: false
+keywords:
+- KWD_000026
+- KWD_000003
+krull_dim: (unknown)
+name: '$k\langle x,y \rangle/(xy-1)$: the Toeplitz-Jacobson algebra'
+notes: null
+optional_template: ''

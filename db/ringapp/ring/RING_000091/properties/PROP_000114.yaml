@@ -1,0 +1,10 @@
+citation_left:
+- CITE_000165
+citation_right: []
+crosstable_pk: 10969
+has_on_left: false
+has_on_right: false
+property: PROP_000114
+reason_left: Divisor class group is the group of two elements.
+reason_right: symmetry with left side
+ring: RING_000091

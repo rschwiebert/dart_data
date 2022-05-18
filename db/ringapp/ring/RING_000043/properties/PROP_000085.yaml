@@ -1,0 +1,9 @@
+citation_left: []
+citation_right: []
+crosstable_pk: 1073
+has_on_left: false
+has_on_right: false
+property: PROP_000085
+reason_left: $M$ clearly contains an infinite direct sum of nonzero submodules
+reason_right: $M$ clearly contains an infinite direct sum of nonzero submodules
+ring: RING_000043

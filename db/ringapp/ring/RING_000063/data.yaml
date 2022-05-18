@@ -1,0 +1,10 @@
+citation: []
+description: "The ring is the trivial extension $T(\\mathbb Z, \\mathbb Z_{2^\\infty})$\
+  \ of the Pr\xFCfer $2$-group."
+is_commutative: true
+keywords:
+- KWD_000009
+krull_dim: '1'
+name: Finitely cogenerated, not semilocal ring.
+notes: null
+optional_template: ''

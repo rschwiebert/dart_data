@@ -1,0 +1,9 @@
+citation_left: []
+citation_right: []
+crosstable_pk: 11391
+has_on_left: true
+has_on_right: true
+property: PROP_000050
+reason_left: 'Logic 102: semiperfect ===> semiregular'
+reason_right: 'Logic 102: semiperfect ===> semiregular'
+ring: RING_000094

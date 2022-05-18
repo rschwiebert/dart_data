@@ -1,0 +1,11 @@
+citation:
+- CITE_000150
+description: $\mathbb Q[X,Y]$ localized at the prime ideal $(X,Y)$.
+is_commutative: true
+keywords:
+- KWD_000005
+- KWD_000002
+krull_dim: '2'
+name: $\mathbb Q[X,Y]_{(X,Y)}$
+notes: A local ring with an infinite prime spectrum.
+optional_template: ''

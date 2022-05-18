@@ -1,0 +1,9 @@
+alias: Semicommutative rings from Armendariz rings
+categories:
+- THMCAT_000003
+citation:
+- CITE_000322
+commutative_only: false
+link: null
+statement: If $R$ is Armendariz, and $N$ is a nil one-sided ideal of $R$, then $Z(R)+N$
+  is semicommutative and Armendariz.

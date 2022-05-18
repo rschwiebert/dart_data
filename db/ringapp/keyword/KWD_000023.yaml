@@ -1,0 +1,3 @@
+description: Given an $R$ module $M$, the set of $R$-homomorphisms of $M$ into $M$
+  forms a ring.
+name: endomorphism ring

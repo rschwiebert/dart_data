@@ -1,0 +1,9 @@
+citation_left: []
+citation_right: []
+crosstable_pk: 919
+has_on_left: true
+has_on_right: false
+property: PROP_000098
+reason_left: obvious
+reason_right: right socle has composition length n
+ring: RING_000038

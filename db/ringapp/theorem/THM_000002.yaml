@@ -1,0 +1,7 @@
+alias: Wedderburn's little theorem
+categories:
+- THMCAT_000002
+citation: []
+commutative_only: false
+link: https://en.wikipedia.org/wiki/Wedderburn%27s_little_theorem
+statement: A finite division ring is a field

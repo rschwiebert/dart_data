@@ -1,0 +1,5 @@
+citation: []
+commutative_only: false
+definition: xy=1 implies yx=1
+name: Dedekind finite
+symmetric: true

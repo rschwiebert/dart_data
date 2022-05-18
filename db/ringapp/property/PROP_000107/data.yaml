@@ -1,0 +1,6 @@
+citation: []
+commutative_only: false
+definition: If $T$ is a right ideal of $R$, and $f:T\to R$ such that $f(T)$ is simple,
+  then $f$ can be extended to $R\to R$
+name: simple-injective
+symmetric: false

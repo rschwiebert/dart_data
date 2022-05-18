@@ -1,0 +1,10 @@
+alias: Characterization of self-injective Leavitt path algebras
+categories:
+- THMCAT_000003
+citation:
+- CITE_000504
+commutative_only: false
+link: null
+statement: A Leavitt path algebra $L_K(E)$ is left (right) self-injective if and only
+  if $E$ is a row-finite acyclic graph in which every infinite path contains a line
+  point and so, if and only if $L_K(E)$ is a semisimple ring.

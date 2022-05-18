@@ -1,0 +1,8 @@
+alias: Amitsur-Levitzki theorem
+categories:
+- THMCAT_000001
+citation: []
+commutative_only: false
+link: https://www.encyclopediaofmath.org/index.php/Amitsur-Levitzki_theorem#References
+statement: If $R$ is commutative, then $M_n(R)$ satisfies a standard polynomial identity,
+  making it a PI-ring.

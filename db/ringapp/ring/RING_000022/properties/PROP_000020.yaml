@@ -1,0 +1,9 @@
+citation_left: []
+citation_right: []
+crosstable_pk: 812
+has_on_left: false
+has_on_right: false
+property: PROP_000020
+reason_left: Radical is Z[x]y, but R/J(R)=Z[x] is not Artinian
+reason_right: symmetry with left side
+ring: RING_000022

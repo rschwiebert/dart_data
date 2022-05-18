@@ -1,0 +1,9 @@
+citation_left: []
+citation_right: []
+crosstable_pk: 17666
+has_on_left: false
+has_on_right: false
+property: PROP_000133
+reason_left: 'Logic 465: Grothendieck ===> Noetherian on the left and right'
+reason_right: 'Logic 465: Grothendieck ===> Noetherian on the left and right'
+ring: RING_000022

@@ -1,0 +1,9 @@
+citation_left: []
+citation_right: []
+crosstable_pk: 2649
+has_on_left: true
+has_on_right: true
+property: PROP_000011
+reason_left: 'Logic 29: prime ===> semiprime'
+reason_right: 'Logic 29: prime ===> semiprime'
+ring: RING_000061

@@ -1,0 +1,10 @@
+citation: []
+description: $2 \times  2$ ring of upper triangular matrices over the field of two
+  elements.
+is_commutative: false
+keywords:
+- KWD_000015
+krull_dim: '0'
+name: $T_2(F_2)$
+notes: Lattice of right ideals isomorphic to the $M_3$ diamond lattice
+optional_template: ''

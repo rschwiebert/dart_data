@@ -1,0 +1,9 @@
+citation_left: []
+citation_right: []
+crosstable_pk: 917
+has_on_left: false
+has_on_right: true
+property: PROP_000070
+reason_left: T.Y. Lam Lectures on Modules and Rings p46
+reason_right: T.Y. Lam Lectures on Modules and Rings p46
+ring: RING_000019

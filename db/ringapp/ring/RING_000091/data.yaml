@@ -1,0 +1,12 @@
+citation:
+- CITE_000165
+- CITE_000167
+description: $\mathbb R[x,y]/(x^2+y^2-1)$.
+is_commutative: true
+keywords:
+- KWD_000002
+- KWD_000003
+krull_dim: '1'
+name: '$\mathbb R[x,y]/(x^2+y^2-1)$: ring of trigonometric functions'
+notes: null
+optional_template: ''

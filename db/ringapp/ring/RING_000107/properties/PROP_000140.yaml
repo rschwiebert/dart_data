@@ -1,0 +1,9 @@
+citation_left: []
+citation_right: []
+crosstable_pk: 13927
+has_on_left: true
+has_on_right: true
+property: PROP_000140
+reason_left: 'Logic 358: quasi-excellent ===> Nagata'
+reason_right: 'Logic 358: quasi-excellent ===> Nagata'
+ring: RING_000107

@@ -1,0 +1,5 @@
+citation: []
+commutative_only: true
+definition: A domain whose finitely generated ideals are projective modules
+name: Prufer domain
+symmetric: true

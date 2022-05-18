@@ -1,0 +1,9 @@
+citation_left: []
+citation_right: []
+crosstable_pk: 13018
+has_on_left: false
+has_on_right: false
+property: PROP_000151
+reason_left: 'Logic 400: periodic ===> strongly regular'
+reason_right: 'Logic 400: periodic ===> strongly regular'
+ring: RING_000100

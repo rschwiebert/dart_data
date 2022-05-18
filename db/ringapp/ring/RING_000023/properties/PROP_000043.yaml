@@ -1,0 +1,9 @@
+citation_left: []
+citation_right: []
+crosstable_pk: 879
+has_on_left: true
+has_on_right: true
+property: PROP_000043
+reason_left: '{1,x,y,xy} is a basis, so it has 16 elementsobvious'
+reason_right: symmetry with left side
+ring: RING_000023

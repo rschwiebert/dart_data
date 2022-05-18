@@ -1,0 +1,5 @@
+bibtex_types: book, manual
+description: Books
+hidden: false
+order: 3
+type: Book

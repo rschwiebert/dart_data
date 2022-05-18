@@ -1,0 +1,6 @@
+corrected_location:
+- CITE_000230
+description: The author claimed prime ideals of the ring of holomorphic functions
+  on $\mathbb C$ are all maximal. This is false.
+error_location: CITE_000229
+example: null

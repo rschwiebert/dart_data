@@ -1,0 +1,9 @@
+citation_left: []
+citation_right: []
+crosstable_pk: 18112
+has_on_left: false
+has_on_right: false
+property: PROP_000080
+reason_left: symmetry with right side
+reason_right: 'Logic 276: reduced and self-injective on the right ===> strongly regular'
+ring: RING_000130

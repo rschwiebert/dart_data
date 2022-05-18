@@ -1,0 +1,9 @@
+citation_left: []
+citation_right: []
+crosstable_pk: 9514
+has_on_left: true
+has_on_right: true
+property: PROP_000053
+reason_left: 'Logic 133: clean ===> weakly clean'
+reason_right: 'Logic 133: clean ===> weakly clean'
+ring: RING_000067

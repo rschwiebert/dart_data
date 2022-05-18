@@ -1,0 +1,10 @@
+citation_left: []
+citation_right: []
+crosstable_pk: 16874
+has_on_left: false
+has_on_right: null
+property: PROP_000066
+reason_left: 'Logic 49: principal ideal ring on the right <==> Bezout on the right
+  and Noetherian on the right'
+reason_right: null
+ring: RING_000126

@@ -1,0 +1,9 @@
+citation_left: []
+citation_right: []
+crosstable_pk: 17922
+has_on_left: true
+has_on_right: true
+property: PROP_000106
+reason_left: Compute annihilators in terms of coordinates
+reason_right: symmetry with left side
+ring: RING_000057

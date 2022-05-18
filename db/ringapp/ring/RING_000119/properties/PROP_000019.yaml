@@ -1,0 +1,11 @@
+citation_left: []
+citation_right: []
+crosstable_pk: 15584
+has_on_left: false
+has_on_right: false
+property: PROP_000019
+reason_left: 'Logic 77: quasi-Frobenius <==> Noetherian on the right and self-injective
+  on the right'
+reason_right: 'Logic 77: quasi-Frobenius <==> Noetherian on the right and self-injective
+  on the right'
+ring: RING_000119

@@ -1,0 +1,8 @@
+citation:
+- CITE_000308
+- CITE_000033
+commutative_only: false
+definition: A ring $R$ is called right McCoy if when $f,g\in R[x]$ satisfy $fg=0$,
+  then there exists a nonzero $r\in R$ such that $fr=0$.
+name: McCoy
+symmetric: false

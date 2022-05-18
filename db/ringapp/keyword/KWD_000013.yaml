@@ -1,0 +1,5 @@
+description: Given a ring $R$ and an indeterminate $X$, the underlying set is the
+  set of infinite formal $R$-combinations of $\{X^i\mid i\in \mathbb Z\}$, but only
+  finitely many negative powers of $X$ can have nonzero coefficients. Addition and
+  multiplication as with polynomials and power series.
+name: Laurent series ring

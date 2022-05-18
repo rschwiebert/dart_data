@@ -1,0 +1,11 @@
+citation: []
+description: $\varprojlim_{n\in \mathbb Z} \mathbb Z/n\mathbb Z$, or alternatively,
+  the product ring of all $p$-adic integers for every prime $p$.
+is_commutative: true
+keywords:
+- KWD_000032
+- KWD_000011
+krull_dim: (unknown)
+name: '$\widehat{\mathbb Z}$: the profinite completion of the integers'
+notes: null
+optional_template: ''

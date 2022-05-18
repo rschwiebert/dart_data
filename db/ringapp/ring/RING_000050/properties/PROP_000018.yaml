@@ -1,0 +1,10 @@
+citation_left:
+- CITE_000202
+citation_right: []
+crosstable_pk: 11224
+has_on_left: true
+has_on_right: true
+property: PROP_000018
+reason_left: Artinian, local with simple socle.
+reason_right: symmetry with left side
+ring: RING_000050

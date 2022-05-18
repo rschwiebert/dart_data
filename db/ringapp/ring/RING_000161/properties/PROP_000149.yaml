@@ -1,0 +1,9 @@
+citation_left: []
+citation_right: []
+crosstable_pk: 17417
+has_on_left: false
+has_on_right: false
+property: PROP_000149
+reason_left: A countable self-injective ring would be artinian
+reason_right: symmetry with left side
+ring: RING_000161

@@ -1,0 +1,10 @@
+citation_left: []
+citation_right: []
+crosstable_pk: 1162
+has_on_left: false
+has_on_right: false
+property: PROP_000072
+reason_left: symmetry with right side
+reason_right: $x+1\in ann(x-1)$, but the annihilator has to be $\{0\}$ or $R$ because
+  there are no nontrivial idempotents.
+ring: RING_000032

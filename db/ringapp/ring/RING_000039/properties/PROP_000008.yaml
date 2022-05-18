@@ -1,0 +1,9 @@
+citation_left: []
+citation_right: []
+crosstable_pk: 4952
+has_on_left: false
+has_on_right: false
+property: PROP_000008
+reason_left: 'Logic 66: domain ===> Baer'
+reason_right: 'Logic 66: domain ===> Baer'
+ring: RING_000039

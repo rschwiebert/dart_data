@@ -1,0 +1,8 @@
+citation:
+- CITE_000303
+- CITE_000304
+commutative_only: false
+definition: If $a+b=1$, there exists $r$ and $s$ such that $ar$ and $bs$ are idempotents
+  and $ar+bs=1$
+name: exchange
+symmetric: true

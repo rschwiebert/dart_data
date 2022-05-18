@@ -1,0 +1,9 @@
+citation_left: []
+citation_right: []
+crosstable_pk: 6865
+has_on_left: false
+has_on_right: false
+property: PROP_000006
+reason_left: 'Logic 280: division ring <==> local and semiprimitive'
+reason_right: 'Logic 280: division ring <==> local and semiprimitive'
+ring: RING_000065

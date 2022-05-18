@@ -1,0 +1,9 @@
+citation_left: []
+citation_right: []
+crosstable_pk: 6268
+has_on_left: false
+has_on_right: false
+property: PROP_000017
+reason_left: 'Logic 185: commutative and fully prime ===> division ring'
+reason_right: 'Logic 185: commutative and fully prime ===> division ring'
+ring: RING_000060

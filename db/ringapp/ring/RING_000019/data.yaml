@@ -1,0 +1,10 @@
+citation:
+- CITE_000084
+description: Triangular ring $\begin{bmatrix}\mathbb Z&\mathbb Q \\ 0&\mathbb Q\end{bmatrix}$.
+is_commutative: false
+keywords:
+- KWD_000004
+krull_dim: null
+name: Right-not-left Noetherian triangular ring
+notes: null
+optional_template: ''

@@ -1,0 +1,5 @@
+citation: []
+commutative_only: true
+definition: A domain having a gcd for every pair of elements
+name: GCD domain
+symmetric: true

@@ -1,0 +1,11 @@
+citation_left: []
+citation_right: []
+crosstable_pk: 11527
+has_on_left: false
+has_on_right: false
+property: PROP_000048
+reason_left: 'Logic 240: finite uniform dimension on the left or right and $I_0$ ===>
+  semiperfect'
+reason_right: 'Logic 240: finite uniform dimension on the left or right and $I_0$
+  ===> semiperfect'
+ring: RING_000007

@@ -1,0 +1,3 @@
+description: Given a ring $S$ and an endomorphism $\sigma:S\to S$, you take $S[x]$
+  and define $xa=\sigma(a)x$ instead of regular multiplication. (May be defined symmetrically.)
+name: twisted (skew) ring

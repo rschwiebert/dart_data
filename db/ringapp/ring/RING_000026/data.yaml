@@ -1,0 +1,12 @@
+citation:
+- CITE_000083
+description: Consider the semigroup $S=\{a,b\}$ with $a^2=ab=a$,$b^2=ba=b$. Make the
+  semigroup ring $T=F_2[S]$. Make the Dorroh extension $T'=D(\mathbb Z,T)$. $T'$ is
+  the ring.
+is_commutative: false
+keywords:
+- KWD_000020
+krull_dim: null
+name: Non-symmetric $2$-primal ring
+notes: null
+optional_template: ''

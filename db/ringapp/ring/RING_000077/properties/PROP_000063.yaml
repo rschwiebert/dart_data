@@ -1,0 +1,9 @@
+citation_left: []
+citation_right: []
+crosstable_pk: 1207
+has_on_left: false
+has_on_right: false
+property: PROP_000063
+reason_left: It is a domain that's not a field
+reason_right: 'Logic 214: simple Artinian <==> Artinian on the right and prime'
+ring: RING_000077

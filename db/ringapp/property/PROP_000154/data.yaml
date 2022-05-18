@@ -1,0 +1,6 @@
+citation:
+- CITE_000292
+commutative_only: false
+definition: $R$ is a domain whose right ideals are linearly ordered.
+name: valuation domain
+symmetric: false

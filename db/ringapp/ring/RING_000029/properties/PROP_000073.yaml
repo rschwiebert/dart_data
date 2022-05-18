@@ -1,0 +1,11 @@
+citation_left: []
+citation_right: []
+crosstable_pk: 834
+has_on_left: false
+has_on_right: false
+property: PROP_000073
+reason_left: Lam, T.Y. Lectures on modules and rings p 248. Both singular ideals equal
+  to rad(R)
+reason_right: Lam, T.Y. Lectures on modules and rings p 248. Both singular ideals
+  equal to rad(R)
+ring: RING_000029

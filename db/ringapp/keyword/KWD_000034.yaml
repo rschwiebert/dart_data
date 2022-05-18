@@ -1,0 +1,3 @@
+description: A procedure on commutative local rings that makes extends the ring to
+  a Henselian local ring.
+name: Henselization

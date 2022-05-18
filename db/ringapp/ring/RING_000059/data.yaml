@@ -1,0 +1,11 @@
+citation:
+- CITE_000076
+description: The monoid ring $\Bbb Q[M]$ where $M$ is the nonimmersable monoid described
+  in the paper.
+is_commutative: false
+keywords:
+- KWD_000035
+krull_dim: null
+name: Malcev's nonembeddable domain
+notes: This is a domain that is not a subring of any division ring.
+optional_template: ''

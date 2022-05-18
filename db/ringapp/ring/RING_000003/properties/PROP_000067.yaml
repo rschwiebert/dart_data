@@ -1,0 +1,9 @@
+citation_left: []
+citation_right: []
+crosstable_pk: 8024
+has_on_left: true
+has_on_right: true
+property: PROP_000067
+reason_left: 'Logic 70: valuation ring on the right ===> Bezout on the right'
+reason_right: 'Logic 70: valuation ring on the right ===> Bezout on the right'
+ring: RING_000003

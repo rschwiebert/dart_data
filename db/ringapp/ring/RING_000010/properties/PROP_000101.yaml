@@ -1,0 +1,11 @@
+citation_left: []
+citation_right: []
+crosstable_pk: 3540
+has_on_left: true
+has_on_right: true
+property: PROP_000101
+reason_left: 'Logic 86: pseudo-Frobenius on the right <==> essential socle on the
+  right and self-injective on the right and semilocal'
+reason_right: 'Logic 86: pseudo-Frobenius on the right <==> essential socle on the
+  right and self-injective on the right and semilocal'
+ring: RING_000010

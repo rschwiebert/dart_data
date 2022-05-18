@@ -1,0 +1,9 @@
+citation_left: []
+citation_right: []
+crosstable_pk: 10057
+has_on_left: true
+has_on_right: true
+property: PROP_000087
+reason_left: symmetry with right side
+reason_right: 'Logic 330: commutative and Prufer domain ===> coherent on the right'
+ring: RING_000085

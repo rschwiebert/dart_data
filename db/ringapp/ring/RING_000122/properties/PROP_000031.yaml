@@ -1,0 +1,9 @@
+citation_left: []
+citation_right: []
+crosstable_pk: 16013
+has_on_left: true
+has_on_right: true
+property: PROP_000031
+reason_left: 'Logic 100: semilocal ===> top regular'
+reason_right: 'Logic 100: semilocal ===> top regular'
+ring: RING_000122

@@ -1,0 +1,10 @@
+citation_left: []
+citation_right: []
+crosstable_pk: 9443
+has_on_left: true
+has_on_right: true
+property: PROP_000104
+reason_left: symmetry with right side
+reason_right: 'Logic 171: strongly regular <==> distributive on the right and von
+  Neumann regular'
+ring: RING_000057

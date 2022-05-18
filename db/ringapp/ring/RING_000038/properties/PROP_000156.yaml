@@ -1,0 +1,9 @@
+citation_left: []
+citation_right: []
+crosstable_pk: 15412
+has_on_left: true
+has_on_right: null
+property: PROP_000156
+reason_left: 'Logic 422: duo on the right ===> McCoy on the right'
+reason_right: null
+ring: RING_000038

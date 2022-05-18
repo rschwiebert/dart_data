@@ -1,0 +1,14 @@
+citation:
+- CITE_000114
+description: Let $S$ be von Neumann regular which has an ideal $I$ which is not a
+  direct summand of $S_S$. Let $R$ be $S/I$. Form the triangular ring $T=\begin{bmatrix}R&R\\
+  0& S\end{bmatrix}$. $T$ is the ring. For concreteness, we pick $S=\prod_{i=1}^\infty
+  F_2$, and $I$ a maximal essential ideal.
+is_commutative: false
+keywords:
+- KWD_000003
+- KWD_000004
+krull_dim: '0'
+name: Chase's left-not-right semihereditary ring
+notes: null
+optional_template: ''

@@ -1,0 +1,13 @@
+citation: []
+description: Let $x_i$ be countably many indeterminates, and $T=\mathbb Q[\{x_i^2\mid
+  i \in \mathbb N\}\cup\{x_i^3\in\mathbb N\}]$.  Let $S_0$ be the multiplicative set
+  that is the intersection of complements of $(x_i^2, x_i^3)$ in $\mathbb Q[\{x_i\mid
+  i \in \mathbb N\}]$, and $S=S_0\cap T$. The desired ring is the localization TS^{-1}$
+is_commutative: true
+keywords:
+- KWD_000005
+- KWD_000002
+krull_dim: '1'
+name: Noetherian domain that is not N-1
+notes: not integrally closed in its field of fractions
+optional_template: ''

@@ -1,0 +1,9 @@
+citation_left: []
+citation_right: []
+crosstable_pk: 849
+has_on_left: true
+has_on_right: true
+property: PROP_000065
+reason_left: Has a Dedekind-Hasse norm that allows you to prove this
+reason_right: Has a Dedekind-Hasse norm that allows you to prove this
+ring: RING_000034

@@ -1,0 +1,9 @@
+citation_left: []
+citation_right: []
+crosstable_pk: 18352
+has_on_left: true
+has_on_right: true
+property: PROP_000072
+reason_left: symmetry with right side
+reason_right: 'Logic 462: Rickart on the right and strongly connected <==> domain'
+ring: RING_000131

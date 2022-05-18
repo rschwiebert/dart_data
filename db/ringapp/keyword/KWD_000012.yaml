@@ -1,0 +1,5 @@
+description: 'Given a ring $R$ and indeterminate $X$,  the underlying set is the set
+  of all infinite formal linear combinations of powers of $X$. The operations are
+  like the polynomial operations: both are well-defined since only finitely many positions
+  are needed to compute each entry of the sum and product.'
+name: power series ring

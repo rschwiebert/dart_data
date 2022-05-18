@@ -1,0 +1,11 @@
+citation_left: []
+citation_right: []
+crosstable_pk: 7217
+has_on_left: false
+has_on_right: false
+property: PROP_000073
+reason_left: 'Logic 219: nonsingular on the right and self-injective on the right
+  ===> von Neumann regular'
+reason_right: 'Logic 219: nonsingular on the right and self-injective on the right
+  ===> von Neumann regular'
+ring: RING_000072

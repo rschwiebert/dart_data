@@ -1,0 +1,11 @@
+citation_left: []
+citation_right: []
+crosstable_pk: 1050
+has_on_left: true
+has_on_right: true
+property: PROP_000064
+reason_left: Exact sequence $0\to F[S]\to R\to \mathbb Z$ of $R$ modules begins and
+  ends with Noetherian $R$ modules, so the middle one is a Noetherian $R$ module
+reason_right: Exact sequence $0\to F[S]\to R\to \mathbb Z$ of $R$ modules begins and
+  ends with Noetherian $R$ modules, so the middle one is a Noetherian $R$ module
+ring: RING_000026

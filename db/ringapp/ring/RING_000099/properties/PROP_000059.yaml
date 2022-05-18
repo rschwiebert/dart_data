@@ -1,0 +1,9 @@
+citation_left: []
+citation_right: []
+crosstable_pk: 12465
+has_on_left: false
+has_on_right: false
+property: PROP_000059
+reason_left: 'Logic 333: Pythagorean field ===> field'
+reason_right: 'Logic 333: Pythagorean field ===> field'
+ring: RING_000099

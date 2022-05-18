@@ -1,0 +1,11 @@
+alias: Characterizations of right nonsingular rings
+categories:
+- THMCAT_000005
+- THMCAT_000006
+- THMCAT_000007
+citation: []
+commutative_only: false
+link: null
+statement: 'The following are equivalent: 0) $R$ is right nonsingular; 1) The maximal
+  ring of right quotients $\mathcal Q^r_{max}(R)$ is von Neumann regular; 2) Every
+  essential module extension is a dense module extension.'

@@ -1,0 +1,9 @@
+citation_left: []
+citation_right: []
+crosstable_pk: 8653
+has_on_left: false
+has_on_right: false
+property: PROP_000004
+reason_left: 'Logic 208: simple Artinian <==> Artinian on the right and simple'
+reason_right: 'Logic 208: simple Artinian <==> Artinian on the right and simple'
+ring: RING_000058

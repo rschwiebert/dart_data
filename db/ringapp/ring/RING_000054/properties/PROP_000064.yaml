@@ -1,0 +1,10 @@
+citation_left: []
+citation_right: []
+crosstable_pk: 10660
+has_on_left: false
+has_on_right: false
+property: PROP_000064
+reason_left: symmetry with right side
+reason_right: 'Logic 79: quasi-Frobenius <==> dual on the left and right and Noetherian
+  on the right'
+ring: RING_000054

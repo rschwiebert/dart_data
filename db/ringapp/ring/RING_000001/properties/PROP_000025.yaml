@@ -1,0 +1,9 @@
+citation_left: []
+citation_right: []
+crosstable_pk: 127
+has_on_left: false
+has_on_right: false
+property: PROP_000025
+reason_left: 'Logic 103: semiperfect <==> lift/rad and semilocal'
+reason_right: 'Logic 103: semiperfect <==> lift/rad and semilocal'
+ring: RING_000001

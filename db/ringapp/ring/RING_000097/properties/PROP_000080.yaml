@@ -1,0 +1,11 @@
+citation_left:
+- CITE_000212
+citation_right:
+- CITE_000212
+crosstable_pk: 16750
+has_on_left: false
+has_on_right: false
+property: PROP_000080
+reason_left: Neither left nor right fp-injective, so not left or right injective
+reason_right: Neither left nor right fp-injective, so not left or right injective
+ring: RING_000097

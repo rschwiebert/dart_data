@@ -1,0 +1,9 @@
+alias: Characterizations of hereditary rings
+categories:
+- THMCAT_000005
+- THMCAT_000006
+citation: []
+commutative_only: false
+link: null
+statement: 'The following are equivalent: 0) $R$ is right hereditary; 1) $R$ has right
+  global dimension $\leq 1$; 2) all right ideals of $R$ are projective modules'

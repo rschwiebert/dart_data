@@ -1,0 +1,10 @@
+citation_left: []
+citation_right: []
+crosstable_pk: 1941
+has_on_left: true
+has_on_right: true
+property: PROP_000023
+reason_left: 'Logic 71: valuation ring on the right <==> local and serial on the right'
+reason_right: 'Logic 71: valuation ring on the right <==> local and serial on the
+  right'
+ring: RING_000048

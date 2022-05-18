@@ -1,0 +1,13 @@
+citation:
+- CITE_000143
+- CITE_000151
+- CITE_000144
+description: The quotient ring $F_2[x,y]/(x,y)^2$ for the field $F_2$ of two elements.
+is_commutative: true
+keywords:
+- KWD_000003
+krull_dim: '0'
+name: $F_2[x,y]/(x,y)^2$
+notes: Lattice of proper ideals is the diamond lattice. All ideals principal except
+  for maximal ideal.
+optional_template: ''

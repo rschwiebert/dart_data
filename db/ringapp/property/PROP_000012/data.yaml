@@ -1,0 +1,8 @@
+citation:
+- CITE_000300
+- CITE_000298
+- CITE_000282
+commutative_only: false
+definition: von Neumann regular and reduced
+name: strongly regular
+symmetric: true

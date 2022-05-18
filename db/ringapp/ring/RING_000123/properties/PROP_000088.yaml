@@ -1,0 +1,10 @@
+citation_left: []
+citation_right: []
+crosstable_pk: 18529
+has_on_left: true
+has_on_right: true
+property: PROP_000088
+reason_left: 'Logic 283: Mori domain ===> ACC principal on the left and commutative
+  and domain'
+reason_right: symmetry with left side
+ring: RING_000123

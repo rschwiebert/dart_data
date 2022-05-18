@@ -1,0 +1,10 @@
+citation_left: []
+citation_right: []
+crosstable_pk: 1044
+has_on_left: true
+has_on_right: true
+property: PROP_000022
+reason_left: For any given $r>0$, when $mr > 1$, $x^{mr}=0$. Every proper ideal is
+  contained in such an ideal.
+reason_right: symmetry with left side
+ring: RING_000051

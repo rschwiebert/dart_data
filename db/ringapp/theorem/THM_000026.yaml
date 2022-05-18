@@ -1,0 +1,9 @@
+alias: When a group ring is self-injective
+categories:
+- THMCAT_000003
+citation:
+- CITE_000264
+commutative_only: false
+link: null
+statement: 'For a ring $R$ and a group $G$:  $R[G]$ is right self-injective iff $R$
+  is right self-injective and $G$ is finite.'

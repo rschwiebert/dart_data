@@ -1,0 +1,6 @@
+citation: []
+commutative_only: true
+definition: Noetherian ring whose localizations at primes all have depth equal to
+  their Krull dimension
+name: Cohen-Macaulay
+symmetric: true

@@ -1,0 +1,9 @@
+citation_left: []
+citation_right: []
+crosstable_pk: 1202
+has_on_left: true
+has_on_right: true
+property: PROP_000042
+reason_left: Goodearl "Von Neumann regular rings" example 5.12, p 54
+reason_right: symmetry with left side
+ring: RING_000082

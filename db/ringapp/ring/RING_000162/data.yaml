@@ -1,0 +1,11 @@
+citation:
+- CITE_000459
+description: Let $S$ be an $AW^\ast$-factor of type $II_f$. The maximal right quotient
+  ring of this algebra is the required ring.
+is_commutative: false
+keywords:
+- KWD_000024
+krull_dim: (unknown)
+name: Goodearl's simple self-injective operator algebra
+notes: null
+optional_template: ''

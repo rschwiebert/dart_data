@@ -1,0 +1,7 @@
+citation:
+- CITE_000302
+commutative_only: false
+definition: For all $a$ in $R$ there exists an $x\in R$ and a natural number $n$ such
+  that $(a^n)x(a^n)=a^n$
+name: $\pi$-regular
+symmetric: true

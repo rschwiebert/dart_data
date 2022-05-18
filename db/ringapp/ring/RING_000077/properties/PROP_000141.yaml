@@ -1,0 +1,9 @@
+citation_left: []
+citation_right: []
+crosstable_pk: 11612
+has_on_left: true
+has_on_right: true
+property: PROP_000141
+reason_left: 'Logic 354: J-2 ===> J-1'
+reason_right: 'Logic 354: J-2 ===> J-1'
+ring: RING_000077

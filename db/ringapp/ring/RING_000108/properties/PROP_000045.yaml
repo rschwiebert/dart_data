@@ -1,0 +1,11 @@
+citation_left: []
+citation_right: []
+crosstable_pk: 14215
+has_on_left: false
+has_on_right: false
+property: PROP_000045
+reason_left: 'Logic 391: perfect on the right <==> max ring on the right and orthogonally
+  finite and strongly $\pi$-regular'
+reason_right: 'Logic 391: perfect on the right <==> max ring on the right and orthogonally
+  finite and strongly $\pi$-regular'
+ring: RING_000108

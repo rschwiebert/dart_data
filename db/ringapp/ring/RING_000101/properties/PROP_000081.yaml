@@ -1,0 +1,10 @@
+citation_left: []
+citation_right: []
+crosstable_pk: 13199
+has_on_left: true
+has_on_right: true
+property: PROP_000081
+reason_left: symmetry with right side
+reason_right: 'Logic 84: pseudo-Frobenius on the right <==> Kasch on the right and
+  self-injective on the right'
+ring: RING_000101

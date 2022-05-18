@@ -1,0 +1,11 @@
+citation_left: []
+citation_right: []
+crosstable_pk: 4705
+has_on_left: false
+has_on_right: false
+property: PROP_000064
+reason_left: 'Logic 188: Noetherian on the left or right and von Neumann regular ===>
+  semisimple'
+reason_right: 'Logic 188: Noetherian on the left or right and von Neumann regular
+  ===> semisimple'
+ring: RING_000082

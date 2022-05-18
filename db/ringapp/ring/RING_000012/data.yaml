@@ -1,0 +1,10 @@
+citation: []
+description: The ring of $n \times n$ matrices with entries from a field $k$, $n$
+  a natural number greater than $1$, and $k$ a countably infinite field.
+is_commutative: false
+keywords:
+- KWD_000015
+krull_dim: '0'
+name: $M_n(k)$
+notes: null
+optional_template: ''

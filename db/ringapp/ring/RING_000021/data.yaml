@@ -1,0 +1,11 @@
+citation:
+- CITE_000080
+description: Twisted polynomials $k[x;\sigma]$ for a countable division ring $k$ with
+  endomorphism $\sigma$ which isn't an automorphism. The twist is given by $xa=x\sigma(a)$.
+is_commutative: false
+keywords:
+- KWD_000027
+krull_dim: null
+name: Left-not-right Noetherian domain
+notes: null
+optional_template: ''

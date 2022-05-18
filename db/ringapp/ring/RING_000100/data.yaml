@@ -1,0 +1,15 @@
+citation:
+- CITE_000232
+- CITE_000231
+description: Let $\{I_i\mid i\in \mathbb N\}$ be a partition of $\mathbb N$ such that
+  $|I_i|<|I_{i+1}|$. From $\mathbb Q[x_0, x_1,\ldots]$, consider the prime ideals
+  $P_i=(\{x_j\mid j\in I_i\})$.  The ring $R$ is the semilocalization at the intersection
+  of the complements of the $P_i$'s.
+is_commutative: true
+keywords:
+- KWD_000005
+- KWD_000002
+krull_dim: (unknown)
+name: Nagata's Noetherian infinite Krull dimension ring
+notes: null
+optional_template: ''

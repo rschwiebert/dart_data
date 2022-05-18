@@ -1,0 +1,10 @@
+alias: Characterizations of right perfect rings
+categories:
+- THMCAT_000005
+- THMCAT_000006
+citation: []
+commutative_only: false
+link: null
+statement: 'The following are equivalent: 0) $R$ is a right perfect ring; 1) all right
+  $R$ modules have projective covers; 2) $R$ satisfies the DCC on left principal ideals;
+  3) Every flat right $R$ module is projective'

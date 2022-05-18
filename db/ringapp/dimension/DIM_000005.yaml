@@ -1,0 +1,4 @@
+definition: Supremum of flat dimensions of right $R$ modules, if finite, and $\infty$
+  otherwise.  (The left-hand version turns out to be equivalent.)
+name: weak global dimension
+symmetric: true

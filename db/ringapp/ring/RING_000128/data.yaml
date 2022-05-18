@@ -1,0 +1,10 @@
+citation:
+- CITE_000461
+description: Details in https://arxiv.org/pdf/alg-geom/9503017.pdf
+is_commutative: true
+keywords:
+- KWD_000012
+krull_dim: (unknown)
+name: Akizuki's counterexample
+notes: null
+optional_template: ''

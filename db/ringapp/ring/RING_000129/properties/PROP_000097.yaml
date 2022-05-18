@@ -1,0 +1,9 @@
+citation_left: []
+citation_right: []
+crosstable_pk: 17853
+has_on_left: false
+has_on_right: false
+property: PROP_000097
+reason_left: 'Logic 153: T-nilpotent radical on the left or right ===> nil radical'
+reason_right: symmetry with left side
+ring: RING_000129

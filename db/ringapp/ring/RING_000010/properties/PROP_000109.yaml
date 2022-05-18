@@ -1,0 +1,9 @@
+citation_left: []
+citation_right: []
+crosstable_pk: 3560
+has_on_left: true
+has_on_right: true
+property: PROP_000109
+reason_left: 'Logic 138: continuous on the right ===> quasi-continuous on the right'
+reason_right: 'Logic 138: continuous on the right ===> quasi-continuous on the right'
+ring: RING_000010

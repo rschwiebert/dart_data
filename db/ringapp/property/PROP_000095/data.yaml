@@ -1,0 +1,8 @@
+citation:
+- CITE_000296
+- CITE_000261
+commutative_only: false
+definition: homomorphisms from principal right ideals of the ring into the ring extend
+  to endomorphisms of the ring
+name: principally injective
+symmetric: false

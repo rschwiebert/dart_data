@@ -1,0 +1,9 @@
+alias: Artinian, Noetherian, semisimple, semiprimitive, primitive are Morita invariant
+categories:
+- THMCAT_000005
+citation: []
+commutative_only: false
+link: null
+statement: If $R$ and $S$ are Morita equivalent rings, then $R$ is semisimple, left
+  artinian, left noetherian, primitive or a ring with zero radical iff $S$ is. (Left
+  can be replaced with right everywhere.)

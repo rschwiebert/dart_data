@@ -1,0 +1,15 @@
+citation:
+- CITE_000389
+- CITE_000388
+description: Let $k$ be a field of characteristic $2$, and $\lambda\in k$ be a (nonzero)
+  element that isn't a root of unity.  $R=k\langle x, x^{-1}, y, y^{-1}\rangle/\langle
+  xy-\lambda yx\rangle$.
+is_commutative: false
+keywords:
+- KWD_000026
+- KWD_000003
+- KWD_000033
+krull_dim: (unknown)
+name: Simple, connected, Noetherian ring with zero divisors
+notes: null
+optional_template: ''

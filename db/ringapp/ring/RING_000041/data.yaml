@@ -1,0 +1,13 @@
+citation:
+- CITE_000061
+description: Let $F_2$ be the field of two elements, and $R$ be the subring of matrices
+  in $M_4(F_2)$ of the form $\begin{bmatrix} a&0&b&c\\ 0&a&0&d\\ 0&0&a&0\\ 0&0&0&e\end{bmatrix}$
+is_commutative: false
+keywords:
+- KWD_000015
+- KWD_000007
+krull_dim: '0'
+name: Right-not-left Kasch ring
+notes: 'The field does not have to be finite for the asymmetry of Kasch property:
+  it can be any division ring.'
+optional_template: ''

@@ -1,0 +1,10 @@
+citation_left: []
+citation_right: []
+crosstable_pk: 888
+has_on_left: true
+has_on_right: true
+property: PROP_000010
+reason_left: (x^1-1) is the intersection of two prime ideals, (or alternatively an
+  easy computation)obvious
+reason_right: symmetry with left side
+ring: RING_000032

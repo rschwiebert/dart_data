@@ -1,0 +1,9 @@
+citation_left: []
+citation_right: []
+crosstable_pk: 8294
+has_on_left: false
+has_on_right: false
+property: PROP_000030
+reason_left: 'Logic 176: primary <==> nilpotent radical and top simple Artinian'
+reason_right: 'Logic 176: primary <==> nilpotent radical and top simple Artinian'
+ring: RING_000020

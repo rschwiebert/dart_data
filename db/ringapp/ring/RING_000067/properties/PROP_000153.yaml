@@ -1,0 +1,9 @@
+citation_left: []
+citation_right: []
+crosstable_pk: 16543
+has_on_left: false
+has_on_right: false
+property: PROP_000153
+reason_left: 'Logic 404: almost Dedekind domain ===> Prufer domain'
+reason_right: 'Logic 404: almost Dedekind domain ===> Prufer domain'
+ring: RING_000067

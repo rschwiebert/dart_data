@@ -1,0 +1,14 @@
+citation:
+- CITE_000105
+description: Let $k$ be a countably infinite field and $X=\{s,t,u,v,w,x,y,z\}$ be
+  indeterminates. Let $R$ be the free algebra over $k$ and $X$ modulo relations which
+  make the matrix equation $AB=I_2$ hold, where $A=\begin{bmatrix}s&t\\ u&v\end{bmatrix}$
+  and $B=\begin{bmatrix}w&x\\ y&z\end{bmatrix}$.
+is_commutative: false
+keywords:
+- KWD_000026
+- KWD_000003
+krull_dim: null
+name: Shepherdson's domain that is not stably finite
+notes: null
+optional_template: ''

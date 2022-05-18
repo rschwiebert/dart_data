@@ -1,0 +1,11 @@
+citation_left: []
+citation_right: []
+crosstable_pk: 1068
+has_on_left: true
+has_on_right: true
+property: PROP_000034
+reason_left: Minimal prime ideals $\left[\begin{smallmatrix}0&F_2\\ 0& \mathbb Z_{(2)}\end{smallmatrix}\right]$
+  and $\left[\begin{smallmatrix}F_2&F_2\\ 0& 0\end{smallmatrix}\right]$. Easy to see
+  completely prime.
+reason_right: symmetry with left side
+ring: RING_000046

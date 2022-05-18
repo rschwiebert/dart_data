@@ -1,0 +1,9 @@
+alias: Nilpotency of $\mathcal Z(R_R)$
+categories:
+- THMCAT_000004
+citation:
+- CITE_000330
+commutative_only: false
+link: null
+statement: If $R$ satisfies the ACC on right annihilators, then $\mathcal Z(R_R)$
+  is a nilpotent ideal.

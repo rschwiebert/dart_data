@@ -1,0 +1,8 @@
+citation: []
+commutative_only: true
+definition: 'Three conditions must hold: 1) localizations at height 1 primes are all
+  discrete valuation rings; 2) $R$ is the intersection of those valuation rings in
+  its field of fractions; 3) Each nonzero element of $R$ is contained in only finitely
+  many height 1 primes.'
+name: Krull domain
+symmetric: true

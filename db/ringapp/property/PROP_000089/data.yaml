@@ -1,0 +1,7 @@
+citation:
+- CITE_000318
+commutative_only: false
+definition: Ascending chain condition on right annihilators=Descending chain condition
+  on left annihilators
+name: ACC annihilator
+symmetric: false

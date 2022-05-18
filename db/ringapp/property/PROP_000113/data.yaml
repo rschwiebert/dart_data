@@ -1,0 +1,6 @@
+citation:
+- CITE_000284
+commutative_only: true
+definition: A domain which has a Euclidean valuation
+name: Euclidean domain
+symmetric: true

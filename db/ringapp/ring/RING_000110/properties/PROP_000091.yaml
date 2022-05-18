@@ -1,0 +1,11 @@
+citation_left:
+- CITE_000295
+citation_right: []
+crosstable_pk: 14500
+has_on_left: true
+has_on_right: false
+property: PROP_000091
+reason_left: null
+reason_right: 'Logic 79: quasi-Frobenius <==> dual on the left and right and Noetherian
+  on the right'
+ring: RING_000110

@@ -1,0 +1,12 @@
+citation: []
+description: Let $V$ be a countable dimensional right vector space over a countable
+  division ring $D$. $R=End(V_D)$.
+is_commutative: false
+keywords:
+- KWD_000023
+- KWD_000016
+krull_dim: '1'
+name: Full linear ring of a countable dimensional right vector space
+notes: 'Has exactly three ideals: the nontrivial one is the set of transformations
+  with finite dimensional range.'
+optional_template: ''

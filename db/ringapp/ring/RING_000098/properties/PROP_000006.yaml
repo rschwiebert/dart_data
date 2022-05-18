@@ -1,0 +1,9 @@
+citation_left: []
+citation_right: []
+crosstable_pk: 14102
+has_on_left: true
+has_on_right: true
+property: PROP_000006
+reason_left: 'Logic 261: nilpotent radical and semiprime <==> semiprimitive'
+reason_right: 'Logic 261: nilpotent radical and semiprime <==> semiprimitive'
+ring: RING_000098

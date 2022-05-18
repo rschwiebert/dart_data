@@ -1,0 +1,10 @@
+citation_left: []
+citation_right: []
+crosstable_pk: 1009
+has_on_left: false
+has_on_right: false
+property: PROP_000025
+reason_left: R/rad(R) has four idempotents, but R is a domain with idempotents 0 and
+  1, so idempotent lifting is not possible
+reason_right: symmetry with left side
+ring: RING_000055

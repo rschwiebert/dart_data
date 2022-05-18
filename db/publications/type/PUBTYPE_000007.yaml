@@ -1,0 +1,5 @@
+bibtex_types: phdthesis, mastersthesis
+description: Theses
+hidden: true
+order: 6
+type: Thesis

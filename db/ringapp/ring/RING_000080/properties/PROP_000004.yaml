@@ -1,0 +1,9 @@
+citation_left: []
+citation_right: []
+crosstable_pk: 7440
+has_on_left: false
+has_on_right: false
+property: PROP_000004
+reason_left: 'Logic 161: simple Artinian ===> semisimple'
+reason_right: 'Logic 161: simple Artinian ===> semisimple'
+ring: RING_000080

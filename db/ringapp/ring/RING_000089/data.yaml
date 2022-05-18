@@ -1,0 +1,13 @@
+citation:
+- CITE_000152
+- CITE_000153
+description: $k[x,y]/(x^2-y^3)$ where $k$ is a countably infinite field. Integral
+  closure is $k[x/y]$.
+is_commutative: true
+keywords:
+- KWD_000002
+- KWD_000003
+krull_dim: '1'
+name: $k[x,y]/(x^2-y^3)$
+notes: null
+optional_template: ''

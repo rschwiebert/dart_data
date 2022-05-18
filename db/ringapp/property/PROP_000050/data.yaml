@@ -1,0 +1,6 @@
+citation:
+- CITE_000301
+commutative_only: false
+definition: $R$ is lift/rad and $R/J(R)$ is von Neumann regular
+name: semiregular
+symmetric: true

@@ -1,0 +1,11 @@
+citation: []
+description: $\left\{a+bi+cj+dk \in \mathbb{H} \mid a,b,c,d \in \mathbb{Z} \;\mbox{
+  or }\, a,b,c,d \in \mathbb{Z} + \tfrac{1}{2}\right\}$
+is_commutative: false
+keywords:
+- KWD_000029
+- KWD_000007
+krull_dim: null
+name: Hurwitz quaternions
+notes: Has a Euclidean division algorithm. Maximal order in the rational quaternions.
+optional_template: ''

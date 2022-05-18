@@ -1,0 +1,9 @@
+citation_left: []
+citation_right: []
+crosstable_pk: 18214
+has_on_left: true
+has_on_right: true
+property: PROP_000022
+reason_left: 'Logic 413: commutative and rad-nil ===> nil radical'
+reason_right: 'Logic 413: commutative and rad-nil ===> nil radical'
+ring: RING_000032

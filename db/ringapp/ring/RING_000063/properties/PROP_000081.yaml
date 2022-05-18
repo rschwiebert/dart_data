@@ -1,0 +1,10 @@
+citation_left: []
+citation_right: []
+crosstable_pk: 1056
+has_on_left: false
+has_on_right: false
+property: PROP_000081
+reason_left: There is a simple ideal whose elements have order $q$ for a prime other
+  than $p$, but this obviously can't embed into the ring.
+reason_right: symmetry with left side
+ring: RING_000063

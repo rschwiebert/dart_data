@@ -1,0 +1,9 @@
+citation_left: []
+citation_right: []
+crosstable_pk: 11851
+has_on_left: false
+has_on_right: false
+property: PROP_000037
+reason_left: 'Logic 239: $I_0$ and strongly connected ===> local'
+reason_right: 'Logic 239: $I_0$ and strongly connected ===> local'
+ring: RING_000096

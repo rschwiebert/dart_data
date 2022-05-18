@@ -1,0 +1,12 @@
+citation:
+- CITE_000235
+description: The ring can be described using a quotient of $\prod_{i\in\mathbb N}\mathbb
+  R$ (to be elaborated later)
+is_commutative: true
+keywords:
+- KWD_000011
+- KWD_000017
+krull_dim: (unknown)
+name: '$^\ast \mathbb R$: the field of hyperreal numbers'
+notes: null
+optional_template: ''

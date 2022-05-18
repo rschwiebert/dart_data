@@ -1,0 +1,11 @@
+citation_left: []
+citation_right: []
+crosstable_pk: 296
+has_on_left: false
+has_on_right: false
+property: PROP_000039
+reason_left: 'Logic 216: orthogonally finite and self-injective on the right ===>
+  finite uniform dimension on the right'
+reason_right: 'Logic 216: orthogonally finite and self-injective on the right ===>
+  finite uniform dimension on the right'
+ring: RING_000015

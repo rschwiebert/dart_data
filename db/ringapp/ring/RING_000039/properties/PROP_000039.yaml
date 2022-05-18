@@ -1,0 +1,10 @@
+citation_left: []
+citation_right: []
+crosstable_pk: 18260
+has_on_left: false
+has_on_right: false
+property: PROP_000039
+reason_left: Since $S$ contains infinite families of orthogonal idempotents, so does
+  the whole ring
+reason_right: symmetry with left side
+ring: RING_000039

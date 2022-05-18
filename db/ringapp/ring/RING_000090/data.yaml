@@ -1,0 +1,13 @@
+citation:
+- CITE_000160
+- CITE_000161
+description: $k[x,y]/(x^2, xy)$ where $k$ is a countably infinite field.
+is_commutative: true
+keywords:
+- KWD_000002
+- KWD_000003
+krull_dim: '1'
+name: $k[x,y]/(x^2, xy)$
+notes: The zero ideal is not primary, but it satisfies the false naive definition
+  of primary as being $xy\in I$ implies $x^n\in I$ or $y^n\in I$.
+optional_template: ''

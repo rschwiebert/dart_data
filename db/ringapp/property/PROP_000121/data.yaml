@@ -1,0 +1,6 @@
+citation: []
+commutative_only: true
+definition: Noetherian ring whose localizations at primes all are Noetherian and have
+  finite injective dimension
+name: Gorenstein
+symmetric: true

@@ -1,0 +1,7 @@
+citation:
+- CITE_000303
+- CITE_000304
+commutative_only: false
+definition: If $xa+b=1$, there is a $y$ such that $a+yb$ is a unit
+name: stable range 1
+symmetric: true

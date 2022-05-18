@@ -1,0 +1,15 @@
+citation:
+- CITE_000100
+- CITE_000101
+- CITE_000102
+description: See the expanded details page for the construction.
+is_commutative: false
+keywords:
+- KWD_000023
+- KWD_000008
+- KWD_000007
+krull_dim: null
+name: Bergman's unit-regular ring
+notes: Given as an example of a unit-regular ring which contains a regular subring
+  which isn't unit-regular.
+optional_template: bergmans-unit-regular-ring.html

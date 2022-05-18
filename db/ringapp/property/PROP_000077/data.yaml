@@ -1,0 +1,7 @@
+citation:
+- CITE_000278
+- CITE_000277
+commutative_only: false
+definition: $R$ is a direct sum of right ideals whose submodules are linearly ordered
+name: serial
+symmetric: false

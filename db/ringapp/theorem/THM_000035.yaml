@@ -1,0 +1,10 @@
+alias: $Nil_\ast(R)\subseteq Nil^\ast(R)\subseteq J(R)$
+categories:
+- THMCAT_000004
+citation:
+- CITE_000331
+commutative_only: false
+link: null
+statement: In any ring, $Nil_\ast(R)\subseteq Nil^\ast(R)\subseteq J(R)$. ($Nil_\ast(R)$
+  is the intersection of all prime ideals, and $Nil^\ast(R)$ is the sum of all nil
+  ideals.)  If $R$ is right Artinian, all three coincide.

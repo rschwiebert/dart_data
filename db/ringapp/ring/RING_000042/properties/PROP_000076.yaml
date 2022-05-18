@@ -1,0 +1,9 @@
+citation_left: []
+citation_right: []
+crosstable_pk: 15697
+has_on_left: null
+has_on_right: false
+property: PROP_000076
+reason_left: null
+reason_right: 'Logic 72: uniserial ring on the right ===> uniform on the right'
+ring: RING_000042

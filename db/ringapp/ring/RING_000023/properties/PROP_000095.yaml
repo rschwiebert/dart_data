@@ -1,0 +1,10 @@
+citation_left: []
+citation_right: []
+crosstable_pk: 17965
+has_on_left: false
+has_on_right: false
+property: PROP_000095
+reason_left: The homomorphism sending x to y cannot be induced by multiplication by
+  an element of the ring
+reason_right: symmetry with left side
+ring: RING_000023

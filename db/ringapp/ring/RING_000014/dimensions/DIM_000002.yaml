@@ -1,0 +1,6 @@
+citation: []
+crosstable_pk: 228
+dimension_type: DIM_000002
+left_dimension: $n(n+1)/2$
+right_dimension: $n(n+1)/2$
+ring: RING_000014

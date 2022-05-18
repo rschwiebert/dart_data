@@ -1,0 +1,5 @@
+citation: []
+commutative_only: true
+definition: The sum of any positive number of 1's is always nonzero.
+name: characteristic 0 field
+symmetric: true

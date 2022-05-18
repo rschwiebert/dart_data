@@ -1,0 +1,7 @@
+citation:
+- CITE_000346
+crosstable_pk: 322
+dimension_type: DIM_000001
+left_dimension: '1'
+right_dimension: '1'
+ring: RING_000117

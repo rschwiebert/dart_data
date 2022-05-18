@@ -1,0 +1,10 @@
+alias: "Andrunakievi\u010D's theorem on subdirect representations of reduced rings"
+categories:
+- THMCAT_000002
+citation:
+- CITE_000412
+- CITE_000413
+commutative_only: false
+link: null
+statement: For any reduced ring $R$, $R$ is a subdirect product of (possibly noncommutative)
+  domains.  In particular, every simple reduced ring is a domain.

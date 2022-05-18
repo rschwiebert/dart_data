@@ -1,0 +1,9 @@
+alias: Inheritance of UFD to power series rings
+categories:
+- THMCAT_000003
+citation:
+- CITE_000502
+commutative_only: true
+link: null
+statement: If $R$ is a regular UFD, then so is $R[[X]]$.  (The statement is not true
+  if regular is dropped.)

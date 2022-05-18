@@ -1,0 +1,10 @@
+alias: Goldie's theorem on semisimple classical quotient rings
+categories:
+- THMCAT_000006
+- THMCAT_000007
+citation: []
+commutative_only: false
+link: https://en.wikipedia.org/wiki/Goldie%27s_theorem
+statement: 'For a ring $R$, the following are equivalent:  1) the right classical
+  ring of quotients for $R$ is semisimple; 2) $R$ is a semiprime and right Goldie
+  ring.'

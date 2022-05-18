@@ -1,0 +1,17 @@
+citation: []
+description: Let $X$ be an infinite set and let $M$ be the monoid with zero given
+  by the presentation  $$\langle X\cup X^*\mid x^*y=\delta_{x,y}, x,y\in X\rangle$$
+  where $X^*$ is a bijective copy of $X$.  Let $R=K_0M$ be the contracted monoid algebra.  So
+  it has $K$-basis $M\setminus \{0\}$ and the product extends that of $M$, where we
+  identify the zero of $M$ with the zero of $K$.  Now define $d\colon R\to R$ on the
+  basis $M\setminus \{0\}$ as follows.  Fix $x\in X$ and put $$d_x(pq^*) = (|p|_x-|q|_x)pq^*.$$  Here
+  $|w|_x$ is the number of occurrences of the letter $x$ in $w$. $d$ is a noninner
+  derivation.
+is_commutative: false
+keywords:
+- KWD_000069
+- KWD_000068
+krull_dim: null
+name: Leavitt path algebra of an infinite bouquet of circles
+notes: null
+optional_template: ''

@@ -1,0 +1,9 @@
+alias: Kaplansky's theorem on PI algebras
+categories:
+- THMCAT_000002
+citation:
+- CITE_000342
+commutative_only: false
+link: null
+statement: A primitive algebra satisfying a polynomial identity must be finite dimensional
+  over its center.

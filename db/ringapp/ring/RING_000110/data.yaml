@@ -1,0 +1,13 @@
+citation:
+- CITE_000295
+description: Let $\sigma:k\to k$ be a field endomorphism of a countable field $k$
+  such that $\infty =[k:\sigma(k)]>1$. $k[x;\sigma]$ is the twisted polynomial ring
+  where $xa:=\sigma(a)x$ for all $a$ in $k$. The ring is $k[x;\sigma]/(x^2)$.
+is_commutative: false
+keywords:
+- KWD_000003
+- KWD_000027
+krull_dim: '0'
+name: $k[x;\sigma]/(x^2)$ (not right Artinian)
+notes: null
+optional_template: ''

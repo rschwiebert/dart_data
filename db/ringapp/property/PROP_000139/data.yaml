@@ -1,0 +1,5 @@
+citation: []
+commutative_only: true
+definition: every finitely generated integral domain over $R$ is Japanese
+name: universally Japanese
+symmetric: true

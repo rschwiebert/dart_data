@@ -1,0 +1,11 @@
+citation:
+- CITE_000084
+description: Triangular ring $\begin{bmatrix}\mathbb Q& k\\ 0& k\end{bmatrix}$ where
+  $k$ is the field of constructible numbers.
+is_commutative: false
+keywords:
+- KWD_000004
+krull_dim: '0'
+name: Right-not-left Artinian triangular ring
+notes: null
+optional_template: ''

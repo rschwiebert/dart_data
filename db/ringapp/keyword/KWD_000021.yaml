@@ -1,0 +1,4 @@
+description: 'Given a group $G$ and a ring $R$, the underlying set of $R[G]$ is the
+  set of finite linear combinations using $G$ as a basis.  Addition: $(\sum_g a_gg)(\sum_h
+  b_hh)=\sum_k (a_k+b_k)k$.  Multiplication: $(\sum_g a_gg)(\sum_h b_hh):=\sum_{gh=k}a_gb_hk$'
+name: group ring

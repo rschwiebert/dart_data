@@ -1,0 +1,10 @@
+citation: []
+description: Let $k$ be a countably infinite field, $V$ be an infinite dimensional
+  $k$-vector space, and consider the trivial extension $T(k,V)$.
+is_commutative: true
+keywords:
+- KWD_000009
+krull_dim: '0'
+name: Perfect non-Artinian ring
+notes: Radical has square zero.
+optional_template: ''

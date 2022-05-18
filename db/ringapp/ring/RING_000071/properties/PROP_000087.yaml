@@ -1,0 +1,10 @@
+citation_left: []
+citation_right: []
+crosstable_pk: 7005
+has_on_left: false
+has_on_right: false
+property: PROP_000087
+reason_left: symmetry with right side
+reason_right: 'Logic 335: Artinian on the left and right and commutative <==> coherent
+  on the right and commutative and perfect on the left and right'
+ring: RING_000071

@@ -1,0 +1,10 @@
+alias: Uniserial Noetherian rings
+categories:
+- THMCAT_000002
+citation:
+- CITE_000211
+commutative_only: false
+link: null
+statement: Let $R$ be left and right valuation (=left and right uniserial) and right
+  Noetherian. Then $R$ is left noetherian, and moreover either $R$ is a domain or
+  $R$ is left and right Artinian.

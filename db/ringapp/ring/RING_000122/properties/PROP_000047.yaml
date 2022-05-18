@@ -1,0 +1,9 @@
+citation_left: []
+citation_right: []
+crosstable_pk: 16021
+has_on_left: true
+has_on_right: true
+property: PROP_000047
+reason_left: 'Logic 131: semiregular ===> exchange'
+reason_right: 'Logic 131: semiregular ===> exchange'
+ring: RING_000122

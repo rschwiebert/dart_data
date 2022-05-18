@@ -1,0 +1,9 @@
+citation_left: []
+citation_right: []
+crosstable_pk: 11030
+has_on_left: false
+has_on_right: false
+property: PROP_000054
+reason_left: 'Logic 301: field <==> commutative and division ring'
+reason_right: 'Logic 301: field <==> commutative and division ring'
+ring: RING_000091

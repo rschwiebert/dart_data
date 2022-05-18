@@ -1,0 +1,10 @@
+citation_left: []
+citation_right: []
+crosstable_pk: 14527
+has_on_left: true
+has_on_right: false
+property: PROP_000076
+reason_left: 'Logic 415: valuation domain on the right ===> uniserial ring on the
+  right'
+reason_right: 'Logic 70: uniserial ring on the right ===> Bezout on the right'
+ring: RING_000111

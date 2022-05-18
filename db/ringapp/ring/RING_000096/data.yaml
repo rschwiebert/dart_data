@@ -1,0 +1,13 @@
+citation:
+- CITE_000207
+description: Let $V=\oplus_{i=0}^\infty \mathbb Q$, and $S=\{(b,b,\ldots\mid b\in
+  \mathbb Z\}$. Then $R$ is the subring of $\prod_{i=0}^\infty \mathbb Q$ generated
+  by $V$ and $S$.
+is_commutative: true
+keywords:
+- KWD_000011
+- KWD_000007
+krull_dim: (unknown)
+name: reduced $I_0$ ring that is not exchange
+notes: null
+optional_template: ''

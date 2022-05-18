@@ -1,0 +1,9 @@
+citation: []
+description: The algebraic closure of the field of two elements.
+is_commutative: true
+keywords:
+- KWD_000022
+krull_dim: (unknown)
+name: Algebraic closure of $F_2$
+notes: null
+optional_template: ''

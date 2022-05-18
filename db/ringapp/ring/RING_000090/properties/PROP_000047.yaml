@@ -1,0 +1,9 @@
+citation_left: []
+citation_right: []
+crosstable_pk: 14132
+has_on_left: false
+has_on_right: false
+property: PROP_000047
+reason_left: 'Logic 378: exchange ===> potent'
+reason_right: 'Logic 378: exchange ===> potent'
+ring: RING_000090

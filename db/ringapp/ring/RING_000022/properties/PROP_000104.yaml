@@ -1,0 +1,10 @@
+citation_left: []
+citation_right: []
+crosstable_pk: 5637
+has_on_left: false
+has_on_right: null
+property: PROP_000104
+reason_left: 'Logic 224: distributive on the right and nonsingular on the right ===>
+  reduced'
+reason_right: null
+ring: RING_000022

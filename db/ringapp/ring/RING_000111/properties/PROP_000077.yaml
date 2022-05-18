@@ -1,0 +1,10 @@
+citation_left: []
+citation_right: []
+crosstable_pk: 14564
+has_on_left: true
+has_on_right: false
+property: PROP_000077
+reason_left: 'Logic 71: uniserial ring on the right <==> local and serial on the right'
+reason_right: 'Logic 71: uniserial ring on the right <==> local and serial on the
+  right'
+ring: RING_000111

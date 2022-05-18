@@ -1,0 +1,9 @@
+citation_left: []
+citation_right: []
+crosstable_pk: 17591
+has_on_left: false
+has_on_right: false
+property: PROP_000120
+reason_left: 'Logic 466: analytically unramified ===> local'
+reason_right: 'Logic 466: analytically unramified ===> local'
+ring: RING_000033

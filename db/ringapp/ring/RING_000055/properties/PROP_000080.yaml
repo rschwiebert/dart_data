@@ -1,0 +1,9 @@
+citation_left: []
+citation_right: []
+crosstable_pk: 8548
+has_on_left: false
+has_on_right: false
+property: PROP_000080
+reason_left: 'Logic 217: self-injective on the right and semilocal ===> semiperfect'
+reason_right: 'Logic 217: self-injective on the right and semilocal ===> semiperfect'
+ring: RING_000055

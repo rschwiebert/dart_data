@@ -1,0 +1,11 @@
+citation:
+- CITE_000233
+description: The construction (to be elaborated later) is of a semigroup ring $R=k[M]$
+  for a special monoid $M$.
+is_commutative: true
+keywords:
+- KWD_000010
+krull_dim: (unknown)
+name: Hochster's connected, nondomain, locally-domain ring
+notes: null
+optional_template: ''

@@ -1,0 +1,9 @@
+citation_left: []
+citation_right: []
+crosstable_pk: 15689
+has_on_left: true
+has_on_right: true
+property: PROP_000099
+reason_left: trivial socle is finitely generated
+reason_right: trivial socle is finitely generated
+ring: RING_000073

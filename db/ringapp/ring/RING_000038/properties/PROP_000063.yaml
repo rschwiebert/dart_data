@@ -1,0 +1,9 @@
+citation_left: []
+citation_right: []
+crosstable_pk: 921
+has_on_left: true
+has_on_right: true
+property: PROP_000063
+reason_left: Left composition length 2
+reason_right: Left composition length n+1
+ring: RING_000038

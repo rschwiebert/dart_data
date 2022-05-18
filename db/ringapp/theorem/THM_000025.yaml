@@ -1,0 +1,11 @@
+alias: When a group ring is principally injective
+categories:
+- THMCAT_000003
+citation:
+- CITE_000263
+commutative_only: false
+link: null
+statement: "If $R[G]$ is right principally injective, then $R$ is right principally\
+  \ injective and $G$ is locally finite.  (The converse is false.)\r\n\r\nIf $R$ is\
+  \ right self-injective and $G$ is locally finite, then $R[G]$ is right principally\
+  \ injective."

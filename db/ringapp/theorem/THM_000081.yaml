@@ -1,0 +1,9 @@
+alias: Krull dimension of an infinite product
+categories:
+- THMCAT_000040
+citation:
+- CITE_000349
+commutative_only: true
+link: https://www.ams.org/journals/tran/1992-331-02/S0002-9947-1992-1041047-4/S0002-9947-1992-1041047-4.pdf
+statement: In an infinite product of rings, if infinitely many of the rings have positive
+  dimension, then the product ring has infinite dimension.

@@ -1,0 +1,15 @@
+citation:
+- CITE_000404
+- CITE_000085
+description: Let $D$ be a countable, existentially closed division ring over a field
+  $F$. Let $S=D\otimes_F F(x)$. Let $R$ be the trivial extension $T(S,D)$ of $S$ by
+  the $S$-module $D$
+is_commutative: false
+keywords:
+- KWD_000001
+- KWD_000025
+- KWD_000009
+krull_dim: null
+name: Faith-Menal counterexample
+notes: null
+optional_template: ''

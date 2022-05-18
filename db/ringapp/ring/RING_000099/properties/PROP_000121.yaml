@@ -1,0 +1,9 @@
+citation_left: []
+citation_right: []
+crosstable_pk: 14105
+has_on_left: false
+has_on_right: false
+property: PROP_000121
+reason_left: 'Logic 308: Gorenstein ===> Cohen-Macaulay'
+reason_right: 'Logic 308: Gorenstein ===> Cohen-Macaulay'
+ring: RING_000099

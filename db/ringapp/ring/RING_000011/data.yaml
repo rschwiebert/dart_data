@@ -1,0 +1,10 @@
+citation: []
+description: The ring of $n \times n$ matrices with entries from a finite field $F$,
+  $n$ a natural number.
+is_commutative: false
+keywords:
+- KWD_000015
+krull_dim: '0'
+name: $M_n(F_q)$
+notes: ''
+optional_template: ''

@@ -1,0 +1,9 @@
+citation_left: []
+citation_right: []
+crosstable_pk: 946
+has_on_left: true
+has_on_right: true
+property: PROP_000063
+reason_left: The ring is a finite dimensional module over k
+reason_right: The ring is a finite dimensional module over k
+ring: RING_000041

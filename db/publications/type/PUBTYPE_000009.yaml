@@ -1,0 +1,5 @@
+bibtex_types: patent, misc
+description: Patents
+hidden: true
+order: 8
+type: Patent

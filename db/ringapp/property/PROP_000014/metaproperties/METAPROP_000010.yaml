@@ -1,0 +1,8 @@
+citation:
+- 128
+commutative_only: false
+crosstable_pk: 67
+example: null
+has_metaproperty: true
+metaproperty: METAPROP_000010
+property: PROP_000014

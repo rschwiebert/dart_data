@@ -1,0 +1,12 @@
+citation:
+- CITE_000147
+- CITE_000148
+description: The ring is the (semi)localization of the integers at the multiplicative
+  set of numbers not divisible by either of $2$ and $3$
+is_commutative: true
+keywords:
+- KWD_000005
+krull_dim: '1'
+name: $\mathbb Z_S$, where $S=((2)\cup(3))^c$
+notes: Exactly two maximal ideals.
+optional_template: ''

@@ -1,0 +1,3 @@
+definition: The cardinality of the underlying set of the ring.
+name: cardinality
+symmetric: true

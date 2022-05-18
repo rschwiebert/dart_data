@@ -1,0 +1,6 @@
+citation:
+- CITE_000302
+commutative_only: false
+definition: For all $x\in R$, $xR\supseteq x^2R\supseteq x^3R\supseteq \ldots$ terminates
+name: strongly $\pi$-regular
+symmetric: true

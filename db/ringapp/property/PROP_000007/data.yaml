@@ -1,0 +1,7 @@
+citation:
+- CITE_000255
+commutative_only: false
+definition: For any subset $X$ of $R$, the right annihilator of $X$ is a summand of
+  $R$
+name: Baer
+symmetric: true

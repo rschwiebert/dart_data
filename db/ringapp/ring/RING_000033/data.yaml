@@ -1,0 +1,9 @@
+citation: []
+description: The integral closure of the integers in the complex numbers.
+is_commutative: true
+keywords:
+- KWD_000018
+krull_dim: '1'
+name: Algebraic integers
+notes: null
+optional_template: ''

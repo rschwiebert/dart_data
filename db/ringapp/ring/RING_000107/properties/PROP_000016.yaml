@@ -1,0 +1,11 @@
+citation_left: []
+citation_right: []
+crosstable_pk: 13857
+has_on_left: true
+has_on_right: true
+property: PROP_000016
+reason_left: 'Logic 173: commutative and fully semiprime <==> commutative and von
+  Neumann regular'
+reason_right: 'Logic 173: commutative and fully semiprime <==> commutative and von
+  Neumann regular'
+ring: RING_000107

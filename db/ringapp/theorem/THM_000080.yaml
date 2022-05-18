@@ -1,0 +1,10 @@
+alias: Camillo's theorem on semihereditary polynomial rings
+categories:
+- THMCAT_000003
+- THMCAT_000006
+citation:
+- CITE_000348
+commutative_only: true
+link: https://www.ams.org/journals/proc/1974-045-02/S0002-9939-1974-0352165-2/S0002-9939-1974-0352165-2.pdf
+statement: For a commutative ring $R$,  the polynomial ring $R[x]$ is semihereditary
+  iff $R$ is von Neumann regular.

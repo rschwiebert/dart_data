@@ -1,0 +1,10 @@
+citation: []
+description: The ring of $n \times n$ matrices over a finite field $F$ whose entries
+  below the diagonal are all zero.
+is_commutative: false
+keywords:
+- KWD_000015
+krull_dim: '0'
+name: $T_n(F_q)$
+notes: ''
+optional_template: ''

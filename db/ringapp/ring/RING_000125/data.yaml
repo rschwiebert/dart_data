@@ -1,0 +1,14 @@
+citation:
+- CITE_000416
+description: Let $S$ be <a href="https://ringtheory.herokuapp.com/rings/ring/44/">$R_{44}$</a>
+  . There must exist an ordinal $\beta$ such that $Soc_\beta(S_S)=Soc_{\beta+1}(S_S)\neq
+  S$.  The required ring is $R=S/Soc_\beta(S_S)$.
+is_commutative: false
+keywords:
+- KWD_000008
+- KWD_000003
+- KWD_000007
+krull_dim: (unknown)
+name: Right-not-left simple injective ring
+notes: I've reversed sides from the description in the original paper
+optional_template: ''

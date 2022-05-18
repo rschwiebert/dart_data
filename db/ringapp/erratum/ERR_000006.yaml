@@ -1,0 +1,6 @@
+corrected_location:
+- CITE_000415
+description: Elliger's theorem was that a left-and-right self-injective simple ring
+  must be Artinian, but this was shown to be false by Goodearl.
+error_location: CITE_000414
+example: RING_000161

@@ -1,0 +1,12 @@
+citation:
+- CITE_000103
+description: $R$ is the ring with generators $\{a_{ij}, b_{kl}\mid 1\leq i,l\leq 2,
+  1\leq j, k\leq 3\}$, satisfying the relations $(a_{ij})(b_{kl})=I_2$ and $(b_{kl})(a_{ij})=I_3$
+is_commutative: false
+keywords:
+- KWD_000026
+- KWD_000003
+krull_dim: null
+name: Cohn's non-IBN domain
+notes: Special case of a more general construction with $m=2$ and $n=3$.
+optional_template: ''

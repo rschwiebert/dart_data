@@ -1,0 +1,6 @@
+citation: []
+commutative_only: false
+definition: $R$ is right CS, and if $e,f$ are idempotents with $eR\cap fR=\{0\}$,
+  then $eR\oplus fR$ is a summand of $R$.
+name: quasi-continuous
+symmetric: false

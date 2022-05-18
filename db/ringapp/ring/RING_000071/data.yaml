@@ -1,0 +1,13 @@
+citation:
+- CITE_000092
+description: Quotient of $\mathbb F_2[x_1, x_2, x_3\ldots ]$ such that $x_i^3=0$ for
+  all $i$, $x_ix_j=0$ for $i\neq j$, and $x_i^2=m\neq 0$ for all $i$. $F_2$ denotes
+  the field of two elements.
+is_commutative: true
+keywords:
+- KWD_000003
+krull_dim: '0'
+name: $\mathbb F_2[x_1, x_2, x_3\ldots ]/(\{x_i^3\mid i\in \mathbb N\}\cup\{x_ix_j|i\neq
+  j\}\cup\{x_i^2-m\mid i\in \mathbb N\})$
+notes: null
+optional_template: ''

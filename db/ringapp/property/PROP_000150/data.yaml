@@ -1,0 +1,7 @@
+citation: []
+commutative_only: true
+definition: A commutative local ring in which Hensel's Lemma holds.  (For any monic
+  polynomial $p$ in $R[x]$, all factorizations in $(R/M)[x]$ into a product of coprime
+  monic polynomials lift to factorizations in $R[x]$.)
+name: Henselian local
+symmetric: true

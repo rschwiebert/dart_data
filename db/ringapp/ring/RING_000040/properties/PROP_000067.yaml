@@ -1,0 +1,10 @@
+citation_left: []
+citation_right: []
+crosstable_pk: 9181
+has_on_left: false
+has_on_right: true
+property: PROP_000067
+reason_left: 'Logic 221: principal ideal ring on the right <==> ACC principal on the
+  right and Bezout on the right'
+reason_right: 'Logic 70: valuation ring on the right ===> Bezout on the right'
+ring: RING_000040

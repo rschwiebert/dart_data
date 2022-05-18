@@ -1,0 +1,6 @@
+citation:
+- CITE_000293
+commutative_only: true
+definition: A domain whose ideals are projective modules
+name: Dedekind domain
+symmetric: true

@@ -1,0 +1,9 @@
+citation: []
+description: The ring of all holomorphic functions on the complex numbers
+is_commutative: true
+keywords:
+- KWD_000016
+krull_dim: null
+name: Ring of holomorphic functions on $\mathbb C$
+notes: Not a UFD
+optional_template: ''

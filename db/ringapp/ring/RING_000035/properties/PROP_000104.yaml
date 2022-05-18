@@ -1,0 +1,10 @@
+citation_left: []
+citation_right: []
+crosstable_pk: 5527
+has_on_left: false
+has_on_right: false
+property: PROP_000104
+reason_left: 'Logic 225: distributive on the right and prime ===> uniform on the right'
+reason_right: 'Logic 225: distributive on the right and prime ===> uniform on the
+  right'
+ring: RING_000035

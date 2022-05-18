@@ -1,0 +1,6 @@
+citation: []
+commutative_only: false
+definition: For all $a\in R$, there exists a unit $u$ and idempotent $e$ such that
+  $a-e-u\in (1-e)Ra$. This is left-right symmetric.
+name: weakly clean
+symmetric: true

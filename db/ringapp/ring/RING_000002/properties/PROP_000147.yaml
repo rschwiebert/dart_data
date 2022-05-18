@@ -1,0 +1,9 @@
+citation_left: []
+citation_right: []
+crosstable_pk: 12042
+has_on_left: true
+has_on_right: true
+property: PROP_000147
+reason_left: 'Logic 383: semisimple ===> PCI ring on the left and right'
+reason_right: symmetry with left side
+ring: RING_000002

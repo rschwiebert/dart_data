@@ -1,0 +1,8 @@
+alias: Evans' Cancellation Theorem
+categories:
+- THMCAT_000005
+citation: []
+commutative_only: false
+link: http://msp.org/pjm/1973/46-1/pjm-v46-n1-p08-p.pdf
+statement: Let $M$ be a right $R$ module. If the endomorphism ring of $M_R$ has stable
+  range $1$, then $M$ is cancellable from direct sums in $Mod-R$.

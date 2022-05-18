@@ -1,0 +1,11 @@
+citation_left: []
+citation_right: []
+crosstable_pk: 6891
+has_on_left: false
+has_on_right: false
+property: PROP_000095
+reason_left: 'Logic 203: Dedekind finite and principally injective on the right ===>
+  cohopfian on the right'
+reason_right: 'Logic 203: Dedekind finite and principally injective on the right ===>
+  cohopfian on the right'
+ring: RING_000065

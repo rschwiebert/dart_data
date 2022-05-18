@@ -1,0 +1,9 @@
+citation_left: []
+citation_right: []
+crosstable_pk: 12600
+has_on_left: false
+has_on_right: false
+property: PROP_000055
+reason_left: $\sqrt[3]{2}$ is not constructible.
+reason_right: symmetry with left side
+ring: RING_000017

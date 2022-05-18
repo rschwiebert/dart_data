@@ -1,0 +1,13 @@
+citation:
+- CITE_000088
+- CITE_000089
+description: Let the interval $I=[0,1]$ in the real numbers be a monoid under addition,
+  where $a+b:=0$ if $a+b >1$. The ring is the monoid ring of $I$ over the field $F_2$
+  of two elements.
+is_commutative: true
+keywords:
+- KWD_000010
+krull_dim: '0'
+name: Interval monoid ring
+notes: $J(R)$ is idempotent and nil.
+optional_template: ''

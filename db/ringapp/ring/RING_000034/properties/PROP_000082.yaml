@@ -1,0 +1,9 @@
+citation_left: []
+citation_right: []
+crosstable_pk: 3727
+has_on_left: false
+has_on_right: false
+property: PROP_000082
+reason_left: 'Logic 163: perfect on the right ===> essential socle on the left'
+reason_right: 'Logic 163: perfect on the right ===> essential socle on the left'
+ring: RING_000034

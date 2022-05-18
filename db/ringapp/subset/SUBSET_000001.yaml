@@ -1,0 +1,3 @@
+definition: Intersection of all maximal right ideals. Equivalently, the elements which
+  annihilate all simple right modules.
+name: Jacobson radical

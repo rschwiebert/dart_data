@@ -1,0 +1,11 @@
+citation_left:
+- CITE_000297
+citation_right: []
+crosstable_pk: 14508
+has_on_left: true
+has_on_right: false
+property: PROP_000065
+reason_left: null
+reason_right: 'Logic 50: principal ideal domain on the right <==> domain and principal
+  ideal ring on the right'
+ring: RING_000111

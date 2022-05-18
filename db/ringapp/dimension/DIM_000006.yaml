@@ -1,0 +1,5 @@
+definition: (right uniform dimension) The maximum finite number of uniform right ideals
+  whose direct sum is an essential right ideal in $R$, or $\infty$ if no such maximum
+  exists.
+name: uniform dimension
+symmetric: false

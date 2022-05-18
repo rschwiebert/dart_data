@@ -1,0 +1,9 @@
+citation_left: []
+citation_right: []
+crosstable_pk: 9647
+has_on_left: true
+has_on_right: true
+property: PROP_000042
+reason_left: 'Logic 135: stable range 1 ===> stably finite'
+reason_right: 'Logic 135: stable range 1 ===> stably finite'
+ring: RING_000025

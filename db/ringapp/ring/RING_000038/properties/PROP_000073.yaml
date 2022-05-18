@@ -1,0 +1,9 @@
+citation_left: []
+citation_right: []
+crosstable_pk: 925
+has_on_left: false
+has_on_right: false
+property: PROP_000073
+reason_left: The element x is a nonzero singular element
+reason_right: The element x is a nonzero singular element
+ring: RING_000038

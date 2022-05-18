@@ -1,0 +1,11 @@
+citation:
+- CITE_000345
+description: The group ring of the group $(\mathbb Q, +)$ over the field $\mathbb
+  Q$.
+is_commutative: true
+keywords:
+- KWD_000021
+krull_dim: (unknown)
+name: $\mathbb Q[\mathbb Q]$
+notes: null
+optional_template: ''

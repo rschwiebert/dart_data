@@ -1,0 +1,12 @@
+citation: []
+description: By Krull's theorem for valuation rings, we may take $n>1$ and $G=\mathbb
+  Z^n$ with lexicographic order to form a totally ordered Abelian group, and the resulting
+  valuation domain $R$ is the ring. In this construction, is is possible to make choices
+  to ensure the resulting ring is countable.
+is_commutative: true
+keywords: []
+krull_dim: $n$
+name: Custom Krull dimension valuation ring
+notes: The classical Krull dimension of $R$ corresponds to the rank of $G$, in this
+  case $n>1$.
+optional_template: ''

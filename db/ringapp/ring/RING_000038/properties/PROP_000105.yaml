@@ -1,0 +1,9 @@
+citation_left: []
+citation_right: []
+crosstable_pk: 922
+has_on_left: true
+has_on_right: false
+property: PROP_000105
+reason_left: 'Logic 72: valuation ring on the right ===> uniform on the right'
+reason_right: right uniform dimension is greater than 1
+ring: RING_000038

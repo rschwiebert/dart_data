@@ -1,0 +1,9 @@
+alias: When a group ring is semiprime
+categories:
+- THMCAT_000003
+citation:
+- CITE_000465
+commutative_only: false
+link: null
+statement: $R[G]$ is semiprime iff $R$ is semiprime and $G$ is such that the order
+  of each finite normal subgroup is regular (i.e. not a zero divisor) in $R$.

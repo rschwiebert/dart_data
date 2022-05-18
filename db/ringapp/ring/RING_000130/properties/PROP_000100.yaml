@@ -1,0 +1,9 @@
+citation_left: []
+citation_right: []
+crosstable_pk: 18187
+has_on_left: false
+has_on_right: false
+property: PROP_000100
+reason_left: you can show $(x)^2\subsetneq (x)$, so there are no minimal ideals
+reason_right: symmetry with left side
+ring: RING_000130

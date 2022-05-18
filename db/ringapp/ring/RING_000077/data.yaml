@@ -1,0 +1,9 @@
+citation:
+- CITE_000149
+description: $\mathbb Z[\sqrt{-5}]$
+is_commutative: true
+keywords: []
+krull_dim: '1'
+name: $\mathbb Z[\sqrt{-5}]$
+notes: null
+optional_template: ''

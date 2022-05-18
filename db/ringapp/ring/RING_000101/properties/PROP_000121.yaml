@@ -1,0 +1,9 @@
+citation_left: []
+citation_right: []
+crosstable_pk: 13171
+has_on_left: true
+has_on_right: true
+property: PROP_000121
+reason_left: 'Logic 317: regular local ===> Gorenstein'
+reason_right: 'Logic 317: regular local ===> Gorenstein'
+ring: RING_000101

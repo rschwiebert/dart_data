@@ -1,0 +1,9 @@
+citation_left: []
+citation_right: []
+crosstable_pk: 8928
+has_on_left: true
+has_on_right: true
+property: PROP_000052
+reason_left: 'Logic 101: semiperfect ===> clean'
+reason_right: 'Logic 101: semiperfect ===> clean'
+ring: RING_000042

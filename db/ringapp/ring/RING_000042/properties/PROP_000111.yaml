@@ -1,0 +1,11 @@
+citation_left: []
+citation_right: []
+crosstable_pk: 8945
+has_on_left: false
+has_on_right: false
+property: PROP_000111
+reason_left: 'Logic 267: Dedekind domain <==> commutative and domain and hereditary
+  on the left or right'
+reason_right: 'Logic 267: Dedekind domain <==> commutative and domain and hereditary
+  on the left or right'
+ring: RING_000042

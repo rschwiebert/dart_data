@@ -1,0 +1,9 @@
+citation_left: []
+citation_right: []
+crosstable_pk: 4752
+has_on_left: false
+has_on_right: false
+property: PROP_000036
+reason_left: 'Logic 178: symmetric ===> reversible'
+reason_right: 'Logic 178: symmetric ===> reversible'
+ring: RING_000082

@@ -1,0 +1,9 @@
+alias: fp-injectivity in serial rings
+categories:
+- THMCAT_000001
+citation:
+- CITE_000213
+commutative_only: false
+link: null
+statement: 'For a left and right serial ring $R$, the following are equivalent: 1)
+  $R$ is right fp-injective 2) the right singular ideal equals the Jacobson radical.'

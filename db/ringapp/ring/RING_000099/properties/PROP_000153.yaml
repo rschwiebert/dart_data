@@ -1,0 +1,9 @@
+citation_left: []
+citation_right: []
+crosstable_pk: 15300
+has_on_left: false
+has_on_right: false
+property: PROP_000153
+reason_left: The localization at its maximal ideal is not a discrete valuation ring
+reason_right: symmetry with left side
+ring: RING_000099

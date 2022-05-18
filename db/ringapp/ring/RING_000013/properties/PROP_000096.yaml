@@ -1,0 +1,9 @@
+citation_left: []
+citation_right: []
+crosstable_pk: 1114
+has_on_left: true
+has_on_right: true
+property: PROP_000096
+reason_left: $R/J(R)$ is a product of fields, so all maximal right ideals are two-sided
+reason_right: $R/J(R)$ is a product of fields, so all maximal right ideals are two-sided
+ring: RING_000013

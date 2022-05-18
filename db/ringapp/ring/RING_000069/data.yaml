@@ -1,0 +1,11 @@
+citation:
+- CITE_000157
+- CITE_000158
+description: The localization of $\mathbb Z$ at a nonzero prime ideal $(p)$.
+is_commutative: true
+keywords:
+- KWD_000005
+krull_dim: '1'
+name: $\mathbb Z_{(p)}$
+notes: null
+optional_template: ''

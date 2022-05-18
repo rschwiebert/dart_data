@@ -1,0 +1,5 @@
+citation: []
+commutative_only: true
+definition: A field over which every irreducible polynomial has distinct roots.
+name: perfect field
+symmetric: true

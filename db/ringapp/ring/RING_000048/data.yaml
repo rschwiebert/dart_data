@@ -1,0 +1,9 @@
+citation: []
+description: ring of rational polynomials over the finite field of $p$ elements
+is_commutative: true
+keywords:
+- KWD_000001
+krull_dim: '0'
+name: $F_p(x)$
+notes: Is a field that isn't a perfect field.
+optional_template: ''

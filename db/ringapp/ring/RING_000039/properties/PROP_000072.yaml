@@ -1,0 +1,10 @@
+citation_left: []
+citation_right: []
+crosstable_pk: 956
+has_on_left: true
+has_on_right: false
+property: PROP_000072
+reason_left: 'Logic 59: semihereditary on the right ===> Rickart on the right'
+reason_right: T has a principal nonprojective right ideal.T.Y. Lam Lectures on modules
+  and rings p 261
+ring: RING_000039

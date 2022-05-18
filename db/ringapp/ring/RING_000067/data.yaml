@@ -1,0 +1,15 @@
+citation:
+- CITE_000091
+description: "Construct $R_{70}$ <a href=\"/expanded-details/bergmans-exchange-ring/\"\
+  >as \u0160ter describes</a> using a field $F$ of characteristic $2$. Let $T$ be\
+  \ the subrng of $\\omega\\times\\omega$ matrices over $R_{70}$ which have only finitely\
+  \ many nonzero entries. The ring $R=T+F\\subseteq M_\\omega(R_{70})$ is \u0160ter's\
+  \ ring."
+is_commutative: false
+keywords:
+- KWD_000008
+- KWD_000007
+krull_dim: null
+name: "\u0160ter's clean ring with non-clean corner rings"
+notes: null
+optional_template: ''

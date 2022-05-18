@@ -1,0 +1,14 @@
+citation:
+- CITE_000140
+- CITE_000155
+- CITE_000141
+- CITE_000156
+description: For a countably infinite field $k$, the formal power series using $x^2$
+  and $x^3$.
+is_commutative: true
+keywords:
+- KWD_000012
+krull_dim: '1'
+name: $k[[x^2,x^3]]$
+notes: There are no prime elements. Integral closure is $k[[x]]$.
+optional_template: ''

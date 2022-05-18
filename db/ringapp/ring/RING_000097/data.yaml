@@ -1,0 +1,16 @@
+citation:
+- CITE_000212
+description: "Let $\\mathbb Z_{(p)}$ be the localization of the integers at a prime\
+  \ $p$, and $\\mathbb Z_{p^\\infty}$ be the Pr\xFCfer $p$ group, and $\\mathbb Z_p=End(\\\
+  mathbb Z_{p^\\infty})$ be the $p$-adic integers.  Then $R$ is the ring $\\begin{bmatrix}\\\
+  mathbb Z_{(p)}& \\mathbb Z_{p^\\infty}\\\\0&\\mathbb Z_p \\end{bmatrix}$"
+is_commutative: false
+keywords:
+- KWD_000032
+- KWD_000005
+- KWD_000004
+krull_dim: (unknown)
+name: Puninski's triangular serial ring
+notes: Krull dimension $1$, (probably Rentschler-MIchler Krull dimension) The radical
+  is the union of the singular ideals. It is its own classical quotient ring.
+optional_template: ''

@@ -1,0 +1,11 @@
+citation_left: []
+citation_right: []
+crosstable_pk: 14820
+has_on_left: false
+has_on_right: false
+property: PROP_000089
+reason_left: 'Logic 417: ACC annihilator on the right and principally injective on
+  the right ===> Artinian on the left'
+reason_right: 'Logic 417: ACC annihilator on the right and principally injective on
+  the right ===> Artinian on the left'
+ring: RING_000081

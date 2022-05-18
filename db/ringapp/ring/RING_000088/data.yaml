@@ -1,0 +1,12 @@
+citation:
+- CITE_000136
+- CITE_000163
+description: The polynomial ring in countably infinitely many variables over $\mathbb
+  R$.
+is_commutative: true
+keywords:
+- KWD_000002
+krull_dim: inf
+name: $\mathbb R[x_1, x_2,x_3,\ldots]$
+notes: Uncountability of the base field is necessary to show it is Hilbert.
+optional_template: ''

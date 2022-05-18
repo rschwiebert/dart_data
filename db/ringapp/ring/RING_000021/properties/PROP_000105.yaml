@@ -1,0 +1,11 @@
+citation_left: []
+citation_right: []
+crosstable_pk: 6747
+has_on_left: true
+has_on_right: false
+property: PROP_000105
+reason_left: 'Logic 458: CS on the right and strongly connected ===> uniform on the
+  right'
+reason_right: 'Logic 165: uniform on the right ===> finite uniform dimension on the
+  right'
+ring: RING_000021

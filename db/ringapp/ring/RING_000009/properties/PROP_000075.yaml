@@ -1,0 +1,9 @@
+citation_left: []
+citation_right: []
+crosstable_pk: 3268
+has_on_left: true
+has_on_right: true
+property: PROP_000075
+reason_left: 'Logic 24: semisimple ===> V ring on the left and right'
+reason_right: 'Logic 24: semisimple ===> V ring on the left and right'
+ring: RING_000009

@@ -1,0 +1,15 @@
+citation:
+- CITE_000384
+description: "The construction is a skew polynomial ring $E[t, \\rho,\\delta]$ where\
+  \ $E$ is a field of characteristic $0$, $\\rho$ is a monomorphism $E\\to E$, and\
+  \ $\\delta$ is a $\\rho$-derivation of $E$, that is, an additive map that also satisfies\
+  \ $\\delta(ab)=\\rho(a)\\delta(b)+\\delta(a)b$. The set of polynomials $E[t]$ is\
+  \ given a new multiplication that satisfies $ta=\\rho(a)t+\\delta(a)$.\r\n\r\n(Specifics\
+  \ about $E$, $\\rho$ and $\\delta$ to follow.)"
+is_commutative: false
+keywords:
+- KWD_000027
+krull_dim: '0'
+name: Cozzens simple, left principal, right non-Noetherian domain
+notes: null
+optional_template: ''

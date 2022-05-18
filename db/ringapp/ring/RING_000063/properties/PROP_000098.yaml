@@ -1,0 +1,10 @@
+citation_left: []
+citation_right: []
+crosstable_pk: 1057
+has_on_left: true
+has_on_right: true
+property: PROP_000098
+reason_left: symmetry with right side
+reason_right: If $P$ is the subgroup of $\mathbb Z_{p^\infty}$ of order $p$, then
+  $\{0\}\times P$ is simple and essential.
+ring: RING_000063

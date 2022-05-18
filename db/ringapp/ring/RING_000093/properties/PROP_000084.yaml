@@ -1,0 +1,9 @@
+citation_left: []
+citation_right: []
+crosstable_pk: 11743
+has_on_left: false
+has_on_right: false
+property: PROP_000084
+reason_left: 'Logic 170: strongly regular <==> duo on the right and von Neumann regular'
+reason_right: 'Logic 170: strongly regular <==> duo on the right and von Neumann regular'
+ring: RING_000093
