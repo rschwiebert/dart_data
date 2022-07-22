@@ -1,9 +1,0 @@
-citation_left: []
-citation_right: []
-crosstable_pk: 15389
-has_on_left: false
-has_on_right: false
-property: PROP_000005
-reason_left: 'Logic 25: semisimple ===> Frobenius'
-reason_right: 'Logic 25: semisimple ===> Frobenius'
-ring: RING_000112

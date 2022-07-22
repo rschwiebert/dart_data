@@ -1,9 +1,0 @@
-citation_left: []
-citation_right: []
-crosstable_pk: 6677
-has_on_left: false
-has_on_right: false
-property: PROP_000143
-reason_left: 'Logic 367: complete local ===> local'
-reason_right: 'Logic 367: complete local ===> local'
-ring: RING_000043

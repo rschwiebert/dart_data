@@ -1,9 +1,0 @@
-citation_left: []
-citation_right: []
-crosstable_pk: 4578
-has_on_left: true
-has_on_right: true
-property: PROP_000067
-reason_left: 'Logic 32: von Neumann regular ===> Bezout on the left and right'
-reason_right: 'Logic 32: von Neumann regular ===> Bezout on the left and right'
-ring: RING_000070

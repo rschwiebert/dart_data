@@ -1,9 +1,0 @@
-citation_left: []
-citation_right: []
-crosstable_pk: 871
-has_on_left: false
-has_on_right: true
-property: PROP_000063
-reason_left: 'Logic 9: Artinian on the right ===> Noetherian on the right'
-reason_right: Given in Lam FC p 20Lam FC p 20
-ring: RING_000020

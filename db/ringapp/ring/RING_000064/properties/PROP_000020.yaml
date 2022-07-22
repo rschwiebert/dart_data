@@ -1,9 +1,0 @@
-citation_left: []
-citation_right: []
-crosstable_pk: 4250
-has_on_left: false
-has_on_right: false
-property: PROP_000020
-reason_left: 'Logic 251: local and semiprimary ===> Kasch on the left and right'
-reason_right: 'Logic 251: local and semiprimary ===> Kasch on the left and right'
-ring: RING_000064

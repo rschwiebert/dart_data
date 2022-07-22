@@ -1,0 +1,88 @@
+METAPROP_000001:
+  citation: []
+  commutative_only: false
+  crosstable_pk: 159
+  example: RING_000012
+  has_metaproperty: false
+  metaproperty: METAPROP_000001
+  property: PROP_000002
+METAPROP_000002:
+  citation: []
+  commutative_only: false
+  crosstable_pk: 160
+  example: RING_000012
+  has_metaproperty: false
+  metaproperty: METAPROP_000002
+  property: PROP_000002
+METAPROP_000003:
+  citation: []
+  commutative_only: false
+  crosstable_pk: 168
+  example: RING_000002
+  has_metaproperty: false
+  metaproperty: METAPROP_000003
+  property: PROP_000002
+METAPROP_000004:
+  citation: []
+  commutative_only: false
+  crosstable_pk: 169
+  example: null
+  has_metaproperty: true
+  metaproperty: METAPROP_000004
+  property: PROP_000002
+METAPROP_000005:
+  citation: []
+  commutative_only: false
+  crosstable_pk: 166
+  example: RING_000009
+  has_metaproperty: false
+  metaproperty: METAPROP_000005
+  property: PROP_000002
+METAPROP_000006:
+  citation: []
+  commutative_only: false
+  crosstable_pk: 167
+  example: RING_000057
+  has_metaproperty: false
+  metaproperty: METAPROP_000006
+  property: PROP_000002
+METAPROP_000007:
+  citation: []
+  commutative_only: false
+  crosstable_pk: 161
+  example: null
+  has_metaproperty: false
+  metaproperty: METAPROP_000007
+  property: PROP_000002
+METAPROP_000008:
+  citation: []
+  commutative_only: false
+  crosstable_pk: 162
+  example: null
+  has_metaproperty: true
+  metaproperty: METAPROP_000008
+  property: PROP_000002
+METAPROP_000010:
+  citation: []
+  commutative_only: false
+  crosstable_pk: 163
+  example: null
+  has_metaproperty: true
+  metaproperty: METAPROP_000010
+  property: PROP_000002
+METAPROP_000012:
+  citation: []
+  commutative_only: false
+  crosstable_pk: 164
+  example: RING_000007
+  has_metaproperty: false
+  metaproperty: METAPROP_000012
+  property: PROP_000002
+METAPROP_000014:
+  citation: []
+  commutative_only: false
+  crosstable_pk: 165
+  example: RING_000027
+  has_metaproperty: false
+  metaproperty: METAPROP_000014
+  property: PROP_000002

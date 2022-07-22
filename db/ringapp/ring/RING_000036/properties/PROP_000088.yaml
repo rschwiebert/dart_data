@@ -1,9 +1,0 @@
-citation_left: []
-citation_right: []
-crosstable_pk: 858
-has_on_left: false
-has_on_right: false
-property: PROP_000088
-reason_left: (x)<(x/2)<(x/4)<...<(x/2^n)<... is a strictly ascending chain.
-reason_right: (x)<(x/2)<(x/4)<...<(x/2^n)<... is a strictly ascending chain.
-ring: RING_000036

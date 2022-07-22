@@ -1,0 +1,7 @@
+citation: []
+description: This can be thought of as the collection of $p^n$th roots of unity of
+  the circle group, where $n$ ranges over all of $\mathbb N$.
+name: "$Z(p^\\infty)$: the Pr\xFCfer $p$ group"
+notes: null
+opposite_ring: false
+ring: 1

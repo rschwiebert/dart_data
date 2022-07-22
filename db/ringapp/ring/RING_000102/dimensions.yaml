@@ -1,0 +1,7 @@
+DIM_000003:
+  citation: []
+  crosstable_pk: 311
+  dimension_type: DIM_000003
+  left_dimension: '2'
+  right_dimension: '2'
+  ring: RING_000102

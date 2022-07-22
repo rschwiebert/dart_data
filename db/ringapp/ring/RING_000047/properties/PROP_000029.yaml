@@ -1,9 +1,0 @@
-citation_left: []
-citation_right: []
-crosstable_pk: 9566
-has_on_left: true
-has_on_right: true
-property: PROP_000029
-reason_left: 'Logic 205: top simple Artinian ===> top simple'
-reason_right: 'Logic 205: top simple Artinian ===> top simple'
-ring: RING_000047

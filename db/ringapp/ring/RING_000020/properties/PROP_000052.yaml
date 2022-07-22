@@ -1,9 +1,0 @@
-citation_left: []
-citation_right: []
-crosstable_pk: 8238
-has_on_left: true
-has_on_right: true
-property: PROP_000052
-reason_left: 'Logic 122: strongly $\pi$-regular ===> clean'
-reason_right: 'Logic 122: strongly $\pi$-regular ===> clean'
-ring: RING_000020

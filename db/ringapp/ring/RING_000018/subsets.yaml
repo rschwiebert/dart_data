@@ -1,0 +1,30 @@
+SUBSET_000001:
+  citation: []
+  crosstable_pk: 22
+  ring: RING_000018
+  subset: $\{0\}$
+  subset_type: SUBSET_000001
+SUBSET_000002:
+  citation: []
+  crosstable_pk: 35
+  ring: RING_000018
+  subset: All nonzero elements.
+  subset_type: SUBSET_000002
+SUBSET_000003:
+  citation: []
+  crosstable_pk: 117
+  ring: RING_000018
+  subset: $\{0\}$
+  subset_type: SUBSET_000003
+SUBSET_000004:
+  citation: []
+  crosstable_pk: 63
+  ring: RING_000018
+  subset: $\{0,1\}$
+  subset_type: SUBSET_000004
+SUBSET_000009:
+  citation: []
+  crosstable_pk: 167
+  ring: RING_000018
+  subset: $\{0\}$
+  subset_type: SUBSET_000009

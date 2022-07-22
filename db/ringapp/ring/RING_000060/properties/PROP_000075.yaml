@@ -1,9 +1,0 @@
-citation_left: []
-citation_right: []
-crosstable_pk: 11266
-has_on_left: false
-has_on_right: false
-property: PROP_000075
-reason_left: An integral domain is a V ring only if it is a field.
-reason_right: symmetry with left side
-ring: RING_000060

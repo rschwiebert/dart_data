@@ -1,9 +1,0 @@
-citation_left: []
-citation_right: []
-crosstable_pk: 2184
-has_on_left: false
-has_on_right: false
-property: PROP_000061
-reason_left: 'Logic 311: perfect field ===> field'
-reason_right: 'Logic 311: perfect field ===> field'
-ring: RING_000011

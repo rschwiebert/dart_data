@@ -1,9 +1,0 @@
-citation_left: []
-citation_right: []
-crosstable_pk: 10952
-has_on_left: false
-has_on_right: false
-property: PROP_000077
-reason_left: 'Logic 75: serial on the left or right ===> semiperfect'
-reason_right: symmetry with left side
-ring: RING_000077

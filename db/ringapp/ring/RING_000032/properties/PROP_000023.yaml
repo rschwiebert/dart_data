@@ -1,9 +1,0 @@
-citation_left: []
-citation_right: []
-crosstable_pk: 887
-has_on_left: false
-has_on_right: false
-property: PROP_000023
-reason_left: 1-x and 1+x are contained in different maximal idealsobvious
-reason_right: symmetry with left side
-ring: RING_000032

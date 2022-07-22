@@ -1,0 +1,18 @@
+SUBSET_000003:
+  citation: []
+  crosstable_pk: 109
+  ring: RING_000034
+  subset: $\{0\}$
+  subset_type: SUBSET_000003
+SUBSET_000004:
+  citation: []
+  crosstable_pk: 53
+  ring: RING_000034
+  subset: $\{0,1\}$
+  subset_type: SUBSET_000004
+SUBSET_000009:
+  citation: []
+  crosstable_pk: 164
+  ring: RING_000034
+  subset: $\{0\}$
+  subset_type: SUBSET_000009

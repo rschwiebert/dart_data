@@ -1,0 +1,18 @@
+SUBSET_000001:
+  citation: []
+  crosstable_pk: 210
+  ring: RING_000019
+  subset: $\begin{bmatrix}0&\mathbb Q\\0&0\end{bmatrix}$
+  subset_type: SUBSET_000001
+SUBSET_000007:
+  citation: []
+  crosstable_pk: 211
+  ring: RING_000019
+  subset: $\begin{bmatrix}0&\mathbb Q\\0&\mathbb Q\end{bmatrix}$
+  subset_type: SUBSET_000007
+SUBSET_000008:
+  citation: []
+  crosstable_pk: 212
+  ring: RING_000019
+  subset: $\begin{bmatrix}0&0\\0&0\end{bmatrix}$
+  subset_type: SUBSET_000008

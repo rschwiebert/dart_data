@@ -1,9 +1,0 @@
-citation_left: []
-citation_right: []
-crosstable_pk: 12370
-has_on_left: true
-has_on_right: true
-property: PROP_000149
-reason_left: 'Logic 393: finite ===> countable'
-reason_right: 'Logic 393: finite ===> countable'
-ring: RING_000072

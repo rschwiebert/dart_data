@@ -1,9 +1,0 @@
-citation_left: []
-citation_right: []
-crosstable_pk: 12739
-has_on_left: false
-has_on_right: false
-property: PROP_000151
-reason_left: 'Logic 400: periodic ===> strongly $\pi$-regular'
-reason_right: 'Logic 400: periodic ===> strongly $\pi$-regular'
-ring: RING_000060

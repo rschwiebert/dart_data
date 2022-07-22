@@ -1,9 +1,0 @@
-citation_left: []
-citation_right: []
-crosstable_pk: 14456
-has_on_left: false
-has_on_right: false
-property: PROP_000126
-reason_left: 'Logic 319: Schreier domain ===> normal domain'
-reason_right: 'Logic 319: Schreier domain ===> normal domain'
-ring: RING_000110

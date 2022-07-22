@@ -1,9 +1,0 @@
-citation_left: []
-citation_right: []
-crosstable_pk: 17497
-has_on_left: false
-has_on_right: false
-property: PROP_000083
-reason_left: symmetry with right side
-reason_right: 'Logic 237: division ring <==> cohopfian on the right and domain'
-ring: RING_000128

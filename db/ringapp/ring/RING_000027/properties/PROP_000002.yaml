@@ -1,9 +1,0 @@
-citation_left: []
-citation_right: []
-crosstable_pk: 4130
-has_on_left: false
-has_on_right: false
-property: PROP_000002
-reason_left: 'Logic 192: division ring <==> strongly connected and von Neumann regular'
-reason_right: 'Logic 192: division ring <==> strongly connected and von Neumann regular'
-ring: RING_000027

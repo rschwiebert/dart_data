@@ -1,0 +1,5 @@
+citation: []
+definition: If $\{N_i\mid i\in I\}$ is a collection of submodules such that $\cap_{i\in
+  I} N_i=\{0\}$, then there exists a finite subset $F$ of $I$ such that $\cap_{i\in
+  F} N_i=\{0\}$.
+name: finitely cogenerated

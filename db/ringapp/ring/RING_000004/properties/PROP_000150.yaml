@@ -1,9 +1,0 @@
-citation_left: []
-citation_right: []
-crosstable_pk: 12611
-has_on_left: true
-has_on_right: true
-property: PROP_000150
-reason_left: 'Logic 396: complete local ===> Henselian local'
-reason_right: 'Logic 396: complete local ===> Henselian local'
-ring: RING_000004

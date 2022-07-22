@@ -1,9 +1,0 @@
-citation_left: []
-citation_right: []
-crosstable_pk: 15980
-has_on_left: false
-has_on_right: false
-property: PROP_000092
-reason_left: 'Logic 136: continuous on the left or right ===> semiregular'
-reason_right: 'Logic 136: continuous on the left or right ===> semiregular'
-ring: RING_000119

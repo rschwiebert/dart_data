@@ -1,9 +1,0 @@
-citation_left: []
-citation_right: []
-crosstable_pk: 18220
-has_on_left: true
-has_on_right: true
-property: PROP_000128
-reason_left: 'Logic 325: 2-primal and Jacobson (Hilbert) ===> rad-nil'
-reason_right: 'Logic 325: 2-primal and Jacobson (Hilbert) ===> rad-nil'
-ring: RING_000076

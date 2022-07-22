@@ -1,9 +1,0 @@
-citation_left: []
-citation_right: []
-crosstable_pk: 12397
-has_on_left: false
-has_on_right: false
-property: PROP_000002
-reason_left: Required $n>1$
-reason_right: symmetry with left side
-ring: RING_000099

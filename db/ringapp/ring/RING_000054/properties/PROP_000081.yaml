@@ -1,9 +1,0 @@
-citation_left: []
-citation_right: []
-crosstable_pk: 5054
-has_on_left: true
-has_on_right: true
-property: PROP_000081
-reason_left: 'Logic 121: dual on the right ===> Kasch on the right'
-reason_right: 'Logic 252: local and nonzero socle on the right ===> Kasch on the right'
-ring: RING_000054

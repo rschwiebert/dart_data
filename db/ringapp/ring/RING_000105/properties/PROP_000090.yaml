@@ -1,9 +1,0 @@
-citation_left: []
-citation_right: []
-crosstable_pk: 13558
-has_on_left: false
-has_on_right: false
-property: PROP_000090
-reason_left: symmetry with right side
-reason_right: 'Logic 119: DCC annihilator on the left or right ===> orthogonally finite'
-ring: RING_000105

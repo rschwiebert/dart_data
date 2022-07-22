@@ -1,9 +1,0 @@
-citation_left: []
-citation_right: []
-crosstable_pk: 4609
-has_on_left: false
-has_on_right: false
-property: PROP_000032
-reason_left: 'Logic 180: semicommutative  (SI condition, zero-insertive) ===> Abelian'
-reason_right: 'Logic 180: semicommutative  (SI condition, zero-insertive) ===> Abelian'
-ring: RING_000070

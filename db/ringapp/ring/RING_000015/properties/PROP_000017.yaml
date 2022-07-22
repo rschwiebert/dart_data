@@ -1,9 +1,0 @@
-citation_left: []
-citation_right: []
-crosstable_pk: 318
-has_on_left: true
-has_on_right: true
-property: PROP_000017
-reason_left: Both proper ideals are prime.
-reason_right: symmetry with left side
-ring: RING_000015

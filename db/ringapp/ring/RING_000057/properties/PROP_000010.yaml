@@ -1,9 +1,0 @@
-citation_left: []
-citation_right: []
-crosstable_pk: 9455
-has_on_left: true
-has_on_right: true
-property: PROP_000010
-reason_left: 'Logic 234: commutative and nonsingular on the right ===> reduced'
-reason_right: 'Logic 234: commutative and nonsingular on the right ===> reduced'
-ring: RING_000057

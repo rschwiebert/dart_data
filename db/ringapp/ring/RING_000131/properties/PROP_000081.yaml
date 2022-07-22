@@ -1,9 +1,0 @@
-citation_left: []
-citation_right: []
-crosstable_pk: 18362
-has_on_left: false
-has_on_right: false
-property: PROP_000081
-reason_left: symmetry with right side
-reason_right: 'Logic 92: Kasch on the right ===> nonzero socle on the right'
-ring: RING_000131

@@ -1,9 +1,0 @@
-citation_left: []
-citation_right: []
-crosstable_pk: 12750
-has_on_left: false
-has_on_right: false
-property: PROP_000151
-reason_left: 'Logic 401: periodic ===> commutative'
-reason_right: 'Logic 401: periodic ===> commutative'
-ring: RING_000073

@@ -1,9 +1,0 @@
-citation_left: []
-citation_right: []
-crosstable_pk: 15524
-has_on_left: false
-has_on_right: false
-property: PROP_000101
-reason_left: 'Logic 156: essential socle on the right ===> nonzero socle on the right'
-reason_right: 'Logic 156: essential socle on the right ===> nonzero socle on the right'
-ring: RING_000118

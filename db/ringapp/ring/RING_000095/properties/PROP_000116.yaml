@@ -1,9 +1,0 @@
-citation_left: []
-citation_right: []
-crosstable_pk: 14087
-has_on_left: false
-has_on_right: false
-property: PROP_000116
-reason_left: 'Logic 328: regular ===> Gorenstein'
-reason_right: 'Logic 328: regular ===> Gorenstein'
-ring: RING_000095

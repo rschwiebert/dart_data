@@ -1,9 +1,0 @@
-citation_left: []
-citation_right: []
-crosstable_pk: 16745
-has_on_left: true
-has_on_right: false
-property: PROP_000098
-reason_left: left socle has order 2
-reason_right: right socle is a sum of two simple submodules
-ring: RING_000030

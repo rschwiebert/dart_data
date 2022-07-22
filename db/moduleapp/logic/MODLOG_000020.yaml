@@ -1,0 +1,9 @@
+active: true
+citation: []
+concs:
+- MODPROP_000028
+hyps:
+- MODPROP_000001
+- MODPROP_000002
+ring_hyps: []
+variety: 1

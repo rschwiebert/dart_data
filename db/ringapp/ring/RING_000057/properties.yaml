@@ -1,0 +1,1566 @@
+PROP_000001:
+  citation_left: []
+  citation_right: []
+  crosstable_pk: 1015
+  has_on_left: true
+  has_on_right: true
+  property: PROP_000001
+  reason_left: product of commutative ringsOBVIOUS
+  reason_right: symmetry with left side
+  ring: RING_000057
+PROP_000002:
+  citation_left: []
+  citation_right: []
+  crosstable_pk: 9448
+  has_on_left: false
+  has_on_right: false
+  property: PROP_000002
+  reason_left: 'Logic 192: division ring <==> strongly connected and von Neumann regular'
+  reason_right: 'Logic 192: division ring <==> strongly connected and von Neumann
+    regular'
+  ring: RING_000057
+PROP_000003:
+  citation_left: []
+  citation_right: []
+  crosstable_pk: 9509
+  has_on_left: false
+  has_on_right: false
+  property: PROP_000003
+  reason_left: 'Logic 18: simple ===> primitive on the left and right'
+  reason_right: 'Logic 18: simple ===> primitive on the left and right'
+  ring: RING_000057
+PROP_000004:
+  citation_left: []
+  citation_right: []
+  crosstable_pk: 9453
+  has_on_left: false
+  has_on_right: false
+  property: PROP_000004
+  reason_left: 'Logic 208: simple Artinian <==> Artinian on the right and simple'
+  reason_right: 'Logic 208: simple Artinian <==> Artinian on the right and simple'
+  ring: RING_000057
+PROP_000005:
+  citation_left: []
+  citation_right: []
+  crosstable_pk: 9483
+  has_on_left: false
+  has_on_right: false
+  property: PROP_000005
+  reason_left: 'Logic 22: semisimple ===> principal ideal ring on the left and right'
+  reason_right: 'Logic 22: semisimple ===> principal ideal ring on the left and right'
+  ring: RING_000057
+PROP_000006:
+  citation_left: []
+  citation_right: []
+  crosstable_pk: 9415
+  has_on_left: true
+  has_on_right: true
+  property: PROP_000006
+  reason_left: 'Logic 35: von Neumann regular <==> semiprimitive and top regular'
+  reason_right: 'Logic 35: von Neumann regular <==> semiprimitive and top regular'
+  ring: RING_000057
+PROP_000007:
+  citation_left: []
+  citation_right: []
+  crosstable_pk: 17583
+  has_on_left: true
+  has_on_right: true
+  property: PROP_000007
+  reason_left: 'Logic 220: nonsingular on the right and self-injective on the right
+    ===> Baer'
+  reason_right: 'Logic 220: nonsingular on the right and self-injective on the right
+    ===> Baer'
+  ring: RING_000057
+PROP_000008:
+  citation_left: []
+  citation_right: []
+  crosstable_pk: 9457
+  has_on_left: false
+  has_on_right: false
+  property: PROP_000008
+  reason_left: 'Logic 237: division ring <==> cohopfian on the right and domain'
+  reason_right: 'Logic 237: division ring <==> cohopfian on the right and domain'
+  ring: RING_000057
+PROP_000009:
+  citation_left: []
+  citation_right: []
+  crosstable_pk: 9456
+  has_on_left: false
+  has_on_right: false
+  property: PROP_000009
+  reason_left: 'Logic 225: distributive on the right and prime ===> uniform on the
+    right'
+  reason_right: 'Logic 225: distributive on the right and prime ===> uniform on the
+    right'
+  ring: RING_000057
+PROP_000010:
+  citation_left: []
+  citation_right: []
+  crosstable_pk: 9455
+  has_on_left: true
+  has_on_right: true
+  property: PROP_000010
+  reason_left: 'Logic 234: commutative and nonsingular on the right ===> reduced'
+  reason_right: 'Logic 234: commutative and nonsingular on the right ===> reduced'
+  ring: RING_000057
+PROP_000011:
+  citation_left: []
+  citation_right: []
+  crosstable_pk: 9459
+  has_on_left: true
+  has_on_right: true
+  property: PROP_000011
+  reason_left: 'Logic 261: nilpotent radical and semiprime <==> semiprimitive'
+  reason_right: 'Logic 261: nilpotent radical and semiprime <==> semiprimitive'
+  ring: RING_000057
+PROP_000012:
+  citation_left: []
+  citation_right: []
+  crosstable_pk: 9442
+  has_on_left: true
+  has_on_right: true
+  property: PROP_000012
+  reason_left: 'Logic 169: strongly regular <==> Abelian and von Neumann regular'
+  reason_right: 'Logic 169: strongly regular <==> Abelian and von Neumann regular'
+  ring: RING_000057
+PROP_000013:
+  citation_left: []
+  citation_right: []
+  crosstable_pk: 9484
+  has_on_left: true
+  has_on_right: true
+  property: PROP_000013
+  reason_left: 'Logic 38: strongly regular ===> unit regular'
+  reason_right: 'Logic 38: strongly regular ===> unit regular'
+  ring: RING_000057
+PROP_000014:
+  citation_left: []
+  citation_right: []
+  crosstable_pk: 1016
+  has_on_left: true
+  has_on_right: true
+  property: PROP_000014
+  reason_left: products of VNR rings are VNROBVIOUS
+  reason_right: symmetry with left side
+  ring: RING_000057
+PROP_000015:
+  citation_left: []
+  citation_right: []
+  crosstable_pk: 9492
+  has_on_left: false
+  has_on_right: false
+  property: PROP_000015
+  reason_left: 'Logic 142: semi free ideal ring ===> domain'
+  reason_right: 'Logic 142: semi free ideal ring ===> domain'
+  ring: RING_000057
+PROP_000016:
+  citation_left: []
+  citation_right: []
+  crosstable_pk: 9445
+  has_on_left: true
+  has_on_right: true
+  property: PROP_000016
+  reason_left: 'Logic 173: commutative and fully semiprime <==> commutative and von
+    Neumann regular'
+  reason_right: 'Logic 173: commutative and fully semiprime <==> commutative and von
+    Neumann regular'
+  ring: RING_000057
+PROP_000017:
+  citation_left: []
+  citation_right: []
+  crosstable_pk: 9493
+  has_on_left: false
+  has_on_right: false
+  property: PROP_000017
+  reason_left: 'Logic 144: fully prime ===> prime'
+  reason_right: 'Logic 144: fully prime ===> prime'
+  ring: RING_000057
+PROP_000018:
+  citation_left: []
+  citation_right: []
+  crosstable_pk: 9488
+  has_on_left: false
+  has_on_right: false
+  property: PROP_000018
+  reason_left: 'Logic 76: Frobenius ===> quasi-Frobenius'
+  reason_right: 'Logic 76: Frobenius ===> quasi-Frobenius'
+  ring: RING_000057
+PROP_000019:
+  citation_left: []
+  citation_right: []
+  crosstable_pk: 9421
+  has_on_left: false
+  has_on_right: false
+  property: PROP_000019
+  reason_left: 'Logic 77: quasi-Frobenius <==> Noetherian on the right and self-injective
+    on the right'
+  reason_right: 'Logic 77: quasi-Frobenius <==> Noetherian on the right and self-injective
+    on the right'
+  ring: RING_000057
+PROP_000020:
+  citation_left: []
+  citation_right: []
+  crosstable_pk: 9490
+  has_on_left: false
+  has_on_right: false
+  property: PROP_000020
+  reason_left: 'Logic 94: semiprimary ===> perfect on the left and right'
+  reason_right: 'Logic 94: semiprimary ===> perfect on the left and right'
+  ring: RING_000057
+PROP_000021:
+  citation_left: []
+  citation_right: []
+  crosstable_pk: 9460
+  has_on_left: true
+  has_on_right: true
+  property: PROP_000021
+  reason_left: 'Logic 261: nilpotent radical and semiprime <==> semiprimitive'
+  reason_right: 'Logic 261: nilpotent radical and semiprime <==> semiprimitive'
+  ring: RING_000057
+PROP_000022:
+  citation_left: []
+  citation_right: []
+  crosstable_pk: 9436
+  has_on_left: true
+  has_on_right: true
+  property: PROP_000022
+  reason_left: 'Logic 130: Zorn <==> $I_0$ and nil radical'
+  reason_right: 'Logic 130: Zorn <==> $I_0$ and nil radical'
+  ring: RING_000057
+PROP_000023:
+  citation_left: []
+  citation_right: []
+  crosstable_pk: 9464
+  has_on_left: false
+  has_on_right: false
+  property: PROP_000023
+  reason_left: 'Logic 280: division ring <==> local and semiprimitive'
+  reason_right: 'Logic 280: division ring <==> local and semiprimitive'
+  ring: RING_000057
+PROP_000024:
+  citation_left: []
+  citation_right: []
+  crosstable_pk: 9498
+  has_on_left: false
+  has_on_right: false
+  property: PROP_000024
+  reason_left: 'Logic 189: semisimple <==> semilocal and semiprimitive'
+  reason_right: 'Logic 189: semisimple <==> semilocal and semiprimitive'
+  ring: RING_000057
+PROP_000025:
+  citation_left: []
+  citation_right: []
+  crosstable_pk: 9510
+  has_on_left: false
+  has_on_right: false
+  property: PROP_000025
+  reason_left: 'Logic 103: semiperfect <==> lift/rad and semilocal'
+  reason_right: 'Logic 103: semiperfect <==> lift/rad and semilocal'
+  ring: RING_000057
+PROP_000026:
+  citation_left: []
+  citation_right: []
+  crosstable_pk: 9435
+  has_on_left: true
+  has_on_right: true
+  property: PROP_000026
+  reason_left: 'Logic 129: exchange ===> lift/rad'
+  reason_right: 'Logic 129: exchange ===> lift/rad'
+  ring: RING_000057
+PROP_000027:
+  citation_left: []
+  citation_right: []
+  crosstable_pk: 9451
+  has_on_left: true
+  has_on_right: true
+  property: PROP_000027
+  reason_left: 'Logic 197: exchange and quasi-duo on the left or right ===> stable
+    range 1'
+  reason_right: 'Logic 197: exchange and quasi-duo on the left or right ===> stable
+    range 1'
+  ring: RING_000057
+PROP_000028:
+  citation_left: []
+  citation_right: []
+  crosstable_pk: 9496
+  has_on_left: false
+  has_on_right: false
+  property: PROP_000028
+  reason_left: 'Logic 175: primary <==> semiprimary and top simple'
+  reason_right: 'Logic 175: primary <==> semiprimary and top simple'
+  ring: RING_000057
+PROP_000029:
+  citation_left: []
+  citation_right: []
+  crosstable_pk: 9499
+  has_on_left: false
+  has_on_right: false
+  property: PROP_000029
+  reason_left: 'Logic 238: commutative and top simple ===> local'
+  reason_right: 'Logic 238: commutative and top simple ===> local'
+  ring: RING_000057
+PROP_000030:
+  citation_left: []
+  citation_right: []
+  crosstable_pk: 9497
+  has_on_left: false
+  has_on_right: false
+  property: PROP_000030
+  reason_left: 'Logic 176: primary <==> nilpotent radical and top simple Artinian'
+  reason_right: 'Logic 176: primary <==> nilpotent radical and top simple Artinian'
+  ring: RING_000057
+PROP_000031:
+  citation_left: []
+  citation_right: []
+  crosstable_pk: 9414
+  has_on_left: true
+  has_on_right: true
+  property: PROP_000031
+  reason_left: 'Logic 35: von Neumann regular <==> semiprimitive and top regular'
+  reason_right: 'Logic 35: von Neumann regular <==> semiprimitive and top regular'
+  ring: RING_000057
+PROP_000032:
+  citation_left: []
+  citation_right: []
+  crosstable_pk: 9426
+  has_on_left: true
+  has_on_right: true
+  property: PROP_000032
+  reason_left: 'Logic 112: duo on the left or right ===> semicommutative  (SI condition,
+    zero-insertive)'
+  reason_right: 'Logic 112: duo on the left or right ===> semicommutative  (SI condition,
+    zero-insertive)'
+  ring: RING_000057
+PROP_000033:
+  citation_left: []
+  citation_right: []
+  crosstable_pk: 9494
+  has_on_left: true
+  has_on_right: true
+  property: PROP_000033
+  reason_left: 'Logic 147: 2-primal ===> NI (nilpotents form an ideal)'
+  reason_right: 'Logic 147: 2-primal ===> NI (nilpotents form an ideal)'
+  ring: RING_000057
+PROP_000034:
+  citation_left: []
+  citation_right: []
+  crosstable_pk: 9449
+  has_on_left: true
+  has_on_right: true
+  property: PROP_000034
+  reason_left: 'Logic 195: semicommutative  (SI condition, zero-insertive) ===> 2-primal'
+  reason_right: 'Logic 195: semicommutative  (SI condition, zero-insertive) ===> 2-primal'
+  ring: RING_000057
+PROP_000035:
+  citation_left: []
+  citation_right: []
+  crosstable_pk: 9446
+  has_on_left: true
+  has_on_right: true
+  property: PROP_000035
+  reason_left: 'Logic 178: symmetric ===> reversible'
+  reason_right: 'Logic 178: symmetric ===> reversible'
+  ring: RING_000057
+PROP_000036:
+  citation_left: []
+  citation_right: []
+  crosstable_pk: 9407
+  has_on_left: true
+  has_on_right: true
+  property: PROP_000036
+  reason_left: 'Logic 4: commutative ===> symmetric'
+  reason_right: 'Logic 4: commutative ===> symmetric'
+  ring: RING_000057
+PROP_000037:
+  citation_left: []
+  citation_right: []
+  crosstable_pk: 9438
+  has_on_left: false
+  has_on_right: false
+  property: PROP_000037
+  reason_left: 'Logic 148: strongly connected ===> orthogonally finite'
+  reason_right: 'Logic 148: strongly connected ===> orthogonally finite'
+  ring: RING_000057
+PROP_000038:
+  citation_left: []
+  citation_right: []
+  crosstable_pk: 9439
+  has_on_left: false
+  has_on_right: false
+  property: PROP_000038
+  reason_left: 'Logic 149: strongly connected <==> Abelian and connected'
+  reason_right: 'Logic 149: strongly connected <==> Abelian and connected'
+  ring: RING_000057
+PROP_000039:
+  citation_left: []
+  citation_right: []
+  crosstable_pk: 1183
+  has_on_left: false
+  has_on_right: false
+  property: PROP_000039
+  reason_left: The "unit vectors" are all idempotents that are mutually orthogonal.
+  reason_right: symmetry with left side
+  ring: RING_000057
+PROP_000040:
+  citation_left: []
+  citation_right: []
+  crosstable_pk: 9406
+  has_on_left: true
+  has_on_right: true
+  property: PROP_000040
+  reason_left: 'Logic 3: commutative ===> Abelian'
+  reason_right: 'Logic 3: commutative ===> Abelian'
+  ring: RING_000057
+PROP_000041:
+  citation_left: []
+  citation_right: []
+  crosstable_pk: 9422
+  has_on_left: true
+  has_on_right: true
+  property: PROP_000041
+  reason_left: 'Logic 107: stably finite ===> Dedekind finite'
+  reason_right: 'Logic 107: stably finite ===> Dedekind finite'
+  ring: RING_000057
+PROP_000042:
+  citation_left: []
+  citation_right: []
+  crosstable_pk: 9408
+  has_on_left: true
+  has_on_right: true
+  property: PROP_000042
+  reason_left: 'Logic 5: commutative ===> stably finite'
+  reason_right: 'Logic 5: commutative ===> stably finite'
+  ring: RING_000057
+PROP_000043:
+  citation_left: []
+  citation_right: []
+  crosstable_pk: 9424
+  has_on_left: false
+  has_on_right: false
+  property: PROP_000043
+  reason_left: 'Logic 109: finite ===> Artinian on the left and right'
+  reason_right: 'Logic 109: finite ===> Artinian on the left and right'
+  ring: RING_000057
+PROP_000044:
+  citation_left: []
+  citation_right: []
+  crosstable_pk: 9423
+  has_on_left: true
+  has_on_right: true
+  property: PROP_000044
+  reason_left: 'Logic 108: stably finite ===> IBN'
+  reason_right: 'Logic 108: stably finite ===> IBN'
+  ring: RING_000057
+PROP_000045:
+  citation_left: []
+  citation_right: []
+  crosstable_pk: 9458
+  has_on_left: true
+  has_on_right: true
+  property: PROP_000045
+  reason_left: 'Logic 242: commutative and $\pi$-regular ===> strongly $\pi$-regular'
+  reason_right: 'Logic 242: commutative and $\pi$-regular ===> strongly $\pi$-regular'
+  ring: RING_000057
+PROP_000046:
+  citation_left: []
+  citation_right: []
+  crosstable_pk: 9413
+  has_on_left: true
+  has_on_right: true
+  property: PROP_000046
+  reason_left: 'Logic 34: von Neumann regular ===> $\pi$-regular'
+  reason_right: 'Logic 34: von Neumann regular ===> $\pi$-regular'
+  ring: RING_000057
+PROP_000047:
+  citation_left: []
+  citation_right: []
+  crosstable_pk: 9432
+  has_on_left: true
+  has_on_right: true
+  property: PROP_000047
+  reason_left: 'Logic 126: $\pi$-regular ===> exchange'
+  reason_right: 'Logic 126: $\pi$-regular ===> exchange'
+  ring: RING_000057
+PROP_000048:
+  citation_left: []
+  citation_right: []
+  crosstable_pk: 9434
+  has_on_left: true
+  has_on_right: true
+  property: PROP_000048
+  reason_left: 'Logic 128: exchange ===> $I_0$'
+  reason_right: 'Logic 128: exchange ===> $I_0$'
+  ring: RING_000057
+PROP_000049:
+  citation_left: []
+  citation_right: []
+  crosstable_pk: 9433
+  has_on_left: true
+  has_on_right: true
+  property: PROP_000049
+  reason_left: 'Logic 127: $\pi$-regular ===> Zorn'
+  reason_right: 'Logic 127: $\pi$-regular ===> Zorn'
+  ring: RING_000057
+PROP_000050:
+  citation_left: []
+  citation_right: []
+  crosstable_pk: 9437
+  has_on_left: true
+  has_on_right: true
+  property: PROP_000050
+  reason_left: 'Logic 132: semiregular <==> lift/rad and top regular'
+  reason_right: 'Logic 132: semiregular <==> lift/rad and top regular'
+  ring: RING_000057
+PROP_000051:
+  citation_left: []
+  citation_right: []
+  crosstable_pk: 9454
+  has_on_left: true
+  has_on_right: true
+  property: PROP_000051
+  reason_left: 'Logic 209: commutative ===> polynomial identity'
+  reason_right: 'Logic 209: commutative ===> polynomial identity'
+  ring: RING_000057
+PROP_000052:
+  citation_left: []
+  citation_right: []
+  crosstable_pk: 9450
+  has_on_left: true
+  has_on_right: true
+  property: PROP_000052
+  reason_left: 'Logic 196: exchange and quasi-duo on the left or right ===> clean'
+  reason_right: 'Logic 196: exchange and quasi-duo on the left or right ===> clean'
+  ring: RING_000057
+PROP_000053:
+  citation_left: []
+  citation_right: []
+  crosstable_pk: 9491
+  has_on_left: true
+  has_on_right: true
+  property: PROP_000053
+  reason_left: 'Logic 133: clean ===> weakly clean'
+  reason_right: 'Logic 133: clean ===> weakly clean'
+  ring: RING_000057
+PROP_000054:
+  citation_left: []
+  citation_right: []
+  crosstable_pk: 9470
+  has_on_left: false
+  has_on_right: false
+  property: PROP_000054
+  reason_left: 'Logic 301: field <==> commutative and division ring'
+  reason_right: 'Logic 301: field <==> commutative and division ring'
+  ring: RING_000057
+PROP_000055:
+  citation_left: []
+  citation_right: []
+  crosstable_pk: 9511
+  has_on_left: false
+  has_on_right: false
+  property: PROP_000055
+  reason_left: 'Logic 290: algebraically closed field ===> quadratically closed field'
+  reason_right: 'Logic 290: algebraically closed field ===> quadratically closed field'
+  ring: RING_000057
+PROP_000056:
+  citation_left: []
+  citation_right: []
+  crosstable_pk: 9501
+  has_on_left: false
+  has_on_right: false
+  property: PROP_000056
+  reason_left: 'Logic 300: Euclidean field ===> Pythagorean field'
+  reason_right: 'Logic 300: Euclidean field ===> Pythagorean field'
+  ring: RING_000057
+PROP_000057:
+  citation_left: []
+  citation_right: []
+  crosstable_pk: 9503
+  has_on_left: false
+  has_on_right: false
+  property: PROP_000057
+  reason_left: 'Logic 315: quadratically closed field ===> Pythagorean field'
+  reason_right: 'Logic 315: quadratically closed field ===> Pythagorean field'
+  ring: RING_000057
+PROP_000058:
+  citation_left: []
+  citation_right: []
+  crosstable_pk: 9502
+  has_on_left: false
+  has_on_right: false
+  property: PROP_000058
+  reason_left: 'Logic 310: ordered field ===> characteristic 0 field'
+  reason_right: 'Logic 310: ordered field ===> characteristic 0 field'
+  ring: RING_000057
+PROP_000059:
+  citation_left: []
+  citation_right: []
+  crosstable_pk: 9476
+  has_on_left: false
+  has_on_right: false
+  property: PROP_000059
+  reason_left: 'Logic 333: Pythagorean field ===> field'
+  reason_right: 'Logic 333: Pythagorean field ===> field'
+  ring: RING_000057
+PROP_000060:
+  citation_left: []
+  citation_right: []
+  crosstable_pk: 9500
+  has_on_left: false
+  has_on_right: false
+  property: PROP_000060
+  reason_left: 'Logic 296: characteristic 0 field ===> perfect field'
+  reason_right: 'Logic 296: characteristic 0 field ===> perfect field'
+  ring: RING_000057
+PROP_000061:
+  citation_left: []
+  citation_right: []
+  crosstable_pk: 9471
+  has_on_left: false
+  has_on_right: false
+  property: PROP_000061
+  reason_left: 'Logic 311: perfect field ===> field'
+  reason_right: 'Logic 311: perfect field ===> field'
+  ring: RING_000057
+PROP_000062:
+  citation_left: []
+  citation_right: []
+  crosstable_pk: 9506
+  has_on_left: false
+  has_on_right: false
+  property: PROP_000062
+  reason_left: 'Logic 347: Archimedean field ===> ordered field'
+  reason_right: 'Logic 347: Archimedean field ===> ordered field'
+  ring: RING_000057
+PROP_000063:
+  citation_left: []
+  citation_right: []
+  crosstable_pk: 9409
+  has_on_left: false
+  has_on_right: false
+  property: PROP_000063
+  reason_left: 'Logic 9: Artinian on the right ===> Noetherian on the right'
+  reason_right: symmetry with left side
+  ring: RING_000057
+PROP_000064:
+  citation_left: []
+  citation_right: []
+  crosstable_pk: 1017
+  has_on_left: false
+  has_on_right: false
+  property: PROP_000064
+  reason_left: easy to find infinite ascending chains of ideals in any infinite product
+    of nonzero ringsOBVIOUS
+  reason_right: 'Logic 264: Noetherian on the right and principally injective on the
+    right ===> Artinian on the left and right'
+  ring: RING_000057
+PROP_000065:
+  citation_left: []
+  citation_right: []
+  crosstable_pk: 9417
+  has_on_left: false
+  has_on_right: false
+  property: PROP_000065
+  reason_left: 'Logic 50: principal ideal domain on the right <==> domain and principal
+    ideal ring on the right'
+  reason_right: symmetry with left side
+  ring: RING_000057
+PROP_000066:
+  citation_left: []
+  citation_right: []
+  crosstable_pk: 9416
+  has_on_left: false
+  has_on_right: false
+  property: PROP_000066
+  reason_left: 'Logic 49: principal ideal ring on the right <==> Bezout on the right
+    and Noetherian on the right'
+  reason_right: symmetry with left side
+  ring: RING_000057
+PROP_000067:
+  citation_left: []
+  citation_right: []
+  crosstable_pk: 9411
+  has_on_left: true
+  has_on_right: true
+  property: PROP_000067
+  reason_left: 'Logic 32: von Neumann regular ===> Bezout on the left and right'
+  reason_right: symmetry with left side
+  ring: RING_000057
+PROP_000068:
+  citation_left: []
+  citation_right: []
+  crosstable_pk: 9485
+  has_on_left: false
+  has_on_right: false
+  property: PROP_000068
+  reason_left: symmetry with right side
+  reason_right: 'Logic 52: Bezout domain on the right <==> Bezout on the right and
+    domain'
+  ring: RING_000057
+PROP_000069:
+  citation_left: []
+  citation_right: []
+  crosstable_pk: 9462
+  has_on_left: false
+  has_on_right: false
+  property: PROP_000069
+  reason_left: symmetry with right side
+  reason_right: 'Logic 273: Ore domain on the right <==> domain and finite uniform
+    dimension on the right'
+  ring: RING_000057
+PROP_000070:
+  citation_left: []
+  citation_right: []
+  crosstable_pk: 17584
+  has_on_left: false
+  has_on_right: false
+  property: PROP_000070
+  reason_left: symmetry with right side
+  reason_right: 'Logic 272: semisimple <==> hereditary on the right and self-injective
+    on the right'
+  ring: RING_000057
+PROP_000071:
+  citation_left: []
+  citation_right: []
+  crosstable_pk: 9410
+  has_on_left: true
+  has_on_right: true
+  property: PROP_000071
+  reason_left: 'Logic 31: von Neumann regular ===> semihereditary on the left and
+    right'
+  reason_right: symmetry with left side
+  ring: RING_000057
+PROP_000072:
+  citation_left: []
+  citation_right: []
+  crosstable_pk: 9418
+  has_on_left: true
+  has_on_right: true
+  property: PROP_000072
+  reason_left: symmetry with right side
+  reason_right: 'Logic 59: semihereditary on the right ===> Rickart on the right'
+  ring: RING_000057
+PROP_000073:
+  citation_left: []
+  citation_right: []
+  crosstable_pk: 9420
+  has_on_left: true
+  has_on_right: true
+  property: PROP_000073
+  reason_left: symmetry with right side
+  reason_right: 'Logic 61: Rickart on the right ===> nonsingular on the right'
+  ring: RING_000057
+PROP_000074:
+  citation_left: []
+  citation_right: []
+  crosstable_pk: 9486
+  has_on_left: false
+  has_on_right: false
+  property: PROP_000074
+  reason_left: 'Logic 68: primitive on the left or right ===> prime'
+  reason_right: symmetry with left side
+  ring: RING_000057
+PROP_000075:
+  citation_left: []
+  citation_right: []
+  crosstable_pk: 9444
+  has_on_left: true
+  has_on_right: true
+  property: PROP_000075
+  reason_left: 'Logic 172: commutative and von Neumann regular <==> commutative and
+    V ring on the left and right'
+  reason_right: symmetry with left side
+  ring: RING_000057
+PROP_000076:
+  citation_left: []
+  citation_right: []
+  crosstable_pk: 9487
+  has_on_left: false
+  has_on_right: false
+  property: PROP_000076
+  reason_left: symmetry with right side
+  reason_right: 'Logic 71: valuation ring on the right <==> local and serial on the
+    right'
+  ring: RING_000057
+PROP_000077:
+  citation_left: []
+  citation_right: []
+  crosstable_pk: 9513
+  has_on_left: false
+  has_on_right: false
+  property: PROP_000077
+  reason_left: symmetry with right side
+  reason_right: 'Logic 75: serial on the left or right ===> semiperfect'
+  ring: RING_000057
+PROP_000078:
+  citation_left: []
+  citation_right: []
+  crosstable_pk: 9489
+  has_on_left: false
+  has_on_right: false
+  property: PROP_000078
+  reason_left: symmetry with right side
+  reason_right: 'Logic 83: pseudo-Frobenius on the right <==> finitely cogenerated
+    on the right and self-injective on the right'
+  ring: RING_000057
+PROP_000079:
+  citation_left: []
+  citation_right: []
+  crosstable_pk: 17585
+  has_on_left: true
+  has_on_right: true
+  property: PROP_000079
+  reason_left: 'Logic 344: commutative and self-injective on the left and right ===>
+    commutative and finitely pseudo-Frobenius on the left'
+  reason_right: symmetry with left side
+  ring: RING_000057
+PROP_000080:
+  citation_left: []
+  citation_right: []
+  crosstable_pk: 17562
+  has_on_left: true
+  has_on_right: true
+  property: PROP_000080
+  reason_left: null
+  reason_right: symmetry with left side
+  ring: RING_000057
+PROP_000081:
+  citation_left: []
+  citation_right: []
+  crosstable_pk: 17575
+  has_on_left: false
+  has_on_right: false
+  property: PROP_000081
+  reason_left: symmetry with right side
+  reason_right: 'Logic 84: pseudo-Frobenius on the right <==> Kasch on the right and
+    self-injective on the right'
+  ring: RING_000057
+PROP_000082:
+  citation_left: []
+  citation_right: []
+  crosstable_pk: 9440
+  has_on_left: false
+  has_on_right: false
+  property: PROP_000082
+  reason_left: symmetry with right side
+  reason_right: 'Logic 162: perfect on the right ===> ACC principal on the left'
+  ring: RING_000057
+PROP_000083:
+  citation_left: []
+  citation_right: []
+  crosstable_pk: 9452
+  has_on_left: true
+  has_on_right: true
+  property: PROP_000083
+  reason_left: symmetry with right side
+  reason_right: 'Logic 203: Dedekind finite and principally injective on the right
+    ===> cohopfian on the right'
+  ring: RING_000057
+PROP_000084:
+  citation_left: []
+  citation_right: []
+  crosstable_pk: 9404
+  has_on_left: true
+  has_on_right: true
+  property: PROP_000084
+  reason_left: 'Logic 1: commutative ===> duo on the left and right'
+  reason_right: symmetry with left side
+  ring: RING_000057
+PROP_000085:
+  citation_left: []
+  citation_right: []
+  crosstable_pk: 9427
+  has_on_left: false
+  has_on_right: false
+  property: PROP_000085
+  reason_left: 'Logic 114: finite uniform dimension on the left or right ===> orthogonally
+    finite'
+  reason_right: symmetry with left side
+  ring: RING_000057
+PROP_000086:
+  citation_left: []
+  citation_right: []
+  crosstable_pk: 9428
+  has_on_left: false
+  has_on_right: false
+  property: PROP_000086
+  reason_left: symmetry with right side
+  reason_right: 'Logic 116: Goldie on the right <==> ACC annihilator on the right
+    and finite uniform dimension on the right'
+  ring: RING_000057
+PROP_000087:
+  citation_left: []
+  citation_right: []
+  crosstable_pk: 9419
+  has_on_left: true
+  has_on_right: true
+  property: PROP_000087
+  reason_left: symmetry with right side
+  reason_right: 'Logic 60: semihereditary on the right ===> coherent on the right'
+  ring: RING_000057
+PROP_000088:
+  citation_left: []
+  citation_right: []
+  crosstable_pk: 9429
+  has_on_left: false
+  has_on_right: false
+  property: PROP_000088
+  reason_left: 'Logic 117: ACC principal on the left or right ===> orthogonally finite'
+  reason_right: symmetry with left side
+  ring: RING_000057
+PROP_000089:
+  citation_left: []
+  citation_right: []
+  crosstable_pk: 9430
+  has_on_left: false
+  has_on_right: false
+  property: PROP_000089
+  reason_left: symmetry with right side
+  reason_right: 'Logic 118: ACC annihilator on the left or right ===> orthogonally
+    finite'
+  ring: RING_000057
+PROP_000090:
+  citation_left: []
+  citation_right: []
+  crosstable_pk: 9431
+  has_on_left: false
+  has_on_right: false
+  property: PROP_000090
+  reason_left: symmetry with right side
+  reason_right: 'Logic 119: DCC annihilator on the left or right ===> orthogonally
+    finite'
+  ring: RING_000057
+PROP_000091:
+  citation_left: []
+  citation_right: []
+  crosstable_pk: 17576
+  has_on_left: false
+  has_on_right: false
+  property: PROP_000091
+  reason_left: symmetry with right side
+  reason_right: 'Logic 85: pseudo-Frobenius on the right <==> dual on the right and
+    self-injective on the right'
+  ring: RING_000057
+PROP_000092:
+  citation_left: []
+  citation_right: []
+  crosstable_pk: 17577
+  has_on_left: true
+  has_on_right: true
+  property: PROP_000092
+  reason_left: symmetry with right side
+  reason_right: 'Logic 89: self-injective on the right ===> continuous on the right'
+  ring: RING_000057
+PROP_000093:
+  citation_left: []
+  citation_right: []
+  crosstable_pk: 9447
+  has_on_left: false
+  has_on_right: false
+  property: PROP_000093
+  reason_left: 'Logic 187: commutative and free ideal ring on the left or right ===>
+    principal ideal domain on the left and right'
+  reason_right: symmetry with left side
+  ring: RING_000057
+PROP_000094:
+  citation_left: []
+  citation_right: []
+  crosstable_pk: 9405
+  has_on_left: true
+  has_on_right: true
+  property: PROP_000094
+  reason_left: 'Logic 2: commutative ===> Ore ring on the left and right'
+  reason_right: symmetry with left side
+  ring: RING_000057
+PROP_000095:
+  citation_left: []
+  citation_right: []
+  crosstable_pk: 9412
+  has_on_left: true
+  has_on_right: true
+  property: PROP_000095
+  reason_left: 'Logic 33: von Neumann regular ===> principally injective on the left
+    and right'
+  reason_right: symmetry with left side
+  ring: RING_000057
+PROP_000096:
+  citation_left: []
+  citation_right: []
+  crosstable_pk: 9425
+  has_on_left: true
+  has_on_right: true
+  property: PROP_000096
+  reason_left: symmetry with right side
+  reason_right: 'Logic 111: duo on the right ===> quasi-duo on the right'
+  ring: RING_000057
+PROP_000097:
+  citation_left: []
+  citation_right: []
+  crosstable_pk: 9495
+  has_on_left: true
+  has_on_right: true
+  property: PROP_000097
+  reason_left: 'Logic 150: nilpotent radical ===> T-nilpotent radical on the left
+    and right and T-nilpotent radical on the right'
+  reason_right: symmetry with left side
+  ring: RING_000057
+PROP_000098:
+  citation_left: []
+  citation_right: []
+  crosstable_pk: 17589
+  has_on_left: false
+  has_on_right: false
+  property: PROP_000098
+  reason_left: symmetry with right side
+  reason_right: 'Logic 244: commutative and essential socle on the right and self-injective
+    on the right and simple socle on the right ===> local'
+  ring: RING_000057
+PROP_000099:
+  citation_left: []
+  citation_right: []
+  crosstable_pk: 17588
+  has_on_left: false
+  has_on_right: false
+  property: PROP_000099
+  reason_left: symmetry with right side
+  reason_right: 'Logic 212: finitely cogenerated on the right <==> essential socle
+    on the right and finitely generated socle on the right'
+  ring: RING_000057
+PROP_000100:
+  citation_left: []
+  citation_right: []
+  crosstable_pk: 17587
+  has_on_left: true
+  has_on_right: true
+  property: PROP_000100
+  reason_left: symmetry with right side
+  reason_right: 'Logic 156: essential socle on the right ===> nonzero socle on the
+    right'
+  ring: RING_000057
+PROP_000101:
+  citation_left: []
+  citation_right: []
+  crosstable_pk: 17586
+  has_on_left: true
+  has_on_right: true
+  property: PROP_000101
+  reason_left: The set of elements of finite support is essential
+  reason_right: symmetry with left side
+  ring: RING_000057
+PROP_000102:
+  citation_left: []
+  citation_right: []
+  crosstable_pk: 17582
+  has_on_left: false
+  has_on_right: false
+  property: PROP_000102
+  reason_left: symmetry with right side
+  reason_right: 'Logic 202: cogenerator ring on the right ===> Kasch on the right'
+  ring: RING_000057
+PROP_000103:
+  citation_left: []
+  citation_right: []
+  crosstable_pk: 9463
+  has_on_left: false
+  has_on_right: false
+  property: PROP_000103
+  reason_left: symmetry with right side
+  reason_right: 'Logic 278: finitely cogenerated on the right ===> finite uniform
+    dimension on the right'
+  ring: RING_000057
+PROP_000104:
+  citation_left: []
+  citation_right: []
+  crosstable_pk: 9443
+  has_on_left: true
+  has_on_right: true
+  property: PROP_000104
+  reason_left: symmetry with right side
+  reason_right: 'Logic 171: strongly regular <==> distributive on the right and von
+    Neumann regular'
+  ring: RING_000057
+PROP_000105:
+  citation_left: []
+  citation_right: []
+  crosstable_pk: 9441
+  has_on_left: false
+  has_on_right: false
+  property: PROP_000105
+  reason_left: symmetry with right side
+  reason_right: 'Logic 164: uniform on the left or right ===> strongly connected'
+  ring: RING_000057
+PROP_000106:
+  citation_left: []
+  citation_right: []
+  crosstable_pk: 17922
+  has_on_left: true
+  has_on_right: true
+  property: PROP_000106
+  reason_left: Compute annihilators in terms of coordinates
+  reason_right: symmetry with left side
+  ring: RING_000057
+PROP_000107:
+  citation_left: []
+  citation_right: []
+  crosstable_pk: 17581
+  has_on_left: true
+  has_on_right: true
+  property: PROP_000107
+  reason_left: symmetry with right side
+  reason_right: 'Logic 159: FI-injective on the right ===> simple-injective on the
+    right'
+  ring: RING_000057
+PROP_000108:
+  citation_left: []
+  citation_right: []
+  crosstable_pk: 17578
+  has_on_left: true
+  has_on_right: true
+  property: PROP_000108
+  reason_left: symmetry with right side
+  reason_right: 'Logic 91: self-injective on the right ===> FI-injective on the right'
+  ring: RING_000057
+PROP_000109:
+  citation_left: []
+  citation_right: []
+  crosstable_pk: 17579
+  has_on_left: true
+  has_on_right: true
+  property: PROP_000109
+  reason_left: symmetry with right side
+  reason_right: 'Logic 138: continuous on the right ===> quasi-continuous on the right'
+  ring: RING_000057
+PROP_000110:
+  citation_left: []
+  citation_right: []
+  crosstable_pk: 17580
+  has_on_left: true
+  has_on_right: true
+  property: PROP_000110
+  reason_left: symmetry with right side
+  reason_right: 'Logic 157: quasi-continuous on the right ===> CS on the right'
+  ring: RING_000057
+PROP_000111:
+  citation_left: []
+  citation_right: []
+  crosstable_pk: 9461
+  has_on_left: false
+  has_on_right: false
+  property: PROP_000111
+  reason_left: 'Logic 267: Dedekind domain <==> commutative and domain and hereditary
+    on the left or right'
+  reason_right: 'Logic 267: Dedekind domain <==> commutative and domain and hereditary
+    on the left or right'
+  ring: RING_000057
+PROP_000112:
+  citation_left: []
+  citation_right: []
+  crosstable_pk: 9475
+  has_on_left: false
+  has_on_right: false
+  property: PROP_000112
+  reason_left: 'Logic 331: commutative and Prufer domain <==> commutative and distributive
+    on the left and right and domain'
+  reason_right: 'Logic 331: commutative and Prufer domain <==> commutative and distributive
+    on the left and right and domain'
+  ring: RING_000057
+PROP_000113:
+  citation_left: []
+  citation_right: []
+  crosstable_pk: 9469
+  has_on_left: false
+  has_on_right: false
+  property: PROP_000113
+  reason_left: 'Logic 299: commutative and Euclidean domain ===> principal ideal domain
+    on the left and right'
+  reason_right: 'Logic 299: commutative and Euclidean domain ===> principal ideal
+    domain on the left and right'
+  ring: RING_000057
+PROP_000114:
+  citation_left: []
+  citation_right: []
+  crosstable_pk: 9472
+  has_on_left: false
+  has_on_right: false
+  property: PROP_000114
+  reason_left: 'Logic 321: commutative and unique factorization domain <==> ACC principal
+    on the left or right and commutative and GCD domain'
+  reason_right: 'Logic 321: commutative and unique factorization domain <==> ACC principal
+    on the left or right and commutative and GCD domain'
+  ring: RING_000057
+PROP_000115:
+  citation_left: []
+  citation_right: []
+  crosstable_pk: 9465
+  has_on_left: false
+  has_on_right: false
+  property: PROP_000115
+  reason_left: 'Logic 282: regular local ===> local'
+  reason_right: 'Logic 282: regular local ===> local'
+  ring: RING_000057
+PROP_000116:
+  citation_left: []
+  citation_right: []
+  crosstable_pk: 13991
+  has_on_left: false
+  has_on_right: false
+  property: PROP_000116
+  reason_left: 'Logic 328: regular ===> Gorenstein'
+  reason_right: 'Logic 328: regular ===> Gorenstein'
+  ring: RING_000057
+PROP_000117:
+  citation_left: []
+  citation_right: []
+  crosstable_pk: 13988
+  has_on_left: false
+  has_on_right: false
+  property: PROP_000117
+  reason_left: 'Logic 352: Cohen-Macaulay ===> Noetherian on the left and right and
+    universally catenary'
+  reason_right: 'Logic 352: Cohen-Macaulay ===> Noetherian on the left and right and
+    universally catenary'
+  ring: RING_000057
+PROP_000118:
+  citation_left: []
+  citation_right: []
+  crosstable_pk: 9474
+  has_on_left: true
+  has_on_right: true
+  property: PROP_000118
+  reason_left: 'Logic 329: commutative and von Neumann regular ===> normal'
+  reason_right: 'Logic 329: commutative and von Neumann regular ===> normal'
+  ring: RING_000057
+PROP_000119:
+  citation_left: []
+  citation_right: []
+  crosstable_pk: 11768
+  has_on_left: false
+  has_on_right: false
+  property: PROP_000119
+  reason_left: 'Logic 375: analytically normal ===> local'
+  reason_right: 'Logic 375: analytically normal ===> local'
+  ring: RING_000057
+PROP_000120:
+  citation_left: []
+  citation_right: []
+  crosstable_pk: 17690
+  has_on_left: false
+  has_on_right: false
+  property: PROP_000120
+  reason_left: 'Logic 466: analytically unramified ===> local'
+  reason_right: 'Logic 466: analytically unramified ===> local'
+  ring: RING_000057
+PROP_000121:
+  citation_left: []
+  citation_right: []
+  crosstable_pk: 13990
+  has_on_left: false
+  has_on_right: false
+  property: PROP_000121
+  reason_left: 'Logic 308: Gorenstein ===> Cohen-Macaulay'
+  reason_right: 'Logic 308: Gorenstein ===> Cohen-Macaulay'
+  ring: RING_000057
+PROP_000122:
+  citation_left: []
+  citation_right: []
+  crosstable_pk: 9466
+  has_on_left: false
+  has_on_right: false
+  property: PROP_000122
+  reason_left: 'Logic 283: Mori domain ===> commutative and domain'
+  reason_right: 'Logic 283: Mori domain ===> commutative and domain'
+  ring: RING_000057
+PROP_000123:
+  citation_left: []
+  citation_right: []
+  crosstable_pk: 9512
+  has_on_left: false
+  has_on_right: false
+  property: PROP_000123
+  reason_left: 'Logic 307: GCD domain ===> Schreier domain'
+  reason_right: 'Logic 307: GCD domain ===> Schreier domain'
+  ring: RING_000057
+PROP_000124:
+  citation_left: []
+  citation_right: []
+  crosstable_pk: 9468
+  has_on_left: false
+  has_on_right: false
+  property: PROP_000124
+  reason_left: 'Logic 293: atomic domain ===> domain'
+  reason_right: 'Logic 293: atomic domain ===> domain'
+  ring: RING_000057
+PROP_000125:
+  citation_left: []
+  citation_right: []
+  crosstable_pk: 9505
+  has_on_left: true
+  has_on_right: true
+  property: PROP_000125
+  reason_left: 'Logic 336: commutative and rad-nil and semiregular ===> Jacobson (Hilbert)'
+  reason_right: 'Logic 336: commutative and rad-nil and semiregular ===> Jacobson
+    (Hilbert)'
+  ring: RING_000057
+PROP_000126:
+  citation_left: []
+  citation_right: []
+  crosstable_pk: 9504
+  has_on_left: false
+  has_on_right: false
+  property: PROP_000126
+  reason_left: 'Logic 319: Schreier domain ===> normal domain'
+  reason_right: 'Logic 319: Schreier domain ===> normal domain'
+  ring: RING_000057
+PROP_000127:
+  citation_left: []
+  citation_right: []
+  crosstable_pk: 9473
+  has_on_left: false
+  has_on_right: false
+  property: PROP_000127
+  reason_left: 'Logic 326: normal domain <==> domain and normal'
+  reason_right: 'Logic 326: normal domain <==> domain and normal'
+  ring: RING_000057
+PROP_000128:
+  citation_left: []
+  citation_right: []
+  crosstable_pk: 9477
+  has_on_left: true
+  has_on_right: true
+  property: PROP_000128
+  reason_left: 'Logic 338: commutative and semiprimitive ===> rad-nil'
+  reason_right: 'Logic 338: commutative and semiprimitive ===> rad-nil'
+  ring: RING_000057
+PROP_000129:
+  citation_left: []
+  citation_right: []
+  crosstable_pk: 9481
+  has_on_left: false
+  has_on_right: false
+  property: PROP_000129
+  reason_left: 'Logic 361: local complete intersection ===> Gorenstein and local'
+  reason_right: 'Logic 361: local complete intersection ===> Gorenstein and local'
+  ring: RING_000057
+PROP_000130:
+  citation_left: []
+  citation_right: []
+  crosstable_pk: 9467
+  has_on_left: false
+  has_on_right: false
+  property: PROP_000130
+  reason_left: 'Logic 286: Krull domain ===> Mori domain'
+  reason_right: 'Logic 286: Krull domain ===> Mori domain'
+  ring: RING_000057
+PROP_000131:
+  citation_left: []
+  citation_right: []
+  crosstable_pk: 16999
+  has_on_left: true
+  has_on_right: true
+  property: PROP_000131
+  reason_left: $0$ dimensional ring is trivially catenary
+  reason_right: symmetry with left side
+  ring: RING_000057
+PROP_000133:
+  citation_left: []
+  citation_right: []
+  crosstable_pk: 17689
+  has_on_left: false
+  has_on_right: false
+  property: PROP_000133
+  reason_left: 'Logic 465: Grothendieck ===> Noetherian on the left and right'
+  reason_right: 'Logic 465: Grothendieck ===> Noetherian on the left and right'
+  ring: RING_000057
+PROP_000135:
+  citation_left: []
+  citation_right: []
+  crosstable_pk: 9480
+  has_on_left: false
+  has_on_right: false
+  property: PROP_000135
+  reason_left: 'Logic 358: quasi-excellent ===> Nagata'
+  reason_right: 'Logic 358: quasi-excellent ===> Nagata'
+  ring: RING_000057
+PROP_000136:
+  citation_left: []
+  citation_right: []
+  crosstable_pk: 9508
+  has_on_left: false
+  has_on_right: false
+  property: PROP_000136
+  reason_left: 'Logic 357: excellent <==> quasi-excellent and universally catenary'
+  reason_right: 'Logic 357: excellent <==> quasi-excellent and universally catenary'
+  ring: RING_000057
+PROP_000137:
+  citation_left: []
+  citation_right: []
+  crosstable_pk: 9479
+  has_on_left: false
+  has_on_right: false
+  property: PROP_000137
+  reason_left: 'Logic 351: N-1 ===> domain'
+  reason_right: 'Logic 351: N-1 ===> domain'
+  ring: RING_000057
+PROP_000138:
+  citation_left: []
+  citation_right: []
+  crosstable_pk: 9507
+  has_on_left: false
+  has_on_right: false
+  property: PROP_000138
+  reason_left: 'Logic 350: Japanese (N-2) ===> N-1'
+  reason_right: 'Logic 350: Japanese (N-2) ===> N-1'
+  ring: RING_000057
+PROP_000140:
+  citation_left: []
+  citation_right: []
+  crosstable_pk: 9478
+  has_on_left: false
+  has_on_right: false
+  property: PROP_000140
+  reason_left: 'Logic 348: Nagata <==> Noetherian on the left and right and universally
+    Japanese'
+  reason_right: 'Logic 348: Nagata <==> Noetherian on the left and right and universally
+    Japanese'
+  ring: RING_000057
+PROP_000143:
+  citation_left: []
+  citation_right: []
+  crosstable_pk: 9482
+  has_on_left: false
+  has_on_right: false
+  property: PROP_000143
+  reason_left: 'Logic 367: complete local ===> local'
+  reason_right: 'Logic 367: complete local ===> local'
+  ring: RING_000057
+PROP_000144:
+  citation_left: []
+  citation_right: []
+  crosstable_pk: 10499
+  has_on_left: true
+  has_on_right: true
+  property: PROP_000144
+  reason_left: 'Logic 370: Abelian ===> compressible'
+  reason_right: 'Logic 370: Abelian ===> compressible'
+  ring: RING_000057
+PROP_000145:
+  citation_left: []
+  citation_right: []
+  crosstable_pk: 10780
+  has_on_left: false
+  has_on_right: false
+  property: PROP_000145
+  reason_left: 'Logic 372: Goldman domain ===> commutative and domain'
+  reason_right: 'Logic 372: Goldman domain ===> commutative and domain'
+  ring: RING_000057
+PROP_000146:
+  citation_left: []
+  citation_right: []
+  crosstable_pk: 11769
+  has_on_left: true
+  has_on_right: true
+  property: PROP_000146
+  reason_left: 'Logic 376: Zorn ===> potent'
+  reason_right: 'Logic 376: Zorn ===> potent'
+  ring: RING_000057
+PROP_000147:
+  citation_left: []
+  citation_right: []
+  crosstable_pk: 12070
+  has_on_left: false
+  has_on_right: false
+  property: PROP_000147
+  reason_left: symmetry with right side
+  reason_right: 'Logic 382: PCI ring on the right ===> hereditary on the left and
+    right and Noetherian on the right and V ring on the right'
+  ring: RING_000057
+PROP_000148:
+  citation_left: []
+  citation_right: []
+  crosstable_pk: 12183
+  has_on_left: true
+  has_on_right: true
+  property: PROP_000148
+  reason_left: 'Logic 386: strongly regular ===> max ring on the left and right'
+  reason_right: symmetry with left side
+  ring: RING_000057
+PROP_000149:
+  citation_left: []
+  citation_right: []
+  crosstable_pk: 12527
+  has_on_left: false
+  has_on_right: false
+  property: PROP_000149
+  reason_left: By Cantor's argument
+  reason_right: symmetry with left side
+  ring: RING_000057
+PROP_000150:
+  citation_left: []
+  citation_right: []
+  crosstable_pk: 12663
+  has_on_left: false
+  has_on_right: false
+  property: PROP_000150
+  reason_left: 'Logic 397: Henselian local ===> local'
+  reason_right: 'Logic 397: Henselian local ===> local'
+  ring: RING_000057
+PROP_000151:
+  citation_left: []
+  citation_right: []
+  crosstable_pk: 12817
+  has_on_left: true
+  has_on_right: true
+  property: PROP_000151
+  reason_left: 'Logic 399: Boolean ===> periodic'
+  reason_right: 'Logic 399: Boolean ===> periodic'
+  ring: RING_000057
+PROP_000152:
+  citation_left: []
+  citation_right: []
+  crosstable_pk: 12776
+  has_on_left: true
+  has_on_right: true
+  property: PROP_000152
+  reason_left: null
+  reason_right: symmetry with left side
+  ring: RING_000057
+PROP_000153:
+  citation_left: []
+  citation_right: []
+  crosstable_pk: 13989
+  has_on_left: false
+  has_on_right: false
+  property: PROP_000153
+  reason_left: 'Logic 404: almost Dedekind domain ===> Prufer domain'
+  reason_right: 'Logic 404: almost Dedekind domain ===> Prufer domain'
+  ring: RING_000057
+PROP_000154:
+  citation_left: []
+  citation_right: []
+  crosstable_pk: 14764
+  has_on_left: false
+  has_on_right: false
+  property: PROP_000154
+  reason_left: symmetry with right side
+  reason_right: 'Logic 414: valuation domain on the right ===> Bezout domain on the
+    right'
+  ring: RING_000057
+PROP_000155:
+  citation_left: []
+  citation_right: []
+  crosstable_pk: 14766
+  has_on_left: true
+  has_on_right: true
+  property: PROP_000155
+  reason_left: 'Logic 420: reduced ===> Armendariz'
+  reason_right: 'Logic 420: reduced ===> Armendariz'
+  ring: RING_000057
+PROP_000156:
+  citation_left: []
+  citation_right: []
+  crosstable_pk: 14765
+  has_on_left: true
+  has_on_right: true
+  property: PROP_000156
+  reason_left: 'Logic 418: reversible ===> McCoy on the left and right'
+  reason_right: symmetry with left side
+  ring: RING_000057

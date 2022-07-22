@@ -1,9 +1,0 @@
-citation_left: []
-citation_right: []
-crosstable_pk: 16908
-has_on_left: false
-has_on_right: false
-property: PROP_000020
-reason_left: 'Logic 93: semiprimary <==> nilpotent radical and semilocal'
-reason_right: 'Logic 93: semiprimary <==> nilpotent radical and semilocal'
-ring: RING_000127

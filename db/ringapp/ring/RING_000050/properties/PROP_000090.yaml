@@ -1,9 +1,0 @@
-citation_left: []
-citation_right: []
-crosstable_pk: 2812
-has_on_left: true
-has_on_right: true
-property: PROP_000090
-reason_left: 'Logic 6: Artinian on the right ===> DCC annihilator on the right'
-reason_right: 'Logic 6: Artinian on the right ===> DCC annihilator on the right'
-ring: RING_000050

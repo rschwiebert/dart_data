@@ -1,9 +1,0 @@
-citation_left: []
-citation_right: []
-crosstable_pk: 1126
-has_on_left: false
-has_on_right: false
-property: PROP_000040
-reason_left: $[1,0;0,0]$ is a noncentral idempotent.
-reason_right: symmetry with left side
-ring: RING_000030

@@ -1,9 +1,0 @@
-citation_left: []
-citation_right: []
-crosstable_pk: 14896
-has_on_left: true
-has_on_right: true
-property: PROP_000156
-reason_left: 'Logic 418: reversible ===> McCoy on the left and right'
-reason_right: 'Logic 418: reversible ===> McCoy on the left and right'
-ring: RING_000108

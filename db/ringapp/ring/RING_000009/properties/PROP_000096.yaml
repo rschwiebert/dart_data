@@ -1,9 +1,0 @@
-citation_left: []
-citation_right: []
-crosstable_pk: 3303
-has_on_left: true
-has_on_right: true
-property: PROP_000096
-reason_left: 'Logic 111: duo on the right ===> quasi-duo on the right'
-reason_right: 'Logic 111: duo on the right ===> quasi-duo on the right'
-ring: RING_000009

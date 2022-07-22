@@ -1,9 +1,0 @@
-citation_left: []
-citation_right: []
-crosstable_pk: 16803
-has_on_left: true
-has_on_right: true
-property: PROP_000041
-reason_left: 'Logic 107: stably finite ===> Dedekind finite'
-reason_right: 'Logic 107: stably finite ===> Dedekind finite'
-ring: RING_000127

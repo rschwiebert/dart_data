@@ -1,9 +1,0 @@
-citation_left: []
-citation_right: []
-crosstable_pk: 1848
-has_on_left: true
-has_on_right: true
-property: PROP_000088
-reason_left: 'Logic 13: Noetherian on the right ===> ACC principal on the right'
-reason_right: 'Logic 13: Noetherian on the right ===> ACC principal on the right'
-ring: RING_000023

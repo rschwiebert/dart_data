@@ -1,0 +1,10 @@
+active: true
+citation:
+- MODCITE_000002
+concs:
+- MODPROP_000008
+hyps:
+- MODPROP_000024
+ring_hyps:
+- PSIDE_000164
+variety: 0

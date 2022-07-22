@@ -1,9 +1,0 @@
-citation_left: []
-citation_right: []
-crosstable_pk: 3457
-has_on_left: true
-has_on_right: true
-property: PROP_000103
-reason_left: 'Logic 213: semisimple <==> finitely cogenerated on the right and semiprime'
-reason_right: 'Logic 213: semisimple <==> finitely cogenerated on the right and semiprime'
-ring: RING_000008

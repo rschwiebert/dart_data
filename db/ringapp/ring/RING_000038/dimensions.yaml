@@ -1,0 +1,22 @@
+DIM_000001:
+  citation: []
+  crosstable_pk: 35
+  dimension_type: DIM_000001
+  left_dimension: '0'
+  right_dimension: '0'
+  ring: RING_000038
+DIM_000002:
+  citation:
+  - CITE_000295
+  crosstable_pk: 317
+  dimension_type: DIM_000002
+  left_dimension: '1'
+  right_dimension: $n$
+  ring: RING_000038
+DIM_000003:
+  citation: []
+  crosstable_pk: 316
+  dimension_type: DIM_000003
+  left_dimension: $\aleph_0$
+  right_dimension: $\aleph_0$
+  ring: RING_000038

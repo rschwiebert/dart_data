@@ -1,9 +1,0 @@
-citation_left: []
-citation_right: []
-crosstable_pk: 911
-has_on_left: false
-has_on_right: false
-property: PROP_000037
-reason_left: '[[1,0],[0,0]] is idempotentrschwiebert'
-reason_right: symmetry with left side
-ring: RING_000029

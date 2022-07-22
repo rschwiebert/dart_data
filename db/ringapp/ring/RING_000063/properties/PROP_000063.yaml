@@ -1,9 +1,0 @@
-citation_left: []
-citation_right: []
-crosstable_pk: 6010
-has_on_left: false
-has_on_right: false
-property: PROP_000063
-reason_left: 'Logic 9: Artinian on the right ===> Noetherian on the right'
-reason_right: 'Logic 8: Artinian on the left or right ===> semiprimary'
-ring: RING_000063

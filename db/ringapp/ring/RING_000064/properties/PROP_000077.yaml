@@ -1,9 +1,0 @@
-citation_left: []
-citation_right: []
-crosstable_pk: 4183
-has_on_left: false
-has_on_right: false
-property: PROP_000077
-reason_left: 'Logic 71: valuation ring on the right <==> local and serial on the right'
-reason_right: symmetry with left side
-ring: RING_000064

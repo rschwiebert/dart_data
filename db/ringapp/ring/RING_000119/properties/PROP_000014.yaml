@@ -1,9 +1,0 @@
-citation_left: []
-citation_right: []
-crosstable_pk: 15977
-has_on_left: false
-has_on_right: false
-property: PROP_000014
-reason_left: It has the Laurent polynomials as a quotient which is not VNR.
-reason_right: symmetry with left side
-ring: RING_000119

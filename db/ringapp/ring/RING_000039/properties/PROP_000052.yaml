@@ -1,9 +1,0 @@
-citation_left: []
-citation_right: []
-crosstable_pk: 4972
-has_on_left: true
-has_on_right: true
-property: PROP_000052
-reason_left: 'Logic 215: Abelian and exchange ===> clean'
-reason_right: 'Logic 215: Abelian and exchange ===> clean'
-ring: RING_000039

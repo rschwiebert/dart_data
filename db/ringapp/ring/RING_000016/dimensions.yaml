@@ -1,0 +1,28 @@
+DIM_000001:
+  citation: []
+  crosstable_pk: 73
+  dimension_type: DIM_000001
+  left_dimension: '0'
+  right_dimension: '0'
+  ring: RING_000016
+DIM_000002:
+  citation: []
+  crosstable_pk: 226
+  dimension_type: DIM_000002
+  left_dimension: '3'
+  right_dimension: '3'
+  ring: RING_000016
+DIM_000003:
+  citation: []
+  crosstable_pk: 85
+  dimension_type: DIM_000003
+  left_dimension: '8'
+  right_dimension: '8'
+  ring: RING_000016
+DIM_000004:
+  citation: []
+  crosstable_pk: 104
+  dimension_type: DIM_000004
+  left_dimension: '1'
+  right_dimension: '1'
+  ring: RING_000016

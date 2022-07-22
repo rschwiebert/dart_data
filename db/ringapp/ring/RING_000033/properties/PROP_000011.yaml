@@ -1,9 +1,0 @@
-citation_left: []
-citation_right: []
-crosstable_pk: 4379
-has_on_left: true
-has_on_right: true
-property: PROP_000011
-reason_left: 'Logic 27: semiprimitive ===> semiprime'
-reason_right: 'Logic 27: semiprimitive ===> semiprime'
-ring: RING_000033

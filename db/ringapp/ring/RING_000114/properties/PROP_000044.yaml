@@ -1,9 +1,0 @@
-citation_left: []
-citation_right: []
-crosstable_pk: 18032
-has_on_left: true
-has_on_right: true
-property: PROP_000044
-reason_left: Quotient by generators is $F_2$
-reason_right: symmetry with left side
-ring: RING_000114

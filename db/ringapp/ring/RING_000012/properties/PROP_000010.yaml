@@ -1,9 +1,0 @@
-citation_left: []
-citation_right: []
-crosstable_pk: 2093
-has_on_left: false
-has_on_right: false
-property: PROP_000010
-reason_left: 'Logic 276: reduced and self-injective on the right ===> strongly regular'
-reason_right: 'Logic 276: reduced and self-injective on the right ===> strongly regular'
-ring: RING_000012

@@ -1,9 +1,0 @@
-citation_left: []
-citation_right: []
-crosstable_pk: 853
-has_on_left: false
-has_on_right: false
-property: PROP_000042
-reason_left: The matrices A and B satisfy AB=I_2 but BA=/=I_2
-reason_right: symmetry with left side
-ring: RING_000035

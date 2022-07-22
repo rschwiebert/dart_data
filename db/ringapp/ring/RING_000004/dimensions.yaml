@@ -1,0 +1,35 @@
+DIM_000001:
+  citation: []
+  crosstable_pk: 36
+  dimension_type: DIM_000001
+  left_dimension: '0'
+  right_dimension: '0'
+  ring: RING_000004
+DIM_000002:
+  citation: []
+  crosstable_pk: 7
+  dimension_type: DIM_000002
+  left_dimension: '1'
+  right_dimension: '1'
+  ring: RING_000004
+DIM_000003:
+  citation: []
+  crosstable_pk: 269
+  dimension_type: DIM_000003
+  left_dimension: $\mathfrak{c}$
+  right_dimension: $\mathfrak{c}$
+  ring: RING_000004
+DIM_000004:
+  citation: []
+  crosstable_pk: 92
+  dimension_type: DIM_000004
+  left_dimension: '0'
+  right_dimension: '0'
+  ring: RING_000004
+DIM_000005:
+  citation: []
+  crosstable_pk: 131
+  dimension_type: DIM_000005
+  left_dimension: '0'
+  right_dimension: '0'
+  ring: RING_000004

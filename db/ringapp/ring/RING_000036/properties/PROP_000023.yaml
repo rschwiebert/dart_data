@@ -1,9 +1,0 @@
-citation_left: []
-citation_right: []
-crosstable_pk: 17967
-has_on_left: false
-has_on_right: false
-property: PROP_000023
-reason_left: Obviously $\mathbb Z$ is a quotient, and is not local
-reason_right: symmetry with left side
-ring: RING_000036

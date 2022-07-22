@@ -1,9 +1,0 @@
-citation_left: []
-citation_right: []
-crosstable_pk: 2088
-has_on_left: true
-has_on_right: true
-property: PROP_000094
-reason_left: 'Logic 254: Goldie on the right and semiprime ===> Ore ring on the right'
-reason_right: 'Logic 36: von Neumann regular ===> Ore ring on the left and right'
-ring: RING_000012

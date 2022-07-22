@@ -1,9 +1,0 @@
-citation_left: []
-citation_right: []
-crosstable_pk: 8418
-has_on_left: false
-has_on_right: false
-property: PROP_000082
-reason_left: 'Logic 104: perfect on the left or right ===> strongly $\pi$-regular'
-reason_right: 'Logic 104: perfect on the left or right ===> strongly $\pi$-regular'
-ring: RING_000030

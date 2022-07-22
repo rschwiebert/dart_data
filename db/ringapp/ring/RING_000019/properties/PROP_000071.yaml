@@ -1,9 +1,0 @@
-citation_left: []
-citation_right: []
-crosstable_pk: 918
-has_on_left: true
-has_on_right: true
-property: PROP_000071
-reason_left: T.Y. Lam Lectures on Modules and Rings p46
-reason_right: 'Logic 58: hereditary on the right ===> semihereditary on the right'
-ring: RING_000019

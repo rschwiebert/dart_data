@@ -1,9 +1,0 @@
-citation_left: []
-citation_right: []
-crosstable_pk: 2285
-has_on_left: false
-has_on_right: false
-property: PROP_000076
-reason_left: 'Logic 73: valuation ring on the right ===> Ikeda-Nakayama on the right'
-reason_right: 'Logic 73: valuation ring on the right ===> Ikeda-Nakayama on the right'
-ring: RING_000016

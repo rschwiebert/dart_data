@@ -1,9 +1,0 @@
-citation_left: []
-citation_right: []
-crosstable_pk: 10018
-has_on_left: true
-has_on_right: true
-property: PROP_000047
-reason_left: 'Logic 126: $\pi$-regular ===> exchange'
-reason_right: 'Logic 126: $\pi$-regular ===> exchange'
-ring: RING_000085

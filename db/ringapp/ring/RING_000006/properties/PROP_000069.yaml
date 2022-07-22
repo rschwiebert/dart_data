@@ -1,9 +1,0 @@
-citation_left: []
-citation_right: []
-crosstable_pk: 6386
-has_on_left: true
-has_on_right: true
-property: PROP_000069
-reason_left: 'Logic 56: Ore domain on the right <==> Ore ring on the right and domain'
-reason_right: 'Logic 56: Ore domain on the right <==> Ore ring on the right and domain'
-ring: RING_000006

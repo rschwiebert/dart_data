@@ -1,9 +1,0 @@
-citation_left: []
-citation_right: []
-crosstable_pk: 8923
-has_on_left: false
-has_on_right: true
-property: PROP_000100
-reason_left: 'Logic 252: local and nonzero socle on the right ===> Kasch on the right'
-reason_right: 'Logic 92: Kasch on the right ===> nonzero socle on the right'
-ring: RING_000042

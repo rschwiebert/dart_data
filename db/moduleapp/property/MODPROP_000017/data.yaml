@@ -1,0 +1,3 @@
+citation: []
+definition: For all submodules $A,B,C$ of $M$, $A\cap(B+C)=(A\cap C)+(B\cap C)$.
+name: distributive

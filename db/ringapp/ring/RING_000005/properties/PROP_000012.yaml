@@ -1,9 +1,0 @@
-citation_left: []
-citation_right: []
-crosstable_pk: 2702
-has_on_left: true
-has_on_right: true
-property: PROP_000012
-reason_left: 'Logic 15: division ring ===> strongly regular'
-reason_right: 'Logic 15: division ring ===> strongly regular'
-ring: RING_000005

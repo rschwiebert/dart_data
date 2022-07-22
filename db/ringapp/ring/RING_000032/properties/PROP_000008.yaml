@@ -1,9 +1,0 @@
-citation_left: []
-citation_right: []
-crosstable_pk: 885
-has_on_left: false
-has_on_right: false
-property: PROP_000008
-reason_left: (1+x)(1-x)=0obvious
-reason_right: symmetry with left side
-ring: RING_000032

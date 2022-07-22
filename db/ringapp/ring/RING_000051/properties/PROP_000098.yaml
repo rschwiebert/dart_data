@@ -1,9 +1,0 @@
-citation_left: []
-citation_right: []
-crosstable_pk: 11482
-has_on_left: true
-has_on_right: true
-property: PROP_000098
-reason_left: The ring is valuation (uniserial) and Kasch, so it has a simple socle
-reason_right: symmetry with left side
-ring: RING_000051

@@ -1,9 +1,0 @@
-citation_left: []
-citation_right: []
-crosstable_pk: 17135
-has_on_left: false
-has_on_right: false
-property: PROP_000058
-reason_left: 'Logic 310: ordered field ===> characteristic 0 field'
-reason_right: 'Logic 310: ordered field ===> characteristic 0 field'
-ring: RING_000160

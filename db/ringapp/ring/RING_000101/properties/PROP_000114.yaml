@@ -1,9 +1,0 @@
-citation_left: []
-citation_right: []
-crosstable_pk: 13170
-has_on_left: true
-has_on_right: true
-property: PROP_000114
-reason_left: 'Logic 316: regular local ===> unique factorization domain'
-reason_right: 'Logic 316: regular local ===> unique factorization domain'
-ring: RING_000101

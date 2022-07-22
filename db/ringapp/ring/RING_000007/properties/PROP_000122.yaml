@@ -1,9 +1,0 @@
-citation_left: []
-citation_right: []
-crosstable_pk: 7816
-has_on_left: true
-has_on_right: true
-property: PROP_000122
-reason_left: 'Logic 286: Krull domain ===> Mori domain'
-reason_right: 'Logic 286: Krull domain ===> Mori domain'
-ring: RING_000007

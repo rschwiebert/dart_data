@@ -1,9 +1,0 @@
-citation_left: []
-citation_right: []
-crosstable_pk: 5796
-has_on_left: true
-has_on_right: true
-property: PROP_000031
-reason_left: 'Logic 132: semiregular <==> lift/rad and top regular'
-reason_right: 'Logic 132: semiregular <==> lift/rad and top regular'
-ring: RING_000018

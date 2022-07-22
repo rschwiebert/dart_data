@@ -1,9 +1,0 @@
-citation_left: []
-citation_right: []
-crosstable_pk: 5697
-has_on_left: null
-has_on_right: true
-property: PROP_000081
-reason_left: null
-reason_right: 'Logic 121: dual on the right ===> Kasch on the right'
-ring: RING_000056

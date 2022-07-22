@@ -1,9 +1,0 @@
-citation_left: []
-citation_right: []
-crosstable_pk: 15428
-has_on_left: false
-has_on_right: false
-property: PROP_000063
-reason_left: 'Logic 214: simple Artinian <==> Artinian on the right and prime'
-reason_right: 'Logic 9: Artinian on the right ===> Noetherian on the right'
-ring: RING_000118

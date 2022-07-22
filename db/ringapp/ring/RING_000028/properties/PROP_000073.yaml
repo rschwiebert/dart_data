@@ -1,9 +1,0 @@
-citation_left: []
-citation_right: []
-crosstable_pk: 11500
-has_on_left: true
-has_on_right: true
-property: PROP_000073
-reason_left: The ring is simple, and the singular ideal cannot be the entire ring
-reason_right: The ring is simple, and the singular ideal cannot be the entire ring
-ring: RING_000028

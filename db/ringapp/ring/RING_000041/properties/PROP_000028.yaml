@@ -1,9 +1,0 @@
-citation_left: []
-citation_right: []
-crosstable_pk: 9116
-has_on_left: false
-has_on_right: false
-property: PROP_000028
-reason_left: 'Logic 255: primary ===> Kasch on the left and right'
-reason_right: 'Logic 255: primary ===> Kasch on the left and right'
-ring: RING_000041

@@ -1,9 +1,0 @@
-citation_left: []
-citation_right: []
-crosstable_pk: 2741
-has_on_left: true
-has_on_right: true
-property: PROP_000041
-reason_left: 'Logic 110: cohopfian on the left or right ===> Dedekind finite'
-reason_right: 'Logic 110: cohopfian on the left or right ===> Dedekind finite'
-ring: RING_000005

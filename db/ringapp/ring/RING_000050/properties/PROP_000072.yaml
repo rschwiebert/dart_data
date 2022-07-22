@@ -1,9 +1,0 @@
-citation_left: []
-citation_right: []
-crosstable_pk: 2912
-has_on_left: false
-has_on_right: false
-property: PROP_000072
-reason_left: 'Logic 61: Rickart on the right ===> nonsingular on the right'
-reason_right: 'Logic 61: Rickart on the right ===> nonsingular on the right'
-ring: RING_000050

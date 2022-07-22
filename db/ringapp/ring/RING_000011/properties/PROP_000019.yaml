@@ -1,9 +1,0 @@
-citation_left: []
-citation_right: []
-crosstable_pk: 2253
-has_on_left: true
-has_on_right: true
-property: PROP_000019
-reason_left: 'Logic 76: Frobenius ===> quasi-Frobenius'
-reason_right: 'Logic 76: Frobenius ===> quasi-Frobenius'
-ring: RING_000011

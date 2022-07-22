@@ -1,9 +1,0 @@
-citation_left: []
-citation_right: []
-crosstable_pk: 7248
-has_on_left: false
-has_on_right: false
-property: PROP_000068
-reason_left: 'Logic 52: Bezout domain on the right <==> Bezout on the right and domain'
-reason_right: 'Logic 52: Bezout domain on the right <==> Bezout on the right and domain'
-ring: RING_000072

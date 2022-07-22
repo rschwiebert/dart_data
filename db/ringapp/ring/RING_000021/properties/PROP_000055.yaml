@@ -1,9 +1,0 @@
-citation_left: []
-citation_right: []
-crosstable_pk: 6763
-has_on_left: false
-has_on_right: false
-property: PROP_000055
-reason_left: 'Logic 290: algebraically closed field ===> quadratically closed field'
-reason_right: 'Logic 290: algebraically closed field ===> quadratically closed field'
-ring: RING_000021

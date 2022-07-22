@@ -1,9 +1,0 @@
-citation_left: []
-citation_right: []
-crosstable_pk: 2518
-has_on_left: false
-has_on_right: false
-property: PROP_000010
-reason_left: 'Logic 42: reduced <==> 2-primal and semiprime'
-reason_right: 'Logic 42: reduced <==> 2-primal and semiprime'
-ring: RING_000013

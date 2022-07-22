@@ -1,9 +1,0 @@
-citation_left: []
-citation_right: []
-crosstable_pk: 8217
-has_on_left: false
-has_on_right: false
-property: PROP_000013
-reason_left: 'Logic 45: unit regular ===> von Neumann regular'
-reason_right: 'Logic 45: unit regular ===> von Neumann regular'
-ring: RING_000020

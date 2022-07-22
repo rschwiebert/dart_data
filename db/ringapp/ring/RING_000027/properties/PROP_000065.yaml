@@ -1,9 +1,0 @@
-citation_left: []
-citation_right: []
-crosstable_pk: 827
-has_on_left: true
-has_on_right: true
-property: PROP_000065
-reason_left: Ideals are of the form (x^i)
-reason_right: Ideals are of the form (x^i)
-ring: RING_000027

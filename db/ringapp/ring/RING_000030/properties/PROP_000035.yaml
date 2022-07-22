@@ -1,9 +1,0 @@
-citation_left: []
-citation_right: []
-crosstable_pk: 8435
-has_on_left: false
-has_on_right: false
-property: PROP_000035
-reason_left: 'Logic 179: reversible ===> semicommutative  (SI condition, zero-insertive)'
-reason_right: 'Logic 179: reversible ===> semicommutative  (SI condition, zero-insertive)'
-ring: RING_000030

@@ -1,9 +1,0 @@
-citation_left: []
-citation_right: []
-crosstable_pk: 15054
-has_on_left: false
-has_on_right: false
-property: PROP_000003
-reason_left: 'Logic 19: simple ===> fully prime'
-reason_right: 'Logic 19: simple ===> fully prime'
-ring: RING_000114

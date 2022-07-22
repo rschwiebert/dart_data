@@ -1,9 +1,0 @@
-citation_left: []
-citation_right: []
-crosstable_pk: 18100
-has_on_left: true
-has_on_right: true
-property: PROP_000010
-reason_left: 'Logic 183: commutative and semiprime ===> reduced'
-reason_right: 'Logic 183: commutative and semiprime ===> reduced'
-ring: RING_000130

@@ -1,0 +1,28 @@
+MODPROP_000001:
+  citation: []
+  crosstable_pk: 1
+  has: false
+  module: MOD_000001
+  property: MODPROP_000001
+  reason: null
+MODPROP_000002:
+  citation: []
+  crosstable_pk: 2
+  has: true
+  module: MOD_000001
+  property: MODPROP_000002
+  reason: null
+MODPROP_000009:
+  citation: []
+  crosstable_pk: 6
+  has: true
+  module: MOD_000001
+  property: MODPROP_000009
+  reason: null
+MODPROP_000010:
+  citation: []
+  crosstable_pk: 5
+  has: true
+  module: MOD_000001
+  property: MODPROP_000010
+  reason: null

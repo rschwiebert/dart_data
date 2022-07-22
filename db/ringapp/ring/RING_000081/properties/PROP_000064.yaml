@@ -1,9 +1,0 @@
-citation_left: []
-citation_right: []
-crosstable_pk: 9863
-has_on_left: false
-has_on_right: false
-property: PROP_000064
-reason_left: A Noetherian VNR ring is semisimple, and this one is not semisimple
-reason_right: A Noetherian VNR ring is semisimple, and this one is not semisimple
-ring: RING_000081

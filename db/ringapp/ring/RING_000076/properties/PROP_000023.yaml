@@ -1,9 +1,0 @@
-citation_left: []
-citation_right: []
-crosstable_pk: 11513
-has_on_left: false
-has_on_right: false
-property: PROP_000023
-reason_left: 'Logic 96: local ===> semiperfect'
-reason_right: 'Logic 96: local ===> semiperfect'
-ring: RING_000076

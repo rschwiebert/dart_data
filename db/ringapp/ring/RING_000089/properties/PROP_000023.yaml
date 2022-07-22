@@ -1,9 +1,0 @@
-citation_left: []
-citation_right: []
-crosstable_pk: 10535
-has_on_left: false
-has_on_right: false
-property: PROP_000023
-reason_left: Quotent out $(x-y)$ to see the result has multiple maximal ideals
-reason_right: symmetry with left side
-ring: RING_000089

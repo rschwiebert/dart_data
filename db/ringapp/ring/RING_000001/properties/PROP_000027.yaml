@@ -1,9 +1,0 @@
-citation_left: []
-citation_right: []
-crosstable_pk: 58
-has_on_left: false
-has_on_right: false
-property: PROP_000027
-reason_left: Use a=5 and b=13
-reason_right: symmetry with left side
-ring: RING_000001

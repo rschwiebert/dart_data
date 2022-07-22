@@ -1,9 +1,0 @@
-citation_left: []
-citation_right: []
-crosstable_pk: 4607
-has_on_left: false
-has_on_right: false
-property: PROP_000012
-reason_left: 'Logic 169: strongly regular <==> Abelian and von Neumann regular'
-reason_right: 'Logic 169: strongly regular <==> Abelian and von Neumann regular'
-ring: RING_000070

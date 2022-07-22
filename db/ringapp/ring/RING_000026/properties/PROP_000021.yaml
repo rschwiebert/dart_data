@@ -1,9 +1,0 @@
-citation_left: []
-citation_right: []
-crosstable_pk: 1051
-has_on_left: true
-has_on_right: true
-property: PROP_000021
-reason_left: It's Jacobson radical is $\{0, a+b\}$
-reason_right: symmetry with left side
-ring: RING_000026

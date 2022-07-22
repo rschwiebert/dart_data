@@ -1,0 +1,4 @@
+citation: []
+definition: There is a surjective homomorphism $F_R\to M_R$ where $F_R$ is a free
+  module, and the kernel of this homomorphism is finitely generated.
+name: finitely related

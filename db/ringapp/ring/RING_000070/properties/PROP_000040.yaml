@@ -1,9 +1,0 @@
-citation_left: []
-citation_right: []
-crosstable_pk: 4602
-has_on_left: false
-has_on_right: false
-property: PROP_000040
-reason_left: 'Logic 146: Abelian ===> Dedekind finite'
-reason_right: 'Logic 146: Abelian ===> Dedekind finite'
-ring: RING_000070

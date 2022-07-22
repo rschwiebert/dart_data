@@ -1,9 +1,0 @@
-citation_left: []
-citation_right: []
-crosstable_pk: 18063
-has_on_left: false
-has_on_right: false
-property: PROP_000027
-reason_left: $(1-x)(1+x)-x^2=1 but $1+x+yx^2$ can't be a unit for any $y$.
-reason_right: symmetry with left side
-ring: RING_000007

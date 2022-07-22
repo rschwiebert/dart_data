@@ -1,9 +1,0 @@
-citation_left: []
-citation_right: []
-crosstable_pk: 8253
-has_on_left: false
-has_on_right: false
-property: PROP_000005
-reason_left: 'Logic 189: semisimple <==> semilocal and semiprimitive'
-reason_right: 'Logic 189: semisimple <==> semilocal and semiprimitive'
-ring: RING_000020

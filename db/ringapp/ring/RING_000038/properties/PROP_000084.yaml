@@ -1,9 +1,0 @@
-citation_left: []
-citation_right: []
-crosstable_pk: 972
-has_on_left: true
-has_on_right: false
-property: PROP_000084
-reason_left: Exactly three left ideals, two trivial, one unique maximalrschwiebert
-reason_right: The simple submodules of the right socle are not two-sided idealsrschwiebert
-ring: RING_000038

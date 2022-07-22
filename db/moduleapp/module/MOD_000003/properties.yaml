@@ -1,0 +1,15 @@
+MODPROP_000001:
+  citation: []
+  crosstable_pk: 3
+  has: true
+  module: MOD_000003
+  property: MODPROP_000001
+  reason: null
+MODPROP_000002:
+  citation: []
+  crosstable_pk: 4
+  has: false
+  module: MOD_000003
+  property: MODPROP_000002
+  reason: The sets of $p^k$th roots of unity, for each $k$, constitute an infinite
+    ascending chain

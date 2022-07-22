@@ -1,9 +1,0 @@
-citation_left: []
-citation_right: []
-crosstable_pk: 12602
-has_on_left: false
-has_on_right: false
-property: PROP_000143
-reason_left: Hensel's lemma does not apply (but it would if it were complete local)
-reason_right: symmetry with left side
-ring: RING_000069

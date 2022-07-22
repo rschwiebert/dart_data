@@ -1,9 +1,0 @@
-citation_left: []
-citation_right: []
-crosstable_pk: 13412
-has_on_left: true
-has_on_right: true
-property: PROP_000041
-reason_left: 'Logic 181: NI (nilpotents form an ideal) ===> Dedekind finite'
-reason_right: 'Logic 181: NI (nilpotents form an ideal) ===> Dedekind finite'
-ring: RING_000103

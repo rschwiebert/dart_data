@@ -1,9 +1,0 @@
-citation_left: []
-citation_right: []
-crosstable_pk: 16520
-has_on_left: false
-has_on_right: false
-property: PROP_000072
-reason_left: 'Logic 462: Rickart on the right and strongly connected <==> domain'
-reason_right: 'Logic 462: Rickart on the right and strongly connected <==> domain'
-ring: RING_000044

@@ -1,0 +1,7 @@
+SUBSET_000007:
+  citation:
+  - CITE_000416
+  crosstable_pk: 209
+  ring: RING_000125
+  subset: $\{0\}$
+  subset_type: SUBSET_000007

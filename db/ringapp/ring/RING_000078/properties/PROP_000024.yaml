@@ -1,9 +1,0 @@
-citation_left: []
-citation_right: []
-crosstable_pk: 11353
-has_on_left: false
-has_on_right: false
-property: PROP_000024
-reason_left: Top is von Neumann regular but not artinian
-reason_right: symmetry with left side
-ring: RING_000078

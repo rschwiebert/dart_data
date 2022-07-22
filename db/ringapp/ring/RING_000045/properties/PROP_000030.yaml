@@ -1,9 +1,0 @@
-citation_left: []
-citation_right: []
-crosstable_pk: 9061
-has_on_left: false
-has_on_right: false
-property: PROP_000030
-reason_left: 'Logic 262: top simple Artinian ===> semilocal'
-reason_right: 'Logic 262: top simple Artinian ===> semilocal'
-ring: RING_000045

@@ -1,9 +1,0 @@
-citation_left: []
-citation_right: []
-crosstable_pk: 9618
-has_on_left: false
-has_on_right: false
-property: PROP_000008
-reason_left: 'Logic 65: domain ===> reduced'
-reason_right: 'Logic 65: domain ===> reduced'
-ring: RING_000025

@@ -1,9 +1,0 @@
-citation_left: []
-citation_right: []
-crosstable_pk: 866
-has_on_left: true
-has_on_right: true
-property: PROP_000077
-reason_left: '[[a,0],[0,0]] and [[0,b],[0,c]] are uniserial submodulesrschwiebert'
-reason_right: '[[a,b],[0,0]] and [[0,0],[0,c]] are uniserial submodulesrschwiebert'
-ring: RING_000016

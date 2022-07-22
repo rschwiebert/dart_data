@@ -1,9 +1,0 @@
-citation_left: []
-citation_right: []
-crosstable_pk: 2974
-has_on_left: false
-has_on_right: false
-property: PROP_000015
-reason_left: 'Logic 142: semi free ideal ring ===> domain'
-reason_right: 'Logic 142: semi free ideal ring ===> domain'
-ring: RING_000049

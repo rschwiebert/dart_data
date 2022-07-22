@@ -1,9 +1,0 @@
-citation_left: []
-citation_right: []
-crosstable_pk: 16602
-has_on_left: true
-has_on_right: null
-property: PROP_000088
-reason_left: 'Logic 162: perfect on the right ===> ACC principal on the left'
-reason_right: null
-ring: RING_000125

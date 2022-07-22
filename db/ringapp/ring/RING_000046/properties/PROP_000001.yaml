@@ -1,9 +1,0 @@
-citation_left: []
-citation_right: []
-crosstable_pk: 8720
-has_on_left: false
-has_on_right: false
-property: PROP_000001
-reason_left: 'Logic 3: commutative ===> Abelian'
-reason_right: 'Logic 3: commutative ===> Abelian'
-ring: RING_000046

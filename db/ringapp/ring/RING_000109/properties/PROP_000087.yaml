@@ -1,9 +1,0 @@
-citation_left: []
-citation_right: []
-crosstable_pk: 14319
-has_on_left: true
-has_on_right: true
-property: PROP_000087
-reason_left: 'Logic 11: Noetherian on the right ===> coherent on the right'
-reason_right: 'Logic 11: Noetherian on the right ===> coherent on the right'
-ring: RING_000109

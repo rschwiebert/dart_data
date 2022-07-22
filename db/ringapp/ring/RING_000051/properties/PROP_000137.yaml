@@ -1,9 +1,0 @@
-citation_left: []
-citation_right: []
-crosstable_pk: 6547
-has_on_left: false
-has_on_right: false
-property: PROP_000137
-reason_left: 'Logic 351: N-1 ===> domain'
-reason_right: 'Logic 351: N-1 ===> domain'
-ring: RING_000051

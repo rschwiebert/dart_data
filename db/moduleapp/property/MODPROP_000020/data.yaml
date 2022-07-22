@@ -1,0 +1,4 @@
+citation: []
+definition: Any homomorphism from a principal ideal $xR\to M$ extends to a homomorphism
+  $R\to M$.
+name: principally injective

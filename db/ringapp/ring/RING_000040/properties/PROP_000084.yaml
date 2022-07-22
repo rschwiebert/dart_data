@@ -1,9 +1,0 @@
-citation_left: []
-citation_right: []
-crosstable_pk: 934
-has_on_left: null
-has_on_right: true
-property: PROP_000084
-reason_left: null
-reason_right: Has exactly three right ideals, and they must all be ideals.
-ring: RING_000040

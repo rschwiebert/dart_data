@@ -1,9 +1,0 @@
-citation_left: []
-citation_right: []
-crosstable_pk: 15036
-has_on_left: false
-has_on_right: false
-property: PROP_000017
-reason_left: 'Logic 145: fully prime ===> fully semiprime'
-reason_right: 'Logic 145: fully prime ===> fully semiprime'
-ring: RING_000114

@@ -1,0 +1,14 @@
+DIM_000002:
+  citation: []
+  crosstable_pk: 194
+  dimension_type: DIM_000002
+  left_dimension: $\infty$
+  right_dimension: $\infty$
+  ring: RING_000042
+DIM_000003:
+  citation: []
+  crosstable_pk: 288
+  dimension_type: DIM_000003
+  left_dimension: $\mathfrak c$
+  right_dimension: $\mathfrak c$
+  ring: RING_000042

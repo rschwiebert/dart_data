@@ -1,9 +1,0 @@
-citation_left: []
-citation_right: []
-crosstable_pk: 17832
-has_on_left: true
-has_on_right: true
-property: PROP_000094
-reason_left: symmetry with right side
-reason_right: 'Logic 254: Goldie on the right and semiprime ===> Ore ring on the right'
-ring: RING_000129

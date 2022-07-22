@@ -1,9 +1,0 @@
-citation_left: []
-citation_right: []
-crosstable_pk: 5763
-has_on_left: true
-has_on_right: true
-property: PROP_000027
-reason_left: 'Logic 47: unit regular <==> stable range 1 and von Neumann regular'
-reason_right: 'Logic 47: unit regular <==> stable range 1 and von Neumann regular'
-ring: RING_000018

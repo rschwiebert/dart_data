@@ -1,9 +1,0 @@
-citation_left: []
-citation_right: []
-crosstable_pk: 4714
-has_on_left: false
-has_on_right: false
-property: PROP_000063
-reason_left: 'Logic 241: Artinian on the right <==> Noetherian on the right and $\pi$-regular'
-reason_right: 'Logic 241: Artinian on the right <==> Noetherian on the right and $\pi$-regular'
-ring: RING_000082

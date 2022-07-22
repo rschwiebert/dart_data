@@ -1,9 +1,0 @@
-citation_left: []
-citation_right: []
-crosstable_pk: 10145
-has_on_left: true
-has_on_right: true
-property: PROP_000116
-reason_left: 'Logic 281: Dedekind domain ===> regular'
-reason_right: 'Logic 281: Dedekind domain ===> regular'
-ring: RING_000084

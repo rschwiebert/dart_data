@@ -1,0 +1,96 @@
+METAPROP_000001:
+  citation: []
+  commutative_only: false
+  crosstable_pk: 112
+  example: null
+  has_metaproperty: false
+  metaproperty: METAPROP_000001
+  property: PROP_000152
+METAPROP_000002:
+  citation: []
+  commutative_only: false
+  crosstable_pk: 116
+  example: null
+  has_metaproperty: false
+  metaproperty: METAPROP_000002
+  property: PROP_000152
+METAPROP_000003:
+  citation: []
+  commutative_only: false
+  crosstable_pk: 120
+  example: null
+  has_metaproperty: true
+  metaproperty: METAPROP_000003
+  property: PROP_000152
+METAPROP_000004:
+  citation: []
+  commutative_only: false
+  crosstable_pk: 119
+  example: null
+  has_metaproperty: true
+  metaproperty: METAPROP_000004
+  property: PROP_000152
+METAPROP_000005:
+  citation: []
+  commutative_only: false
+  crosstable_pk: 122
+  example: null
+  has_metaproperty: true
+  metaproperty: METAPROP_000005
+  property: PROP_000152
+METAPROP_000006:
+  citation: []
+  commutative_only: false
+  crosstable_pk: 123
+  example: null
+  has_metaproperty: true
+  metaproperty: METAPROP_000006
+  property: PROP_000152
+METAPROP_000007:
+  citation: []
+  commutative_only: false
+  crosstable_pk: 114
+  example: null
+  has_metaproperty: true
+  metaproperty: METAPROP_000007
+  property: PROP_000152
+METAPROP_000008:
+  citation: []
+  commutative_only: false
+  crosstable_pk: 113
+  example: null
+  has_metaproperty: true
+  metaproperty: METAPROP_000008
+  property: PROP_000152
+METAPROP_000009:
+  citation: []
+  commutative_only: false
+  crosstable_pk: 115
+  example: null
+  has_metaproperty: true
+  metaproperty: METAPROP_000009
+  property: PROP_000152
+METAPROP_000010:
+  citation: []
+  commutative_only: false
+  crosstable_pk: 121
+  example: null
+  has_metaproperty: true
+  metaproperty: METAPROP_000010
+  property: PROP_000152
+METAPROP_000012:
+  citation: []
+  commutative_only: false
+  crosstable_pk: 117
+  example: null
+  has_metaproperty: false
+  metaproperty: METAPROP_000012
+  property: PROP_000152
+METAPROP_000014:
+  citation: []
+  commutative_only: false
+  crosstable_pk: 118
+  example: null
+  has_metaproperty: false
+  metaproperty: METAPROP_000014
+  property: PROP_000152

@@ -1,9 +1,0 @@
-citation_left: []
-citation_right: []
-crosstable_pk: 10840
-has_on_left: false
-has_on_right: false
-property: PROP_000018
-reason_left: 'Logic 306: commutative and Frobenius ===> Gorenstein'
-reason_right: 'Logic 306: commutative and Frobenius ===> Gorenstein'
-ring: RING_000090

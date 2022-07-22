@@ -1,9 +1,0 @@
-citation_left: []
-citation_right: []
-crosstable_pk: 8938
-has_on_left: true
-has_on_right: true
-property: PROP_000040
-reason_left: 'Logic 149: strongly connected <==> Abelian and connected'
-reason_right: 'Logic 149: strongly connected <==> Abelian and connected'
-ring: RING_000042

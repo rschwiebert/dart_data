@@ -1,9 +1,0 @@
-citation_left: []
-citation_right: []
-crosstable_pk: 3975
-has_on_left: false
-has_on_right: false
-property: PROP_000102
-reason_left: 'Logic 202: cogenerator ring on the right ===> Kasch on the right'
-reason_right: 'Logic 202: cogenerator ring on the right ===> Kasch on the right'
-ring: RING_000069

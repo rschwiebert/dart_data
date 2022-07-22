@@ -1,9 +1,0 @@
-citation_left: []
-citation_right: []
-crosstable_pk: 1098
-has_on_left: true
-has_on_right: true
-property: PROP_000052
-reason_left: '"Corner rings of a clean ring need not be clean"'
-reason_right: symmetry with left side
-ring: RING_000067
