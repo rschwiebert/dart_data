@@ -11,12 +11,9 @@ ringapp/ring
 ├── RING_000031
 │   ├── RING_000031_details.html<- expanded details template
 │   ├── data.yaml               <- definition of the ring
-│   ├── dimensions              <- associated dimension objects
-│       └── DIM_000002.yaml     <- value of the dimension
-│   ├── properties              <- associated properties
-│       └── PROP_000154.yaml    <- description of the relationship
-│   └── subsets                 <- associated subsets
-│       └── SUBSET_000001.yaml  <- description of the subset
+│   ├── dimensions.yaml         <- mapping holding dimension data for this ring
+│   ├── properties.yaml         <- mapping holding property data for this ring
+│   └── subsets.yaml            <- mapping holding subsets information for this ring
 ```
 
 Other objects are not so complicated. For example, if you look up subset type 1 to see what it is, all the data is 
@@ -31,8 +28,7 @@ Property 154 will likewise look like this:
 ```
 ringapp/property/PROP_000154
 ├── data.yaml                 <- defintition of the property
-└── metaproperties            <- associated metaproperties
-    └── METAPROP_000001.yaml  <- description of the relationship
+└── metaproperties.yaml       <- mapping associating metaproperty information for this property
 ```
 
 ## Importing/Exporting
