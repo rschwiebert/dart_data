@@ -433,6 +433,17 @@ PROP_000052:
   reason_left: Camillo & Yu. Exchange rings, units and idempotents.
   reason_right: symmetry with left side
   ring: RING_000070
+PROP_000053:
+  citation_left:
+  - CITE_000505
+  citation_right: []
+  crosstable_pk: 18603
+  has_on_left: true
+  has_on_right: true
+  property: PROP_000053
+  reason_left: null
+  reason_right: symmetry with left side
+  ring: RING_000070
 PROP_000054:
   citation_left: []
   citation_right: []
