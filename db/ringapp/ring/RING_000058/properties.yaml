@@ -1366,3 +1366,25 @@ PROP_000154:
   reason_right: 'Logic 414: valuation domain on the right ===> Bezout domain on the
     right'
   ring: RING_000058
+PROP_000157:
+  citation_left: []
+  citation_right: []
+  crosstable_pk: 18820
+  has_on_left: false
+  has_on_right: false
+  property: PROP_000157
+  reason_left: 'Logic 471: unique generator property on the left ===> IC (internal
+    cancellation)'
+  reason_right: 'Logic 471: unique generator property on the left ===> IC (internal
+    cancellation)'
+  ring: RING_000058
+PROP_000158:
+  citation_left: []
+  citation_right: []
+  crosstable_pk: 18819
+  has_on_left: false
+  has_on_right: false
+  property: PROP_000158
+  reason_left: 'Logic 472: IC (internal cancellation) ===> Dedekind finite'
+  reason_right: 'Logic 472: IC (internal cancellation) ===> Dedekind finite'
+  ring: RING_000058

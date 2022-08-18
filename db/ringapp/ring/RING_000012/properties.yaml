@@ -1438,3 +1438,27 @@ PROP_000154:
   reason_right: 'Logic 414: valuation domain on the right ===> Bezout domain on the
     right'
   ring: RING_000012
+PROP_000157:
+  citation_left: []
+  citation_right: []
+  crosstable_pk: 18625
+  has_on_left: true
+  has_on_right: true
+  property: PROP_000157
+  reason_left: 'Logic 470: stable range 1 ===> unique generator property on the left
+    and right'
+  reason_right: 'Logic 470: stable range 1 ===> unique generator property on the left
+    and right'
+  ring: RING_000012
+PROP_000158:
+  citation_left: []
+  citation_right: []
+  crosstable_pk: 18626
+  has_on_left: true
+  has_on_right: true
+  property: PROP_000158
+  reason_left: 'Logic 471: unique generator property on the left ===> IC (internal
+    cancellation)'
+  reason_right: 'Logic 471: unique generator property on the left ===> IC (internal
+    cancellation)'
+  ring: RING_000012

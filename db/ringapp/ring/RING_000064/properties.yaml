@@ -939,6 +939,16 @@ PROP_000091:
   reason_left: symmetry with right side
   reason_right: 'Logic 121: dual on the right ===> Kasch on the right'
   ring: RING_000064
+PROP_000092:
+  citation_left: []
+  citation_right: []
+  crosstable_pk: 18691
+  has_on_left: false
+  has_on_right: false
+  property: PROP_000092
+  reason_left: symmetry with right side
+  reason_right: 'Logic 468: continuous on the right and domain <==> division ring'
+  ring: RING_000064
 PROP_000093:
   citation_left: []
   citation_right: []
@@ -1361,6 +1371,16 @@ PROP_000136:
   reason_right: 'Logic 359: complete local and Noetherian on the left and right ===>
     excellent'
   ring: RING_000064
+PROP_000137:
+  citation_left: []
+  citation_right: []
+  crosstable_pk: 18688
+  has_on_left: true
+  has_on_right: true
+  property: PROP_000137
+  reason_left: 'Logic 350: Japanese (N-2) ===> N-1'
+  reason_right: 'Logic 350: Japanese (N-2) ===> N-1'
+  ring: RING_000064
 PROP_000138:
   citation_left: []
   citation_right: []
@@ -1392,6 +1412,26 @@ PROP_000140:
   property: PROP_000140
   reason_left: 'Logic 358: quasi-excellent ===> Nagata'
   reason_right: 'Logic 358: quasi-excellent ===> Nagata'
+  ring: RING_000064
+PROP_000141:
+  citation_left: []
+  citation_right: []
+  crosstable_pk: 18689
+  has_on_left: true
+  has_on_right: true
+  property: PROP_000141
+  reason_left: 'Logic 354: J-2 ===> J-1'
+  reason_right: 'Logic 354: J-2 ===> J-1'
+  ring: RING_000064
+PROP_000142:
+  citation_left: []
+  citation_right: []
+  crosstable_pk: 18690
+  has_on_left: true
+  has_on_right: true
+  property: PROP_000142
+  reason_left: 'Logic 355: J-1 and reduced ===> J-0'
+  reason_right: 'Logic 355: J-1 and reduced ===> J-0'
   ring: RING_000064
 PROP_000143:
   citation_left: []
@@ -1536,4 +1576,27 @@ PROP_000156:
   property: PROP_000156
   reason_left: 'Logic 418: reversible ===> McCoy on the left and right'
   reason_right: symmetry with left side
+  ring: RING_000064
+PROP_000157:
+  citation_left: []
+  citation_right: []
+  crosstable_pk: 18692
+  has_on_left: true
+  has_on_right: true
+  property: PROP_000157
+  reason_left: symmetry with right side
+  reason_right: 'Logic 470: stable range 1 ===> unique generator property on the left
+    and right'
+  ring: RING_000064
+PROP_000158:
+  citation_left: []
+  citation_right: []
+  crosstable_pk: 18693
+  has_on_left: true
+  has_on_right: true
+  property: PROP_000158
+  reason_left: 'Logic 471: unique generator property on the left ===> IC (internal
+    cancellation)'
+  reason_right: 'Logic 471: unique generator property on the left ===> IC (internal
+    cancellation)'
   ring: RING_000064
