@@ -1,0 +1,5 @@
+citation: []
+commutative_only: false
+definition: For all $a,b\in R$, $aR=bR$ implies $a=bu$ for a unit $u\in R$.
+name: unique generator property
+symmetric: false

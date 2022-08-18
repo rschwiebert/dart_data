@@ -684,10 +684,10 @@ PROP_000092:
   citation_left: []
   citation_right: []
   crosstable_pk: 16419
-  has_on_left: null
+  has_on_left: false
   has_on_right: false
   property: PROP_000092
-  reason_left: null
+  reason_left: 'Logic 468: continuous on the right and domain <==> division ring'
   reason_right: 'Logic 138: continuous on the right ===> quasi-continuous on the right'
   ring: RING_000021
 PROP_000093:
@@ -1097,4 +1097,14 @@ PROP_000156:
   property: PROP_000156
   reason_left: 'Logic 418: reversible ===> McCoy on the left and right'
   reason_right: 'Logic 418: reversible ===> McCoy on the left and right'
+  ring: RING_000021
+PROP_000158:
+  citation_left: []
+  citation_right: []
+  crosstable_pk: 18768
+  has_on_left: true
+  has_on_right: true
+  property: PROP_000158
+  reason_left: 'Logic 473: Abelian ===> IC (internal cancellation)'
+  reason_right: 'Logic 473: Abelian ===> IC (internal cancellation)'
   ring: RING_000021

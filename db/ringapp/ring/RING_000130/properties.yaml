@@ -264,6 +264,18 @@ PROP_000026:
   reason_left: 'Logic 152: nil radical ===> lift/rad'
   reason_right: 'Logic 152: nil radical ===> lift/rad'
   ring: RING_000130
+PROP_000027:
+  citation_left: []
+  citation_right: []
+  crosstable_pk: 18616
+  has_on_left: false
+  has_on_right: false
+  property: PROP_000027
+  reason_left: 'Logic 470: stable range 1 ===> unique generator property on the left
+    and right'
+  reason_right: 'Logic 470: stable range 1 ===> unique generator property on the left
+    and right'
+  ring: RING_000130
 PROP_000028:
   citation_left: []
   citation_right: []
@@ -789,6 +801,17 @@ PROP_000082:
   reason_right: 'Logic 105: perfect on the right <==> semilocal and T-nilpotent radical
     on the right'
   ring: RING_000130
+PROP_000083:
+  citation_left: []
+  citation_right: []
+  crosstable_pk: 18605
+  has_on_left: false
+  has_on_right: false
+  property: PROP_000083
+  reason_left: the function $f(x)=x$ is not invertible, but not a zero divisor since
+    zero divisors must be zero on a nonempty open interval
+  reason_right: symmetry with left side
+  ring: RING_000130
 PROP_000084:
   citation_left: []
   citation_right: []
@@ -798,6 +821,29 @@ PROP_000084:
   property: PROP_000084
   reason_left: 'Logic 1: commutative ===> duo on the left and right'
   reason_right: symmetry with left side
+  ring: RING_000130
+PROP_000085:
+  citation_left: []
+  citation_right: []
+  crosstable_pk: 18608
+  has_on_left: false
+  has_on_right: false
+  property: PROP_000085
+  reason_left: Choose an infinite set of disjoint, nonempty open intervals, and for
+    each one define an ideal of functions supported there. These form an infinite
+    direct sum
+  reason_right: symmetry with left side
+  ring: RING_000130
+PROP_000086:
+  citation_left: []
+  citation_right: []
+  crosstable_pk: 18609
+  has_on_left: false
+  has_on_right: false
+  property: PROP_000086
+  reason_left: symmetry with right side
+  reason_right: 'Logic 116: Goldie on the right <==> ACC annihilator on the right
+    and finite uniform dimension on the right'
   ring: RING_000130
 PROP_000091:
   citation_left: []
@@ -839,6 +885,17 @@ PROP_000094:
   property: PROP_000094
   reason_left: 'Logic 2: commutative ===> Ore ring on the left and right'
   reason_right: symmetry with left side
+  ring: RING_000130
+PROP_000095:
+  citation_left: []
+  citation_right: []
+  crosstable_pk: 18606
+  has_on_left: false
+  has_on_right: false
+  property: PROP_000095
+  reason_left: symmetry with right side
+  reason_right: 'Logic 203: Dedekind finite and principally injective on the right
+    ===> cohopfian on the right'
   ring: RING_000130
 PROP_000096:
   citation_left: []
@@ -923,6 +980,60 @@ PROP_000103:
   reason_left: symmetry with right side
   reason_right: 'Logic 213: semisimple <==> finitely cogenerated on the right and
     semiprime'
+  ring: RING_000130
+PROP_000105:
+  citation_left: []
+  citation_right: []
+  crosstable_pk: 18610
+  has_on_left: false
+  has_on_right: false
+  property: PROP_000105
+  reason_left: symmetry with right side
+  reason_right: 'Logic 165: uniform on the right ===> finite uniform dimension on
+    the right'
+  ring: RING_000130
+PROP_000106:
+  citation_left: []
+  citation_right: []
+  crosstable_pk: 18613
+  has_on_left: false
+  has_on_right: false
+  property: PROP_000106
+  reason_left: symmetry with right side
+  reason_right: 'Logic 158: Ikeda-Nakayama on the right ===> quasi-continuous on the
+    right'
+  ring: RING_000130
+PROP_000108:
+  citation_left: []
+  citation_right: []
+  crosstable_pk: 18607
+  has_on_left: false
+  has_on_right: false
+  property: PROP_000108
+  reason_left: symmetry with right side
+  reason_right: 'Logic 160: FI-injective on the right ===> principally injective on
+    the right'
+  ring: RING_000130
+PROP_000109:
+  citation_left: []
+  citation_right: []
+  crosstable_pk: 18612
+  has_on_left: false
+  has_on_right: false
+  property: PROP_000109
+  reason_left: symmetry with right side
+  reason_right: 'Logic 157: quasi-continuous on the right ===> CS on the right'
+  ring: RING_000130
+PROP_000110:
+  citation_left: []
+  citation_right: []
+  crosstable_pk: 18611
+  has_on_left: false
+  has_on_right: false
+  property: PROP_000110
+  reason_left: symmetry with right side
+  reason_right: 'Logic 458: CS on the right and strongly connected <==> uniform on
+    the right'
   ring: RING_000130
 PROP_000111:
   citation_left: []
@@ -1063,6 +1174,17 @@ PROP_000124:
   property: PROP_000124
   reason_left: 'Logic 293: atomic domain ===> domain'
   reason_right: 'Logic 293: atomic domain ===> domain'
+  ring: RING_000130
+PROP_000125:
+  citation_left: []
+  citation_right: []
+  crosstable_pk: 18604
+  has_on_left: false
+  has_on_right: false
+  property: PROP_000125
+  reason_left: A prime ideal has at most one common zero for all elements, but the
+    intersection of two maximals always has at least two zeros common to all elements.
+  reason_right: symmetry with left side
   ring: RING_000130
 PROP_000126:
   citation_left: []
@@ -1307,4 +1429,25 @@ PROP_000156:
   property: PROP_000156
   reason_left: 'Logic 418: reversible ===> McCoy on the left and right'
   reason_right: symmetry with left side
+  ring: RING_000130
+PROP_000157:
+  citation_left: []
+  citation_right: []
+  crosstable_pk: 18615
+  has_on_left: false
+  has_on_right: false
+  property: PROP_000157
+  reason_left: Easy to make functions which generate the same ideal, but one is positive,
+    one is mixed positive/negative, but a unit won't change one into the other.
+  reason_right: symmetry with left side
+  ring: RING_000130
+PROP_000158:
+  citation_left: []
+  citation_right: []
+  crosstable_pk: 18614
+  has_on_left: true
+  has_on_right: true
+  property: PROP_000158
+  reason_left: 'Logic 473: Abelian ===> IC (internal cancellation)'
+  reason_right: 'Logic 473: Abelian ===> IC (internal cancellation)'
   ring: RING_000130

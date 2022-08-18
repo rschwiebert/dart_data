@@ -1102,3 +1102,26 @@ PROP_000156:
   reason_left: 'Logic 418: reversible ===> McCoy on the left and right'
   reason_right: symmetry with left side
   ring: RING_000160
+PROP_000157:
+  citation_left: []
+  citation_right: []
+  crosstable_pk: 18759
+  has_on_left: true
+  has_on_right: true
+  property: PROP_000157
+  reason_left: symmetry with right side
+  reason_right: 'Logic 470: stable range 1 ===> unique generator property on the left
+    and right'
+  ring: RING_000160
+PROP_000158:
+  citation_left: []
+  citation_right: []
+  crosstable_pk: 18760
+  has_on_left: true
+  has_on_right: true
+  property: PROP_000158
+  reason_left: 'Logic 471: unique generator property on the left ===> IC (internal
+    cancellation)'
+  reason_right: 'Logic 471: unique generator property on the left ===> IC (internal
+    cancellation)'
+  ring: RING_000160
