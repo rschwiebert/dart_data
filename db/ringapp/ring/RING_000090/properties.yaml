@@ -359,6 +359,26 @@ PROP_000036:
   reason_left: 'Logic 4: commutative ===> symmetric'
   reason_right: 'Logic 4: commutative ===> symmetric'
   ring: RING_000090
+PROP_000037:
+  citation_left: []
+  citation_right: []
+  crosstable_pk: 18835
+  has_on_left: true
+  has_on_right: true
+  property: PROP_000037
+  reason_left: Routine computation using a general element $(\lambda x + p(y))^2$
+  reason_right: symmetry with left side
+  ring: RING_000090
+PROP_000038:
+  citation_left: []
+  citation_right: []
+  crosstable_pk: 18836
+  has_on_left: true
+  has_on_right: true
+  property: PROP_000038
+  reason_left: 'Logic 149: strongly connected <==> Abelian and connected'
+  reason_right: 'Logic 149: strongly connected <==> Abelian and connected'
+  ring: RING_000090
 PROP_000039:
   citation_left: []
   citation_right: []
@@ -763,6 +783,16 @@ PROP_000082:
   reason_left: 'Logic 104: perfect on the left or right ===> strongly $\pi$-regular'
   reason_right: symmetry with left side
   ring: RING_000090
+PROP_000083:
+  citation_left: []
+  citation_right: []
+  crosstable_pk: 18839
+  has_on_left: false
+  has_on_right: false
+  property: PROP_000083
+  reason_left: $1+y$ is both regular and not a unit.
+  reason_right: symmetry with left side
+  ring: RING_000090
 PROP_000084:
   citation_left: []
   citation_right: []
@@ -834,6 +864,16 @@ PROP_000090:
   property: PROP_000090
   reason_left: 'Logic 120: ACC annihilator on the right <==> DCC annihilator on the
     left'
+  reason_right: symmetry with left side
+  ring: RING_000090
+PROP_000091:
+  citation_left: []
+  citation_right: []
+  crosstable_pk: 18838
+  has_on_left: false
+  has_on_right: false
+  property: PROP_000091
+  reason_left: One can check $ann(y)=(x)$, and $ann(x)=(x,y)\neq(x)$.
   reason_right: symmetry with left side
   ring: RING_000090
 PROP_000092:
@@ -909,6 +949,17 @@ PROP_000099:
   reason_left: symmetry with right side
   reason_right: 'Logic 115: finite uniform dimension on the right ===> finitely generated
     socle on the right'
+  ring: RING_000090
+PROP_000102:
+  citation_left: []
+  citation_right: []
+  crosstable_pk: 18837
+  has_on_left: false
+  has_on_right: false
+  property: PROP_000102
+  reason_left: symmetry with right side
+  reason_right: 'Logic 247: cogenerator ring on the right and strongly connected ===>
+    local and self-injective on the right'
   ring: RING_000090
 PROP_000106:
   citation_left: []

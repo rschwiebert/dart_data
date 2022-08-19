@@ -273,6 +273,16 @@ PROP_000028:
   reason_left: 'Logic 175: primary <==> semiprimary and top simple'
   reason_right: 'Logic 175: primary <==> semiprimary and top simple'
   ring: RING_000022
+PROP_000029:
+  citation_left: []
+  citation_right: []
+  crosstable_pk: 18895
+  has_on_left: false
+  has_on_right: false
+  property: PROP_000029
+  reason_left: radical is $Ry$, $R/J(R)\cong \mathbb Z[x]$.
+  reason_right: symmetry with left side
+  ring: RING_000022
 PROP_000030:
   citation_left: []
   citation_right: []
@@ -293,6 +303,67 @@ PROP_000031:
   reason_left: 'Logic 132: semiregular <==> lift/rad and top regular'
   reason_right: 'Logic 132: semiregular <==> lift/rad and top regular'
   ring: RING_000022
+PROP_000033:
+  citation_left: []
+  citation_right: []
+  crosstable_pk: 18891
+  has_on_left: true
+  has_on_right: true
+  property: PROP_000033
+  reason_left: 'Logic 147: 2-primal ===> NI (nilpotents form an ideal)'
+  reason_right: 'Logic 147: 2-primal ===> NI (nilpotents form an ideal)'
+  ring: RING_000022
+PROP_000034:
+  citation_left: []
+  citation_right: []
+  crosstable_pk: 18890
+  has_on_left: true
+  has_on_right: true
+  property: PROP_000034
+  reason_left: $(y)$ squares to zero, and is easily seen to be completely prime. So
+    it is a minimal prime ideal too.
+  reason_right: symmetry with left side
+  ring: RING_000022
+PROP_000035:
+  citation_left: []
+  citation_right: []
+  crosstable_pk: 18893
+  has_on_left: false
+  has_on_right: false
+  property: PROP_000035
+  reason_left: $yx=0$ but $xy\neq 0$
+  reason_right: symmetry with left side
+  ring: RING_000022
+PROP_000036:
+  citation_left: []
+  citation_right: []
+  crosstable_pk: 18894
+  has_on_left: false
+  has_on_right: false
+  property: PROP_000036
+  reason_left: 'Logic 178: symmetric ===> reversible'
+  reason_right: 'Logic 178: symmetric ===> reversible'
+  ring: RING_000022
+PROP_000037:
+  citation_left: []
+  citation_right: []
+  crosstable_pk: 18877
+  has_on_left: true
+  has_on_right: true
+  property: PROP_000037
+  reason_left: routine computation with generic element
+  reason_right: symmetry with left side
+  ring: RING_000022
+PROP_000038:
+  citation_left: []
+  citation_right: []
+  crosstable_pk: 18879
+  has_on_left: true
+  has_on_right: true
+  property: PROP_000038
+  reason_left: 'Logic 149: strongly connected <==> Abelian and connected'
+  reason_right: 'Logic 149: strongly connected <==> Abelian and connected'
+  ring: RING_000022
 PROP_000039:
   citation_left: []
   citation_right: []
@@ -302,6 +373,16 @@ PROP_000039:
   property: PROP_000039
   reason_left: 'Logic 117: ACC principal on the left or right ===> orthogonally finite'
   reason_right: 'Logic 117: ACC principal on the left or right ===> orthogonally finite'
+  ring: RING_000022
+PROP_000040:
+  citation_left: []
+  citation_right: []
+  crosstable_pk: 18878
+  has_on_left: true
+  has_on_right: true
+  property: PROP_000040
+  reason_left: 'Logic 149: strongly connected <==> Abelian and connected'
+  reason_right: 'Logic 149: strongly connected <==> Abelian and connected'
   ring: RING_000022
 PROP_000041:
   citation_left: []
@@ -601,10 +682,10 @@ PROP_000072:
   citation_left: []
   citation_right: []
   crosstable_pk: 5608
-  has_on_left: null
+  has_on_left: false
   has_on_right: false
   property: PROP_000072
-  reason_left: null
+  reason_left: 'Logic 462: Rickart on the right and strongly connected <==> domain'
   reason_right: 'Logic 61: Rickart on the right ===> nonsingular on the right'
   ring: RING_000022
 PROP_000073:
@@ -693,6 +774,16 @@ PROP_000082:
   reason_right: 'Logic 105: perfect on the right <==> T-nilpotent radical on the right
     and semilocal'
   ring: RING_000022
+PROP_000084:
+  citation_left: []
+  citation_right: []
+  crosstable_pk: 18892
+  has_on_left: false
+  has_on_right: false
+  property: PROP_000084
+  reason_left: $xy\notin Rx$
+  reason_right: $xy\notin yR$
+  ring: RING_000022
 PROP_000085:
   citation_left: []
   citation_right: []
@@ -758,6 +849,16 @@ PROP_000090:
   reason_right: 'Logic 120: ACC annihilator on the right <==> DCC annihilator on the
     left'
   ring: RING_000022
+PROP_000091:
+  citation_left: []
+  citation_right: []
+  crosstable_pk: 18889
+  has_on_left: false
+  has_on_right: false
+  property: PROP_000091
+  reason_left: 'Logic 475: dual on the left ===> principally injective on the right'
+  reason_right: 'Logic 475: dual on the left ===> principally injective on the right'
+  ring: RING_000022
 PROP_000092:
   citation_left: []
   citation_right: []
@@ -814,6 +915,18 @@ PROP_000099:
     socle on the right'
   reason_right: null
   ring: RING_000022
+PROP_000102:
+  citation_left: []
+  citation_right: []
+  crosstable_pk: 18880
+  has_on_left: false
+  has_on_right: false
+  property: PROP_000102
+  reason_left: 'Logic 247: cogenerator ring on the right and strongly connected ===>
+    local and self-injective on the right'
+  reason_right: 'Logic 247: cogenerator ring on the right and strongly connected ===>
+    local and self-injective on the right'
+  ring: RING_000022
 PROP_000103:
   citation_left: []
   citation_right: []
@@ -847,6 +960,17 @@ PROP_000105:
   reason_right: 'Logic 165: uniform on the right ===> finite uniform dimension on
     the right'
   ring: RING_000022
+PROP_000106:
+  citation_left: []
+  citation_right: []
+  crosstable_pk: 18888
+  has_on_left: null
+  has_on_right: false
+  property: PROP_000106
+  reason_left: null
+  reason_right: 'Logic 158: Ikeda-Nakayama on the right ===> quasi-continuous on the
+    right'
+  ring: RING_000022
 PROP_000108:
   citation_left: []
   citation_right: []
@@ -857,6 +981,27 @@ PROP_000108:
   reason_left: 'Logic 160: FI-injective on the right ===> principally injective on
     the right'
   reason_right: null
+  ring: RING_000022
+PROP_000109:
+  citation_left: []
+  citation_right: []
+  crosstable_pk: 18887
+  has_on_left: null
+  has_on_right: false
+  property: PROP_000109
+  reason_left: null
+  reason_right: 'Logic 157: quasi-continuous on the right ===> CS on the right'
+  ring: RING_000022
+PROP_000110:
+  citation_left: []
+  citation_right: []
+  crosstable_pk: 18882
+  has_on_left: null
+  has_on_right: false
+  property: PROP_000110
+  reason_left: null
+  reason_right: 'Logic 458: CS on the right and strongly connected <==> uniform on
+    the right'
   ring: RING_000022
 PROP_000111:
   citation_left: []
@@ -1104,6 +1249,16 @@ PROP_000143:
   reason_left: 'Logic 367: complete local ===> local'
   reason_right: 'Logic 367: complete local ===> local'
   ring: RING_000022
+PROP_000144:
+  citation_left: []
+  citation_right: []
+  crosstable_pk: 18881
+  has_on_left: true
+  has_on_right: true
+  property: PROP_000144
+  reason_left: 'Logic 370: Abelian ===> compressible'
+  reason_right: 'Logic 370: Abelian ===> compressible'
+  ring: RING_000022
 PROP_000145:
   citation_left: []
   citation_right: []
@@ -1197,4 +1352,14 @@ PROP_000154:
     right'
   reason_right: 'Logic 414: valuation domain on the right ===> Bezout domain on the
     right'
+  ring: RING_000022
+PROP_000158:
+  citation_left: []
+  citation_right: []
+  crosstable_pk: 18883
+  has_on_left: true
+  has_on_right: true
+  property: PROP_000158
+  reason_left: 'Logic 473: Abelian ===> IC (internal cancellation)'
+  reason_right: 'Logic 473: Abelian ===> IC (internal cancellation)'
   ring: RING_000022

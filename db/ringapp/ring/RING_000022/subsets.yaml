@@ -1,0 +1,6 @@
+SUBSET_000001:
+  citation: []
+  crosstable_pk: 218
+  ring: RING_000022
+  subset: $(y)$
+  subset_type: SUBSET_000001

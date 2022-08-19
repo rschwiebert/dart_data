@@ -775,6 +775,16 @@ PROP_000082:
   reason_right: 'Logic 105: perfect on the right <==> semilocal and T-nilpotent radical
     on the right'
   ring: RING_000032
+PROP_000083:
+  citation_left: []
+  citation_right: []
+  crosstable_pk: 18896
+  has_on_left: false
+  has_on_right: false
+  property: PROP_000083
+  reason_left: $2x$ is regular but not invertible
+  reason_right: symmetry with left side
+  ring: RING_000032
 PROP_000084:
   citation_left: []
   citation_right: []
