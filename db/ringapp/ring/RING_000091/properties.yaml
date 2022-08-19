@@ -1473,6 +1473,16 @@ PROP_000144:
   reason_left: 'Logic 370: Abelian ===> compressible'
   reason_right: 'Logic 370: Abelian ===> compressible'
   ring: RING_000091
+PROP_000145:
+  citation_left: []
+  citation_right: []
+  crosstable_pk: 18829
+  has_on_left: false
+  has_on_right: false
+  property: PROP_000145
+  reason_left: 'Logic 474: Goldman domain and semiprimitive ===> division ring'
+  reason_right: 'Logic 474: Goldman domain and semiprimitive ===> division ring'
+  ring: RING_000091
 PROP_000146:
   citation_left: []
   citation_right: []
