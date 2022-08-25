@@ -533,6 +533,16 @@ PROP_000052:
   reason_left: 'Logic 134: clean ===> exchange'
   reason_right: 'Logic 134: clean ===> exchange'
   ring: RING_000055
+PROP_000053:
+  citation_left: []
+  citation_right: []
+  crosstable_pk: 18908
+  has_on_left: false
+  has_on_right: false
+  property: PROP_000053
+  reason_left: 'Logic 476: strongly connected and weakly clean ===> local'
+  reason_right: 'Logic 476: strongly connected and weakly clean ===> local'
+  ring: RING_000055
 PROP_000054:
   citation_left: []
   citation_right: []
