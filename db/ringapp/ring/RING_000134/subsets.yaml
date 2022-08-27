@@ -1,0 +1,6 @@
+SUBSET_000001:
+  citation: []
+  crosstable_pk: 219
+  ring: RING_000134
+  subset: $(a)=(a,b)$.
+  subset_type: SUBSET_000001

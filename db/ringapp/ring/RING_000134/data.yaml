@@ -1,0 +1,12 @@
+citation:
+- CITE_000514
+description: The quotient of the free algebra $F_2\langle a, b, c\rangle/(a^2, b^2,
+  ab, ba, ac, bc, ca-b, cb-a)$ where $F_2$ is the field of two elements.
+is_commutative: false
+keywords:
+- KWD_000026
+- KWD_000003
+krull_dim: (unknown)
+name: Nielsen's right UGP, not left UGP ring
+notes: null
+optional_template: ''
