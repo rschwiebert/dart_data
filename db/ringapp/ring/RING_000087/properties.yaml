@@ -493,6 +493,17 @@ PROP_000050:
   reason_left: 'Logic 132: semiregular <==> lift/rad and top regular'
   reason_right: 'Logic 132: semiregular <==> lift/rad and top regular'
   ring: RING_000087
+PROP_000051:
+  citation_left: []
+  citation_right: []
+  crosstable_pk: 19132
+  has_on_left: true
+  has_on_right: true
+  property: PROP_000051
+  reason_left: Can be viewed as a subring of $M_8(\mathbb R)$, which satisfies a standard
+    identity.
+  reason_right: symmetry with left side
+  ring: RING_000087
 PROP_000052:
   citation_left: []
   citation_right: []
@@ -853,6 +864,16 @@ PROP_000093:
     ring'
   reason_right: 'Logic 139: free ideal ring on the left or right ===> semi free ideal
     ring'
+  ring: RING_000087
+PROP_000094:
+  citation_left: []
+  citation_right: []
+  crosstable_pk: 19143
+  has_on_left: true
+  has_on_right: true
+  property: PROP_000094
+  reason_left: 'Logic 478: cohopfian on the right ===> Ore ring on the right'
+  reason_right: 'Logic 478: cohopfian on the right ===> Ore ring on the right'
   ring: RING_000087
 PROP_000097:
   citation_left: []
