@@ -363,6 +363,16 @@ PROP_000037:
   reason_left: 'Logic 149: strongly connected <==> Abelian and connected'
   reason_right: 'Logic 149: strongly connected <==> Abelian and connected'
   ring: RING_000014
+PROP_000038:
+  citation_left: []
+  citation_right: []
+  crosstable_pk: 19139
+  has_on_left: true
+  has_on_right: true
+  property: PROP_000038
+  reason_left: routine computations
+  reason_right: symmetry with left side
+  ring: RING_000014
 PROP_000039:
   citation_left: []
   citation_right: []
@@ -926,6 +936,26 @@ PROP_000093:
   reason_right: 'Logic 139: free ideal ring on the left or right ===> semi free ideal
     ring'
   ring: RING_000014
+PROP_000094:
+  citation_left: []
+  citation_right: []
+  crosstable_pk: 19140
+  has_on_left: true
+  has_on_right: true
+  property: PROP_000094
+  reason_left: 'Logic 478: cohopfian on the right ===> Ore ring on the right'
+  reason_right: 'Logic 478: cohopfian on the right ===> Ore ring on the right'
+  ring: RING_000014
+PROP_000095:
+  citation_left: []
+  citation_right: []
+  crosstable_pk: 19150
+  has_on_left: false
+  has_on_right: null
+  property: PROP_000095
+  reason_left: symmetry (isomorphic to opposite ring)
+  reason_right: lann(rann(a))\neq Ra for a=E_{1,2}
+  ring: RING_000014
 PROP_000096:
   citation_left: []
   citation_right: []
@@ -1347,6 +1377,26 @@ PROP_000154:
     right'
   reason_right: 'Logic 414: valuation domain on the right ===> Bezout domain on the
     right'
+  ring: RING_000014
+PROP_000155:
+  citation_left: []
+  citation_right: []
+  crosstable_pk: 19152
+  has_on_left: false
+  has_on_right: false
+  property: PROP_000155
+  reason_left: 'Logic 421: Armendariz ===> McCoy on the left and right'
+  reason_right: 'Logic 421: Armendariz ===> McCoy on the left and right'
+  ring: RING_000014
+PROP_000156:
+  citation_left: []
+  citation_right: []
+  crosstable_pk: 19151
+  has_on_left: false
+  has_on_right: false
+  property: PROP_000156
+  reason_left: https://github.com/rschwiebert/dart_data/files/9352753/T_n_F_.pdf
+  reason_right: https://github.com/rschwiebert/dart_data/files/9352753/T_n_F_.pdf
   ring: RING_000014
 PROP_000157:
   citation_left: []

@@ -841,6 +841,16 @@ PROP_000093:
   reason_right: 'Logic 139: free ideal ring on the left or right ===> semi free ideal
     ring'
   ring: RING_000041
+PROP_000094:
+  citation_left: []
+  citation_right: []
+  crosstable_pk: 19148
+  has_on_left: true
+  has_on_right: true
+  property: PROP_000094
+  reason_left: 'Logic 478: cohopfian on the right ===> Ore ring on the right'
+  reason_right: 'Logic 478: cohopfian on the right ===> Ore ring on the right'
+  ring: RING_000041
 PROP_000097:
   citation_left: []
   citation_right: []

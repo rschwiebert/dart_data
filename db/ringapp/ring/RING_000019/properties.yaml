@@ -493,6 +493,16 @@ PROP_000050:
   reason_left: 'Logic 131: semiregular ===> exchange'
   reason_right: 'Logic 131: semiregular ===> exchange'
   ring: RING_000019
+PROP_000051:
+  citation_left: []
+  citation_right: []
+  crosstable_pk: 19130
+  has_on_left: true
+  has_on_right: true
+  property: PROP_000051
+  reason_left: satisfies $(xy-yx)^2$
+  reason_right: symmetry with left side
+  ring: RING_000019
 PROP_000052:
   citation_left: []
   citation_right: []

@@ -59,6 +59,16 @@ PROP_000006:
   reason_left: The Jacobson radical is the set of strictly upper triangular matricesobvious
   reason_right: symmetry with left side
   ring: RING_000016
+PROP_000007:
+  citation_left: []
+  citation_right: []
+  crosstable_pk: 19104
+  has_on_left: true
+  has_on_right: true
+  property: PROP_000007
+  reason_left: brute force
+  reason_right: brute force
+  ring: RING_000016
 PROP_000008:
   citation_left: []
   citation_right: []
@@ -365,6 +375,16 @@ PROP_000037:
   property: PROP_000037
   reason_left: 'Logic 149: strongly connected <==> Abelian and connected'
   reason_right: 'Logic 149: strongly connected <==> Abelian and connected'
+  ring: RING_000016
+PROP_000038:
+  citation_left: []
+  citation_right: []
+  crosstable_pk: 19103
+  has_on_left: true
+  has_on_right: true
+  property: PROP_000038
+  reason_left: null
+  reason_right: symmetry with left side
   ring: RING_000016
 PROP_000039:
   citation_left: []
@@ -920,6 +940,16 @@ PROP_000091:
   reason_left: 'Logic 121: dual on the right ===> Kasch on the right'
   reason_right: 'Logic 121: dual on the right ===> Kasch on the right'
   ring: RING_000016
+PROP_000092:
+  citation_left: []
+  citation_right: []
+  crosstable_pk: 19114
+  has_on_left: false
+  has_on_right: false
+  property: PROP_000092
+  reason_left: 'Logic 138: continuous on the right ===> quasi-continuous on the right'
+  reason_right: 'Logic 138: continuous on the right ===> quasi-continuous on the right'
+  ring: RING_000016
 PROP_000093:
   citation_left: []
   citation_right: []
@@ -931,6 +961,26 @@ PROP_000093:
     ring'
   reason_right: 'Logic 139: free ideal ring on the left or right ===> semi free ideal
     ring'
+  ring: RING_000016
+PROP_000094:
+  citation_left: []
+  citation_right: []
+  crosstable_pk: 19117
+  has_on_left: true
+  has_on_right: true
+  property: PROP_000094
+  reason_left: the regular elements are already units
+  reason_right: the regular elements are already units
+  ring: RING_000016
+PROP_000095:
+  citation_left: []
+  citation_right: []
+  crosstable_pk: 19105
+  has_on_left: false
+  has_on_right: false
+  property: PROP_000095
+  reason_left: symmetry with right (since it is isomorphic to its opposite ring)
+  reason_right: $l.ann(r.ann(Ra))\neq Ra$
   ring: RING_000016
 PROP_000096:
   citation_left: []
@@ -1077,6 +1127,27 @@ PROP_000108:
     right'
   reason_right: 'Logic 159: FI-injective on the right ===> simple-injective on the
     right'
+  ring: RING_000016
+PROP_000109:
+  citation_left: []
+  citation_right: []
+  crosstable_pk: 19113
+  has_on_left: false
+  has_on_right: false
+  property: PROP_000109
+  reason_left: symmetry (isomorphic to opposite ring)
+  reason_right: '[[0,0],[0,1]]R+[[0,0],[1,1]]R is not of the form eR'
+  ring: RING_000016
+PROP_000110:
+  citation_left: []
+  citation_right: []
+  crosstable_pk: 19115
+  has_on_left: true
+  has_on_right: true
+  property: PROP_000110
+  reason_left: symmetry (isomorphic to opposite ring)
+  reason_right: 'Inspection: all rt ideals are summands except the radical and socle,
+    and those turn out not to be complements'
   ring: RING_000016
 PROP_000111:
   citation_left: []
@@ -1250,6 +1321,16 @@ PROP_000143:
   reason_left: 'Logic 367: complete local ===> local'
   reason_right: 'Logic 367: complete local ===> local'
   ring: RING_000016
+PROP_000144:
+  citation_left: []
+  citation_right: []
+  crosstable_pk: 19106
+  has_on_left: true
+  has_on_right: true
+  property: PROP_000144
+  reason_left: brute force
+  reason_right: brute force
+  ring: RING_000016
 PROP_000145:
   citation_left: []
   citation_right: []
@@ -1365,6 +1446,17 @@ PROP_000155:
     zero-insertive)'
   reason_right: 'Logic 424: Armendariz and finite ===> semicommutative  (SI condition,
     zero-insertive)'
+  ring: RING_000016
+PROP_000156:
+  citation_left: []
+  citation_right: []
+  crosstable_pk: 19116
+  has_on_left: false
+  has_on_right: false
+  property: PROP_000156
+  reason_left: Symmetry (isomorphic to opposite ring)
+  reason_right: ([[1,0],[0,0]]x + [[1,1],[0,0]])([[0,0],[0,1]]x + [[0,1],[0,1]])=0,
+    trivial intersection of annihilators
   ring: RING_000016
 PROP_000157:
   citation_left: []

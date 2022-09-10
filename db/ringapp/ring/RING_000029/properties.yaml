@@ -508,6 +508,16 @@ PROP_000050:
   reason_left: 'Logic 132: semiregular <==> lift/rad and top regular'
   reason_right: 'Logic 132: semiregular <==> lift/rad and top regular'
   ring: RING_000029
+PROP_000051:
+  citation_left: []
+  citation_right: []
+  crosstable_pk: 19127
+  has_on_left: true
+  has_on_right: true
+  property: PROP_000051
+  reason_left: satisfies $(xy-yx)^2$
+  reason_right: symmetry with left side
+  ring: RING_000029
 PROP_000052:
   citation_left: []
   citation_right: []
@@ -911,6 +921,26 @@ PROP_000090:
   reason_left: 'Logic 6: Artinian on the right ===> DCC annihilator on the right'
   reason_right: 'Logic 6: Artinian on the right ===> DCC annihilator on the right'
   ring: RING_000029
+PROP_000091:
+  citation_left: []
+  citation_right: []
+  crosstable_pk: 19110
+  has_on_left: false
+  has_on_right: false
+  property: PROP_000091
+  reason_left: 'Logic 475: dual on the left ===> principally injective on the right'
+  reason_right: 'Logic 475: dual on the left ===> principally injective on the right'
+  ring: RING_000029
+PROP_000092:
+  citation_left: []
+  citation_right: []
+  crosstable_pk: 19111
+  has_on_left: false
+  has_on_right: false
+  property: PROP_000092
+  reason_left: 'Logic 138: continuous on the right ===> quasi-continuous on the right'
+  reason_right: 'Logic 138: continuous on the right ===> quasi-continuous on the right'
+  ring: RING_000029
 PROP_000093:
   citation_left: []
   citation_right: []
@@ -922,6 +952,16 @@ PROP_000093:
     ring'
   reason_right: 'Logic 139: free ideal ring on the left or right ===> semi free ideal
     ring'
+  ring: RING_000029
+PROP_000094:
+  citation_left: []
+  citation_right: []
+  crosstable_pk: 19145
+  has_on_left: true
+  has_on_right: true
+  property: PROP_000094
+  reason_left: 'Logic 478: cohopfian on the right ===> Ore ring on the right'
+  reason_right: 'Logic 478: cohopfian on the right ===> Ore ring on the right'
   ring: RING_000029
 PROP_000095:
   citation_left: []
@@ -1043,6 +1083,18 @@ PROP_000105:
   reason_left: 'Logic 164: uniform on the left or right ===> strongly connected'
   reason_right: 'Logic 164: uniform on the left or right ===> strongly connected'
   ring: RING_000029
+PROP_000106:
+  citation_left: []
+  citation_right: []
+  crosstable_pk: 19109
+  has_on_left: false
+  has_on_right: false
+  property: PROP_000106
+  reason_left: 'Logic 158: Ikeda-Nakayama on the right ===> quasi-continuous on the
+    right'
+  reason_right: 'Logic 158: Ikeda-Nakayama on the right ===> quasi-continuous on the
+    right'
+  ring: RING_000029
 PROP_000107:
   citation_left: []
   citation_right: []
@@ -1066,6 +1118,27 @@ PROP_000108:
     the right'
   reason_right: 'Logic 160: FI-injective on the right ===> principally injective on
     the right'
+  ring: RING_000029
+PROP_000109:
+  citation_left: []
+  citation_right: []
+  crosstable_pk: 19108
+  has_on_left: false
+  has_on_right: false
+  property: PROP_000109
+  reason_left: 'Logic 157: quasi-continuous on the right ===> CS on the right'
+  reason_right: 'Logic 157: quasi-continuous on the right ===> CS on the right'
+  ring: RING_000029
+PROP_000110:
+  citation_left: []
+  citation_right: []
+  crosstable_pk: 19107
+  has_on_left: false
+  has_on_right: false
+  property: PROP_000110
+  reason_left: (symmetry) isomorphic to its opposite ring
+  reason_right: Right ideal [[0,B],[0,A]] is a complement to [[B,0],[0,0]], but is
+    not a summand
   ring: RING_000029
 PROP_000111:
   citation_left: []
@@ -1238,6 +1311,16 @@ PROP_000143:
   property: PROP_000143
   reason_left: 'Logic 367: complete local ===> local'
   reason_right: 'Logic 367: complete local ===> local'
+  ring: RING_000029
+PROP_000144:
+  citation_left: []
+  citation_right: []
+  crosstable_pk: 19112
+  has_on_left: true
+  has_on_right: true
+  property: PROP_000144
+  reason_left: Routine computation
+  reason_right: symmetry with left side
   ring: RING_000029
 PROP_000145:
   citation_left: []

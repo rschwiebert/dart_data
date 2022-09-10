@@ -59,6 +59,16 @@ PROP_000006:
   reason_left: 'Logic 27: semiprimitive ===> semiprime'
   reason_right: 'Logic 27: semiprimitive ===> semiprime'
   ring: RING_000046
+PROP_000007:
+  citation_left: []
+  citation_right: []
+  crosstable_pk: 19122
+  has_on_left: false
+  has_on_right: false
+  property: PROP_000007
+  reason_left: 'Logic 62: Baer ===> Rickart on the left and right'
+  reason_right: 'Logic 62: Baer ===> Rickart on the left and right'
+  ring: RING_000046
 PROP_000008:
   citation_left: []
   citation_right: []
@@ -366,6 +376,16 @@ PROP_000037:
   reason_left: 'Logic 149: strongly connected <==> Abelian and connected'
   reason_right: 'Logic 149: strongly connected <==> Abelian and connected'
   ring: RING_000046
+PROP_000038:
+  citation_left: []
+  citation_right: []
+  crosstable_pk: 19118
+  has_on_left: true
+  has_on_right: true
+  property: PROP_000038
+  reason_left: routine computation
+  reason_right: symmetry with left side
+  ring: RING_000046
 PROP_000039:
   citation_left: []
   citation_right: []
@@ -487,6 +507,16 @@ PROP_000050:
   property: PROP_000050
   reason_left: 'Logic 132: semiregular <==> lift/rad and top regular'
   reason_right: 'Logic 132: semiregular <==> lift/rad and top regular'
+  ring: RING_000046
+PROP_000051:
+  citation_left: []
+  citation_right: []
+  crosstable_pk: 19126
+  has_on_left: true
+  has_on_right: true
+  property: PROP_000051
+  reason_left: satisfies $(xy-yx)^2$
+  reason_right: symmetry with left side
   ring: RING_000046
 PROP_000052:
   citation_left: []
@@ -632,6 +662,28 @@ PROP_000065:
   reason_right: 'Logic 50: principal ideal domain on the right <==> domain and principal
     ideal ring on the right'
   ring: RING_000046
+PROP_000066:
+  citation_left: []
+  citation_right: []
+  crosstable_pk: 19124
+  has_on_left: false
+  has_on_right: false
+  property: PROP_000066
+  reason_left: https://github.com/rschwiebert/dart_data/files/9352754/Varadarajan_s_left_not_right_cohopfian_ring.pdf
+  reason_right: https://github.com/rschwiebert/dart_data/files/9352754/Varadarajan_s_left_not_right_cohopfian_ring.pdf
+  ring: RING_000046
+PROP_000067:
+  citation_left: []
+  citation_right: []
+  crosstable_pk: 19125
+  has_on_left: false
+  has_on_right: false
+  property: PROP_000067
+  reason_left: 'Logic 49: principal ideal ring on the right <==> Bezout on the right
+    and Noetherian on the right'
+  reason_right: 'Logic 49: principal ideal ring on the right <==> Bezout on the right
+    and Noetherian on the right'
+  ring: RING_000046
 PROP_000068:
   citation_left: []
   citation_right: []
@@ -655,6 +707,36 @@ PROP_000069:
     dimension on the right'
   reason_right: 'Logic 273: Ore domain on the right <==> domain and finite uniform
     dimension on the right'
+  ring: RING_000046
+PROP_000070:
+  citation_left: []
+  citation_right: []
+  crosstable_pk: 19123
+  has_on_left: false
+  has_on_right: false
+  property: PROP_000070
+  reason_left: 'Logic 58: hereditary on the right ===> semihereditary on the right'
+  reason_right: 'Logic 58: hereditary on the right ===> semihereditary on the right'
+  ring: RING_000046
+PROP_000071:
+  citation_left: []
+  citation_right: []
+  crosstable_pk: 19121
+  has_on_left: false
+  has_on_right: false
+  property: PROP_000071
+  reason_left: 'Logic 59: semihereditary on the right ===> Rickart on the right'
+  reason_right: 'Logic 59: semihereditary on the right ===> Rickart on the right'
+  ring: RING_000046
+PROP_000072:
+  citation_left: []
+  citation_right: []
+  crosstable_pk: 19120
+  has_on_left: false
+  has_on_right: false
+  property: PROP_000072
+  reason_left: '[[0,0],[0,2]] left annihilator is not a left summand'
+  reason_right: '[[0,1],[0,0]] right annihilator is not a summand'
   ring: RING_000046
 PROP_000074:
   citation_left: []
@@ -815,11 +897,11 @@ PROP_000091:
   citation_right: []
   crosstable_pk: 16416
   has_on_left: false
-  has_on_right: null
+  has_on_right: false
   property: PROP_000091
   reason_left: 'Logic 459: dual on the right and Noetherian on the right ===> essential
     socle on the left'
-  reason_right: null
+  reason_right: 'Logic 475: dual on the left ===> principally injective on the right'
   ring: RING_000046
 PROP_000093:
   citation_left: []
@@ -832,6 +914,16 @@ PROP_000093:
     ring'
   reason_right: 'Logic 139: free ideal ring on the left or right ===> semi free ideal
     ring'
+  ring: RING_000046
+PROP_000094:
+  citation_left: []
+  citation_right: []
+  crosstable_pk: 19135
+  has_on_left: true
+  has_on_right: true
+  property: PROP_000094
+  reason_left: Its regular elements are units
+  reason_right: Its regular elements are units
   ring: RING_000046
 PROP_000095:
   citation_left: []
@@ -1114,6 +1206,16 @@ PROP_000143:
   property: PROP_000143
   reason_left: 'Logic 367: complete local ===> local'
   reason_right: 'Logic 367: complete local ===> local'
+  ring: RING_000046
+PROP_000144:
+  citation_left: []
+  citation_right: []
+  crosstable_pk: 19119
+  has_on_left: true
+  has_on_right: true
+  property: PROP_000144
+  reason_left: brute force
+  reason_right: symmetry with left side
   ring: RING_000046
 PROP_000145:
   citation_left: []

@@ -1,5 +1,5 @@
 citation: []
 commutative_only: false
-definition: ab=0 implies ba=0
+definition: $ab=0$ implies $ba=0$
 name: reversible
 symmetric: true

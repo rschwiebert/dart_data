@@ -61,6 +61,16 @@ PROP_000006:
   reason_left: The Jacobson radical contains the strictly upper triangular matricesobvious
   reason_right: symmetry with left side
   ring: RING_000020
+PROP_000007:
+  citation_left: []
+  citation_right: []
+  crosstable_pk: 19094
+  has_on_left: true
+  has_on_right: true
+  property: PROP_000007
+  reason_left: There are only four types of annihilator ideals, all of them summands
+  reason_right: There are only four types of annihilator ideals, all of them summands
+  ring: RING_000020
 PROP_000008:
   citation_left: []
   citation_right: []
@@ -303,6 +313,56 @@ PROP_000031:
   reason_left: 'Logic 100: semilocal ===> top regular'
   reason_right: 'Logic 100: semilocal ===> top regular'
   ring: RING_000020
+PROP_000032:
+  citation_left: []
+  citation_right: []
+  crosstable_pk: 19088
+  has_on_left: false
+  has_on_right: false
+  property: PROP_000032
+  reason_left: 'Logic 180: semicommutative  (SI condition, zero-insertive) ===> Abelian'
+  reason_right: 'Logic 180: semicommutative  (SI condition, zero-insertive) ===> Abelian'
+  ring: RING_000020
+PROP_000033:
+  citation_left: []
+  citation_right: []
+  crosstable_pk: 19098
+  has_on_left: true
+  has_on_right: true
+  property: PROP_000033
+  reason_left: 'Logic 147: 2-primal ===> NI (nilpotents form an ideal)'
+  reason_right: 'Logic 147: 2-primal ===> NI (nilpotents form an ideal)'
+  ring: RING_000020
+PROP_000034:
+  citation_left: []
+  citation_right: []
+  crosstable_pk: 19097
+  has_on_left: true
+  has_on_right: true
+  property: PROP_000034
+  reason_left: there are two minimal primes, both completely prime
+  reason_right: symmetry with left side
+  ring: RING_000020
+PROP_000035:
+  citation_left: []
+  citation_right: []
+  crosstable_pk: 19090
+  has_on_left: false
+  has_on_right: false
+  property: PROP_000035
+  reason_left: 'Logic 179: reversible ===> semicommutative  (SI condition, zero-insertive)'
+  reason_right: 'Logic 179: reversible ===> semicommutative  (SI condition, zero-insertive)'
+  ring: RING_000020
+PROP_000036:
+  citation_left: []
+  citation_right: []
+  crosstable_pk: 19091
+  has_on_left: false
+  has_on_right: false
+  property: PROP_000036
+  reason_left: 'Logic 178: symmetric ===> reversible'
+  reason_right: 'Logic 178: symmetric ===> reversible'
+  ring: RING_000020
 PROP_000037:
   citation_left: []
   citation_right: []
@@ -313,6 +373,16 @@ PROP_000037:
   reason_left: 'Logic 271: semiregular and strongly connected ===> local'
   reason_right: 'Logic 271: semiregular and strongly connected ===> local'
   ring: RING_000020
+PROP_000038:
+  citation_left: []
+  citation_right: []
+  crosstable_pk: 19085
+  has_on_left: true
+  has_on_right: true
+  property: PROP_000038
+  reason_left: null
+  reason_right: symmetry with left side
+  ring: RING_000020
 PROP_000039:
   citation_left: []
   citation_right: []
@@ -322,6 +392,16 @@ PROP_000039:
   property: PROP_000039
   reason_left: 'Logic 117: ACC principal on the left or right ===> orthogonally finite'
   reason_right: 'Logic 117: ACC principal on the left or right ===> orthogonally finite'
+  ring: RING_000020
+PROP_000040:
+  citation_left: []
+  citation_right: []
+  crosstable_pk: 19086
+  has_on_left: false
+  has_on_right: false
+  property: PROP_000040
+  reason_left: 'Logic 149: strongly connected <==> Abelian and connected'
+  reason_right: 'Logic 149: strongly connected <==> Abelian and connected'
   ring: RING_000020
 PROP_000041:
   citation_left: []
@@ -422,6 +502,16 @@ PROP_000050:
   property: PROP_000050
   reason_left: 'Logic 132: semiregular <==> lift/rad and top regular'
   reason_right: 'Logic 132: semiregular <==> lift/rad and top regular'
+  ring: RING_000020
+PROP_000051:
+  citation_left: []
+  citation_right: []
+  crosstable_pk: 19129
+  has_on_left: true
+  has_on_right: true
+  property: PROP_000051
+  reason_left: satisfies $(xy-yx)^2$
+  reason_right: symmetry with left side
   ring: RING_000020
 PROP_000052:
   citation_left: []
@@ -570,22 +660,24 @@ PROP_000066:
   citation_right: []
   crosstable_pk: 8218
   has_on_left: false
-  has_on_right: null
+  has_on_right: false
   property: PROP_000066
   reason_left: 'Logic 49: principal ideal ring on the right <==> Bezout on the right
     and Noetherian on the right'
-  reason_right: null
+  reason_right: 'Logic 49: principal ideal ring on the right <==> Bezout on the right
+    and Noetherian on the right'
   ring: RING_000020
 PROP_000067:
   citation_left: []
   citation_right: []
   crosstable_pk: 8259
   has_on_left: false
-  has_on_right: null
+  has_on_right: false
   property: PROP_000067
   reason_left: 'Logic 221: principal ideal ring on the right <==> ACC principal on
     the right and Bezout on the right'
-  reason_right: null
+  reason_right: 'Logic 227: Bezout on the right and quasi-duo on the right ===> distributive
+    on the right'
   ring: RING_000020
 PROP_000068:
   citation_left: []
@@ -610,6 +702,26 @@ PROP_000069:
     dimension on the right'
   reason_right: 'Logic 273: Ore domain on the right <==> domain and finite uniform
     dimension on the right'
+  ring: RING_000020
+PROP_000072:
+  citation_left: []
+  citation_right: []
+  crosstable_pk: 19095
+  has_on_left: true
+  has_on_right: true
+  property: PROP_000072
+  reason_left: 'Logic 62: Baer ===> Rickart on the left and right'
+  reason_right: 'Logic 62: Baer ===> Rickart on the left and right'
+  ring: RING_000020
+PROP_000073:
+  citation_left: []
+  citation_right: []
+  crosstable_pk: 19096
+  has_on_left: true
+  has_on_right: true
+  property: PROP_000073
+  reason_left: 'Logic 61: Rickart on the right ===> nonsingular on the right'
+  reason_right: 'Logic 61: Rickart on the right ===> nonsingular on the right'
   ring: RING_000020
 PROP_000074:
   citation_left: []
@@ -711,6 +823,18 @@ PROP_000083:
   reason_right: 'Logic 124: strongly $\pi$-regular ===> cohopfian on the left and
     right'
   ring: RING_000020
+PROP_000084:
+  citation_left: []
+  citation_right: []
+  crosstable_pk: 19089
+  has_on_left: false
+  has_on_right: false
+  property: PROP_000084
+  reason_left: 'Logic 112: duo on the left or right ===> semicommutative  (SI condition,
+    zero-insertive)'
+  reason_right: 'Logic 112: duo on the left or right ===> semicommutative  (SI condition,
+    zero-insertive)'
+  ring: RING_000020
 PROP_000085:
   citation_left: []
   citation_right: []
@@ -796,6 +920,16 @@ PROP_000093:
   reason_right: 'Logic 139: free ideal ring on the left or right ===> semi free ideal
     ring'
   ring: RING_000020
+PROP_000094:
+  citation_left: []
+  citation_right: []
+  crosstable_pk: 19147
+  has_on_left: true
+  has_on_right: true
+  property: PROP_000094
+  reason_left: 'Logic 478: cohopfian on the right ===> Ore ring on the right'
+  reason_right: 'Logic 478: cohopfian on the right ===> Ore ring on the right'
+  ring: RING_000020
 PROP_000095:
   citation_left: []
   citation_right: []
@@ -806,6 +940,16 @@ PROP_000095:
   reason_left: null
   reason_right: 'Logic 264: Noetherian on the right and principally injective on the
     right ===> Artinian on the left and right'
+  ring: RING_000020
+PROP_000096:
+  citation_left: []
+  citation_right: []
+  crosstable_pk: 19093
+  has_on_left: true
+  has_on_right: true
+  property: PROP_000096
+  reason_left: The quotient by the radical is a commutative ring
+  reason_right: The quotient by the radical is a commutative ring
   ring: RING_000020
 PROP_000097:
   citation_left: []
@@ -884,6 +1028,16 @@ PROP_000103:
   reason_left: null
   reason_right: 'Logic 212: finitely cogenerated on the right <==> essential socle
     on the right and finitely generated socle on the right'
+  ring: RING_000020
+PROP_000104:
+  citation_left: []
+  citation_right: []
+  crosstable_pk: 19087
+  has_on_left: false
+  has_on_right: false
+  property: PROP_000104
+  reason_left: 'Logic 166: distributive on the left or right ===> Abelian'
+  reason_right: 'Logic 166: distributive on the left or right ===> Abelian'
   ring: RING_000020
 PROP_000105:
   citation_left: []
@@ -1164,6 +1318,16 @@ PROP_000143:
   property: PROP_000143
   reason_left: 'Logic 367: complete local ===> local'
   reason_right: 'Logic 367: complete local ===> local'
+  ring: RING_000020
+PROP_000144:
+  citation_left: []
+  citation_right: []
+  crosstable_pk: 19092
+  has_on_left: false
+  has_on_right: false
+  property: PROP_000144
+  reason_left: Check e=[[0,0][0,1]]
+  reason_right: symmetry with left side
   ring: RING_000020
 PROP_000145:
   citation_left: []

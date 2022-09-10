@@ -493,6 +493,16 @@ PROP_000050:
   reason_left: 'Logic 102: semiperfect ===> semiregular'
   reason_right: 'Logic 102: semiperfect ===> semiregular'
   ring: RING_000040
+PROP_000051:
+  citation_left: []
+  citation_right: []
+  crosstable_pk: 19133
+  has_on_left: true
+  has_on_right: true
+  property: PROP_000051
+  reason_left: satisfies $(xy-yx)^2$
+  reason_right: symmetry with left side
+  ring: RING_000040
 PROP_000052:
   citation_left: []
   citation_right: []
@@ -907,6 +917,16 @@ PROP_000090:
     left'
   reason_right: 'Logic 6: Artinian on the right ===> DCC annihilator on the right'
   ring: RING_000040
+PROP_000091:
+  citation_left: []
+  citation_right: []
+  crosstable_pk: 19134
+  has_on_left: false
+  has_on_right: null
+  property: PROP_000091
+  reason_left: 'Logic 475: dual on the left ===> principally injective on the right'
+  reason_right: null
+  ring: RING_000040
 PROP_000092:
   citation_left: []
   citation_right: []
@@ -929,6 +949,16 @@ PROP_000093:
     ring'
   reason_right: 'Logic 139: free ideal ring on the left or right ===> semi free ideal
     ring'
+  ring: RING_000040
+PROP_000094:
+  citation_left: []
+  citation_right: []
+  crosstable_pk: 19149
+  has_on_left: true
+  has_on_right: true
+  property: PROP_000094
+  reason_left: 'Logic 478: cohopfian on the right ===> Ore ring on the right'
+  reason_right: 'Logic 478: cohopfian on the right ===> Ore ring on the right'
   ring: RING_000040
 PROP_000095:
   citation_left: []
