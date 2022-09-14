@@ -1,0 +1,118 @@
+{% extends 'base.html' %}
+
+{% block title %}Contribute{% endblock %}
+
+{% block content %}
+{% if messages %}
+
+<ul class="messages">
+    {% for message in messages %}
+    <div class="alert alert-success alert-dismissible" role="alert">
+        <button type="button" class="close" data-dismiss="alert" aria-label="Close"><span
+                aria-hidden="true">&times;</span></button>
+        {{ message }}
+    </div>
+    {% endfor %}
+</ul>
+{% endif %}
+
+<div class="container">
+    <div class="row">
+        <div class="col-md-6 content">
+            <h1>How to contribute</h1>
+            <p>You will either need to register here on this site, or else have a GitHub account.</p>
+
+            <p>For bug reports, feature requests, or problems with <b>the website itself</b>, use the
+                <a href="https://github.com/rschwiebert/RingApp/issues">RingApp GitHub issue tracker</a>.</p>
+            <p>For suggestions or corrections to <b>the database content</b>, use the
+                <a href="https://github.com/rschwiebert/dart_data/issues">dart_data GitHub issue tracker</a>.</p>
+            <p>If you are knowledgable enough and would like to formulate your own pull request with changes,
+                <a href="https://gist.github.com/MarcDiethelm/7303312">here is a brief guide for how to do
+                    that for a GitHub project.</a></p>
+            <p>If you don't want to use GitHub, you can always use the form below to make any suggestion.</p>
+
+            <h2>Make a quick suggestion</h2>
+
+            {% if user.is_authenticated %}
+            <form action="" method="post">{% csrf_token %}
+                {{ form.as_p }}
+                <input type="submit" value="Submit suggestion"/>
+            </form>
+            {% else %}
+            <p>(When you <a href="{% url 'auth_login' %}?next=/contribute/">log in</a> the submission form appears
+                here.)
+            </p>
+            {% endif %}
+
+        </div>
+        <div class="col-md-6 content">
+            <h2>Need inspiration?</h2>
+
+            <p><a href="{% url 'inspiration' %}">Here is a list outlining several gaps
+                that remain to be filled.</a></p>
+            <h2>Relevant open questions</h2>
+            <ol>
+                <li>It is unknown whether or not a right PCI ring is left PCI.</li>
+                <li>It is unknown whether or not a right QI ring is left QI.</li>
+                <li>It is unknown whether or not a right quasi-duo ring is left quasi-duo.</li>
+            </ol>
+            <h2>Tips</h2>
+            <p>To help maintain the quality of content and integrity of the database, please keep these points in
+                mind:</p>
+            <ul>
+                <li> We might not accept every suggestion.</li>
+                <li> Did you check the database to see if your ring example or property is already there? (Accidents
+                    will
+                    happen and we can deal with it, but it's best to avoid that altogether.)
+                </li>
+                <li> It is really important to have good citations! (Incorrect proofs and claims exist,
+                    unfortunately.)
+                </li>
+                <li> Multiple high-quality citations are helpful. (Readers will have more places to look.)</li>
+            </ul>
+        </div>
+
+    </div>
+    <div class="row">
+        <div class="col-md-12 content">
+            <h2>People who have contributed!</h2>
+
+            <p>Recorded here are the larger community contributions which have benefited the site (in no particular
+                order):</p>
+
+            <ul>
+                <li>During the summer 2022, Helena Read and Guillermo Segura Picon, two students of Jeremy Rickard,
+                    contributed much material as part of an undergraduate research project. Their work resulted in the
+                    clarification of hundreds of ring-property relationships, a handful of new logic entries,
+                    and indirectly leading to the addition of <a href="{% url 'ring-detail' 134 %}">ring 134</a>
+                    (due to Pace Nielsen). The ring is significant because it resolves an open (so far as we know)
+                    question about whether or not <a href="{% url 'property-detail' 157 %}">UGP is left-right
+                        symmetric</a>.
+                </li>
+                <li>MatheinBoulomenos: Rings <a href="{% url 'ring-detail' 99 %}">99</a>,
+                    <a href="{% url 'ring-detail' 100 %}">100</a>,
+                    <a href="{% url 'ring-detail' 103 %}">103</a>,
+                    <a href="{% url 'ring-detail' 104 %}">104</a>,
+                    <a href="{% url 'ring-detail' 105 %}">105</a>,
+                    <a href="{% url 'ring-detail' 160 %}">160</a></li>
+                <li>Sakurai: Rings <a href="{% url 'ring-detail' 84 %}">84</a>,<a
+                        href="{% url 'ring-detail' 84 %}">85</a></li>
+                <li>Watson: Rings <a href="{% url 'ring-detail' 61 %}">61</a>,<a
+                        href="{% url 'ring-detail' 62 %}">62</a></li>
+                <li>jose.simental: Rings <a href="{% url 'ring-detail' 66 %}">66</a>,<a
+                        href="{% url 'ring-detail' 89 %}">89</a></li>
+                <li>kc_kennylau: Rings <a href="{% url 'ring-detail' 101 %}">101</a>,<a
+                        href="{% url 'ring-detail' 107 %}">107</a></li>
+                <li>JeremyRickard: Rings <a href="{% url 'ring-detail' 120 %}">120</a>,<a
+                        href="{% url 'ring-detail' 121 %}">121</a></li>
+                <li>bfhaha: Ring <a href="{% url 'ring-detail' 98 %}">98</a></li>
+                <li>dbossaller: Ring <a href="{% url 'ring-detail' 119 %}">119</a></li>
+                <li>KReiser: Ring <a href="{% url 'ring-detail' 129 %}">129</a></li>
+                <li>JoseBrox: Ring <a href="{% url 'ring-detail' 126 %}">126</a></li>
+                <li>loch: Ring <a href="{% url 'ring-detail' 102 %}">102</a></li>
+
+
+            </ul>
+        </div>
+    </div>
+    {% endblock %}
