@@ -1,8 +1,7 @@
 active: true
 citation: []
-concs:
-- PSIDE_000136
-hyps:
-- PSIDE_000095
+concs: ring_deduced("has",3,107)
+hyps: ring_deduced("has",3,108)
+readable: ring is FI-injective on the right ===> ring is simple-injective on the right
 symmetric: false
 variety: 0

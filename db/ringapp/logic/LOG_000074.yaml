@@ -1,8 +1,7 @@
 active: true
 citation: []
-concs:
-- PSIDE_000046
-hyps:
-- PSIDE_000071
+concs: ring_deduced("has",3,104)
+hyps: ring_deduced("has",3,76)
+readable: ring is uniserial ring on the right ===> ring is distributive on the right
 symmetric: false
 variety: 0

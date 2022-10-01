@@ -1,9 +1,8 @@
 active: true
 citation:
 - CITE_000031
-concs:
-- PSIDE_000088
-hyps:
-- PSIDE_000098
+concs: ring_deduced("has",0,24)
+hyps: ring_deduced("has",0,30)
+readable: ring is top simple Artinian ===> ring is semilocal
 symmetric: true
 variety: 0

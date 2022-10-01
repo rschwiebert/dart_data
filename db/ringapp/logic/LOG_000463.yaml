@@ -1,10 +1,9 @@
 active: true
 citation:
 - CITE_000418
-concs:
-- PSIDE_000078
-hyps:
-- PSIDE_000014
-- PSIDE_000136
+concs: ring_deduced("has",3,80)
+hyps: ring_deduced("has",0,20) AND ring_deduced("has",3,107)
+readable: ring is semiprimary AND ring is simple-injective on the right ===> ring
+  is self-injective on the right
 symmetric: false
 variety: 0

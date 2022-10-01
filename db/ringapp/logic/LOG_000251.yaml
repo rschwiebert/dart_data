@@ -1,10 +1,9 @@
 active: true
 citation:
 - CITE_000061
-concs:
-- PSIDE_000161
-hyps:
-- PSIDE_000073
-- PSIDE_000014
+concs: ring_deduced("has",1,81)
+hyps: ring_deduced("has",0,23) AND ring_deduced("has",0,20)
+readable: ring is local AND ring is semiprimary ===> ring is Kasch on the left and
+  right
 symmetric: true
 variety: 0

@@ -1,8 +1,6 @@
 active: true
 citation: []
-concs:
-- MODPROP_000028
-hyps:
-- MODPROP_000004
-ring_hyps: []
+concs: module_deduced("has",28)
+hyps: module_deduced("has",4)
+readable: module is simple  ===>  module is finite composition length
 variety: 0

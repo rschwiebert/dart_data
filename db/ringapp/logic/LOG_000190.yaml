@@ -1,10 +1,9 @@
 active: true
 citation:
 - CITE_000032
-concs:
-- PSIDE_000027
-hyps:
-- PSIDE_000154
-- PSIDE_000014
+concs: ring_deduced("has",1,70)
+hyps: ring_deduced("has",4,71) AND ring_deduced("has",0,20)
+readable: ring is semihereditary on the left or right AND ring is semiprimary ===>
+  ring is hereditary on the left and right
 symmetric: true
 variety: 0

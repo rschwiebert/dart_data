@@ -1,8 +1,7 @@
 active: true
 citation: []
-concs:
-- PSIDE_000172
-hyps:
-- PSIDE_000181
+concs: ring_deduced("has",0,115)
+hyps: ring_deduced("has",0,54)
+readable: ring is field ===> ring is regular local
 symmetric: true
 variety: 0

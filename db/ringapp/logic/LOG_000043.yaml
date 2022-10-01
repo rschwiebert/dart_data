@@ -1,8 +1,7 @@
 active: true
 citation: []
-concs:
-- PSIDE_000047
-hyps:
-- PSIDE_000043
+concs: ring_deduced("has",1,73)
+hyps: ring_deduced("has",0,10)
+readable: ring is reduced ===> ring is nonsingular on the left and right
 symmetric: true
 variety: 0

@@ -1,11 +1,9 @@
 active: true
 citation:
 - CITE_000209
-concs:
-- PSIDE_000015
-- PSIDE_000219
-- PSIDE_000027
-hyps:
-- PSIDE_000218
+concs: ring_deduced("has",3,64) AND ring_deduced("has",3,75) AND ring_deduced("has",1,70)
+hyps: ring_deduced("has",3,147)
+readable: ring is PCI ring on the right ===> ring is Noetherian on the right AND ring
+  is V ring on the right AND ring is hereditary on the left and right
 symmetric: false
 variety: 0

@@ -1,11 +1,9 @@
 active: true
 citation:
 - CITE_000027
-concs:
-- PSIDE_000137
-- PSIDE_000004
-- PSIDE_000054
-hyps:
-- PSIDE_000173
+concs: ring_deduced("has",2,88) AND ring_deduced("has",0,1) AND ring_deduced("has",0,8)
+hyps: ring_deduced("has",0,122)
+readable: ring is Mori domain ===> ring is ACC principal on the left AND ring is commutative
+  AND ring is domain
 symmetric: true
 variety: 0

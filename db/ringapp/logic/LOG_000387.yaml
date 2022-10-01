@@ -1,9 +1,8 @@
 active: true
 citation:
 - CITE_000218
-concs:
-- PSIDE_000222
-hyps:
-- PSIDE_000219
+concs: ring_deduced("has",3,148)
+hyps: ring_deduced("has",3,75)
+readable: ring is V ring on the right ===> ring is max ring on the right
 symmetric: false
 variety: 0

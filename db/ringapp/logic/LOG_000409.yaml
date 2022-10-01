@@ -1,11 +1,9 @@
 active: true
 citation:
 - CITE_000025
-concs:
-- PSIDE_000024
-hyps:
-- PSIDE_000015
-- PSIDE_000219
-- PSIDE_000037
+concs: ring_deduced("has",0,3)
+hyps: ring_deduced("has",3,64) AND ring_deduced("has",3,75) AND ring_deduced("has",0,9)
+readable: ring is Noetherian on the right AND ring is V ring on the right AND ring
+  is prime ===> ring is simple
 symmetric: false
 variety: 0

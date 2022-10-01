@@ -1,11 +1,9 @@
 active: true
 citation: []
-concs:
-- PSIDE_000077
-hyps:
-- PSIDE_000013
-- PSIDE_000004
-- PSIDE_000073
-- PSIDE_000166
+concs: ring_deduced("has",0,19)
+hyps: ring_deduced("has",4,63) AND ring_deduced("has",0,1) AND ring_deduced("has",0,23)
+  AND ring_deduced("has",4,98)
+readable: ring is Artinian on the left or right AND ring is commutative AND ring is
+  local AND ring is simple socle on the left or right ===> ring is quasi-Frobenius
 symmetric: true
 variety: 0

@@ -1,9 +1,8 @@
 active: true
 citation:
 - CITE_000064
-concs:
-- PSIDE_000161
-hyps:
-- PSIDE_000142
+concs: ring_deduced("has",1,81)
+hyps: ring_deduced("has",0,28)
+readable: ring is primary ===> ring is Kasch on the left and right
 symmetric: true
 variety: 0

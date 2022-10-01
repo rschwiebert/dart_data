@@ -1,9 +1,7 @@
 active: true
 citation: []
-concs:
-- MODPROP_000028
-hyps:
-- MODPROP_000001
-- MODPROP_000002
-ring_hyps: []
+concs: module_deduced("has",28)
+hyps: module_deduced("has",1) AND module_deduced("has",2)
+readable: module is Artinian AND module is Noetherian  <==>  module is finite composition
+  length
 variety: 1

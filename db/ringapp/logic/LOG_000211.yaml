@@ -1,10 +1,9 @@
 active: true
 citation:
 - CITE_000041
-concs:
-- PSIDE_000077
-hyps:
-- PSIDE_000001
-- PSIDE_000153
+concs: ring_deduced("has",0,19)
+hyps: ring_deduced("has",4,64) AND ring_deduced("has",1,102)
+readable: ring is Noetherian on the left or right AND ring is cogenerator ring on
+  the left and right ===> ring is quasi-Frobenius
 symmetric: true
 variety: 0

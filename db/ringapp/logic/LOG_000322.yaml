@@ -1,9 +1,8 @@
 active: true
 citation: []
-concs:
-- PSIDE_000169
-hyps:
-- PSIDE_000167
-- PSIDE_000004
+concs: ring_deduced("has",1,64)
+hyps: ring_deduced("has",0,111) AND ring_deduced("has",0,1)
+readable: ring is Dedekind domain AND ring is commutative ===> ring is Noetherian
+  on the left and right
 symmetric: true
 variety: 0

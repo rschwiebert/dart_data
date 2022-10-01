@@ -1,8 +1,7 @@
 active: true
 citation: []
-concs:
-- PSIDE_000025
-hyps:
-- PSIDE_000024
+concs: ring_deduced("has",1,74)
+hyps: ring_deduced("has",0,3)
+readable: ring is simple ===> ring is primitive on the left and right
 symmetric: true
 variety: 0

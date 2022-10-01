@@ -1,9 +1,8 @@
 active: true
 citation:
 - CITE_000210
-concs:
-- PSIDE_000220
-hyps:
-- PSIDE_000003
+concs: ring_deduced("has",1,147)
+hyps: ring_deduced("has",0,5)
+readable: ring is semisimple ===> ring is PCI ring on the left and right
 symmetric: true
 variety: 0

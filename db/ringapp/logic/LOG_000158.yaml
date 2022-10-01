@@ -1,9 +1,9 @@
 active: true
 citation:
 - CITE_000018
-concs:
-- PSIDE_000129
-hyps:
-- PSIDE_000060
+concs: ring_deduced("has",3,109)
+hyps: ring_deduced("has",3,106)
+readable: ring is Ikeda-Nakayama on the right ===> ring is quasi-continuous on the
+  right
 symmetric: false
 variety: 0

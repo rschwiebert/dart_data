@@ -1,8 +1,6 @@
 active: true
 citation: []
-concs:
-- MODPROP_000024
-hyps:
-- MODPROP_000027
-ring_hyps: []
+concs: module_deduced("has",24)
+hyps: module_deduced("has",27)
+readable: module is reflexive  ===>  module is semi-reflexive (torsionless)
 variety: 0

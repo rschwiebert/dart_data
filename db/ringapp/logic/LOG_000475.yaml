@@ -1,9 +1,8 @@
 active: true
 citation:
 - CITE_000511
-concs:
-- PSIDE_000094
-hyps:
-- PSIDE_000243
+concs: ring_deduced("has",3,95)
+hyps: ring_deduced("has",2,91)
+readable: ring is dual on the left ===> ring is principally injective on the right
 symmetric: false
 variety: 0

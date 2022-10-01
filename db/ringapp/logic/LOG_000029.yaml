@@ -1,8 +1,7 @@
 active: true
 citation: []
-concs:
-- PSIDE_000035
-hyps:
-- PSIDE_000037
+concs: ring_deduced("has",0,11)
+hyps: ring_deduced("has",0,9)
+readable: ring is prime ===> ring is semiprime
 symmetric: true
 variety: 0

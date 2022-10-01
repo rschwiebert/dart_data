@@ -1,8 +1,7 @@
 active: true
 citation: []
-concs:
-- PSIDE_000081
-hyps:
-- PSIDE_000107
+concs: ring_deduced("has",1,63)
+hyps: ring_deduced("has",0,43)
+readable: ring is finite ===> ring is Artinian on the left and right
 symmetric: true
 variety: 0

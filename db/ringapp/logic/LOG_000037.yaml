@@ -1,10 +1,8 @@
 active: true
 citation:
 - CITE_000023
-concs:
-- PSIDE_000043
-- PSIDE_000002
-hyps:
-- PSIDE_000021
+concs: ring_deduced("has",0,10) AND ring_deduced("has",0,14)
+hyps: ring_deduced("has",0,12)
+readable: ring is strongly regular <==> ring is reduced AND ring is von Neumann regular
 symmetric: true
 variety: 1

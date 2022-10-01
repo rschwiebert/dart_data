@@ -1,8 +1,6 @@
 active: true
 citation: []
-concs:
-- MODPROP_000008
-hyps:
-- MODPROP_000006
-ring_hyps: []
+concs: module_deduced("has",8)
+hyps: module_deduced("has",6)
+readable: module is projective  ===>  module is flat
 variety: 0

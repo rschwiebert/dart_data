@@ -1,10 +1,8 @@
 active: true
 citation: []
-concs:
-- PSIDE_000033
-hyps:
-- PSIDE_000004
-- PSIDE_000051
-- PSIDE_000014
+concs: ring_deduced("has",1,77)
+hyps: ring_deduced("has",0,1) AND ring_deduced("has",3,66) AND ring_deduced("has",0,20)
+readable: ring is commutative AND ring is principal ideal ring on the right AND ring
+  is semiprimary ===> ring is serial on the left and right
 symmetric: false
 variety: 0

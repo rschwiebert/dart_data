@@ -1,9 +1,8 @@
 active: true
 citation: []
-concs:
-- PSIDE_000023
-hyps:
-- PSIDE_000004
-- PSIDE_000130
+concs: ring_deduced("has",1,65)
+hyps: ring_deduced("has",0,1) AND ring_deduced("has",4,93)
+readable: ring is commutative AND ring is free ideal ring on the left or right ===>
+  ring is principal ideal domain on the left and right
 symmetric: true
 variety: 0

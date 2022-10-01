@@ -1,8 +1,6 @@
 active: true
 citation: []
-concs:
-- MODPROP_000020
-hyps:
-- MODPROP_000007
-ring_hyps: []
+concs: module_deduced("has",20)
+hyps: module_deduced("has",7)
+readable: module is injective  ===>  module is principally injective
 variety: 0

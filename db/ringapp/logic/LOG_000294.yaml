@@ -1,12 +1,9 @@
 active: true
 citation:
 - CITE_000073
-concs:
-- PSIDE_000184
-- PSIDE_000191
-- PSIDE_000004
-hyps:
-- PSIDE_000059
-- PSIDE_000004
+concs: ring_deduced("has",0,112) AND ring_deduced("has",0,126) AND ring_deduced("has",0,1)
+hyps: ring_deduced("has",4,68) AND ring_deduced("has",0,1)
+readable: ring is Bezout domain on the left or right AND ring is commutative <==>
+  ring is Prufer domain AND ring is Schreier domain AND ring is commutative
 symmetric: true
 variety: 1

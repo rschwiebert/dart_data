@@ -1,8 +1,7 @@
 active: true
 citation: []
-concs:
-- PSIDE_000011
-hyps:
-- PSIDE_000010
+concs: ring_deduced("has",3,90)
+hyps: ring_deduced("has",3,63)
+readable: ring is Artinian on the right ===> ring is DCC annihilator on the right
 symmetric: false
 variety: 0

@@ -1,9 +1,8 @@
 active: true
 citation:
 - CITE_000205
-concs:
-- PSIDE_000217
-hyps:
-- PSIDE_000122
+concs: ring_deduced("has",0,146)
+hyps: ring_deduced("has",0,47)
+readable: ring is exchange ===> ring is potent
 symmetric: true
 variety: 0

@@ -1,9 +1,7 @@
 active: true
 citation: []
-concs:
-- PSIDE_000182
-hyps:
-- PSIDE_000181
-- PSIDE_000107
+concs: ring_deduced("has",0,61)
+hyps: ring_deduced("has",0,54) AND ring_deduced("has",0,43)
+readable: ring is field AND ring is finite ===> ring is perfect field
 symmetric: true
 variety: 0

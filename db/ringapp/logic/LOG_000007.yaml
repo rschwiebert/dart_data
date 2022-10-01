@@ -1,9 +1,8 @@
 active: true
 citation:
 - CITE_000001
-concs:
-- PSIDE_000012
-hyps:
-- PSIDE_000010
+concs: ring_deduced("has",2,89)
+hyps: ring_deduced("has",3,63)
+readable: ring is Artinian on the right ===> ring is ACC annihilator on the left
 symmetric: false
 variety: 0

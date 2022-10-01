@@ -1,9 +1,9 @@
 active: true
 citation:
 - CITE_000506
-concs:
-- PSIDE_000240
-hyps:
-- PSIDE_000049
+concs: ring_deduced("has",1,157)
+hyps: ring_deduced("has",0,27)
+readable: ring is stable range 1 ===> ring is unique generator property on the left
+  and right
 symmetric: true
 variety: 0

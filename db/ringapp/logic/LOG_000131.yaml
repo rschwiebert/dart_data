@@ -1,8 +1,7 @@
 active: true
 citation: []
-concs:
-- PSIDE_000122
-hyps:
-- PSIDE_000101
+concs: ring_deduced("has",0,47)
+hyps: ring_deduced("has",0,50)
+readable: ring is semiregular ===> ring is exchange
 symmetric: true
 variety: 0

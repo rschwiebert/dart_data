@@ -1,8 +1,7 @@
 active: true
 citation: []
-concs:
-- PSIDE_000086
-hyps:
-- PSIDE_000087
+concs: ring_deduced("has",3,81)
+hyps: ring_deduced("has",3,91)
+readable: ring is dual on the right ===> ring is Kasch on the right
 symmetric: false
 variety: 0

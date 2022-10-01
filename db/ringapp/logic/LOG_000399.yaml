@@ -1,8 +1,7 @@
 active: true
 citation: []
-concs:
-- PSIDE_000226
-hyps:
-- PSIDE_000225
+concs: ring_deduced("has",0,151)
+hyps: ring_deduced("has",0,152)
+readable: ring is Boolean ===> ring is periodic
 symmetric: true
 variety: 0

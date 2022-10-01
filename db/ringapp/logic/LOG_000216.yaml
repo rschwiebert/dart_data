@@ -1,10 +1,9 @@
 active: true
 citation:
 - CITE_000044
-concs:
-- PSIDE_000113
-hyps:
-- PSIDE_000115
-- PSIDE_000078
+concs: ring_deduced("has",3,85)
+hyps: ring_deduced("has",0,39) AND ring_deduced("has",3,80)
+readable: ring is orthogonally finite AND ring is self-injective on the right ===>
+  ring is finite uniform dimension on the right
 symmetric: false
 variety: 0

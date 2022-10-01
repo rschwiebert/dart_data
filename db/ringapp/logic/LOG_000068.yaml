@@ -1,8 +1,7 @@
 active: true
 citation: []
-concs:
-- PSIDE_000037
-hyps:
-- PSIDE_000069
+concs: ring_deduced("has",0,9)
+hyps: ring_deduced("has",4,74)
+readable: ring is primitive on the left or right ===> ring is prime
 symmetric: true
 variety: 0

@@ -1,8 +1,7 @@
 active: true
 citation: []
-concs:
-- PSIDE_000182
-hyps:
-- PSIDE_000179
+concs: ring_deduced("has",0,61)
+hyps: ring_deduced("has",0,55)
+readable: ring is algebraically closed field ===> ring is perfect field
 symmetric: true
 variety: 0

@@ -1,8 +1,7 @@
 active: true
 citation: []
-concs:
-- PSIDE_000176
-hyps:
-- PSIDE_000172
+concs: ring_deduced("has",0,129)
+hyps: ring_deduced("has",0,115)
+readable: ring is regular local ===> ring is local complete intersection
 symmetric: true
 variety: 0

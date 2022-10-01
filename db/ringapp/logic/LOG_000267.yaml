@@ -1,10 +1,8 @@
 active: true
 citation: []
-concs:
-- PSIDE_000004
-- PSIDE_000054
-- PSIDE_000027
-hyps:
-- PSIDE_000167
+concs: ring_deduced("has",0,1) AND ring_deduced("has",0,8) AND ring_deduced("has",1,70)
+hyps: ring_deduced("has",0,111)
+readable: ring is Dedekind domain <==> ring is commutative AND ring is domain AND
+  ring is hereditary on the left and right
 symmetric: true
 variety: 1

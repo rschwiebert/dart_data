@@ -1,12 +1,9 @@
 active: true
 citation:
 - CITE_000063
-concs:
-- PSIDE_000016
-- PSIDE_000035
-hyps:
-- PSIDE_000113
-- PSIDE_000065
-- PSIDE_000035
+concs: ring_deduced("has",3,86) AND ring_deduced("has",0,11)
+hyps: ring_deduced("has",3,85) AND ring_deduced("has",3,73) AND ring_deduced("has",0,11)
+readable: ring is finite uniform dimension on the right AND ring is nonsingular on
+  the right AND ring is semiprime <==> ring is Goldie on the right AND ring is semiprime
 symmetric: false
 variety: 1

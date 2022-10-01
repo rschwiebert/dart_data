@@ -1,10 +1,9 @@
 active: true
 citation:
 - CITE_000015
-concs:
-- PSIDE_000002
-hyps:
-- PSIDE_000128
-- PSIDE_000034
+concs: ring_deduced("has",0,14)
+hyps: ring_deduced("has",4,92) AND ring_deduced("has",0,6)
+readable: ring is continuous on the left or right AND ring is semiprimitive ===> ring
+  is von Neumann regular
 symmetric: true
 variety: 0

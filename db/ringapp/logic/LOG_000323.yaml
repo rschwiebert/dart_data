@@ -1,9 +1,8 @@
 active: true
 citation:
 - CITE_000069
-concs:
-- PSIDE_000076
-hyps:
-- PSIDE_000080
+concs: ring_deduced("has",0,25)
+hyps: ring_deduced("has",1,91)
+readable: ring is dual on the left and right ===> ring is semiperfect
 symmetric: true
 variety: 0

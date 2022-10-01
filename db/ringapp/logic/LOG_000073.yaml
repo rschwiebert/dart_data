@@ -1,9 +1,8 @@
 active: true
 citation:
 - CITE_000006
-concs:
-- PSIDE_000060
-hyps:
-- PSIDE_000071
+concs: ring_deduced("has",3,106)
+hyps: ring_deduced("has",3,76)
+readable: ring is uniserial ring on the right ===> ring is Ikeda-Nakayama on the right
 symmetric: false
 variety: 0

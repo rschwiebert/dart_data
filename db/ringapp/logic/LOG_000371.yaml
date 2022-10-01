@@ -1,8 +1,7 @@
 active: true
 citation: []
-concs:
-- PSIDE_000215
-hyps:
-- PSIDE_000181
+concs: ring_deduced("has",0,145)
+hyps: ring_deduced("has",0,54)
+readable: ring is field ===> ring is Goldman domain
 symmetric: true
 variety: 0

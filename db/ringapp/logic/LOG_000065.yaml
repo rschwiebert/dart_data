@@ -1,8 +1,7 @@
 active: true
 citation: []
-concs:
-- PSIDE_000043
-hyps:
-- PSIDE_000054
+concs: ring_deduced("has",0,10)
+hyps: ring_deduced("has",0,8)
+readable: ring is domain ===> ring is reduced
 symmetric: true
 variety: 0

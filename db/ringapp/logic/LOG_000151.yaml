@@ -1,8 +1,7 @@
 active: true
 citation: []
-concs:
-- PSIDE_000105
-hyps:
-- PSIDE_000115
+concs: ring_deduced("has",0,41)
+hyps: ring_deduced("has",0,39)
+readable: ring is orthogonally finite ===> ring is Dedekind finite
 symmetric: true
 variety: 0

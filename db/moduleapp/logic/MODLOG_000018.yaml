@@ -1,10 +1,8 @@
 active: true
 citation:
-- MODCITE_000002
-concs:
-- MODPROP_000008
-hyps:
-- MODPROP_000024
-ring_hyps:
-- PSIDE_000164
+- CITE_000002
+concs: module_deduced("has",8)
+hyps: module_deduced("has",24) AND ring_deduced("has",2,71)
+readable: module is semi-reflexive (torsionless) AND ring is semihereditary on the
+  left  ===>  module is flat
 variety: 0

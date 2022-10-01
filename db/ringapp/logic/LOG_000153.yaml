@@ -1,8 +1,7 @@
 active: true
 citation: []
-concs:
-- PSIDE_000126
-hyps:
-- PSIDE_000133
+concs: ring_deduced("has",0,22)
+hyps: ring_deduced("has",4,97)
+readable: ring is T-nilpotent radical on the left or right ===> ring is nil radical
 symmetric: true
 variety: 0

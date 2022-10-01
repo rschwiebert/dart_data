@@ -1,10 +1,9 @@
 active: true
 citation:
 - CITE_000220
-concs:
-- PSIDE_000222
-- PSIDE_000088
-hyps:
-- PSIDE_000102
+concs: ring_deduced("has",3,148) AND ring_deduced("has",0,24)
+hyps: ring_deduced("has",3,82)
+readable: ring is perfect on the right <==> ring is max ring on the right AND ring
+  is semilocal
 symmetric: false
 variety: 1

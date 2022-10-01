@@ -1,10 +1,9 @@
 active: true
 citation:
 - CITE_000063
-concs:
-- PSIDE_000061
-hyps:
-- PSIDE_000016
-- PSIDE_000035
+concs: ring_deduced("has",3,94)
+hyps: ring_deduced("has",3,86) AND ring_deduced("has",0,11)
+readable: ring is Goldie on the right AND ring is semiprime ===> ring is Ore ring
+  on the right
 symmetric: false
 variety: 0

@@ -1,10 +1,9 @@
 active: true
 citation:
 - CITE_000046
-concs:
-- PSIDE_000018
-- PSIDE_000052
-hyps:
-- PSIDE_000051
+concs: ring_deduced("has",3,88) AND ring_deduced("has",3,67)
+hyps: ring_deduced("has",3,66)
+readable: ring is principal ideal ring on the right <==> ring is ACC principal on
+  the right AND ring is Bezout on the right
 symmetric: false
 variety: 1

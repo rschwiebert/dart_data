@@ -1,10 +1,9 @@
 active: true
 citation:
 - CITE_000026
-concs:
-- PSIDE_000036
-hyps:
-- PSIDE_000001
-- PSIDE_000126
+concs: ring_deduced("has",0,21)
+hyps: ring_deduced("has",4,64) AND ring_deduced("has",0,22)
+readable: ring is Noetherian on the left or right AND ring is nil radical ===> ring
+  is nilpotent radical
 symmetric: true
 variety: 0

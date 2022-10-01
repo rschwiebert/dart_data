@@ -1,10 +1,9 @@
 active: true
 citation:
 - CITE_000059
-concs:
-- PSIDE_000160
-hyps:
-- PSIDE_000096
-- PSIDE_000035
+concs: ring_deduced("has",2,100)
+hyps: ring_deduced("has",3,100) AND ring_deduced("has",0,11)
+readable: ring is nonzero socle on the right AND ring is semiprime ===> ring is nonzero
+  socle on the left
 symmetric: false
 variety: 0

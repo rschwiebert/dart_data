@@ -1,10 +1,9 @@
 active: true
 citation:
 - CITE_000009
-concs:
-- PSIDE_000017
-hyps:
-- PSIDE_000184
-- PSIDE_000004
+concs: ring_deduced("has",3,87)
+hyps: ring_deduced("has",0,112) AND ring_deduced("has",0,1)
+readable: ring is Prufer domain AND ring is commutative ===> ring is coherent on the
+  right
 symmetric: true
 variety: 0

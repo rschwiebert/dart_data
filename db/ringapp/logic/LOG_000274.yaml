@@ -1,10 +1,9 @@
 active: true
 citation:
 - CITE_000066
-concs:
-- PSIDE_000015
-hyps:
-- PSIDE_000113
-- PSIDE_000062
+concs: ring_deduced("has",3,64)
+hyps: ring_deduced("has",3,85) AND ring_deduced("has",3,70)
+readable: ring is finite uniform dimension on the right AND ring is hereditary on
+  the right ===> ring is Noetherian on the right
 symmetric: false
 variety: 0

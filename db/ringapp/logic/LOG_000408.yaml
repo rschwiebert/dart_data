@@ -1,11 +1,8 @@
 active: true
 citation: []
-concs:
-- PSIDE_000004
-- PSIDE_000054
-- PSIDE_000154
-hyps:
-- PSIDE_000184
-- PSIDE_000004
+concs: ring_deduced("has",0,1) AND ring_deduced("has",0,8) AND ring_deduced("has",4,71)
+hyps: ring_deduced("has",0,112) AND ring_deduced("has",0,1)
+readable: ring is Prufer domain AND ring is commutative <==> ring is commutative AND
+  ring is domain AND ring is semihereditary on the left or right
 symmetric: true
 variety: 1

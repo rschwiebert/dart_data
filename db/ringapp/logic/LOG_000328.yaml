@@ -1,8 +1,7 @@
 active: true
 citation: []
-concs:
-- PSIDE_000177
-hyps:
-- PSIDE_000171
+concs: ring_deduced("has",0,121)
+hyps: ring_deduced("has",0,116)
+readable: ring is regular ===> ring is Gorenstein
 symmetric: true
 variety: 0

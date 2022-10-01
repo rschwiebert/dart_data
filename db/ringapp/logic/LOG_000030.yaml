@@ -1,8 +1,7 @@
 active: true
 citation: []
-concs:
-- PSIDE_000038
-hyps:
-- PSIDE_000037
+concs: ring_deduced("has",0,38)
+hyps: ring_deduced("has",0,9)
+readable: ring is prime ===> ring is connected
 symmetric: true
 variety: 0

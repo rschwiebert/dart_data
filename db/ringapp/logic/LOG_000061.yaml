@@ -1,8 +1,7 @@
 active: true
 citation: []
-concs:
-- PSIDE_000065
-hyps:
-- PSIDE_000064
+concs: ring_deduced("has",3,73)
+hyps: ring_deduced("has",3,72)
+readable: ring is Rickart on the right ===> ring is nonsingular on the right
 symmetric: false
 variety: 0

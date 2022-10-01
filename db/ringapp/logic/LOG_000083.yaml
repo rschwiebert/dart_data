@@ -1,10 +1,9 @@
 active: true
 citation:
 - CITE_000011
-concs:
-- PSIDE_000085
-- PSIDE_000078
-hyps:
-- PSIDE_000083
+concs: ring_deduced("has",3,103) AND ring_deduced("has",3,80)
+hyps: ring_deduced("has",3,78)
+readable: ring is pseudo-Frobenius on the right <==> ring is finitely cogenerated
+  on the right AND ring is self-injective on the right
 symmetric: false
 variety: 1

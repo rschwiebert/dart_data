@@ -1,9 +1,8 @@
 active: true
 citation:
 - CITE_000019
-concs:
-- PSIDE_000137
-hyps:
-- PSIDE_000102
+concs: ring_deduced("has",2,88)
+hyps: ring_deduced("has",3,82)
+readable: ring is perfect on the right ===> ring is ACC principal on the left
 symmetric: false
 variety: 0

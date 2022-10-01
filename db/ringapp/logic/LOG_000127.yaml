@@ -1,9 +1,8 @@
 active: true
 citation:
 - CITE_000205
-concs:
-- PSIDE_000123
-hyps:
-- PSIDE_000042
+concs: ring_deduced("has",0,49)
+hyps: ring_deduced("has",0,46)
+readable: ring is $\pi$-regular ===> ring is Zorn
 symmetric: true
 variety: 0

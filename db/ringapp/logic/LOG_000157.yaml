@@ -1,8 +1,7 @@
 active: true
 citation: []
-concs:
-- PSIDE_000135
-hyps:
-- PSIDE_000129
+concs: ring_deduced("has",3,110)
+hyps: ring_deduced("has",3,109)
+readable: ring is quasi-continuous on the right ===> ring is CS on the right
 symmetric: false
 variety: 0

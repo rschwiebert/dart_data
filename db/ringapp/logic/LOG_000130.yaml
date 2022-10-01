@@ -1,10 +1,8 @@
 active: true
 citation:
 - CITE_000027
-concs:
-- PSIDE_000124
-- PSIDE_000126
-hyps:
-- PSIDE_000123
+concs: ring_deduced("has",0,48) AND ring_deduced("has",0,22)
+hyps: ring_deduced("has",0,49)
+readable: ring is Zorn <==> ring is $I_0$ AND ring is nil radical
 symmetric: true
 variety: 1

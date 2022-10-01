@@ -1,9 +1,8 @@
 active: true
 citation:
 - CITE_000015
-concs:
-- PSIDE_000101
-hyps:
-- PSIDE_000128
+concs: ring_deduced("has",0,50)
+hyps: ring_deduced("has",4,92)
+readable: ring is continuous on the left or right ===> ring is semiregular
 symmetric: true
 variety: 0

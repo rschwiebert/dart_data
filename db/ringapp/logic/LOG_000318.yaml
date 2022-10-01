@@ -1,10 +1,8 @@
 active: true
 citation:
 - CITE_000027
-concs:
-- PSIDE_000073
-- PSIDE_000171
-hyps:
-- PSIDE_000172
+concs: ring_deduced("has",0,23) AND ring_deduced("has",0,116)
+hyps: ring_deduced("has",0,115)
+readable: ring is regular local <==> ring is local AND ring is regular
 symmetric: true
 variety: 1

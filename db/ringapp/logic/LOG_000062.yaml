@@ -1,8 +1,7 @@
 active: true
 citation: []
-concs:
-- PSIDE_000066
-hyps:
-- PSIDE_000028
+concs: ring_deduced("has",1,72)
+hyps: ring_deduced("has",0,7)
+readable: ring is Baer ===> ring is Rickart on the left and right
 symmetric: true
 variety: 0

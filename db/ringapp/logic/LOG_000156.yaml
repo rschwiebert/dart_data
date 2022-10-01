@@ -1,8 +1,7 @@
 active: true
 citation: []
-concs:
-- PSIDE_000096
-hyps:
-- PSIDE_000089
+concs: ring_deduced("has",3,100)
+hyps: ring_deduced("has",3,101)
+readable: ring is essential socle on the right ===> ring is nonzero socle on the right
 symmetric: false
 variety: 0

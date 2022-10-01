@@ -1,9 +1,8 @@
 active: true
 citation: []
-concs:
-- PSIDE_000054
-- PSIDE_000051
-hyps:
-- PSIDE_000053
+concs: ring_deduced("has",0,8) AND ring_deduced("has",3,66)
+hyps: ring_deduced("has",3,65)
+readable: ring is principal ideal domain on the right <==> ring is domain AND ring
+  is principal ideal ring on the right
 symmetric: false
 variety: 1

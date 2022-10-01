@@ -1,11 +1,9 @@
 active: true
 citation:
 - CITE_000055
-concs:
-- PSIDE_000078
-hyps:
-- PSIDE_000084
-- PSIDE_000126
-- PSIDE_000076
+concs: ring_deduced("has",3,80)
+hyps: ring_deduced("has",3,79) AND ring_deduced("has",0,22) AND ring_deduced("has",0,25)
+readable: ring is finitely pseudo-Frobenius on the right AND ring is nil radical AND
+  ring is semiperfect ===> ring is self-injective on the right
 symmetric: false
 variety: 0

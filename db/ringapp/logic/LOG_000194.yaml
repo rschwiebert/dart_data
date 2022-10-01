@@ -1,9 +1,8 @@
 active: true
 citation: []
-concs:
-- PSIDE_000147
-hyps:
-- PSIDE_000004
-- PSIDE_000054
+concs: ring_deduced("has",1,69)
+hyps: ring_deduced("has",0,1) AND ring_deduced("has",0,8)
+readable: ring is commutative AND ring is domain ===> ring is Ore domain on the left
+  and right
 symmetric: true
 variety: 0

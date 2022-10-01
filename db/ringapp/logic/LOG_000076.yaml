@@ -1,8 +1,7 @@
 active: true
 citation: []
-concs:
-- PSIDE_000077
-hyps:
-- PSIDE_000032
+concs: ring_deduced("has",0,19)
+hyps: ring_deduced("has",0,18)
+readable: ring is Frobenius ===> ring is quasi-Frobenius
 symmetric: true
 variety: 0

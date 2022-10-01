@@ -1,8 +1,7 @@
 active: true
 citation: []
-concs:
-- PSIDE_000093
-hyps:
-- PSIDE_000078
+concs: ring_deduced("has",3,92)
+hyps: ring_deduced("has",3,80)
+readable: ring is self-injective on the right ===> ring is continuous on the right
 symmetric: false
 variety: 0

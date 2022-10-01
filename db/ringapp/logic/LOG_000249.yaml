@@ -1,10 +1,9 @@
 active: true
 citation:
 - CITE_000060
-concs:
-- PSIDE_000025
-hyps:
-- PSIDE_000096
-- PSIDE_000037
+concs: ring_deduced("has",1,74)
+hyps: ring_deduced("has",3,100) AND ring_deduced("has",0,9)
+readable: ring is nonzero socle on the right AND ring is prime ===> ring is primitive
+  on the left and right
 symmetric: false
 variety: 0

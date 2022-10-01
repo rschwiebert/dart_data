@@ -1,10 +1,8 @@
 active: true
 citation: []
-concs:
-- PSIDE_000165
-hyps:
-- PSIDE_000004
-- PSIDE_000073
-- PSIDE_000077
+concs: ring_deduced("has",1,98)
+hyps: ring_deduced("has",0,1) AND ring_deduced("has",0,23) AND ring_deduced("has",0,19)
+readable: ring is commutative AND ring is local AND ring is quasi-Frobenius ===> ring
+  is simple socle on the left and right
 symmetric: true
 variety: 0

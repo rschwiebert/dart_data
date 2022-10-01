@@ -1,8 +1,8 @@
 active: true
 citation: []
-concs:
-- PSIDE_000039
-hyps:
-- PSIDE_000002
+concs: ring_deduced("has",1,71)
+hyps: ring_deduced("has",0,14)
+readable: ring is von Neumann regular ===> ring is semihereditary on the left and
+  right
 symmetric: true
 variety: 0

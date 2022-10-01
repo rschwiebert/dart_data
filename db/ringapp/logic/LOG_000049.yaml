@@ -1,9 +1,8 @@
 active: true
 citation: []
-concs:
-- PSIDE_000052
-- PSIDE_000015
-hyps:
-- PSIDE_000051
+concs: ring_deduced("has",3,67) AND ring_deduced("has",3,64)
+hyps: ring_deduced("has",3,66)
+readable: ring is principal ideal ring on the right <==> ring is Bezout on the right
+  AND ring is Noetherian on the right
 symmetric: false
 variety: 1

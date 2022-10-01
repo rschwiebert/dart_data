@@ -1,10 +1,9 @@
 active: true
 citation:
 - CITE_000405
-concs:
-- PSIDE_000138
-hyps:
-- PSIDE_000015
-- PSIDE_000087
+concs: ring_deduced("has",2,101)
+hyps: ring_deduced("has",3,64) AND ring_deduced("has",3,91)
+readable: ring is Noetherian on the right AND ring is dual on the right ===> ring
+  is essential socle on the left
 symmetric: false
 variety: 0

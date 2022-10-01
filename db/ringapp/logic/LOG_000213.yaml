@@ -1,10 +1,9 @@
 active: true
 citation:
 - CITE_000058
-concs:
-- PSIDE_000085
-- PSIDE_000035
-hyps:
-- PSIDE_000003
+concs: ring_deduced("has",3,103) AND ring_deduced("has",0,11)
+hyps: ring_deduced("has",0,5)
+readable: ring is semisimple <==> ring is finitely cogenerated on the right AND ring
+  is semiprime
 symmetric: false
 variety: 1

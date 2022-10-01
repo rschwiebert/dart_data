@@ -1,11 +1,8 @@
 active: true
 citation:
 - CITE_000022
-concs:
-- PSIDE_000181
-- PSIDE_000107
-hyps:
-- PSIDE_000054
-- PSIDE_000107
+concs: ring_deduced("has",0,54) AND ring_deduced("has",0,43)
+hyps: ring_deduced("has",0,8) AND ring_deduced("has",0,43)
+readable: ring is domain AND ring is finite <==> ring is field AND ring is finite
 symmetric: true
 variety: 1

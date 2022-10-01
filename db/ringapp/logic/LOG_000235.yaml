@@ -1,8 +1,8 @@
 active: true
 citation: []
-concs:
-- PSIDE_000048
-hyps:
-- PSIDE_000157
+concs: ring_deduced("has",1,83)
+hyps: ring_deduced("has",1,80)
+readable: ring is self-injective on the left and right ===> ring is cohopfian on the
+  left and right
 symmetric: true
 variety: 0

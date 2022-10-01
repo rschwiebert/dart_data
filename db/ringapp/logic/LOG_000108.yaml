@@ -1,8 +1,7 @@
 active: true
 citation: []
-concs:
-- PSIDE_000106
-hyps:
-- PSIDE_000009
+concs: ring_deduced("has",0,44)
+hyps: ring_deduced("has",0,42)
+readable: ring is stably finite ===> ring is IBN
 symmetric: true
 variety: 0

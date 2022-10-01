@@ -1,8 +1,7 @@
 active: true
 citation: []
-concs:
-- PSIDE_000061
-hyps:
-- PSIDE_000151
+concs: ring_deduced("has",3,94)
+hyps: ring_deduced("has",3,83)
+readable: ring is cohopfian on the right ===> ring is Ore ring on the right
 symmetric: false
 variety: 0

@@ -1,9 +1,8 @@
 active: true
 citation: []
-concs:
-- PSIDE_000117
-- PSIDE_000113
-hyps:
-- PSIDE_000016
+concs: ring_deduced("has",3,89) AND ring_deduced("has",3,85)
+hyps: ring_deduced("has",3,86)
+readable: ring is Goldie on the right <==> ring is ACC annihilator on the right AND
+  ring is finite uniform dimension on the right
 symmetric: false
 variety: 1

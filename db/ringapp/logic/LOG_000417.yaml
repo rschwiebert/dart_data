@@ -1,10 +1,9 @@
 active: true
 citation:
 - CITE_000294
-concs:
-- PSIDE_000232
-hyps:
-- PSIDE_000117
-- PSIDE_000094
+concs: ring_deduced("has",2,63)
+hyps: ring_deduced("has",3,89) AND ring_deduced("has",3,95)
+readable: ring is ACC annihilator on the right AND ring is principally injective on
+  the right ===> ring is Artinian on the left
 symmetric: false
 variety: 0

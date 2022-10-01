@@ -1,9 +1,8 @@
 active: true
 citation: []
-concs:
-- PSIDE_000052
-- PSIDE_000054
-hyps:
-- PSIDE_000056
+concs: ring_deduced("has",3,67) AND ring_deduced("has",0,8)
+hyps: ring_deduced("has",3,68)
+readable: ring is Bezout domain on the right <==> ring is Bezout on the right AND
+  ring is domain
 symmetric: false
 variety: 1

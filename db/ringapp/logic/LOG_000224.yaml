@@ -1,11 +1,9 @@
 active: true
 citation:
 - CITE_000050
-concs:
-- PSIDE_000046
-- PSIDE_000043
-hyps:
-- PSIDE_000046
-- PSIDE_000065
+concs: ring_deduced("has",3,104) AND ring_deduced("has",0,10)
+hyps: ring_deduced("has",3,104) AND ring_deduced("has",3,73)
+readable: ring is distributive on the right AND ring is nonsingular on the right <==>
+  ring is distributive on the right AND ring is reduced
 symmetric: false
 variety: 1

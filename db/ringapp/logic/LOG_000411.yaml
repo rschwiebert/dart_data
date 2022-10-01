@@ -1,11 +1,8 @@
 active: true
 citation: []
-concs:
-- PSIDE_000004
-- PSIDE_000126
-- PSIDE_000101
-hyps:
-- PSIDE_000004
-- PSIDE_000044
+concs: ring_deduced("has",0,1) AND ring_deduced("has",0,22) AND ring_deduced("has",0,50)
+hyps: ring_deduced("has",0,1) AND ring_deduced("has",0,45)
+readable: ring is commutative AND ring is strongly $\pi$-regular <==> ring is commutative
+  AND ring is nil radical AND ring is semiregular
 symmetric: true
 variety: 1

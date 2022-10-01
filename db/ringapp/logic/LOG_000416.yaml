@@ -1,8 +1,7 @@
 active: true
 citation: []
-concs:
-- PSIDE_000231
-hyps:
-- PSIDE_000019
+concs: ring_deduced("has",1,154)
+hyps: ring_deduced("has",0,2)
+readable: ring is division ring ===> ring is valuation domain on the left and right
 symmetric: true
 variety: 0

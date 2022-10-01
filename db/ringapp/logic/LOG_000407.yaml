@@ -1,9 +1,8 @@
 active: true
 citation: []
-concs:
-- PSIDE_000003
-hyps:
-- PSIDE_000229
-- PSIDE_000004
+concs: ring_deduced("has",0,5)
+hyps: ring_deduced("has",4,147) AND ring_deduced("has",0,1)
+readable: ring is PCI ring on the left or right AND ring is commutative ===> ring
+  is semisimple
 symmetric: true
 variety: 0

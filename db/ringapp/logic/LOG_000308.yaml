@@ -1,8 +1,7 @@
 active: true
 citation: []
-concs:
-- PSIDE_000183
-hyps:
-- PSIDE_000177
+concs: ring_deduced("has",0,117)
+hyps: ring_deduced("has",0,121)
+readable: ring is Gorenstein ===> ring is Cohen-Macaulay
 symmetric: true
 variety: 0

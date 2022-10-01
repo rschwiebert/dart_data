@@ -1,9 +1,6 @@
 active: true
 citation: []
-concs:
-- MODPROP_000011
-hyps:
-- MODPROP_000012
-- MODPROP_000006
-ring_hyps: []
+concs: module_deduced("has",11)
+hyps: module_deduced("has",12) AND module_deduced("has",6)
+readable: module is co-Hopfian AND module is projective  ===>  module is Hopfian
 variety: 0

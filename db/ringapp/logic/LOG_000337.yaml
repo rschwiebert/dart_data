@@ -1,9 +1,7 @@
 active: true
 citation: []
-concs:
-- PSIDE_000195
-hyps:
-- PSIDE_000194
-- PSIDE_000004
+concs: ring_deduced("has",0,128)
+hyps: ring_deduced("has",0,125) AND ring_deduced("has",0,1)
+readable: ring is Jacobson (Hilbert) AND ring is commutative ===> ring is rad-nil
 symmetric: true
 variety: 0

@@ -1,9 +1,8 @@
 active: true
 citation: []
-concs:
-- PSIDE_000065
-hyps:
-- PSIDE_000015
-- PSIDE_000035
+concs: ring_deduced("has",3,73)
+hyps: ring_deduced("has",3,64) AND ring_deduced("has",0,11)
+readable: ring is Noetherian on the right AND ring is semiprime ===> ring is nonsingular
+  on the right
 symmetric: false
 variety: 0

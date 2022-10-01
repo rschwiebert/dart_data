@@ -1,8 +1,7 @@
 active: true
 citation: []
-concs:
-- PSIDE_000017
-hyps:
-- PSIDE_000015
+concs: ring_deduced("has",3,87)
+hyps: ring_deduced("has",3,64)
+readable: ring is Noetherian on the right ===> ring is coherent on the right
 symmetric: false
 variety: 0

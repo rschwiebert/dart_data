@@ -1,8 +1,7 @@
 active: true
 citation: []
-concs:
-- PSIDE_000096
-hyps:
-- PSIDE_000134
+concs: ring_deduced("has",3,100)
+hyps: ring_deduced("has",3,98)
+readable: ring is simple socle on the right ===> ring is nonzero socle on the right
 symmetric: false
 variety: 0

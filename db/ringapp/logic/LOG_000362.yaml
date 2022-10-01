@@ -1,10 +1,8 @@
 active: true
 citation: []
-concs:
-- PSIDE_000210
-hyps:
-- PSIDE_000004
-- PSIDE_000073
-- PSIDE_000036
+concs: ring_deduced("has",0,143)
+hyps: ring_deduced("has",0,1) AND ring_deduced("has",0,23) AND ring_deduced("has",0,21)
+readable: ring is commutative AND ring is local AND ring is nilpotent radical ===>
+  ring is complete local
 symmetric: true
 variety: 0

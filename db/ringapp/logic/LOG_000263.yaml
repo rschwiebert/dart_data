@@ -1,10 +1,9 @@
 active: true
 citation:
 - CITE_000065
-concs:
-- PSIDE_000164
-hyps:
-- PSIDE_000114
-- PSIDE_000063
+concs: ring_deduced("has",2,71)
+hyps: ring_deduced("has",4,85) AND ring_deduced("has",3,71)
+readable: ring is finite uniform dimension on the left or right AND ring is semihereditary
+  on the right ===> ring is semihereditary on the left
 symmetric: false
 variety: 0

@@ -1,8 +1,8 @@
 active: true
 citation: []
-concs:
-- PSIDE_000116
-hyps:
-- PSIDE_000113
+concs: ring_deduced("has",3,99)
+hyps: ring_deduced("has",3,85)
+readable: ring is finite uniform dimension on the right ===> ring is finitely generated
+  socle on the right
 symmetric: false
 variety: 0

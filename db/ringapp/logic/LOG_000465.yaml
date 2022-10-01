@@ -1,8 +1,7 @@
 active: true
 citation: []
-concs:
-- PSIDE_000169
-hyps:
-- PSIDE_000208
+concs: ring_deduced("has",1,64)
+hyps: ring_deduced("has",0,133)
+readable: ring is Grothendieck ===> ring is Noetherian on the left and right
 symmetric: true
 variety: 0

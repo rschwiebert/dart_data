@@ -1,8 +1,6 @@
 active: true
 citation: []
-concs:
-- MODPROP_000018
-hyps:
-- MODPROP_000025
-ring_hyps: []
+concs: module_deduced("has",18)
+hyps: module_deduced("has",25)
+readable: module is uniserial  ===>  module is uniform
 variety: 0

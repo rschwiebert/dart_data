@@ -2,9 +2,9 @@ active: true
 citation:
 - CITE_000038
 - CITE_000070
-concs:
-- PSIDE_000213
-hyps:
-- PSIDE_000080
+concs: ring_deduced("has",1,92)
+hyps: ring_deduced("has",1,91)
+readable: ring is dual on the left and right ===> ring is continuous on the left and
+  right
 symmetric: true
 variety: 0

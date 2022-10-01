@@ -1,9 +1,8 @@
 active: true
 citation:
 - CITE_000002
-concs:
-- PSIDE_000006
-hyps:
-- PSIDE_000002
+concs: ring_deduced("has",1,94)
+hyps: ring_deduced("has",0,14)
+readable: ring is von Neumann regular ===> ring is Ore ring on the left and right
 symmetric: true
 variety: 0

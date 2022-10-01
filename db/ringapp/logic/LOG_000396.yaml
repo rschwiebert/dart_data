@@ -1,8 +1,7 @@
 active: true
 citation: []
-concs:
-- PSIDE_000224
-hyps:
-- PSIDE_000210
+concs: ring_deduced("has",0,150)
+hyps: ring_deduced("has",0,143)
+readable: ring is complete local ===> ring is Henselian local
 symmetric: true
 variety: 0

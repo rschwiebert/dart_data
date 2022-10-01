@@ -1,9 +1,7 @@
 active: true
 citation: []
-concs:
-- PSIDE_000019
-hyps:
-- PSIDE_000215
-- PSIDE_000034
+concs: ring_deduced("has",0,2)
+hyps: ring_deduced("has",0,145) AND ring_deduced("has",0,6)
+readable: ring is Goldman domain AND ring is semiprimitive ===> ring is division ring
 symmetric: true
 variety: 0

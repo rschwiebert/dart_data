@@ -1,8 +1,7 @@
 active: true
 citation: []
-concs:
-- PSIDE_000127
-hyps:
-- PSIDE_000050
+concs: ring_deduced("has",0,53)
+hyps: ring_deduced("has",0,52)
+readable: ring is clean ===> ring is weakly clean
 symmetric: true
 variety: 0

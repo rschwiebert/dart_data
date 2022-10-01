@@ -1,8 +1,7 @@
 active: true
 citation: []
-concs:
-- PSIDE_000198
-hyps:
-- PSIDE_000207
+concs: ring_deduced("has",0,140)
+hyps: ring_deduced("has",0,135)
+readable: ring is quasi-excellent ===> ring is Nagata
 symmetric: true
 variety: 0

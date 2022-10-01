@@ -1,9 +1,7 @@
 active: true
 citation: []
-concs:
-- PSIDE_000050
-hyps:
-- PSIDE_000007
-- PSIDE_000122
+concs: ring_deduced("has",0,52)
+hyps: ring_deduced("has",0,40) AND ring_deduced("has",0,47)
+readable: ring is Abelian AND ring is exchange ===> ring is clean
 symmetric: true
 variety: 0

@@ -1,8 +1,7 @@
 active: true
 citation: []
-concs:
-- PSIDE_000009
-hyps:
-- PSIDE_000004
+concs: ring_deduced("has",0,42)
+hyps: ring_deduced("has",0,1)
+readable: ring is commutative ===> ring is stably finite
 symmetric: true
 variety: 0

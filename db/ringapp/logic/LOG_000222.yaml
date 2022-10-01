@@ -1,11 +1,9 @@
 active: true
 citation:
 - CITE_000047
-concs:
-- PSIDE_000056
-- PSIDE_000073
-hyps:
-- PSIDE_000054
-- PSIDE_000071
+concs: ring_deduced("has",3,68) AND ring_deduced("has",0,23)
+hyps: ring_deduced("has",0,8) AND ring_deduced("has",3,76)
+readable: ring is domain AND ring is uniserial ring on the right <==> ring is Bezout
+  domain on the right AND ring is local
 symmetric: false
 variety: 1

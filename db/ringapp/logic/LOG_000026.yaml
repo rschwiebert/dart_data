@@ -1,8 +1,7 @@
 active: true
 citation: []
-concs:
-- PSIDE_000033
-hyps:
-- PSIDE_000003
+concs: ring_deduced("has",1,77)
+hyps: ring_deduced("has",0,5)
+readable: ring is semisimple ===> ring is serial on the left and right
 symmetric: true
 variety: 0

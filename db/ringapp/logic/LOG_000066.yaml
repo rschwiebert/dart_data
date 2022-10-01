@@ -1,8 +1,7 @@
 active: true
 citation: []
-concs:
-- PSIDE_000028
-hyps:
-- PSIDE_000054
+concs: ring_deduced("has",0,7)
+hyps: ring_deduced("has",0,8)
+readable: ring is domain ===> ring is Baer
 symmetric: true
 variety: 0

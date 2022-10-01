@@ -1,9 +1,8 @@
 active: true
 citation:
 - CITE_000012
-concs:
-- PSIDE_000115
-hyps:
-- PSIDE_000120
+concs: ring_deduced("has",0,39)
+hyps: ring_deduced("has",4,90)
+readable: ring is DCC annihilator on the left or right ===> ring is orthogonally finite
 symmetric: true
 variety: 0

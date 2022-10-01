@@ -1,8 +1,7 @@
 active: true
 citation: []
-concs:
-- PSIDE_000099
-hyps:
-- PSIDE_000073
+concs: ring_deduced("has",1,96)
+hyps: ring_deduced("has",0,23)
+readable: ring is local ===> ring is quasi-duo on the left and right
 symmetric: true
 variety: 0

@@ -1,8 +1,7 @@
 active: true
 citation: []
-concs:
-- PSIDE_000063
-hyps:
-- PSIDE_000062
+concs: ring_deduced("has",3,71)
+hyps: ring_deduced("has",3,70)
+readable: ring is hereditary on the right ===> ring is semihereditary on the right
 symmetric: false
 variety: 0

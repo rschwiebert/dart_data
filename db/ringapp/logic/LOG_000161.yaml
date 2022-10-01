@@ -1,8 +1,7 @@
 active: true
 citation: []
-concs:
-- PSIDE_000003
-hyps:
-- PSIDE_000020
+concs: ring_deduced("has",0,5)
+hyps: ring_deduced("has",0,4)
+readable: ring is simple Artinian ===> ring is semisimple
 symmetric: true
 variety: 0

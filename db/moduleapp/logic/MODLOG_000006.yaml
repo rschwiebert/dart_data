@@ -1,10 +1,7 @@
 active: true
 citation:
-- MODCITE_000001
-concs:
-- MODPROP_000006
-hyps:
-- MODPROP_000008
-ring_hyps:
-- PSIDE_000102
+- CITE_000001
+concs: module_deduced("has",6)
+hyps: module_deduced("has",8) AND ring_deduced("has",3,82)
+readable: module is flat AND ring is perfect on the right  ===>  module is projective
 variety: 0

@@ -1,8 +1,7 @@
 active: true
 citation: []
-concs:
-- PSIDE_000122
-hyps:
-- PSIDE_000050
+concs: ring_deduced("has",0,47)
+hyps: ring_deduced("has",0,52)
+readable: ring is clean ===> ring is exchange
 symmetric: true
 variety: 0

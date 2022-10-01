@@ -1,9 +1,6 @@
 active: true
 citation: []
-concs:
-- MODPROP_000006
-hyps:
-- MODPROP_000015
-- MODPROP_000008
-ring_hyps: []
+concs: module_deduced("has",6)
+hyps: module_deduced("has",15) AND module_deduced("has",8)
+readable: module is finitely related AND module is flat  ===>  module is projective
 variety: 0

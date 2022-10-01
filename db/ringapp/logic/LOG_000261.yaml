@@ -1,10 +1,8 @@
 active: true
 citation:
 - CITE_000031
-concs:
-- PSIDE_000034
-hyps:
-- PSIDE_000036
-- PSIDE_000035
+concs: ring_deduced("has",0,6)
+hyps: ring_deduced("has",0,21) AND ring_deduced("has",0,11)
+readable: ring is nilpotent radical AND ring is semiprime <==> ring is semiprimitive
 symmetric: true
 variety: 1

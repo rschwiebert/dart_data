@@ -1,8 +1,6 @@
 active: true
 citation: []
-concs:
-- MODPROP_000003
-hyps:
-- MODPROP_000010
-ring_hyps: []
+concs: module_deduced("has",3)
+hyps: module_deduced("has",10)
+readable: module is cyclic  ===>  module is finitely generated
 variety: 0

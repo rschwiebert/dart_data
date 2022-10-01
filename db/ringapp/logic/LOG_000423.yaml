@@ -1,10 +1,9 @@
 active: true
 citation:
 - CITE_000317
-concs:
-- PSIDE_000234
-hyps:
-- PSIDE_000004
-- PSIDE_000140
+concs: ring_deduced("has",0,155)
+hyps: ring_deduced("has",0,1) AND ring_deduced("has",4,104)
+readable: ring is commutative AND ring is distributive on the left or right ===> ring
+  is Armendariz
 symmetric: true
 variety: 0

@@ -1,9 +1,7 @@
 active: true
 citation: []
-concs:
-- PSIDE_000034
-- PSIDE_000100
-hyps:
-- PSIDE_000002
+concs: ring_deduced("has",0,6) AND ring_deduced("has",0,31)
+hyps: ring_deduced("has",0,14)
+readable: ring is von Neumann regular <==> ring is semiprimitive AND ring is top regular
 symmetric: true
 variety: 1

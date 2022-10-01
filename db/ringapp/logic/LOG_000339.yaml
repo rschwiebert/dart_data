@@ -1,11 +1,10 @@
 active: true
 citation: []
-concs:
-- PSIDE_000022
-hyps:
-- PSIDE_000004
-- PSIDE_000073
-- PSIDE_000029
-- PSIDE_000014
+concs: ring_deduced("has",1,76)
+hyps: ring_deduced("has",0,1) AND ring_deduced("has",0,23) AND ring_deduced("has",1,66)
+  AND ring_deduced("has",0,20)
+readable: ring is commutative AND ring is local AND ring is principal ideal ring on
+  the left and right AND ring is semiprimary ===> ring is uniserial ring on the left
+  and right
 symmetric: true
 variety: 0

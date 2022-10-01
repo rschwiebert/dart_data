@@ -1,10 +1,9 @@
 active: true
 citation:
 - CITE_000010
-concs:
-- PSIDE_000015
-- PSIDE_000080
-hyps:
-- PSIDE_000077
+concs: ring_deduced("has",3,64) AND ring_deduced("has",1,91)
+hyps: ring_deduced("has",0,19)
+readable: ring is quasi-Frobenius <==> ring is Noetherian on the right AND ring is
+  dual on the left and right
 symmetric: false
 variety: 1

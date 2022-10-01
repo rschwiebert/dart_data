@@ -1,8 +1,7 @@
 active: true
 citation: []
-concs:
-- PSIDE_000192
-hyps:
-- PSIDE_000172
+concs: ring_deduced("has",0,114)
+hyps: ring_deduced("has",0,115)
+readable: ring is regular local ===> ring is unique factorization domain
 symmetric: true
 variety: 0

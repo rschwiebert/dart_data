@@ -1,8 +1,7 @@
 active: true
 citation: []
-concs:
-- PSIDE_000223
-hyps:
-- PSIDE_000107
+concs: ring_deduced("has",0,149)
+hyps: ring_deduced("has",0,43)
+readable: ring is finite ===> ring is countable
 symmetric: true
 variety: 0

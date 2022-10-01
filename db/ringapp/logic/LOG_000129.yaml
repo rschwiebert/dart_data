@@ -1,9 +1,8 @@
 active: false
 citation:
 - CITE_000014
-concs:
-- PSIDE_000125
-hyps:
-- PSIDE_000122
+concs: ring_deduced("has",0,26)
+hyps: ring_deduced("has",0,47)
+readable: ring is exchange ===> ring is lift/rad
 symmetric: true
 variety: 0

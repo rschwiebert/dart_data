@@ -1,8 +1,7 @@
 active: true
 citation: []
-concs:
-- PSIDE_000076
-hyps:
-- PSIDE_000073
+concs: ring_deduced("has",0,25)
+hyps: ring_deduced("has",0,23)
+readable: ring is local ===> ring is semiperfect
 symmetric: true
 variety: 0

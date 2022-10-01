@@ -1,10 +1,9 @@
 active: true
 citation:
 - CITE_000031
-concs:
-- PSIDE_000034
-- PSIDE_000098
-hyps:
-- PSIDE_000020
+concs: ring_deduced("has",0,6) AND ring_deduced("has",0,30)
+hyps: ring_deduced("has",0,4)
+readable: ring is simple Artinian <==> ring is semiprimitive AND ring is top simple
+  Artinian
 symmetric: true
 variety: 1

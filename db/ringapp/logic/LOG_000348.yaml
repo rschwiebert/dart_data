@@ -1,10 +1,9 @@
 active: true
 citation:
 - CITE_000027
-concs:
-- PSIDE_000169
-- PSIDE_000199
-hyps:
-- PSIDE_000198
+concs: ring_deduced("has",1,64) AND ring_deduced("has",0,139)
+hyps: ring_deduced("has",0,140)
+readable: ring is Nagata <==> ring is Noetherian on the left and right AND ring is
+  universally Japanese
 symmetric: true
 variety: 1

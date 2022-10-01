@@ -1,12 +1,9 @@
 active: true
 citation:
 - CITE_000075
-concs:
-- PSIDE_000194
-- PSIDE_000004
-hyps:
-- PSIDE_000167
-- PSIDE_000004
-- PSIDE_000034
+concs: ring_deduced("has",0,125) AND ring_deduced("has",0,1)
+hyps: ring_deduced("has",0,111) AND ring_deduced("has",0,1) AND ring_deduced("has",0,6)
+readable: ring is Dedekind domain AND ring is commutative AND ring is semiprimitive
+  ===> ring is Jacobson (Hilbert) AND ring is commutative
 symmetric: true
 variety: 0

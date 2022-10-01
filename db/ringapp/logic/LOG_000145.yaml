@@ -1,8 +1,7 @@
 active: true
 citation: []
-concs:
-- PSIDE_000131
-hyps:
-- PSIDE_000026
+concs: ring_deduced("has",0,16)
+hyps: ring_deduced("has",0,17)
+readable: ring is fully prime ===> ring is fully semiprime
 symmetric: true
 variety: 0

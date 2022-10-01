@@ -1,8 +1,7 @@
 active: true
 citation: []
-concs:
-- PSIDE_000239
-hyps:
-- PSIDE_000054
+concs: ring_deduced("has",1,89)
+hyps: ring_deduced("has",0,8)
+readable: ring is domain ===> ring is ACC annihilator on the left and right
 symmetric: true
 variety: 0

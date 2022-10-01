@@ -1,8 +1,6 @@
 active: true
 citation: []
-concs:
-- MODPROP_000011
-hyps:
-- MODPROP_000002
-ring_hyps: []
+concs: module_deduced("has",11)
+hyps: module_deduced("has",2)
+readable: module is Noetherian  ===>  module is Hopfian
 variety: 0

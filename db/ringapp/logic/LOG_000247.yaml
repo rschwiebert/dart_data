@@ -1,11 +1,9 @@
 active: true
 citation:
 - CITE_000058
-concs:
-- PSIDE_000073
-- PSIDE_000078
-hyps:
-- PSIDE_000090
-- PSIDE_000067
+concs: ring_deduced("has",0,23) AND ring_deduced("has",3,80)
+hyps: ring_deduced("has",3,102) AND ring_deduced("has",0,37)
+readable: ring is cogenerator ring on the right AND ring is strongly connected ===>
+  ring is local AND ring is self-injective on the right
 symmetric: false
 variety: 0

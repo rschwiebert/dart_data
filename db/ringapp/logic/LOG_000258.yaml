@@ -1,10 +1,8 @@
 active: true
 citation: []
-concs:
-- PSIDE_000071
-hyps:
-- PSIDE_000073
-- PSIDE_000051
-- PSIDE_000014
+concs: ring_deduced("has",3,76)
+hyps: ring_deduced("has",0,23) AND ring_deduced("has",3,66) AND ring_deduced("has",0,20)
+readable: ring is local AND ring is principal ideal ring on the right AND ring is
+  semiprimary ===> ring is uniserial ring on the right
 symmetric: false
 variety: 0

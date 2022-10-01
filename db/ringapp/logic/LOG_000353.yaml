@@ -1,9 +1,8 @@
 active: true
 citation:
 - CITE_000031
-concs:
-- PSIDE_000203
-hyps:
-- PSIDE_000202
+concs: ring_deduced("has",0,131)
+hyps: ring_deduced("has",0,132)
+readable: ring is universally catenary ===> ring is catenary
 symmetric: true
 variety: 0

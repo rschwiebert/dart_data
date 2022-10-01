@@ -1,10 +1,9 @@
 active: true
 citation:
 - CITE_000210
-concs:
-- PSIDE_000003
-hyps:
-- PSIDE_000218
-- PSIDE_000078
+concs: ring_deduced("has",0,5)
+hyps: ring_deduced("has",3,147) AND ring_deduced("has",3,80)
+readable: ring is PCI ring on the right AND ring is self-injective on the right ===>
+  ring is semisimple
 symmetric: false
 variety: 0

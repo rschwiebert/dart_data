@@ -1,8 +1,7 @@
 active: true
 citation: []
-concs:
-- PSIDE_000190
-hyps:
-- PSIDE_000197
+concs: ring_deduced("has",0,58)
+hyps: ring_deduced("has",0,62)
+readable: ring is Archimedean field ===> ring is ordered field
 symmetric: true
 variety: 0

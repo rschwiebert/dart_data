@@ -1,8 +1,7 @@
 active: true
 citation: []
-concs:
-- PSIDE_000189
-hyps:
-- PSIDE_000180
+concs: ring_deduced("has",0,59)
+hyps: ring_deduced("has",0,57)
+readable: ring is quadratically closed field ===> ring is Pythagorean field
 symmetric: true
 variety: 0

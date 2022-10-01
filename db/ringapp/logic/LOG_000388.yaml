@@ -1,9 +1,8 @@
 active: true
 citation:
 - CITE_000219
-concs:
-- PSIDE_000104
-hyps:
-- PSIDE_000222
+concs: ring_deduced("has",3,97)
+hyps: ring_deduced("has",3,148)
+readable: ring is max ring on the right ===> ring is T-nilpotent radical on the right
 symmetric: false
 variety: 0

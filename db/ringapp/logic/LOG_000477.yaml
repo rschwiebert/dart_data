@@ -1,9 +1,7 @@
 active: true
 citation: []
-concs:
-- PSIDE_000073
-hyps:
-- PSIDE_000124
-- PSIDE_000067
+concs: ring_deduced("has",0,23)
+hyps: ring_deduced("has",0,48) AND ring_deduced("has",0,37)
+readable: ring is $I_0$ AND ring is strongly connected ===> ring is local
 symmetric: true
 variety: 0

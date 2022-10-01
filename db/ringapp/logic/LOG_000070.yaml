@@ -1,8 +1,7 @@
 active: true
 citation: []
-concs:
-- PSIDE_000052
-hyps:
-- PSIDE_000071
+concs: ring_deduced("has",3,67)
+hyps: ring_deduced("has",3,76)
+readable: ring is uniserial ring on the right ===> ring is Bezout on the right
 symmetric: false
 variety: 0

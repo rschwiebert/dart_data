@@ -1,8 +1,7 @@
 active: true
 citation: []
-concs:
-- PSIDE_000097
-hyps:
-- PSIDE_000014
+concs: ring_deduced("has",1,82)
+hyps: ring_deduced("has",0,20)
+readable: ring is semiprimary ===> ring is perfect on the left and right
 symmetric: true
 variety: 0

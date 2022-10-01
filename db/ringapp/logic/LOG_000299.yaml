@@ -1,9 +1,8 @@
 active: true
 citation: []
-concs:
-- PSIDE_000023
-hyps:
-- PSIDE_000187
-- PSIDE_000004
+concs: ring_deduced("has",1,65)
+hyps: ring_deduced("has",0,113) AND ring_deduced("has",0,1)
+readable: ring is Euclidean domain AND ring is commutative ===> ring is principal
+  ideal domain on the left and right
 symmetric: true
 variety: 0

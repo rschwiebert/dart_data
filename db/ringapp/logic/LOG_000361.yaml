@@ -1,9 +1,8 @@
 active: true
 citation: []
-concs:
-- PSIDE_000177
-- PSIDE_000073
-hyps:
-- PSIDE_000176
+concs: ring_deduced("has",0,121) AND ring_deduced("has",0,23)
+hyps: ring_deduced("has",0,129)
+readable: ring is local complete intersection ===> ring is Gorenstein AND ring is
+  local
 symmetric: true
 variety: 0

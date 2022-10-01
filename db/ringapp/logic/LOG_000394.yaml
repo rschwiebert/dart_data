@@ -1,8 +1,7 @@
 active: true
 citation: []
-concs:
-- PSIDE_000174
-hyps:
-- PSIDE_000192
+concs: ring_deduced("has",0,130)
+hyps: ring_deduced("has",0,114)
+readable: ring is unique factorization domain ===> ring is Krull domain
 symmetric: true
 variety: 0

@@ -1,8 +1,7 @@
 active: true
 citation: []
-concs:
-- PSIDE_000014
-hyps:
-- PSIDE_000013
+concs: ring_deduced("has",0,20)
+hyps: ring_deduced("has",4,63)
+readable: ring is Artinian on the left or right ===> ring is semiprimary
 symmetric: true
 variety: 0

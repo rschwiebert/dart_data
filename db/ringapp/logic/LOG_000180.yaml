@@ -1,9 +1,8 @@
 active: true
 citation:
 - CITE_000029
-concs:
-- PSIDE_000007
-hyps:
-- PSIDE_000112
+concs: ring_deduced("has",0,40)
+hyps: ring_deduced("has",0,32)
+readable: ring is semicommutative  (SI condition, zero-insertive) ===> ring is Abelian
 symmetric: true
 variety: 0

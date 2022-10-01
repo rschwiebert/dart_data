@@ -1,9 +1,7 @@
 active: true
 citation: []
-concs:
-- PSIDE_000019
-hyps:
-- PSIDE_000004
-- PSIDE_000026
+concs: ring_deduced("has",0,2)
+hyps: ring_deduced("has",0,1) AND ring_deduced("has",0,17)
+readable: ring is commutative AND ring is fully prime ===> ring is division ring
 symmetric: true
 variety: 0

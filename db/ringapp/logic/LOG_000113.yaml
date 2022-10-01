@@ -1,8 +1,8 @@
 active: true
 citation: []
-concs:
-- PSIDE_000009
-hyps:
-- PSIDE_000114
+concs: ring_deduced("has",0,42)
+hyps: ring_deduced("has",4,85)
+readable: ring is finite uniform dimension on the left or right ===> ring is stably
+  finite
 symmetric: true
 variety: 0

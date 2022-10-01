@@ -1,9 +1,7 @@
 active: true
 citation: []
-concs:
-- PSIDE_000010
-- PSIDE_000037
-hyps:
-- PSIDE_000020
+concs: ring_deduced("has",3,63) AND ring_deduced("has",0,9)
+hyps: ring_deduced("has",0,4)
+readable: ring is simple Artinian <==> ring is Artinian on the right AND ring is prime
 symmetric: false
 variety: 1

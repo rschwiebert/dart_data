@@ -1,8 +1,7 @@
 active: true
 citation: []
-concs:
-- PSIDE_000098
-hyps:
-- PSIDE_000073
+concs: ring_deduced("has",0,30)
+hyps: ring_deduced("has",0,23)
+readable: ring is local ===> ring is top simple Artinian
 symmetric: true
 variety: 0

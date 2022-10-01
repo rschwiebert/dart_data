@@ -1,10 +1,8 @@
 active: true
 citation:
 - CITE_000043
-concs:
-- PSIDE_000145
-- PSIDE_000037
-hyps:
-- PSIDE_000054
+concs: ring_deduced("has",0,34) AND ring_deduced("has",0,9)
+hyps: ring_deduced("has",0,8)
+readable: ring is domain <==> ring is 2-primal AND ring is prime
 symmetric: true
 variety: 1

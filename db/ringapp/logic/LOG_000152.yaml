@@ -1,8 +1,7 @@
 active: true
 citation: []
-concs:
-- PSIDE_000125
-hyps:
-- PSIDE_000126
+concs: ring_deduced("has",0,26)
+hyps: ring_deduced("has",0,22)
+readable: ring is nil radical ===> ring is lift/rad
 symmetric: true
 variety: 0

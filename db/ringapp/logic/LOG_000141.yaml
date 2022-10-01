@@ -1,8 +1,8 @@
 active: true
 citation: []
-concs:
-- PSIDE_000039
-hyps:
-- PSIDE_000058
+concs: ring_deduced("has",1,71)
+hyps: ring_deduced("has",0,15)
+readable: ring is semi free ideal ring ===> ring is semihereditary on the left and
+  right
 symmetric: true
 variety: 0

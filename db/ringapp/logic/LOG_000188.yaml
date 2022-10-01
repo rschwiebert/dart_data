@@ -1,9 +1,8 @@
 active: true
 citation: []
-concs:
-- PSIDE_000003
-hyps:
-- PSIDE_000001
-- PSIDE_000002
+concs: ring_deduced("has",0,5)
+hyps: ring_deduced("has",4,64) AND ring_deduced("has",0,14)
+readable: ring is Noetherian on the left or right AND ring is von Neumann regular
+  ===> ring is semisimple
 symmetric: true
 variety: 0

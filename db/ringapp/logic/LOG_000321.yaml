@@ -1,11 +1,8 @@
 active: true
 citation: []
-concs:
-- PSIDE_000216
-- PSIDE_000185
-- PSIDE_000004
-hyps:
-- PSIDE_000004
-- PSIDE_000192
+concs: ring_deduced("has",1,88) AND ring_deduced("has",0,123) AND ring_deduced("has",0,1)
+hyps: ring_deduced("has",0,1) AND ring_deduced("has",0,114)
+readable: ring is commutative AND ring is unique factorization domain <==> ring is
+  ACC principal on the left and right AND ring is GCD domain AND ring is commutative
 symmetric: true
 variety: 1

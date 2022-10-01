@@ -1,11 +1,9 @@
 active: true
 citation:
 - CITE_000221
-concs:
-- PSIDE_000042
-- PSIDE_000222
-- PSIDE_000115
-hyps:
-- PSIDE_000102
+concs: ring_deduced("has",0,46) AND ring_deduced("has",3,148) AND ring_deduced("has",0,39)
+hyps: ring_deduced("has",3,82)
+readable: ring is perfect on the right <==> ring is $\pi$-regular AND ring is max
+  ring on the right AND ring is orthogonally finite
 symmetric: false
 variety: 1

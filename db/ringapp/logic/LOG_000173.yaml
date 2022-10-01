@@ -1,10 +1,8 @@
 active: true
 citation: []
-concs:
-- PSIDE_000004
-- PSIDE_000002
-hyps:
-- PSIDE_000004
-- PSIDE_000131
+concs: ring_deduced("has",0,1) AND ring_deduced("has",0,14)
+hyps: ring_deduced("has",0,1) AND ring_deduced("has",0,16)
+readable: ring is commutative AND ring is fully semiprime <==> ring is commutative
+  AND ring is von Neumann regular
 symmetric: true
 variety: 1

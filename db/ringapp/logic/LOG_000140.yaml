@@ -1,8 +1,7 @@
 active: true
 citation: []
-concs:
-- PSIDE_000062
-hyps:
-- PSIDE_000055
+concs: ring_deduced("has",3,70)
+hyps: ring_deduced("has",3,93)
+readable: ring is free ideal ring on the right ===> ring is hereditary on the right
 symmetric: false
 variety: 0

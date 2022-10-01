@@ -1,9 +1,7 @@
 active: true
 citation: []
-concs:
-- MODPROP_000028
-hyps:
-- MODPROP_000003
-ring_hyps:
-- PSIDE_000010
+concs: module_deduced("has",28)
+hyps: module_deduced("has",3) AND ring_deduced("has",3,63)
+readable: module is finitely generated AND ring is Artinian on the right  ===>  module
+  is finite composition length
 variety: 0

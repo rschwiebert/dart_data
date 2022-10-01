@@ -1,9 +1,8 @@
 active: true
 citation:
 - CITE_000510
-concs:
-- PSIDE_000242
-hyps:
-- PSIDE_000007
+concs: ring_deduced("has",0,158)
+hyps: ring_deduced("has",0,40)
+readable: ring is Abelian ===> ring is IC (internal cancellation)
 symmetric: true
 variety: 0

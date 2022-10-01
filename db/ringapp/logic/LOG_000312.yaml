@@ -1,11 +1,9 @@
 active: true
 citation: []
-concs:
-- PSIDE_000148
-- PSIDE_000004
-- PSIDE_000192
-hyps:
-- PSIDE_000004
-- PSIDE_000023
+concs: ring_deduced("has",1,68) AND ring_deduced("has",0,1) AND ring_deduced("has",0,114)
+hyps: ring_deduced("has",0,1) AND ring_deduced("has",1,65)
+readable: ring is commutative AND ring is principal ideal domain on the left and right
+  <==> ring is Bezout domain on the left and right AND ring is commutative AND ring
+  is unique factorization domain
 symmetric: true
 variety: 1

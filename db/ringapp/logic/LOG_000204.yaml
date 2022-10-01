@@ -1,10 +1,9 @@
 active: true
 citation:
 - CITE_000031
-concs:
-- PSIDE_000062
-hyps:
-- PSIDE_000015
-- PSIDE_000063
+concs: ring_deduced("has",3,70)
+hyps: ring_deduced("has",3,64) AND ring_deduced("has",3,71)
+readable: ring is Noetherian on the right AND ring is semihereditary on the right
+  ===> ring is hereditary on the right
 symmetric: false
 variety: 0

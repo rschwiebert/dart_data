@@ -1,8 +1,8 @@
 active: true
 citation: []
-concs:
-- PSIDE_000071
-hyps:
-- PSIDE_000230
+concs: ring_deduced("has",3,76)
+hyps: ring_deduced("has",3,154)
+readable: ring is valuation domain on the right ===> ring is uniserial ring on the
+  right
 symmetric: false
 variety: 0

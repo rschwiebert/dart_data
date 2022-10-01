@@ -1,9 +1,8 @@
 active: true
 citation: []
-concs:
-- PSIDE_000169
-- PSIDE_000202
-hyps:
-- PSIDE_000183
+concs: ring_deduced("has",1,64) AND ring_deduced("has",0,132)
+hyps: ring_deduced("has",0,117)
+readable: ring is Cohen-Macaulay ===> ring is Noetherian on the left and right AND
+  ring is universally catenary
 symmetric: true
 variety: 0

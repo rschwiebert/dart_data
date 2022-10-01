@@ -2,10 +2,9 @@ active: true
 citation:
 - CITE_000031
 - CITE_000062
-concs:
-- PSIDE_000086
-hyps:
-- PSIDE_000073
-- PSIDE_000096
+concs: ring_deduced("has",3,81)
+hyps: ring_deduced("has",0,23) AND ring_deduced("has",3,100)
+readable: ring is local AND ring is nonzero socle on the right ===> ring is Kasch
+  on the right
 symmetric: false
 variety: 0

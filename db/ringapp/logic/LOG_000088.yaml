@@ -1,10 +1,9 @@
 active: true
 citation:
 - CITE_000011
-concs:
-- PSIDE_000076
-hyps:
-- PSIDE_000083
-- PSIDE_000092
+concs: ring_deduced("has",0,25)
+hyps: ring_deduced("has",3,78) AND ring_deduced("has",4,78)
+readable: ring is pseudo-Frobenius on the right AND ring is pseudo-Frobenius on the
+  left or right ===> ring is semiperfect
 symmetric: true
 variety: 0

@@ -1,8 +1,7 @@
 active: true
 citation: []
-concs:
-- PSIDE_000175
-hyps:
-- PSIDE_000184
+concs: ring_deduced("has",0,127)
+hyps: ring_deduced("has",0,112)
+readable: ring is Prufer domain ===> ring is normal domain
 symmetric: true
 variety: 0

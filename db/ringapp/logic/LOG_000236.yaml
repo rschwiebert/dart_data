@@ -1,9 +1,8 @@
 active: true
 citation: []
-concs:
-- PSIDE_000159
-hyps:
-- PSIDE_000015
-- PSIDE_000158
+concs: ring_deduced("has",2,83)
+hyps: ring_deduced("has",3,64) AND ring_deduced("has",2,95)
+readable: ring is Noetherian on the right AND ring is principally injective on the
+  left ===> ring is cohopfian on the left
 symmetric: false
 variety: 0

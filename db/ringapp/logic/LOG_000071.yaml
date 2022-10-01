@@ -1,9 +1,8 @@
 active: true
 citation: []
-concs:
-- PSIDE_000073
-- PSIDE_000072
-hyps:
-- PSIDE_000071
+concs: ring_deduced("has",0,23) AND ring_deduced("has",3,77)
+hyps: ring_deduced("has",3,76)
+readable: ring is uniserial ring on the right <==> ring is local AND ring is serial
+  on the right
 symmetric: false
 variety: 1

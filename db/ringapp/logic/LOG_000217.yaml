@@ -1,10 +1,8 @@
 active: true
 citation:
 - CITE_000044
-concs:
-- PSIDE_000076
-hyps:
-- PSIDE_000078
-- PSIDE_000088
+concs: ring_deduced("has",0,25)
+hyps: ring_deduced("has",3,80) AND ring_deduced("has",0,24)
+readable: ring is self-injective on the right AND ring is semilocal ===> ring is semiperfect
 symmetric: false
 variety: 0

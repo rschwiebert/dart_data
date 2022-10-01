@@ -1,9 +1,8 @@
 active: true
 citation: []
-concs:
-- PSIDE_000107
-hyps:
-- PSIDE_000225
-- PSIDE_000001
+concs: ring_deduced("has",0,43)
+hyps: ring_deduced("has",0,152) AND ring_deduced("has",4,64)
+readable: ring is Boolean AND ring is Noetherian on the left or right ===> ring is
+  finite
 symmetric: true
 variety: 0

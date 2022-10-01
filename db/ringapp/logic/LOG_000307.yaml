@@ -1,8 +1,7 @@
 active: true
 citation: []
-concs:
-- PSIDE_000191
-hyps:
-- PSIDE_000185
+concs: ring_deduced("has",0,126)
+hyps: ring_deduced("has",0,123)
+readable: ring is GCD domain ===> ring is Schreier domain
 symmetric: true
 variety: 0

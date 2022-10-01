@@ -1,8 +1,8 @@
 active: true
 citation: []
-concs:
-- PSIDE_000056
-hyps:
-- PSIDE_000230
+concs: ring_deduced("has",3,68)
+hyps: ring_deduced("has",3,154)
+readable: ring is valuation domain on the right ===> ring is Bezout domain on the
+  right
 symmetric: false
 variety: 0

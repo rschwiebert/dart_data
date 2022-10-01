@@ -1,10 +1,8 @@
 active: true
 citation:
 - CITE_000027
-concs:
-- PSIDE_000054
-- PSIDE_000196
-hyps:
-- PSIDE_000175
+concs: ring_deduced("has",0,8) AND ring_deduced("has",0,118)
+hyps: ring_deduced("has",0,127)
+readable: ring is normal domain <==> ring is domain AND ring is normal
 symmetric: true
 variety: 1

@@ -1,8 +1,7 @@
 active: true
 citation: []
-concs:
-- PSIDE_000016
-hyps:
-- PSIDE_000015
+concs: ring_deduced("has",3,86)
+hyps: ring_deduced("has",3,64)
+readable: ring is Noetherian on the right ===> ring is Goldie on the right
 symmetric: false
 variety: 0

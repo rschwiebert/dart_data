@@ -1,9 +1,8 @@
 active: true
 citation:
 - CITE_000007
-concs:
-- PSIDE_000016
-hyps:
-- PSIDE_000057
+concs: ring_deduced("has",3,86)
+hyps: ring_deduced("has",3,69)
+readable: ring is Ore domain on the right ===> ring is Goldie on the right
 symmetric: false
 variety: 0

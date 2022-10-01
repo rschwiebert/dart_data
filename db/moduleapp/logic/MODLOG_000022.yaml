@@ -1,9 +1,7 @@
 active: true
 citation: []
-concs:
-- MODPROP_000002
-hyps:
-- MODPROP_000003
-ring_hyps:
-- PSIDE_000015
+concs: module_deduced("has",2)
+hyps: module_deduced("has",3) AND ring_deduced("has",3,64)
+readable: module is finitely generated AND ring is Noetherian on the right  ===>  module
+  is Noetherian
 variety: 0

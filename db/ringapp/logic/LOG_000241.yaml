@@ -1,9 +1,8 @@
 active: true
 citation: []
-concs:
-- PSIDE_000042
-- PSIDE_000015
-hyps:
-- PSIDE_000010
+concs: ring_deduced("has",0,46) AND ring_deduced("has",3,64)
+hyps: ring_deduced("has",3,63)
+readable: ring is Artinian on the right <==> ring is $\pi$-regular AND ring is Noetherian
+  on the right
 symmetric: false
 variety: 1

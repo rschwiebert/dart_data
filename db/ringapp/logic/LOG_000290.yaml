@@ -1,9 +1,8 @@
 active: true
 citation:
 - CITE_000031
-concs:
-- PSIDE_000180
-hyps:
-- PSIDE_000179
+concs: ring_deduced("has",0,57)
+hyps: ring_deduced("has",0,55)
+readable: ring is algebraically closed field ===> ring is quadratically closed field
 symmetric: true
 variety: 0

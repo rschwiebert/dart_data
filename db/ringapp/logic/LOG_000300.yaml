@@ -1,8 +1,7 @@
 active: true
 citation: []
-concs:
-- PSIDE_000189
-hyps:
-- PSIDE_000188
+concs: ring_deduced("has",0,59)
+hyps: ring_deduced("has",0,56)
+readable: ring is Euclidean field ===> ring is Pythagorean field
 symmetric: true
 variety: 0

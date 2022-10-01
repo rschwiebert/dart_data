@@ -1,10 +1,8 @@
 active: true
 citation:
 - CITE_000027
-concs:
-- PSIDE_000125
-- PSIDE_000100
-hyps:
-- PSIDE_000101
+concs: ring_deduced("has",0,26) AND ring_deduced("has",0,31)
+hyps: ring_deduced("has",0,50)
+readable: ring is semiregular <==> ring is lift/rad AND ring is top regular
 symmetric: true
 variety: 1

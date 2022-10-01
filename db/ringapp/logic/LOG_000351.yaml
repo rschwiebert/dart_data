@@ -1,9 +1,8 @@
 active: true
 citation:
 - CITE_000027
-concs:
-- PSIDE_000054
-hyps:
-- PSIDE_000201
+concs: ring_deduced("has",0,8)
+hyps: ring_deduced("has",0,137)
+readable: ring is N-1 ===> ring is domain
 symmetric: true
 variety: 0

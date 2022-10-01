@@ -1,9 +1,9 @@
 active: true
 citation:
 - CITE_000039
-concs:
-- PSIDE_000150
-hyps:
-- PSIDE_000080
+concs: ring_deduced("has",1,106)
+hyps: ring_deduced("has",1,91)
+readable: ring is dual on the left and right ===> ring is Ikeda-Nakayama on the left
+  and right
 symmetric: true
 variety: 0

@@ -1,8 +1,6 @@
 active: true
 citation: []
-concs:
-- MODPROP_000016
-hyps:
-- MODPROP_000014
-ring_hyps: []
+concs: module_deduced("has",16)
+hyps: module_deduced("has",14)
+readable: module is coherent  ===>  module is finitely presented
 variety: 0

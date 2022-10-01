@@ -1,8 +1,7 @@
 active: true
 citation: []
-concs:
-- PSIDE_000073
-hyps:
-- PSIDE_000212
+concs: ring_deduced("has",0,23)
+hyps: ring_deduced("has",0,119)
+readable: ring is analytically normal ===> ring is local
 symmetric: true
 variety: 0

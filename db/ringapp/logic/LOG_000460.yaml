@@ -1,10 +1,9 @@
 active: true
 citation:
 - CITE_000406
-concs:
-- PSIDE_000238
-hyps:
-- PSIDE_000237
-- PSIDE_000086
+concs: ring_deduced("has",2,92)
+hyps: ring_deduced("has",2,110) AND ring_deduced("has",3,81)
+readable: ring is CS on the left AND ring is Kasch on the right ===> ring is continuous
+  on the left
 symmetric: false
 variety: 0

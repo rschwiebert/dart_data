@@ -1,8 +1,7 @@
 active: true
 citation: []
-concs:
-- PSIDE_000173
-hyps:
-- PSIDE_000174
+concs: ring_deduced("has",0,122)
+hyps: ring_deduced("has",0,130)
+readable: ring is Krull domain ===> ring is Mori domain
 symmetric: true
 variety: 0

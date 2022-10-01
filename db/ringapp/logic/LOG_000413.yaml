@@ -1,9 +1,7 @@
 active: true
 citation: []
-concs:
-- PSIDE_000126
-hyps:
-- PSIDE_000004
-- PSIDE_000195
+concs: ring_deduced("has",0,22)
+hyps: ring_deduced("has",0,1) AND ring_deduced("has",0,128)
+readable: ring is commutative AND ring is rad-nil ===> ring is nil radical
 symmetric: true
 variety: 0

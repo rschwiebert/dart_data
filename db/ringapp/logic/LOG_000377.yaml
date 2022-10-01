@@ -1,9 +1,7 @@
 active: true
 citation: []
-concs:
-- PSIDE_000124
-- PSIDE_000125
-hyps:
-- PSIDE_000217
+concs: ring_deduced("has",0,48) AND ring_deduced("has",0,26)
+hyps: ring_deduced("has",0,146)
+readable: ring is potent <==> ring is $I_0$ AND ring is lift/rad
 symmetric: true
 variety: 1

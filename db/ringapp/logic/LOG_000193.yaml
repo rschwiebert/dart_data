@@ -1,9 +1,7 @@
 active: true
 citation: []
-concs:
-- PSIDE_000038
-- PSIDE_000021
-hyps:
-- PSIDE_000019
+concs: ring_deduced("has",0,38) AND ring_deduced("has",0,12)
+hyps: ring_deduced("has",0,2)
+readable: ring is division ring <==> ring is connected AND ring is strongly regular
 symmetric: true
 variety: 1

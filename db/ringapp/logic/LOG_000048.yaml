@@ -1,9 +1,8 @@
 active: true
 citation:
 - CITE_000005
-concs:
-- PSIDE_000050
-hyps:
-- PSIDE_000030
+concs: ring_deduced("has",0,52)
+hyps: ring_deduced("has",0,13)
+readable: ring is unit regular ===> ring is clean
 symmetric: true
 variety: 0

@@ -1,9 +1,7 @@
 active: true
 citation: []
-concs:
-- PSIDE_000043
-hyps:
-- PSIDE_000004
-- PSIDE_000035
+concs: ring_deduced("has",0,10)
+hyps: ring_deduced("has",0,1) AND ring_deduced("has",0,11)
+readable: ring is commutative AND ring is semiprime ===> ring is reduced
 symmetric: true
 variety: 0

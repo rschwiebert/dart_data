@@ -1,8 +1,6 @@
 active: true
 citation: []
-concs:
-- MODPROP_000012
-hyps:
-- MODPROP_000001
-ring_hyps: []
+concs: module_deduced("has",12)
+hyps: module_deduced("has",1)
+readable: module is Artinian  ===>  module is co-Hopfian
 variety: 0

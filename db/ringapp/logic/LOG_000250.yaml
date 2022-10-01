@@ -1,11 +1,9 @@
 active: true
 citation:
 - CITE_000031
-concs:
-- PSIDE_000089
-- PSIDE_000134
-hyps:
-- PSIDE_000010
-- PSIDE_000071
+concs: ring_deduced("has",3,101) AND ring_deduced("has",3,98)
+hyps: ring_deduced("has",3,63) AND ring_deduced("has",3,76)
+readable: ring is Artinian on the right AND ring is uniserial ring on the right ===>
+  ring is essential socle on the right AND ring is simple socle on the right
 symmetric: false
 variety: 0

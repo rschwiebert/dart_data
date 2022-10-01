@@ -1,9 +1,8 @@
 active: true
 citation:
 - CITE_000311
-concs:
-- PSIDE_000233
-hyps:
-- PSIDE_000144
+concs: ring_deduced("has",1,156)
+hyps: ring_deduced("has",0,35)
+readable: ring is reversible ===> ring is McCoy on the left and right
 symmetric: true
 variety: 0

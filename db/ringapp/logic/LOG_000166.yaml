@@ -1,9 +1,8 @@
 active: true
 citation:
 - CITE_000021
-concs:
-- PSIDE_000007
-hyps:
-- PSIDE_000140
+concs: ring_deduced("has",0,40)
+hyps: ring_deduced("has",4,104)
+readable: ring is distributive on the left or right ===> ring is Abelian
 symmetric: true
 variety: 0

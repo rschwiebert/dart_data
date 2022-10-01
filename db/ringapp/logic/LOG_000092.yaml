@@ -1,8 +1,7 @@
 active: true
 citation: []
-concs:
-- PSIDE_000096
-hyps:
-- PSIDE_000086
+concs: ring_deduced("has",3,100)
+hyps: ring_deduced("has",3,81)
+readable: ring is Kasch on the right ===> ring is nonzero socle on the right
 symmetric: false
 variety: 0

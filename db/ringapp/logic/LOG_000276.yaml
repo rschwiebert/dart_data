@@ -1,9 +1,8 @@
 active: true
 citation: []
-concs:
-- PSIDE_000021
-hyps:
-- PSIDE_000043
-- PSIDE_000078
+concs: ring_deduced("has",0,12)
+hyps: ring_deduced("has",0,10) AND ring_deduced("has",3,80)
+readable: ring is reduced AND ring is self-injective on the right ===> ring is strongly
+  regular
 symmetric: false
 variety: 0

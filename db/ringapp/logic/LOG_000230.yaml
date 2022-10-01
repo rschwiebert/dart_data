@@ -1,9 +1,8 @@
 active: true
 citation: []
-concs:
-- PSIDE_000087
-hyps:
-- PSIDE_000086
-- PSIDE_000136
+concs: ring_deduced("has",3,91)
+hyps: ring_deduced("has",3,81) AND ring_deduced("has",3,107)
+readable: ring is Kasch on the right AND ring is simple-injective on the right ===>
+  ring is dual on the right
 symmetric: false
 variety: 0
