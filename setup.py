@@ -27,6 +27,6 @@ setup(
         )
     ],
     include_package_data=True,
-    package_data={"dart_data": ["templates"]},
+    package_data={"dart_data": ["templates", "static"]},
     keywords=['mathematics', 'ring theory', 'education', 'research'],
 )
