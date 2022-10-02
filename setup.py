@@ -19,7 +19,11 @@ setup(
     author="Ryan C. Schwiebert",
     description="Data files for the Database of Ring Theory",
     url="https://github.com/rschwiebert/RingApp",
-    packages=["dart_data"],
+    packages=["dart_data",
+              "dart_data.templates.dart_data",
+              "dart_data.static.img",
+              "dart_data.static.img.ring_maps",
+              ],
     data_files=[
         (
             os.path.join(RELATIVE_PACKAGE_DIR, "dart_data/templates/dart_data"),
@@ -27,6 +31,6 @@ setup(
         )
     ],
     include_package_data=True,
-    package_data={"dart_data": ["templates", "static"]},
+    # package_data={"dart_data": ["templates"]},
     keywords=['mathematics', 'ring theory', 'education', 'research'],
 )
