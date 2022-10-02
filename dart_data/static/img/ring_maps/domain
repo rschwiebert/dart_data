@@ -1,0 +1,44 @@
+strict digraph {
+    label="Field and domain properties (Database of Ring Theory, by R. C. Schwiebert)"
+    labelloc=top
+	"unique factorization domain" -> "atomic domain"
+	"unique factorization domain" -> "Krull domain"
+	"Euclidean domain" -> "principal ideal domain"
+	"Euclidean field" -> "Pythagorean field"
+	"perfect field" -> field
+	"principal ideal domain" -> "unique factorization domain"
+	"N-1" -> domain
+	"unique factorization domain" -> "GCD domain"
+	field -> "Euclidean domain"
+	field -> "regular local"
+	"Dedekind domain" -> "almost Dedekind domain"
+	"regular local" -> "unique factorization domain"
+	"algebraically closed field" -> "perfect field"
+	"normal domain" -> "N-1"
+	field -> "universally Japanese domain" -> "Japanese (N-2)" -> "N-1"
+	"Archimedean field" -> "ordered field"
+	"principal ideal domain" -> "Dedekind domain"
+	"Pythagorean field" -> field
+	"Goldman domain" -> domain
+	"almost Dedekind domain" -> "Prufer domain"
+	"atomic domain" -> domain
+	"Euclidean field" -> "ordered field"
+	"Krull domain" -> "Mori domain"
+	"principal ideal domain" -> "Bezout domain"
+	"characteristic 0 field" -> "perfect field"
+	"principal ideal domain" -> "Bezout domain"
+	"Schreier domain" -> "normal domain"
+	"GCD domain" -> "Schreier domain"
+	"Bezout domain" -> "Prufer domain"
+	"ordered field" -> "characteristic 0 field"
+	"algebraically closed field" -> "quadratically closed field"
+	"Krull domain" -> "normal domain"
+	"Prufer domain" -> "normal domain"
+	"Bezout domain" -> "GCD domain"
+	"Mori domain" -> domain
+	field -> "Goldman domain"
+	"quadratically closed field" -> "Pythagorean field"
+	field -> "valuation domain"
+	"valuation domain" -> "Bezout domain"
+	"Dedekind domain" -> "Krull domain"
+}

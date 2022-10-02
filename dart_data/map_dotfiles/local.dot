@@ -1,0 +1,19 @@
+strict digraph {
+    label="Local ring properties (Database of Ring Theory, by R. C. Schwiebert)"
+    labelloc=top;
+	"complete local" -> "Henselian local"
+	field -> "regular local"
+	field -> primary
+	field -> "Noetherian complete local"
+	"Noetherian complete local" -> "complete local"
+	"regular local" -> "local complete intersection"
+	"local complete intersection" -> "local Gorenstein"
+	"local Gorenstein" -> "local Cohen-Macaulay"
+	"local Cohen-Macaulay" -> "local universally catenary"
+	"local universally catenary" -> local
+	"Noetherian complete local" -> "local universally catenary"
+	field -> "valuation domain"
+	"Henselian local" -> local
+	primary -> "complete local"
+	"valuation domain" -> local
+}
