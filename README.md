@@ -12,6 +12,9 @@ details. These are not strictly speaking part of the database, but organised the
 `dart_data/templates/dart_data`: furnishes Django templates when this package is installed as a Django app 
 for the website. The .html files from the /db path wind up there during installation.
 
+`dart_data/static`: furnishes additional static file content for the django app
+
+`map_dotfiles`: contains source for the dotfile graphs used on the site. See the README there for details on generating the graphs.
 
 ## Contributing
 

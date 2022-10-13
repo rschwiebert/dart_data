@@ -1,5 +1,6 @@
 strict digraph {
-    label="Field and domain properties (Database of Ring Theory, by R. C. Schwiebert)"
+    label=<Field and domain properties<br/>(© Database of Ring Theory; Last updated 2022-10-12)>
+    URL="https://ringtheory.herokuapp.com/";
     labelloc=top
 	"unique factorization domain" -> "Krull domain"
 	"Euclidean domain" -> "principal ideal domain"

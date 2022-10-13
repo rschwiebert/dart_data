@@ -1,18 +1,8 @@
 strict digraph {
-
-
-subgraph cluster_01 {
-    label="Legend"
-    rankdir=LR
-    node [shape=rectangle]
-    "left or right" -> "all these" [color=black shape=rectangle]
-    "left (resp. right)" -> "left (resp. right)  " [color=green shape=rectangle]
-    "left (resp. right) " -> "right (resp. left)" [color=red shape=rectangle]
-    "left and right" -> "all these " [color=blue shape=rectangle]
-}
-
-    label="All ring properties (Database of Ring Theory, by R. C. Schwiebert)\l";
+    label=<Right self-injective rings<br/>(© Database of Ring Theory; Last updated 2022-10-12)>
+    URL="https://ringtheory.herokuapp.com/";
     labelloc=top;
+    labelfontsize=240.0;
 	"von Neumann regular" -> "top regular" [color=black]
 	commutative -> "polynomial identity" [color=black]
 	semisimple -> Baer [color=black]
@@ -28,6 +18,7 @@ subgraph cluster_01 {
 	"self-injective" -> "FI-injective" [color=green]
 	"semicommutative  (SI condition, zero-insertive)" -> Abelian [color=black]
 	"strongly regular" -> "unit regular" [color=black]
+	reversible -> "2-primal" [color=black]
 	perfect -> "$\pi$-regular" [color=black]
 	semihereditary -> coherent [color=green]
 	"max ring" -> "T-nilpotent radical" [color=green]
@@ -65,6 +56,7 @@ subgraph cluster_01 {
 	Artinian -> semiprimary [color=black]
 	"pseudo-Frobenius" -> "self-injective" [color=green]
 	semisimple -> serial [color=black]
+	"principal ideal ring" -> "ACC principal" [color=green]
 	"finitely cogenerated" -> "finite uniform dimension" [color=green]
 	dual -> Kasch [color=green]
 	"FI-injective" -> "simple-injective" [color=green]
@@ -143,6 +135,7 @@ subgraph cluster_01 {
 	"strongly regular" -> reduced [color=black]
 	local -> "quasi-duo" [color=black]
 	serial -> semiperfect [color=black]
+	"strongly regular" -> "max ring" [color=black]
 	semihereditary -> Rickart [color=green]
 	distributive -> Abelian [color=black]
 	simple -> "top simple" [color=black]
@@ -163,6 +156,7 @@ subgraph cluster_01 {
 	primary -> semiprimary [color=black]
 	periodic -> "strongly regular" [color=black]
 	"strongly regular" -> duo [color=black]
+	"quasi-Frobenius" -> Noetherian [color=black]
 	"Bezout domain" -> "semi free ideal ring" [color=black]
 	domain -> "strongly connected" [color=black]
 	Baer -> Rickart [color=black]
@@ -178,6 +172,7 @@ subgraph cluster_01 {
 	semiperfect -> clean [color=black]
 	reduced -> semiprime [color=black]
 	"principal ideal ring" -> Bezout [color=green]
+	primary -> "top simple" [color=black]
 	"von Neumann regular" -> semihereditary [color=black]
 	"pseudo-Frobenius" -> semilocal [color=black]
 	"$\pi$-regular" -> exchange [color=black]
@@ -213,6 +208,7 @@ subgraph cluster_01 {
 	primitive -> prime [color=black]
 	"strongly regular" -> "strongly $\pi$-regular" [color=black]
 	"valuation ring" -> local [color=black]
+	"simple Artinian" -> "top simple Artinian" [color=black]
 	"pseudo-Frobenius" -> "cogenerator ring" [color=green]
 	"PCI ring" -> hereditary [color=black]
 	hereditary -> semihereditary [color=green]
@@ -222,8 +218,5 @@ subgraph cluster_01 {
 	primitive -> semiprimitive [color=black]
 	"strongly connected" -> Abelian [color=black]
 	Abelian -> compressible [color=black]
-	duo -> McCoy [color=green]
-	Armendariz -> McCoy [color=black]
-	reduced -> Armendariz [color=black]
-	reversible -> McCoy [color=black]
+	semisimple -> "finitely cogenerated" [color=black]
 }
