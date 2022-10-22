@@ -1,0 +1,7 @@
+active: true
+citation: []
+concs: module_deduced(X,36)
+hyps: module_deduced("has",39) AND ring_deduced(X,3,99)
+readable: module is $R_R$ AND ring X finitely generated socle on the right  ===>  module
+  X finitely generated socle
+variety: 0

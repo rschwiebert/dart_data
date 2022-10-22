@@ -1,0 +1,7 @@
+active: true
+citation: []
+concs: module_deduced(X,13)
+hyps: module_deduced("has",39) AND ring_deduced(X,3,103)
+readable: module is $R_R$ AND ring X finitely cogenerated on the right  ===>  module
+  X finitely cogenerated
+variety: 0

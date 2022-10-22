@@ -219,3 +219,10 @@ MODPROP_000038:
   module: MOD_000006
   property: MODPROP_000038
   reason: trivially
+MODPROP_000039:
+  citation: []
+  crosstable_pk: 267
+  has: false
+  module: MOD_000006
+  property: MODPROP_000039
+  reason: 'Logic (modules) 75: module("lacks" ''$R_R$'') <=== module("lacks" ''cyclic'').'

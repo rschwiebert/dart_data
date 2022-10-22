@@ -1,0 +1,6 @@
+active: true
+citation: []
+concs: module_deduced(X,7)
+hyps: module_deduced("has",39) AND ring_deduced(X,3,80)
+readable: module is $R_R$ AND ring X self-injective on the right  ===>  module X injective
+variety: 0

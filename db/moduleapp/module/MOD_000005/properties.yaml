@@ -194,3 +194,10 @@ MODPROP_000037:
   property: MODPROP_000037
   reason: 'Logic (modules) 64: module(has ''finite uniform dimension'') <=== module(has
     ''finitely cogenerated'').'
+MODPROP_000039:
+  citation: []
+  crosstable_pk: 266
+  has: false
+  module: MOD_000005
+  property: MODPROP_000039
+  reason: 'Logic (modules) 75: module("lacks" ''$R_R$'') <=== module("lacks" ''cyclic'').'

@@ -1,0 +1,6 @@
+active: true
+citation: []
+concs: module_deduced(X,5)
+hyps: module_deduced("has",39) AND ring_deduced(X,0,5)
+readable: module is $R_R$ AND ring X semisimple  ===>  module X semisimple
+variety: 0

@@ -1,0 +1,6 @@
+active: true
+citation: []
+concs: module_deduced(X,4)
+hyps: module_deduced("has",39) AND ring_deduced(X,0,2)
+readable: module is $R_R$ AND ring X division ring  ===>  module X simple
+variety: 0

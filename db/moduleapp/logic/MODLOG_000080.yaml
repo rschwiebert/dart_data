@@ -1,0 +1,6 @@
+active: true
+citation: []
+concs: module_deduced(X,12)
+hyps: module_deduced("has",39) AND ring_deduced(X,3,83)
+readable: module is $R_R$ AND ring X cohopfian on the right  ===>  module X co-Hopfian
+variety: 0

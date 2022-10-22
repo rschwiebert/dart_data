@@ -1,0 +1,6 @@
+active: true
+citation: []
+concs: module_deduced(X,14)
+hyps: module_deduced("has",39) AND ring_deduced(X,3,87)
+readable: module is $R_R$ AND ring X coherent on the right  ===>  module X coherent
+variety: 0

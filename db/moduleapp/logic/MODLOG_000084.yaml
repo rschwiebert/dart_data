@@ -1,0 +1,7 @@
+active: true
+citation: []
+concs: module_deduced(X,37)
+hyps: module_deduced("has",39) AND ring_deduced(X,3,85)
+readable: module is $R_R$ AND ring X finite uniform dimension on the right  ===>  module
+  X finite uniform dimension
+variety: 0

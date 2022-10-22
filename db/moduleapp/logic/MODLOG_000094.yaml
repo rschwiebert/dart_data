@@ -1,0 +1,6 @@
+active: true
+citation: []
+concs: module_deduced(X,18)
+hyps: module_deduced("has",39) AND ring_deduced(X,3,105)
+readable: module is $R_R$ AND ring X uniform on the right  ===>  module X uniform
+variety: 0

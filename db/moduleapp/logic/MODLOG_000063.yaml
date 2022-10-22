@@ -3,6 +3,6 @@ citation:
 - CITE_000009
 concs: module_deduced("has",13)
 hyps: module_deduced("has",35) AND module_deduced("has",36)
-readable: module is Essential socle AND module is finitely generated socle  <==>  module
+readable: module is essential socle AND module is finitely generated socle  <==>  module
   is finitely cogenerated
 variety: 1
