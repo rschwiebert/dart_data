@@ -1,0 +1,6 @@
+active: true
+citation: []
+concs: module_deduced("has",6)
+hyps: ring_deduced("has",0,19) AND module_deduced("has",7)
+readable: ring is quasi-Frobenius AND module is injective  ===>  module is projective
+variety: 0

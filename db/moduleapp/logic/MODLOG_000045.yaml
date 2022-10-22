@@ -1,0 +1,6 @@
+active: true
+citation: []
+concs: module_deduced("has",25)
+hyps: module_deduced("has",26) AND module_deduced("has",31)
+readable: module is serial AND module is indecomposable  <==>  module is uniserial
+variety: 1

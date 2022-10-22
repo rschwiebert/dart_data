@@ -1,217 +1,196 @@
 MODPROP_000001:
   citation: []
-  crosstable_pk: 1
+  crosstable_pk: 173
   has: false
-  module: MOD_000001
+  module: MOD_000008
   property: MODPROP_000001
   reason: null
 MODPROP_000002:
   citation: []
-  crosstable_pk: 2
-  has: true
-  module: MOD_000001
+  crosstable_pk: 191
+  has: false
+  module: MOD_000008
   property: MODPROP_000002
-  reason: null
+  reason: right regular module (its ring is not right noetherian)
 MODPROP_000003:
   citation: []
-  crosstable_pk: 7
+  crosstable_pk: 177
   has: true
-  module: MOD_000001
+  module: MOD_000008
   property: MODPROP_000003
-  reason: 'Logic (modules) 1: module(has ''finitely generated'') <=== module(has ''Noetherian'').'
+  reason: 'Logic (modules) 9: module(has ''finitely generated'') <=== module(has ''cyclic'').'
 MODPROP_000004:
   citation: []
-  crosstable_pk: 15
+  crosstable_pk: 187
   has: false
-  module: MOD_000001
+  module: MOD_000008
   property: MODPROP_000004
   reason: 'Logic (modules) 23: module(lacks ''simple'') <=== module(lacks ''finite
     composition length'').'
 MODPROP_000005:
   citation: []
-  crosstable_pk: 16
+  crosstable_pk: 188
   has: false
-  module: MOD_000001
+  module: MOD_000008
   property: MODPROP_000005
   reason: 'Logic (modules) 25: module(lacks ''semisimple'') <=== module(lacks ''finite
     composition length'') AND module(has ''finitely generated'').'
 MODPROP_000006:
   citation: []
-  crosstable_pk: 8
+  crosstable_pk: 178
   has: true
-  module: MOD_000001
+  module: MOD_000008
   property: MODPROP_000006
   reason: 'Logic (modules) 3: module(has ''projective'') <=== module(has ''free'').'
 MODPROP_000007:
   citation: []
-  crosstable_pk: 145
+  crosstable_pk: 193
   has: false
-  module: MOD_000001
+  module: MOD_000008
   property: MODPROP_000007
-  reason: 'Logic (modules) 52: module(lacks ''injective'') <=== module(lacks ''strongly
-    indecomposable (endolocal)'') AND module(has ''indecomposable'').'
+  reason: 'Logic (modules) 5: module(lacks ''injective'') <=== module(lacks ''principally
+    injective'').'
 MODPROP_000008:
   citation: []
-  crosstable_pk: 9
+  crosstable_pk: 179
   has: true
-  module: MOD_000001
+  module: MOD_000008
   property: MODPROP_000008
   reason: 'Logic (modules) 4: module(has ''flat'') <=== module(has ''projective'').'
 MODPROP_000009:
   citation: []
-  crosstable_pk: 6
+  crosstable_pk: 175
   has: true
-  module: MOD_000001
+  module: MOD_000008
   property: MODPROP_000009
-  reason: null
+  reason: right regular module
 MODPROP_000010:
   citation: []
-  crosstable_pk: 5
+  crosstable_pk: 174
   has: true
-  module: MOD_000001
+  module: MOD_000008
   property: MODPROP_000010
-  reason: null
+  reason: right regular module
 MODPROP_000011:
   citation: []
-  crosstable_pk: 10
+  crosstable_pk: 219
   has: true
-  module: MOD_000001
+  module: MOD_000008
   property: MODPROP_000011
-  reason: 'Logic (modules) 26: module(has ''Hopfian'') <=== module(has ''Noetherian'').'
+  reason: Regular module of a Dedekind finite ring is Hopfian
 MODPROP_000013:
   citation: []
-  crosstable_pk: 163
-  has: false
-  module: MOD_000001
-  property: MODPROP_000013
-  reason: Because the ring $\mathbb Z$ is not
-MODPROP_000014:
-  citation: []
-  crosstable_pk: 11
+  crosstable_pk: 172
   has: true
-  module: MOD_000001
-  property: MODPROP_000014
-  reason: 'Logic (modules) 13: module(has ''coherent'') <=== module(has ''finitely
-    generated'') AND ring(has ''Noetherian'' on the right).'
+  module: MOD_000008
+  property: MODPROP_000013
+  reason: null
 MODPROP_000015:
   citation: []
-  crosstable_pk: 12
+  crosstable_pk: 180
   has: true
-  module: MOD_000001
+  module: MOD_000008
   property: MODPROP_000015
   reason: 'Logic (modules) 14: module(has ''finitely related'') <=== module(has ''finitely
     presented'').'
 MODPROP_000016:
   citation: []
-  crosstable_pk: 13
+  crosstable_pk: 181
   has: true
-  module: MOD_000001
+  module: MOD_000008
   property: MODPROP_000016
   reason: 'Logic (modules) 15: module(has ''finitely presented'') <=== module(has
     ''finitely generated'') AND module(has ''projective'').'
 MODPROP_000018:
   citation: []
-  crosstable_pk: 51
+  crosstable_pk: 225
   has: true
-  module: MOD_000001
+  module: MOD_000008
   property: MODPROP_000018
-  reason: null
+  reason: 'Logic (modules) 74: module(has ''uniform'') <=== module(has ''cyclic'')
+    AND module(has ''free'') AND ring(has ''commutative'' ) AND ring(has ''uniform''
+    on the right).'
 MODPROP_000020:
   citation: []
-  crosstable_pk: 194
+  crosstable_pk: 192
   has: false
-  module: MOD_000001
+  module: MOD_000008
   property: MODPROP_000020
   reason: It's a regular module and its ring is not right principally injective
+MODPROP_000021:
+  citation: []
+  crosstable_pk: 176
+  has: true
+  module: MOD_000008
+  property: MODPROP_000021
+  reason: right regular module
 MODPROP_000024:
   citation: []
-  crosstable_pk: 14
+  crosstable_pk: 182
   has: true
-  module: MOD_000001
+  module: MOD_000008
   property: MODPROP_000024
   reason: 'Logic (modules) 19: module(has ''semi-reflexive (torsionless)'') <=== module(has
     ''projective'').'
-MODPROP_000025:
-  citation: []
-  crosstable_pk: 52
-  has: false
-  module: MOD_000001
-  property: MODPROP_000025
-  reason: there are multiple maximal submodules, e.g. (2) and (3)
-MODPROP_000026:
-  citation: []
-  crosstable_pk: 119
-  has: false
-  module: MOD_000001
-  property: MODPROP_000026
-  reason: 'Logic (modules) 45: module(lacks ''serial'') <=== module(lacks ''uniserial'')
-    AND module(has ''indecomposable'').'
 MODPROP_000028:
   citation: []
-  crosstable_pk: 17
+  crosstable_pk: 189
   has: false
-  module: MOD_000001
+  module: MOD_000008
   property: MODPROP_000028
   reason: 'Logic (modules) 20: module(lacks ''finite composition length'') <=== module(lacks
     ''Artinian'').'
-MODPROP_000029:
-  citation: []
-  crosstable_pk: 146
-  has: false
-  module: MOD_000001
-  property: MODPROP_000029
-  reason: 'Logic (modules) 47: module(lacks ''torsion (naive)'') <=== module(lacks
-    ''torsion (regular element)'') AND ring(has ''domain'' ).'
 MODPROP_000030:
   citation: []
-  crosstable_pk: 147
+  crosstable_pk: 190
   has: false
-  module: MOD_000001
+  module: MOD_000008
   property: MODPROP_000030
   reason: 'Logic (modules) 56: module(lacks ''torsion (regular element)'') <=== module(has
     ''torsion-free'').'
 MODPROP_000031:
   citation: []
-  crosstable_pk: 118
+  crosstable_pk: 226
   has: true
-  module: MOD_000001
+  module: MOD_000008
   property: MODPROP_000031
   reason: 'Logic (modules) 46: module(has ''indecomposable'') <=== module(has ''uniform'').'
-MODPROP_000032:
-  citation: []
-  crosstable_pk: 128
-  has: false
-  module: MOD_000001
-  property: MODPROP_000032
-  reason: 'Logic (modules) 48: module(lacks ''brick'') <=== module(lacks ''strongly
-    indecomposable (endolocal)'').'
-MODPROP_000033:
-  citation: []
-  crosstable_pk: 127
-  has: false
-  module: MOD_000001
-  property: MODPROP_000033
-  reason: endomorphism ring is itself $\mathbb Z$, not local
 MODPROP_000034:
   citation: []
-  crosstable_pk: 144
+  crosstable_pk: 183
   has: true
-  module: MOD_000001
+  module: MOD_000008
   property: MODPROP_000034
   reason: 'Logic (modules) 54: module(has ''torsion-free'') <=== module(has ''flat'').'
+MODPROP_000035:
+  citation: []
+  crosstable_pk: 184
+  has: true
+  module: MOD_000008
+  property: MODPROP_000035
+  reason: 'Logic (modules) 63: module(has ''Essential socle'') <=== module(has ''finitely
+    cogenerated'').'
+MODPROP_000036:
+  citation: []
+  crosstable_pk: 185
+  has: true
+  module: MOD_000008
+  property: MODPROP_000036
+  reason: 'Logic (modules) 63: module(has ''finitely generated socle'') <=== module(has
+    ''finitely cogenerated'').'
 MODPROP_000037:
   citation: []
-  crosstable_pk: 205
+  crosstable_pk: 186
   has: true
-  module: MOD_000001
+  module: MOD_000008
   property: MODPROP_000037
-  reason: 'Logic (modules) 69: module(has ''finite uniform dimension'') <=== module(has
-    ''uniform'').'
+  reason: 'Logic (modules) 64: module(has ''finite uniform dimension'') <=== module(has
+    ''finitely cogenerated'').'
 MODPROP_000038:
   citation: []
-  crosstable_pk: 197
+  crosstable_pk: 224
   has: false
-  module: MOD_000001
+  module: MOD_000008
   property: MODPROP_000038
   reason: 'Logic (modules) 67: module(lacks ''divisible (naive)'') <=== module(lacks
     ''principally injective'').'

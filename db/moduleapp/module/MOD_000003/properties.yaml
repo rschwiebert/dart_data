@@ -13,3 +13,239 @@ MODPROP_000002:
   property: MODPROP_000002
   reason: The sets of $p^k$th roots of unity, for each $k$, constitute an infinite
     ascending chain
+MODPROP_000003:
+  citation: []
+  crosstable_pk: 45
+  has: false
+  module: MOD_000003
+  property: MODPROP_000003
+  reason: 'Logic (modules) 22: module(lacks ''finitely generated'') <=== module(lacks
+    ''Noetherian'') AND ring(has ''Noetherian'' on the right).'
+MODPROP_000004:
+  citation: []
+  crosstable_pk: 46
+  has: false
+  module: MOD_000003
+  property: MODPROP_000004
+  reason: 'Logic (modules) 23: module(lacks ''simple'') <=== module(lacks ''finite
+    composition length'').'
+MODPROP_000005:
+  citation: []
+  crosstable_pk: 115
+  has: false
+  module: MOD_000003
+  property: MODPROP_000005
+  reason: 'Logic (modules) 44: module(lacks ''semisimple'') <=== module(lacks ''simple'')
+    AND module(has ''indecomposable'').'
+MODPROP_000006:
+  citation: []
+  crosstable_pk: 139
+  has: false
+  module: MOD_000003
+  property: MODPROP_000006
+  reason: 'Logic (modules) 19: module(lacks ''projective'') <=== module(lacks ''semi-reflexive
+    (torsionless)'').'
+MODPROP_000007:
+  citation: []
+  crosstable_pk: 203
+  has: true
+  module: MOD_000003
+  property: MODPROP_000007
+  reason: 'Logic (modules) 66: module(has ''injective'') <=== module(has ''principally
+    injective'') AND ring(has ''principal ideal ring'' on the right).'
+MODPROP_000008:
+  citation: []
+  crosstable_pk: 142
+  has: false
+  module: MOD_000003
+  property: MODPROP_000008
+  reason: 'Logic (modules) 54: module(lacks ''flat'') <=== module(lacks ''torsion-free'').'
+MODPROP_000009:
+  citation: []
+  crosstable_pk: 140
+  has: false
+  module: MOD_000003
+  property: MODPROP_000009
+  reason: 'Logic (modules) 3: module(lacks ''free'') <=== module(lacks ''projective'').'
+MODPROP_000010:
+  citation: []
+  crosstable_pk: 47
+  has: false
+  module: MOD_000003
+  property: MODPROP_000010
+  reason: 'Logic (modules) 9: module(lacks ''cyclic'') <=== module(lacks ''finitely
+    generated'').'
+MODPROP_000011:
+  citation: []
+  crosstable_pk: 217
+  has: false
+  module: MOD_000003
+  property: MODPROP_000011
+  reason: The homomorphism $x\mapsto px$ is surjective, but not injective.
+MODPROP_000012:
+  citation: []
+  crosstable_pk: 41
+  has: true
+  module: MOD_000003
+  property: MODPROP_000012
+  reason: 'Logic (modules) 27: module(has ''co-Hopfian'') <=== module(has ''Artinian'').'
+MODPROP_000013:
+  citation: []
+  crosstable_pk: 42
+  has: true
+  module: MOD_000003
+  property: MODPROP_000013
+  reason: 'Logic (modules) 2: module(has ''finitely cogenerated'') <=== module(has
+    ''Artinian'').'
+MODPROP_000014:
+  citation: []
+  crosstable_pk: 48
+  has: false
+  module: MOD_000003
+  property: MODPROP_000014
+  reason: 'Logic (modules) 7: module(lacks ''coherent'') <=== module(lacks ''finitely
+    presented'').'
+MODPROP_000015:
+  citation: []
+  crosstable_pk: 135
+  has: false
+  module: MOD_000003
+  property: MODPROP_000015
+  reason: 'Logic (modules) 53: module(lacks ''finitely related'') <=== module(lacks
+    ''finitely presented'') AND module(has ''indecomposable'').'
+MODPROP_000016:
+  citation: []
+  crosstable_pk: 49
+  has: false
+  module: MOD_000003
+  property: MODPROP_000016
+  reason: 'Logic (modules) 8: module(lacks ''finitely presented'') <=== module(lacks
+    ''finitely generated'').'
+MODPROP_000018:
+  citation: []
+  crosstable_pk: 43
+  has: true
+  module: MOD_000003
+  property: MODPROP_000018
+  reason: 'Logic (modules) 12: module(has ''uniform'') <=== module(has ''uniserial'').'
+MODPROP_000020:
+  citation: []
+  crosstable_pk: 204
+  has: true
+  module: MOD_000003
+  property: MODPROP_000020
+  reason: 'Logic (modules) 67: module(has ''principally injective'') <=== module(has
+    ''divisible (naive)'').'
+MODPROP_000024:
+  citation: []
+  crosstable_pk: 138
+  has: false
+  module: MOD_000003
+  property: MODPROP_000024
+  reason: It is torsion and therefore cannot embed in a product of $\mathbb Z$'s
+MODPROP_000025:
+  citation: []
+  crosstable_pk: 40
+  has: true
+  module: MOD_000003
+  property: MODPROP_000025
+  reason: null
+MODPROP_000026:
+  citation: []
+  crosstable_pk: 44
+  has: true
+  module: MOD_000003
+  property: MODPROP_000026
+  reason: 'Logic (modules) 11: module(has ''serial'') <=== module(has ''uniserial'').'
+MODPROP_000027:
+  citation: []
+  crosstable_pk: 141
+  has: false
+  module: MOD_000003
+  property: MODPROP_000027
+  reason: 'Logic (modules) 17: module(lacks ''reflexive'') <=== module(lacks ''semi-reflexive
+    (torsionless)'').'
+MODPROP_000028:
+  citation: []
+  crosstable_pk: 50
+  has: false
+  module: MOD_000003
+  property: MODPROP_000028
+  reason: 'Logic (modules) 20: module(lacks ''finite composition length'') <=== module(lacks
+    ''Noetherian'').'
+MODPROP_000029:
+  citation: []
+  crosstable_pk: 136
+  has: true
+  module: MOD_000003
+  property: MODPROP_000029
+  reason: Every element has finite order
+MODPROP_000030:
+  citation: []
+  crosstable_pk: 137
+  has: true
+  module: MOD_000003
+  property: MODPROP_000030
+  reason: 'Logic (modules) 47: module(has ''torsion (regular element)'') <=== module(has
+    ''torsion (naive)'') AND ring(has ''domain'' ).'
+MODPROP_000031:
+  citation: []
+  crosstable_pk: 114
+  has: true
+  module: MOD_000003
+  property: MODPROP_000031
+  reason: 'Logic (modules) 45: module(has ''indecomposable'') <=== module(has ''uniserial'').'
+MODPROP_000032:
+  citation: []
+  crosstable_pk: 126
+  has: false
+  module: MOD_000003
+  property: MODPROP_000032
+  reason: Endomorphism ring is a local ring but not a division ring.
+MODPROP_000033:
+  citation: []
+  crosstable_pk: 125
+  has: true
+  module: MOD_000003
+  property: MODPROP_000033
+  reason: Endomorphism ring of the prufer p group is the ring of p-adic integers,
+    which is local
+MODPROP_000034:
+  citation: []
+  crosstable_pk: 143
+  has: false
+  module: MOD_000003
+  property: MODPROP_000034
+  reason: 'Logic (modules) 56: module(lacks ''torsion-free'') <=== module(has ''torsion
+    (regular element)'').'
+MODPROP_000035:
+  citation: []
+  crosstable_pk: 157
+  has: true
+  module: MOD_000003
+  property: MODPROP_000035
+  reason: 'Logic (modules) 63: module(has ''Essential socle'') <=== module(has ''finitely
+    cogenerated'').'
+MODPROP_000036:
+  citation: []
+  crosstable_pk: 158
+  has: true
+  module: MOD_000003
+  property: MODPROP_000036
+  reason: 'Logic (modules) 63: module(has ''finitely generated socle'') <=== module(has
+    ''finitely cogenerated'').'
+MODPROP_000037:
+  citation: []
+  crosstable_pk: 169
+  has: true
+  module: MOD_000003
+  property: MODPROP_000037
+  reason: 'Logic (modules) 64: module(has ''finite uniform dimension'') <=== module(has
+    ''finitely cogenerated'').'
+MODPROP_000038:
+  citation: []
+  crosstable_pk: 202
+  has: true
+  module: MOD_000003
+  property: MODPROP_000038
+  reason: null

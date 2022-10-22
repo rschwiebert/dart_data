@@ -1,0 +1,6 @@
+active: true
+citation: []
+concs: module_deduced("has",37)
+hyps: module_deduced("has",13)
+readable: module is finitely cogenerated  ===>  module is finite uniform dimension
+variety: 0

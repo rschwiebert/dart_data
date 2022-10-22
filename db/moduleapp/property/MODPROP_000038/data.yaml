@@ -1,0 +1,4 @@
+citation: []
+definition: For every nonzero $r\in R$, we have $Mr=M$.  (Note we are not requiring
+  $R$ to be a domain.)
+name: divisible (naive)

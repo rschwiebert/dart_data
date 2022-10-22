@@ -1,0 +1,6 @@
+active: true
+citation: []
+concs: module_deduced("lacks",30)
+hyps: module_deduced("has",34)
+readable: module is torsion-free  ===>  module is not torsion (regular element)
+variety: 0

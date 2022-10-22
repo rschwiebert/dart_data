@@ -1,0 +1,6 @@
+active: true
+citation: []
+concs: module_deduced("lacks",23)
+hyps: module_deduced("has",4) AND module_deduced("has",22)
+readable: module is simple AND module is singular  ===>  module is not nonsingular
+variety: 0

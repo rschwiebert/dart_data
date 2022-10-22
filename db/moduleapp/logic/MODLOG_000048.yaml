@@ -1,0 +1,6 @@
+active: true
+citation: []
+concs: module_deduced("has",33)
+hyps: module_deduced("has",32)
+readable: module is brick  ===>  module is strongly indecomposable (endolocal)
+variety: 0

@@ -1,6 +1,7 @@
 active: true
 citation: []
-concs: module_deduced("has",15)
-hyps: module_deduced("has",16)
-readable: module is finitely presented  ===>  module is finitely related
-variety: 0
+concs: module_deduced("has",16)
+hyps: module_deduced("has",15) AND module_deduced("has",3)
+readable: module is finitely related AND module is finitely generated  <==>  module
+  is finitely presented
+variety: 1

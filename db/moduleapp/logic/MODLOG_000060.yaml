@@ -1,0 +1,7 @@
+active: true
+citation:
+- CITE_000008
+concs: module_deduced("has",6)
+hyps: module_deduced("has",5) AND module_deduced("has",23)
+readable: module is semisimple AND module is nonsingular  ===>  module is projective
+variety: 0

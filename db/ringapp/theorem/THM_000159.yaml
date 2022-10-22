@@ -1,0 +1,8 @@
+alias: Kaplansky's theorem on projective modules over a local ring
+categories:
+- THMCAT_000005
+citation:
+- CITE_000515
+commutative_only: false
+link: null
+statement: Every projective module over a local ring is free.

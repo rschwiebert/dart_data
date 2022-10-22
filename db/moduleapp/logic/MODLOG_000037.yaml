@@ -1,0 +1,6 @@
+active: true
+citation: []
+concs: module_deduced("has",8)
+hyps: ring_deduced("has",0,14)
+readable: ring is von Neumann regular  ===>  module is flat
+variety: 0

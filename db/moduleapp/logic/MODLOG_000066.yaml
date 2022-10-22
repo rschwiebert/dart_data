@@ -1,0 +1,7 @@
+active: true
+citation: []
+concs: module_deduced("has",7)
+hyps: module_deduced("has",20) AND ring_deduced("has",3,66)
+readable: module is principally injective AND ring is principal ideal ring on the
+  right  ===>  module is injective
+variety: 0

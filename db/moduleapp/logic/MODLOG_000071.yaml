@@ -1,0 +1,6 @@
+active: true
+citation: []
+concs: module_deduced("has",26)
+hyps: module_deduced("has",9) AND ring_deduced("has",3,77)
+readable: module is free AND ring is serial on the right  ===>  module is serial
+variety: 0

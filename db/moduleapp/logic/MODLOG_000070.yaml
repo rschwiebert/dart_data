@@ -1,0 +1,7 @@
+active: true
+citation: []
+concs: module_deduced("has",37)
+hyps: module_deduced("has",9) AND module_deduced("has",3) AND ring_deduced("has",3,105)
+readable: module is free AND module is finitely generated AND ring is uniform on the
+  right  ===>  module is finite uniform dimension
+variety: 0

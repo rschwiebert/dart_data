@@ -1,0 +1,9 @@
+citation:
+- MODCITE_000004
+description: 'Let $a,b$ be generators for the module satisfying the following relations
+  (with $X,Y$ the images of $x,y$ in $R=F_2[x,y]/(x,y)^2$): $aY=bX=0$ and $aX=bY$.  This
+  produces a module $M$ which is a 3-dimensional $F_2$ space spanned by $\{a,b,aX\}$.'
+name: A 2-generated faithful torsion module
+notes: null
+opposite_ring: false
+ring: 23

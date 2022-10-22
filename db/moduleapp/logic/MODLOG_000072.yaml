@@ -1,0 +1,6 @@
+active: true
+citation: []
+concs: module_deduced("has",34)
+hyps: ring_deduced("has",3,83)
+readable: ring is cohopfian on the right  ===>  module is torsion-free
+variety: 0

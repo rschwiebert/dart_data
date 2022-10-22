@@ -1,0 +1,6 @@
+active: true
+citation: []
+concs: module_deduced("has",25)
+hyps: module_deduced("has",4)
+readable: module is simple  ===>  module is uniserial
+variety: 0

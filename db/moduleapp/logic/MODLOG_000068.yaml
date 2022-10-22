@@ -1,0 +1,7 @@
+active: true
+citation: []
+concs: module_deduced("has",38)
+hyps: ring_deduced("has",0,8) AND module_deduced("has",20)
+readable: ring is domain AND module is principally injective  ===>  module is divisible
+  (naive)
+variety: 0

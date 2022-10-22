@@ -1,6 +1,6 @@
 citation: []
 description: $k^n$ as a right $M_n(k)$ module, using the natural matrix multiplication
-  action.
+  action. ($k>1$)
 name: $k^n$
 notes: null
 opposite_ring: false

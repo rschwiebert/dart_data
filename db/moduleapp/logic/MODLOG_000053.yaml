@@ -1,0 +1,7 @@
+active: true
+citation: []
+concs: module_deduced("has",16)
+hyps: module_deduced("has",31) AND module_deduced("has",15)
+readable: module is indecomposable AND module is finitely related  ===>  module is
+  finitely presented
+variety: 0

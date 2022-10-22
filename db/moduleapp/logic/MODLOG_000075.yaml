@@ -1,0 +1,6 @@
+active: true
+citation: []
+concs: module_deduced("has",10) AND module_deduced("has",9)
+hyps: module_deduced("has",39)
+readable: module is $R_R$  ===>  module is cyclic AND module is free
+variety: 0

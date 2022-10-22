@@ -1,0 +1,6 @@
+active: true
+citation: []
+concs: module_deduced("has",5)
+hyps: ring_deduced("has",0,5)
+readable: ring is semisimple  ===>  module is semisimple
+variety: 0

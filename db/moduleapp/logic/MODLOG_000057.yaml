@@ -1,0 +1,7 @@
+active: true
+citation: []
+concs: module_deduced("has",9)
+hyps: ring_deduced("has",3,65) AND module_deduced("has",6)
+readable: ring is principal ideal domain on the right AND module is projective  ===>  module
+  is free
+variety: 0

@@ -1,0 +1,8 @@
+active: true
+citation: []
+concs: module_deduced("has",18)
+hyps: module_deduced("has",10) AND module_deduced("has",9) AND ring_deduced("has",0,1)
+  AND ring_deduced("has",3,105)
+readable: module is cyclic AND module is free AND ring is commutative AND ring is
+  uniform on the right  ===>  module is uniform
+variety: 0
