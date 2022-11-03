@@ -1,0 +1,7 @@
+active: true
+citation:
+- CITE_000013
+concs: module_deduced("has",40)
+hyps: module_deduced("has",43)
+readable: module is quasi-injective  ===>  module is continuous
+variety: 0

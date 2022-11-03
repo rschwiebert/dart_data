@@ -1,0 +1,6 @@
+active: true
+citation: []
+concs: module_deduced("has",43)
+hyps: module_deduced("has",7)
+readable: module is injective  ===>  module is quasi-injective
+variety: 0

@@ -79,6 +79,14 @@ MODPROP_000011:
   module: MOD_000007
   property: MODPROP_000011
   reason: Regular module of a Dedekind finite ring is Hopfian.
+MODPROP_000012:
+  citation: []
+  crosstable_pk: 341
+  has: false
+  module: MOD_000007
+  property: MODPROP_000012
+  reason: 'Logic (modules) 80: module(X ''co-Hopfian'') <=== module("has" ''$R_R$'')
+    AND ring(X ''cohopfian'' on the right).'
 MODPROP_000013:
   citation: []
   crosstable_pk: 164
@@ -130,6 +138,14 @@ MODPROP_000021:
   module: MOD_000007
   property: MODPROP_000021
   reason: It's the regular module of its ring
+MODPROP_000023:
+  citation: []
+  crosstable_pk: 337
+  has: true
+  module: MOD_000007
+  property: MODPROP_000023
+  reason: 'Logic (modules) 88: module(X ''nonsingular'') <=== module("has" ''$R_R$'')
+    AND ring(X ''nonsingular'' on the right).'
 MODPROP_000024:
   citation: []
   crosstable_pk: 210
@@ -138,6 +154,22 @@ MODPROP_000024:
   property: MODPROP_000024
   reason: 'Logic (modules) 19: module(has ''semi-reflexive (torsionless)'') <=== module(has
     ''projective'').'
+MODPROP_000025:
+  citation: []
+  crosstable_pk: 342
+  has: false
+  module: MOD_000007
+  property: MODPROP_000025
+  reason: 'Logic (modules) 95: module(X ''uniserial'') <=== module("has" ''$R_R$'')
+    AND ring(X ''uniserial ring'' on the right).'
+MODPROP_000026:
+  citation: []
+  crosstable_pk: 343
+  has: false
+  module: MOD_000007
+  property: MODPROP_000026
+  reason: 'Logic (modules) 92: module(X ''serial'') <=== module("has" ''$R_R$'') AND
+    ring(X ''serial'' on the right).'
 MODPROP_000028:
   citation: []
   crosstable_pk: 108
@@ -191,6 +223,22 @@ MODPROP_000034:
   module: MOD_000007
   property: MODPROP_000034
   reason: 'Logic (modules) 54: module(has ''torsion-free'') <=== module(has ''flat'').'
+MODPROP_000035:
+  citation: []
+  crosstable_pk: 344
+  has: false
+  module: MOD_000007
+  property: MODPROP_000035
+  reason: 'Logic (modules) 83: module(X ''essential socle'') <=== module("has" ''$R_R$'')
+    AND ring(X ''essential socle'' on the right).'
+MODPROP_000036:
+  citation: []
+  crosstable_pk: 338
+  has: true
+  module: MOD_000007
+  property: MODPROP_000036
+  reason: 'Logic (modules) 86: module(X ''finitely generated socle'') <=== module("has"
+    ''$R_R$'') AND ring(X ''finitely generated socle'' on the right).'
 MODPROP_000037:
   citation: []
   crosstable_pk: 212
@@ -208,3 +256,74 @@ MODPROP_000038:
   property: MODPROP_000038
   reason: 'Logic (modules) 67: module(lacks ''divisible (naive)'') <=== module(lacks
     ''principally injective'').'
+MODPROP_000039:
+  citation: []
+  crosstable_pk: 324
+  has: true
+  module: MOD_000007
+  property: MODPROP_000039
+  reason: null
+MODPROP_000040:
+  citation: []
+  crosstable_pk: 345
+  has: false
+  module: MOD_000007
+  property: MODPROP_000040
+  reason: 'Logic (modules) 105: module(X ''continuous'') <=== module("has" ''$R_R$'')
+    AND ring(X ''continuous'' on the right).'
+MODPROP_000041:
+  citation: []
+  crosstable_pk: 339
+  has: true
+  module: MOD_000007
+  property: MODPROP_000041
+  reason: 'Logic (modules) 106: module(X ''quasi-continuous'') <=== module("has" ''$R_R$'')
+    AND ring(X ''quasi-continuous'' on the right).'
+MODPROP_000042:
+  citation: []
+  crosstable_pk: 340
+  has: true
+  module: MOD_000007
+  property: MODPROP_000042
+  reason: 'Logic (modules) 107: module(X ''CS'') <=== module("has" ''$R_R$'') AND
+    ring(X ''CS'' on the right).'
+MODPROP_000043:
+  citation: []
+  crosstable_pk: 346
+  has: false
+  module: MOD_000007
+  property: MODPROP_000043
+  reason: 'Logic (modules) 108: module("lacks" ''quasi-injective'') <=== module("has"
+    ''$R_R$'') AND ring("lacks" ''self-injective'' on the right).'
+MODPROP_000046:
+  citation: []
+  crosstable_pk: 428
+  has: false
+  module: MOD_000007
+  property: MODPROP_000046
+  reason: 'Logic (modules) 114: module("lacks" ''colocal'') <=== module("lacks" ''essential
+    socle'').'
+MODPROP_000047:
+  citation: []
+  crosstable_pk: 429
+  has: false
+  module: MOD_000007
+  property: MODPROP_000047
+  reason: 'Logic (modules) 116: module(X ''simple socle'') <=== module("has" ''$R_R$'')
+    AND ring(X ''simple socle'' on the right).'
+MODPROP_000049:
+  citation: []
+  crosstable_pk: 426
+  has: true
+  module: MOD_000007
+  property: MODPROP_000049
+  reason: 'Logic (modules) 118: module("has" ''quasi-projective'') <=== module("has"
+    ''projective'').'
+MODPROP_000050:
+  citation: []
+  crosstable_pk: 427
+  has: true
+  module: MOD_000007
+  property: MODPROP_000050
+  reason: 'Logic (modules) 122: module("has" ''has a projective cover'') <=== module("has"
+    ''projective'').'

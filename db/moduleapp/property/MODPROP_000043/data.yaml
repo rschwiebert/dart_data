@@ -1,0 +1,4 @@
+citation: []
+definition: Every homomorphism from a submodule $N$ of $M$ into $M$ extends to an
+  endomorphism of $M$.
+name: quasi-injective

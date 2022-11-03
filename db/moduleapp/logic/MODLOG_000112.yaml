@@ -1,0 +1,7 @@
+active: true
+citation:
+- CITE_000016
+concs: module_deduced("has",10)
+hyps: module_deduced("has",6) AND module_deduced("has",32)
+readable: module is projective AND module is brick  ===>  module is cyclic
+variety: 0

@@ -1,0 +1,6 @@
+active: true
+citation: []
+concs: module_deduced("has",22)
+hyps: module_deduced("has",4) AND module_deduced("lacks",6)
+readable: module is simple AND module is not projective  ===>  module is singular
+variety: 0

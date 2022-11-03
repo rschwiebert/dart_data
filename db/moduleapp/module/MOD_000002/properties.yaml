@@ -126,6 +126,13 @@ MODPROP_000018:
   module: MOD_000002
   property: MODPROP_000018
   reason: 'Logic (modules) 12: module(has ''uniform'') <=== module(has ''uniserial'').'
+MODPROP_000019:
+  citation: []
+  crosstable_pk: 402
+  has: true
+  module: MOD_000002
+  property: MODPROP_000019
+  reason: 'Logic (modules) 111: module("has" ''hollow'') <=== module("has" ''uniserial'').'
 MODPROP_000020:
   citation: []
   crosstable_pk: 36
@@ -134,6 +141,22 @@ MODPROP_000020:
   property: MODPROP_000020
   reason: 'Logic (modules) 5: module(has ''principally injective'') <=== module(has
     ''injective'').'
+MODPROP_000022:
+  citation: []
+  crosstable_pk: 446
+  has: false
+  module: MOD_000002
+  property: MODPROP_000022
+  reason: 'Logic (modules) 58: module("lacks" ''singular'') <=== module("has" ''nonsingular'')
+    AND module("has" ''simple'').'
+MODPROP_000023:
+  citation: []
+  crosstable_pk: 445
+  has: true
+  module: MOD_000002
+  property: MODPROP_000023
+  reason: 'Logic (modules) 125: module("has" ''nonsingular'') <=== ring("has" ''semisimple''
+    ).'
 MODPROP_000024:
   citation: []
   crosstable_pk: 20
@@ -232,3 +255,57 @@ MODPROP_000039:
   module: MOD_000002
   property: MODPROP_000039
   reason: 'Logic (modules) 75: module("lacks" ''$R_R$'') <=== module("lacks" ''free'').'
+MODPROP_000040:
+  citation: []
+  crosstable_pk: 301
+  has: true
+  module: MOD_000002
+  property: MODPROP_000040
+  reason: 'Logic (modules) 101: module("has" ''continuous'') <=== module("has" ''quasi-injective'').'
+MODPROP_000041:
+  citation: []
+  crosstable_pk: 302
+  has: true
+  module: MOD_000002
+  property: MODPROP_000041
+  reason: 'Logic (modules) 99: module("has" ''quasi-continuous'') <=== module("has"
+    ''continuous'').'
+MODPROP_000042:
+  citation: []
+  crosstable_pk: 303
+  has: true
+  module: MOD_000002
+  property: MODPROP_000042
+  reason: 'Logic (modules) 100: module("has" ''CS'') <=== module("has" ''quasi-continuous'').'
+MODPROP_000043:
+  citation: []
+  crosstable_pk: 304
+  has: true
+  module: MOD_000002
+  property: MODPROP_000043
+  reason: 'Logic (modules) 102: module("has" ''quasi-injective'') <=== module("has"
+    ''injective'').'
+MODPROP_000044:
+  citation: []
+  crosstable_pk: 305
+  has: true
+  module: MOD_000002
+  property: MODPROP_000044
+  reason: 'Logic (modules) 104: module("has" ''clean (endoclean)'') <=== module("has"
+    ''strongly indecomposable (endolocal)'').'
+MODPROP_000049:
+  citation: []
+  crosstable_pk: 416
+  has: true
+  module: MOD_000002
+  property: MODPROP_000049
+  reason: 'Logic (modules) 118: module("has" ''quasi-projective'') <=== module("has"
+    ''projective'').'
+MODPROP_000050:
+  citation: []
+  crosstable_pk: 417
+  has: true
+  module: MOD_000002
+  property: MODPROP_000050
+  reason: 'Logic (modules) 122: module("has" ''has a projective cover'') <=== module("has"
+    ''projective'').'

@@ -1,0 +1,6 @@
+active: true
+citation: []
+concs: module_deduced("has",48)
+hyps: module_deduced("has",46)
+readable: module is colocal  ===>  module is subdirectly irreducible
+variety: 0

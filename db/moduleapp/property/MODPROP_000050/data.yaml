@@ -1,0 +1,5 @@
+citation: []
+definition: $M$ has a projective cover when there exists a projective module $P$ and
+  surjective homomorphism $f:P\to M$ such that the kernel of $f$ is a small submodule
+  of $P$.
+name: has a projective cover

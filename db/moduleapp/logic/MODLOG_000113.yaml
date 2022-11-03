@@ -1,0 +1,6 @@
+active: true
+citation: []
+concs: module_deduced("has",42)
+hyps: module_deduced("has",18)
+readable: module is uniform  ===>  module is CS
+variety: 0

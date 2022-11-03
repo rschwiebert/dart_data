@@ -1,0 +1,7 @@
+active: true
+citation:
+- CITE_000015
+concs: module_deduced("has",44)
+hyps: module_deduced("has",40)
+readable: module is continuous  ===>  module is clean (endoclean)
+variety: 0

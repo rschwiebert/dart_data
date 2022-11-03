@@ -1,0 +1,8 @@
+active: true
+citation:
+- CITE_000012
+concs: module_deduced("has",7)
+hyps: ring_deduced("has",0,111) AND module_deduced("has",20)
+readable: ring is Dedekind domain AND module is principally injective  ===>  module
+  is injective
+variety: 0

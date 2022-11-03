@@ -1,0 +1,6 @@
+active: true
+citation: []
+concs: module_deduced("has",50)
+hyps: module_deduced("has",6)
+readable: module is projective  ===>  module is has a projective cover
+variety: 0

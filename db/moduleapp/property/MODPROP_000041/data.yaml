@@ -1,0 +1,4 @@
+citation: []
+definition: $M$ is a CS module and if $A$, $B$ are summands of $M$ such that $A\cap
+  B=\{0\}$, then $A\oplus B$ is a summand of $M$ also.
+name: quasi-continuous

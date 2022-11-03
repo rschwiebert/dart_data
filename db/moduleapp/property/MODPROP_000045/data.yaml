@@ -1,0 +1,4 @@
+citation: []
+definition: $M$ has a maximal submodule which is a small submodule.  Said another
+  way, $M$ has a maximum proper submodule containing all other submodules.
+name: local

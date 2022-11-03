@@ -117,6 +117,14 @@ MODPROP_000016:
   property: MODPROP_000016
   reason: 'Logic (modules) 15: module(has ''finitely presented'') <=== module(has
     ''finitely generated'') AND module(has ''projective'').'
+MODPROP_000017:
+  citation: []
+  crosstable_pk: 356
+  has: false
+  module: MOD_000009
+  property: MODPROP_000017
+  reason: 'Logic (modules) 81: module(X ''distributive'') <=== module("has" ''$R_R$'')
+    AND ring(X ''distributive'' on the right).'
 MODPROP_000018:
   citation: []
   crosstable_pk: 233
@@ -138,6 +146,14 @@ MODPROP_000021:
   module: MOD_000009
   property: MODPROP_000021
   reason: $1$ cannot be annihilated by a nonzero element
+MODPROP_000023:
+  citation: []
+  crosstable_pk: 357
+  has: false
+  module: MOD_000009
+  property: MODPROP_000023
+  reason: 'Logic (modules) 88: module(X ''nonsingular'') <=== module("has" ''$R_R$'')
+    AND ring(X ''nonsingular'' on the right).'
 MODPROP_000024:
   citation: []
   crosstable_pk: 247
@@ -192,6 +208,14 @@ MODPROP_000031:
   property: MODPROP_000031
   reason: 'Logic (modules) 49: module(has ''indecomposable'') <=== module(has ''strongly
     indecomposable (endolocal)'').'
+MODPROP_000032:
+  citation: []
+  crosstable_pk: 401
+  has: false
+  module: MOD_000009
+  property: MODPROP_000032
+  reason: A regular module is isomorphic to its own endomorphism ring, and it is not
+    a division ring
 MODPROP_000033:
   citation: []
   crosstable_pk: 232
@@ -239,3 +263,81 @@ MODPROP_000038:
   property: MODPROP_000038
   reason: 'Logic (modules) 67: module(lacks ''divisible (naive)'') <=== module(lacks
     ''principally injective'').'
+MODPROP_000039:
+  citation: []
+  crosstable_pk: 327
+  has: true
+  module: MOD_000009
+  property: MODPROP_000039
+  reason: null
+MODPROP_000040:
+  citation: []
+  crosstable_pk: 358
+  has: false
+  module: MOD_000009
+  property: MODPROP_000040
+  reason: 'Logic (modules) 105: module(X ''continuous'') <=== module("has" ''$R_R$'')
+    AND ring(X ''continuous'' on the right).'
+MODPROP_000041:
+  citation: []
+  crosstable_pk: 359
+  has: false
+  module: MOD_000009
+  property: MODPROP_000041
+  reason: 'Logic (modules) 106: module(X ''quasi-continuous'') <=== module("has" ''$R_R$'')
+    AND ring(X ''quasi-continuous'' on the right).'
+MODPROP_000042:
+  citation: []
+  crosstable_pk: 360
+  has: false
+  module: MOD_000009
+  property: MODPROP_000042
+  reason: 'Logic (modules) 107: module(X ''CS'') <=== module("has" ''$R_R$'') AND
+    ring(X ''CS'' on the right).'
+MODPROP_000043:
+  citation: []
+  crosstable_pk: 361
+  has: false
+  module: MOD_000009
+  property: MODPROP_000043
+  reason: 'Logic (modules) 108: module("lacks" ''quasi-injective'') <=== module("has"
+    ''$R_R$'') AND ring("lacks" ''self-injective'' on the right).'
+MODPROP_000044:
+  citation: []
+  crosstable_pk: 322
+  has: true
+  module: MOD_000009
+  property: MODPROP_000044
+  reason: 'Logic (modules) 104: module("has" ''clean (endoclean)'') <=== module("has"
+    ''strongly indecomposable (endolocal)'').'
+MODPROP_000046:
+  citation: []
+  crosstable_pk: 438
+  has: false
+  module: MOD_000009
+  property: MODPROP_000046
+  reason: 'Logic (modules) 115: module("lacks" ''colocal'') <=== module("lacks" ''uniform'').'
+MODPROP_000047:
+  citation: []
+  crosstable_pk: 439
+  has: false
+  module: MOD_000009
+  property: MODPROP_000047
+  reason: 'Logic (modules) 116: module(X ''simple socle'') <=== module("has" ''$R_R$'')
+    AND ring(X ''simple socle'' on the right).'
+MODPROP_000049:
+  citation: []
+  crosstable_pk: 436
+  has: true
+  module: MOD_000009
+  property: MODPROP_000049
+  reason: 'Logic (modules) 118: module("has" ''quasi-projective'') <=== module("has"
+    ''projective'').'
+MODPROP_000050:
+  citation: []
+  crosstable_pk: 437
+  has: true
+  module: MOD_000009
+  property: MODPROP_000050
+  reason: 'Logic (modules) 122: module("has" ''has a projective cover'') <=== module("has"
+    ''projective'').'

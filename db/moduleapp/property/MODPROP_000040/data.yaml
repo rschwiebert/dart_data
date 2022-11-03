@@ -1,0 +1,4 @@
+citation: []
+definition: $M$ is a CS module such that any submodule isomorphic to a direct summand
+  of $M$ is again a summand of $M$.
+name: continuous

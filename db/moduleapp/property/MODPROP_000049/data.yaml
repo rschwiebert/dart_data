@@ -1,0 +1,4 @@
+citation: []
+definition: $M$ is quasi-projective if every homomorphism $f:M\to N$ factors through
+  every surjective homomorphism $g:M\to N$.
+name: quasi-projective

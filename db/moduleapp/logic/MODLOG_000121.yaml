@@ -1,0 +1,6 @@
+active: true
+citation: []
+concs: module_deduced("has",19)
+hyps: module_deduced("has",46)
+readable: module is colocal  ===>  module is hollow
+variety: 0

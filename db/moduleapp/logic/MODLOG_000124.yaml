@@ -1,0 +1,7 @@
+active: true
+citation: []
+concs: module_deduced("has",22)
+hyps: module_deduced("has",29) AND ring_deduced("has",3,105)
+readable: module is torsion (naive) AND ring is uniform on the right  ===>  module
+  is singular
+variety: 0
