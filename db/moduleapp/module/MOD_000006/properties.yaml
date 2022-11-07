@@ -143,6 +143,13 @@ MODPROP_000021:
   module: MOD_000006
   property: MODPROP_000021
   reason: null
+MODPROP_000023:
+  citation: []
+  crosstable_pk: 447
+  has: true
+  module: MOD_000006
+  property: MODPROP_000023
+  reason: All annihilators are zero (except for 0's annihilator)
 MODPROP_000028:
   citation: []
   crosstable_pk: 94
@@ -205,6 +212,13 @@ MODPROP_000035:
   property: MODPROP_000035
   reason: 'Its socle is zero: simple abelian groups are finite, and $\mathbb Q$ does
     not contain such elements.'
+MODPROP_000036:
+  citation: []
+  crosstable_pk: 448
+  has: true
+  module: MOD_000006
+  property: MODPROP_000036
+  reason: socle is zero
 MODPROP_000037:
   citation: []
   crosstable_pk: 215

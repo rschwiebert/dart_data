@@ -1,6 +1,0 @@
-active: true
-citation: []
-concs: module_deduced("has",3)
-hyps: module_deduced("has",16)
-readable: module is finitely presented  ===>  module is finitely generated
-variety: 0
