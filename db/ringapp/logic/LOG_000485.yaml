@@ -1,0 +1,7 @@
+active: true
+citation: []
+concs: ring_subset_deduced("$\\{0\\}$",3)
+hyps: ring_deduced("has",0,10)
+readable: ring is reduced <==> has Nilpotents $\\{0\\}$
+symmetric: true
+variety: 1

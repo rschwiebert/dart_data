@@ -3,6 +3,8 @@ DIM_000001:
   crosstable_pk: 27
   dimension_type: DIM_000001
   left_dimension: '1'
+  reason_left: null
+  reason_right: null
   right_dimension: '1'
   ring: RING_000027
 DIM_000002:
@@ -10,6 +12,8 @@ DIM_000002:
   crosstable_pk: 208
   dimension_type: DIM_000002
   left_dimension: $\infty$
+  reason_left: null
+  reason_right: null
   right_dimension: $\infty$
   ring: RING_000027
 DIM_000003:
@@ -17,6 +21,8 @@ DIM_000003:
   crosstable_pk: 273
   dimension_type: DIM_000003
   left_dimension: $\mathfrak c$
+  reason_left: null
+  reason_right: null
   right_dimension: $\mathfrak c$
   ring: RING_000027
 DIM_000004:
@@ -24,6 +30,8 @@ DIM_000004:
   crosstable_pk: 117
   dimension_type: DIM_000004
   left_dimension: '1'
+  reason_left: null
+  reason_right: null
   right_dimension: '1'
   ring: RING_000027
 DIM_000005:
@@ -31,5 +39,7 @@ DIM_000005:
   crosstable_pk: 150
   dimension_type: DIM_000005
   left_dimension: '1'
+  reason_left: null
+  reason_right: null
   right_dimension: '1'
   ring: RING_000027

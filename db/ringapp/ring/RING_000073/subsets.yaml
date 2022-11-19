@@ -1,6 +1,7 @@
 SUBSET_000001:
   citation: []
   crosstable_pk: 18
+  reason: null
   ring: RING_000073
   subset: $\{0\}$
   subset_type: SUBSET_000001

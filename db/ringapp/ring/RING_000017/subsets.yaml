@@ -1,30 +1,65 @@
 SUBSET_000001:
   citation: []
   crosstable_pk: 23
+  reason: null
   ring: RING_000017
   subset: $\{0\}$
   subset_type: SUBSET_000001
 SUBSET_000002:
   citation: []
   crosstable_pk: 34
+  reason: null
   ring: RING_000017
-  subset: All nonzero elements.
+  subset: $R\setminus\{0\}$
   subset_type: SUBSET_000002
 SUBSET_000003:
   citation: []
   crosstable_pk: 118
+  reason: null
   ring: RING_000017
   subset: $\{0\}$
   subset_type: SUBSET_000003
 SUBSET_000004:
   citation: []
   crosstable_pk: 64
+  reason: null
   ring: RING_000017
   subset: $\{0,1\}$
   subset_type: SUBSET_000004
+SUBSET_000005:
+  citation: []
+  crosstable_pk: 266
+  reason: 'Logic (rings) 488: has Right singular ideal $\{0\}$ <=== ring is nonsingular
+    on the right'
+  ring: RING_000017
+  subset: $\{0\}$
+  subset_type: SUBSET_000005
+SUBSET_000006:
+  citation: []
+  crosstable_pk: 267
+  reason: 'Logic (rings) 487: has Left singular ideal $\{0\}$ <=== ring is nonsingular
+    on the left'
+  ring: RING_000017
+  subset: $\{0\}$
+  subset_type: SUBSET_000006
+SUBSET_000007:
+  citation: []
+  crosstable_pk: 268
+  reason: 'Logic (rings) 489: has Right socle $R$ <=== ring is semisimple'
+  ring: RING_000017
+  subset: $R$
+  subset_type: SUBSET_000007
+SUBSET_000008:
+  citation: []
+  crosstable_pk: 269
+  reason: 'Logic (rings) 490: has Left socle $R$ <=== ring is semisimple'
+  ring: RING_000017
+  subset: $R$
+  subset_type: SUBSET_000008
 SUBSET_000009:
   citation: []
   crosstable_pk: 168
+  reason: null
   ring: RING_000017
   subset: $\{0\}$
   subset_type: SUBSET_000009

@@ -1,0 +1,8 @@
+active: true
+citation: []
+concs: ring_dim_deduced("1",2,4)
+hyps: ring_deduced("has",2,70) AND ring_deduced("lacks",0,5)
+readable: ring is hereditary on the left AND ring is not semisimple <==> has global
+  dimension 1 on the left
+symmetric: false
+variety: 1

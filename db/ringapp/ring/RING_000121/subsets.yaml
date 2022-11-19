@@ -1,0 +1,30 @@
+SUBSET_000001:
+  citation: []
+  crosstable_pk: 483
+  reason: 'Logic (rings) 482: has Jacobson radical $\{0\}$ <=== ring is semiprimitive'
+  ring: RING_000121
+  subset: $\{0\}$
+  subset_type: SUBSET_000001
+SUBSET_000004:
+  citation: []
+  crosstable_pk: 486
+  reason: 'Logic (rings) 486: has Idempotents $\{0,1\}$ <=== ring is strongly connected'
+  ring: RING_000121
+  subset: $\{0,1\}$
+  subset_type: SUBSET_000004
+SUBSET_000005:
+  citation: []
+  crosstable_pk: 484
+  reason: 'Logic (rings) 488: has Right singular ideal $\{0\}$ <=== ring is nonsingular
+    on the right'
+  ring: RING_000121
+  subset: $\{0\}$
+  subset_type: SUBSET_000005
+SUBSET_000006:
+  citation: []
+  crosstable_pk: 485
+  reason: 'Logic (rings) 487: has Left singular ideal $\{0\}$ <=== ring is nonsingular
+    on the left'
+  ring: RING_000121
+  subset: $\{0\}$
+  subset_type: SUBSET_000006

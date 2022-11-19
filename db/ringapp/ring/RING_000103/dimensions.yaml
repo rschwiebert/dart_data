@@ -3,5 +3,7 @@ DIM_000003:
   crosstable_pk: 313
   dimension_type: DIM_000003
   left_dimension: $\aleph_0$
+  reason_left: null
+  reason_right: null
   right_dimension: $\aleph_0$
   ring: RING_000103

@@ -690,6 +690,18 @@ PROP_000074:
     ring'
   reason_right: symmetry with left side
   ring: RING_000036
+PROP_000075:
+  citation_left: []
+  citation_right: []
+  crosstable_pk: 19168
+  has_on_left: false
+  has_on_right: false
+  property: PROP_000075
+  reason_left: 'Logic (rings) logical AND: ring_deduced("lacks",2,Y) <=== \( "commutative"
+    \) AND ring_deduced("lacks",1,Y).'
+  reason_right: 'Logic (rings) logical AND: ring_deduced("lacks",3,Y) <=== \( "commutative"
+    \) AND ring_deduced("lacks",1,Y).'
+  ring: RING_000036
 PROP_000076:
   citation_left: []
   citation_right: []

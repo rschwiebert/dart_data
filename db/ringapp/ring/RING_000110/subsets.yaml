@@ -1,0 +1,7 @@
+SUBSET_000004:
+  citation: []
+  crosstable_pk: 453
+  reason: 'Logic (rings) 486: has Idempotents $\{0,1\}$ <=== ring is strongly connected'
+  ring: RING_000110
+  subset: $\{0,1\}$
+  subset_type: SUBSET_000004

@@ -1,0 +1,6 @@
+active: true
+citation: []
+concs: module_deduced("has",50)
+hyps: ring_deduced("has",3,82)
+readable: ring is perfect on the right  ===>  module is has a projective cover
+variety: 0

@@ -3,6 +3,8 @@ DIM_000001:
   crosstable_pk: 47
   dimension_type: DIM_000001
   left_dimension: '0'
+  reason_left: null
+  reason_right: null
   right_dimension: '0'
   ring: RING_000053
 DIM_000002:
@@ -10,6 +12,8 @@ DIM_000002:
   crosstable_pk: 222
   dimension_type: DIM_000002
   left_dimension: $\Omega(n)$
+  reason_left: null
+  reason_right: null
   right_dimension: $\Omega(n)$
   ring: RING_000053
 DIM_000003:
@@ -17,5 +21,7 @@ DIM_000003:
   crosstable_pk: 237
   dimension_type: DIM_000003
   left_dimension: $n$
+  reason_left: null
+  reason_right: null
   right_dimension: $n$
   ring: RING_000053

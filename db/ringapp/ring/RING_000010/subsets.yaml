@@ -1,12 +1,14 @@
 SUBSET_000001:
   citation: []
   crosstable_pk: 191
+  reason: null
   ring: RING_000010
   subset: $(p)/(p^k)$
   subset_type: SUBSET_000001
 SUBSET_000004:
   citation: []
   crosstable_pk: 52
+  reason: null
   ring: RING_000010
   subset: $\{0,1\}$
   subset_type: SUBSET_000004

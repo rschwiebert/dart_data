@@ -1,6 +1,37 @@
 SUBSET_000001:
   citation: []
   crosstable_pk: 7
+  reason: null
   ring: RING_000012
   subset: $\{0\}$
   subset_type: SUBSET_000001
+SUBSET_000005:
+  citation: []
+  crosstable_pk: 254
+  reason: 'Logic (rings) 488: has Right singular ideal $\{0\}$ <=== ring is nonsingular
+    on the right'
+  ring: RING_000012
+  subset: $\{0\}$
+  subset_type: SUBSET_000005
+SUBSET_000006:
+  citation: []
+  crosstable_pk: 255
+  reason: 'Logic (rings) 487: has Left singular ideal $\{0\}$ <=== ring is nonsingular
+    on the left'
+  ring: RING_000012
+  subset: $\{0\}$
+  subset_type: SUBSET_000006
+SUBSET_000007:
+  citation: []
+  crosstable_pk: 256
+  reason: 'Logic (rings) 489: has Right socle $R$ <=== ring is semisimple'
+  ring: RING_000012
+  subset: $R$
+  subset_type: SUBSET_000007
+SUBSET_000008:
+  citation: []
+  crosstable_pk: 257
+  reason: 'Logic (rings) 490: has Left socle $R$ <=== ring is semisimple'
+  ring: RING_000012
+  subset: $R$
+  subset_type: SUBSET_000008

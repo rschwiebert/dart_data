@@ -1,0 +1,8 @@
+SUBSET_000006:
+  citation: []
+  crosstable_pk: 301
+  reason: 'Logic (rings) 487: has Left singular ideal $\{0\}$ <=== ring is nonsingular
+    on the left'
+  ring: RING_000039
+  subset: $\{0\}$
+  subset_type: SUBSET_000006

@@ -623,11 +623,12 @@ PROP_000083:
   citation_right: []
   crosstable_pk: 15135
   has_on_left: true
-  has_on_right: null
+  has_on_right: true
   property: PROP_000083
   reason_left: 'Logic 203: Dedekind finite and principally injective on the right
     ===> cohopfian on the right'
-  reason_right: null
+  reason_right: 'Logic (rings) 203: \( "cohopfian" on the right\) <=== \( "Dedekind
+    finite" \) AND \( "principally injective" on the right\).'
   ring: RING_000115
 PROP_000085:
   citation_left: []
@@ -645,31 +646,34 @@ PROP_000086:
   citation_right: []
   crosstable_pk: 15127
   has_on_left: false
-  has_on_right: null
+  has_on_right: false
   property: PROP_000086
   reason_left: 'Logic 116: Goldie on the right <==> ACC annihilator on the right and
     finite uniform dimension on the right'
-  reason_right: null
+  reason_right: 'Logic (rings) 116: \(NOT "Goldie" on the right\) <=== \(NOT "ACC
+    annihilator" on the right\).'
   ring: RING_000115
 PROP_000089:
   citation_left: []
   citation_right: []
   crosstable_pk: 15116
   has_on_left: false
-  has_on_right: null
+  has_on_right: false
   property: PROP_000089
   reason_left: 'Logic 417: ACC annihilator on the right and principally injective
     on the right ===> Artinian on the left'
-  reason_right: null
+  reason_right: 'Logic (rings) 417: \(NOT "ACC annihilator" on the right\) <=== \(NOT
+    "Artinian" on the left\) AND \( "principally injective" on the right\).'
   ring: RING_000115
 PROP_000090:
   citation_left: []
   citation_right: []
   crosstable_pk: 15128
-  has_on_left: null
+  has_on_left: false
   has_on_right: false
   property: PROP_000090
-  reason_left: null
+  reason_left: 'Logic (rings) 120: \(NOT "DCC annihilator" on the left\) <=== \(NOT
+    "ACC annihilator" on the right\).'
   reason_right: 'Logic 120: ACC annihilator on the right <==> DCC annihilator on the
     left'
   ring: RING_000115
@@ -706,16 +710,29 @@ PROP_000093:
   reason_right: 'Logic 139: free ideal ring on the left or right ===> semi free ideal
     ring'
   ring: RING_000115
+PROP_000094:
+  citation_left: []
+  citation_right: []
+  crosstable_pk: 19204
+  has_on_left: true
+  has_on_right: true
+  property: PROP_000094
+  reason_left: 'Logic (rings) 478: \( "Ore ring" on the left\) <=== \( "cohopfian"
+    on the left\).'
+  reason_right: 'Logic (rings) 478: \( "Ore ring" on the right\) <=== \( "cohopfian"
+    on the right\).'
+  ring: RING_000115
 PROP_000095:
   citation_left: []
   citation_right: []
   crosstable_pk: 15084
   has_on_left: true
-  has_on_right: null
+  has_on_right: true
   property: PROP_000095
   reason_left: 'Logic 90: self-injective on the right ===> principally injective on
     the right'
-  reason_right: null
+  reason_right: 'Logic (rings) 475: \( "principally injective" on the right\) <===
+    \( "dual" on the left\).'
   ring: RING_000115
 PROP_000099:
   citation_left: []

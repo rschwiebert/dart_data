@@ -919,6 +919,18 @@ PROP_000088:
   reason_left: 'Logic 162: perfect on the right ===> ACC principal on the left'
   reason_right: 'Logic 162: perfect on the right ===> ACC principal on the left'
   ring: RING_000062
+PROP_000091:
+  citation_left: []
+  citation_right: []
+  crosstable_pk: 19175
+  has_on_left: false
+  has_on_right: false
+  property: PROP_000091
+  reason_left: 'Logic (rings) logical AND: ring_deduced("lacks",2,Y) <=== \( "commutative"
+    \) AND ring_deduced("lacks",1,Y).'
+  reason_right: 'Logic (rings) logical AND: ring_deduced("lacks",3,Y) <=== \( "commutative"
+    \) AND ring_deduced("lacks",1,Y).'
+  ring: RING_000062
 PROP_000092:
   citation_left: []
   citation_right: []

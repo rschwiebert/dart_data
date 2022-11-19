@@ -6,5 +6,5 @@ keywords:
 - KWD_000003
 krull_dim: '0'
 name: $k[x^{1/2},x^{1/4},x^{1/8},...]/(x)$
-notes: Local with an idempotent, nilpotent maximal ideal.
+notes: Local with an idempotent, nil maximal ideal.
 optional_template: ''

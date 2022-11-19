@@ -4,6 +4,8 @@ DIM_000001:
   crosstable_pk: 322
   dimension_type: DIM_000001
   left_dimension: '1'
+  reason_left: null
+  reason_right: null
   right_dimension: '1'
   ring: RING_000117
 DIM_000003:
@@ -11,5 +13,7 @@ DIM_000003:
   crosstable_pk: 323
   dimension_type: DIM_000003
   left_dimension: $\aleph_0$
+  reason_left: null
+  reason_right: null
   right_dimension: $\aleph_0$
   ring: RING_000117

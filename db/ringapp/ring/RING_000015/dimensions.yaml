@@ -3,6 +3,8 @@ DIM_000001:
   crosstable_pk: 24
   dimension_type: DIM_000001
   left_dimension: '1'
+  reason_left: null
+  reason_right: null
   right_dimension: '1'
   ring: RING_000015
 DIM_000002:
@@ -10,6 +12,8 @@ DIM_000002:
   crosstable_pk: 152
   dimension_type: DIM_000002
   left_dimension: $\infty$
+  reason_left: null
+  reason_right: null
   right_dimension: $\infty$
   ring: RING_000015
 DIM_000003:
@@ -17,6 +21,8 @@ DIM_000003:
   crosstable_pk: 306
   dimension_type: DIM_000003
   left_dimension: $\mathfrak c$
+  reason_left: null
+  reason_right: null
   right_dimension: $\mathfrak c$
   ring: RING_000015
 DIM_000005:
@@ -24,5 +30,9 @@ DIM_000005:
   crosstable_pk: 118
   dimension_type: DIM_000005
   left_dimension: '0'
+  reason_left: 'Logic (rings) 481: has weak global dimension 0 <=== ring is von Neumann
+    regular'
+  reason_right: 'Logic (rings) 481: has weak global dimension 0 <=== ring is von Neumann
+    regular'
   right_dimension: '0'
   ring: RING_000015

@@ -1,0 +1,7 @@
+active: true
+citation: []
+concs: ring_dim_deduced("0",0,5)
+hyps: ring_deduced("has",0,14)
+readable: ring is von Neumann regular <==> has weak global dimension 0
+symmetric: true
+variety: 1

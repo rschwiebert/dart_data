@@ -1,0 +1,7 @@
+SUBSET_000001:
+  citation: []
+  crosstable_pk: 527
+  reason: 'Logic (rings) 482: has Jacobson radical $\{0\}$ <=== ring is semiprimitive'
+  ring: RING_000133
+  subset: $\{0\}$
+  subset_type: SUBSET_000001

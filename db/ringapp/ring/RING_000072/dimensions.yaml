@@ -3,6 +3,8 @@ DIM_000001:
   crosstable_pk: 60
   dimension_type: DIM_000001
   left_dimension: '0'
+  reason_left: null
+  reason_right: null
   right_dimension: '0'
   ring: RING_000072
 DIM_000003:
@@ -10,5 +12,7 @@ DIM_000003:
   crosstable_pk: 87
   dimension_type: DIM_000003
   left_dimension: '512'
+  reason_left: null
+  reason_right: null
   right_dimension: '512'
   ring: RING_000072

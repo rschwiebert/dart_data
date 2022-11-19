@@ -1,0 +1,7 @@
+active: true
+citation: []
+concs: ring_subset_deduced("$R$",7)
+hyps: ring_deduced("has",0,5)
+readable: ring is semisimple <==> has Right socle $R$
+symmetric: true
+variety: 1

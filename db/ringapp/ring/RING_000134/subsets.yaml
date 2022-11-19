@@ -1,6 +1,14 @@
 SUBSET_000001:
   citation: []
   crosstable_pk: 219
+  reason: null
   ring: RING_000134
   subset: $(a)=(a,b)$.
   subset_type: SUBSET_000001
+SUBSET_000004:
+  citation: []
+  crosstable_pk: 528
+  reason: 'Logic (rings) 486: has Idempotents $\{0,1\}$ <=== ring is strongly connected'
+  ring: RING_000134
+  subset: $\{0,1\}$
+  subset_type: SUBSET_000004

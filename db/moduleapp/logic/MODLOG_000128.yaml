@@ -1,0 +1,7 @@
+active: true
+citation: []
+concs: module_deduced("has",50)
+hyps: ring_deduced("has",3,25) AND module_deduced("has",3)
+readable: ring is semiperfect on the right AND module is finitely generated  ===>  module
+  is has a projective cover
+variety: 0

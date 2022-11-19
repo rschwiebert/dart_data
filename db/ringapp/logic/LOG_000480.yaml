@@ -1,0 +1,7 @@
+active: true
+citation: []
+concs: ring_dim_deduced("0",2,4)
+hyps: ring_deduced("has",0,5)
+readable: ring is semisimple <==> has global dimension 0 on the left
+symmetric: false
+variety: 1

@@ -3,6 +3,8 @@ DIM_000001:
   crosstable_pk: 20
   dimension_type: DIM_000001
   left_dimension: '0'
+  reason_left: null
+  reason_right: null
   right_dimension: '0'
   ring: RING_000017
 DIM_000002:
@@ -10,6 +12,8 @@ DIM_000002:
   crosstable_pk: 3
   dimension_type: DIM_000002
   left_dimension: '1'
+  reason_left: null
+  reason_right: null
   right_dimension: '1'
   ring: RING_000017
 DIM_000003:
@@ -17,6 +21,8 @@ DIM_000003:
   crosstable_pk: 243
   dimension_type: DIM_000003
   left_dimension: $\aleph_0$
+  reason_left: null
+  reason_right: null
   right_dimension: $\aleph_0$
   ring: RING_000017
 DIM_000004:
@@ -24,6 +30,8 @@ DIM_000004:
   crosstable_pk: 89
   dimension_type: DIM_000004
   left_dimension: '0'
+  reason_left: null
+  reason_right: null
   right_dimension: '0'
   ring: RING_000017
 DIM_000005:
@@ -31,5 +39,9 @@ DIM_000005:
   crosstable_pk: 134
   dimension_type: DIM_000005
   left_dimension: '0'
+  reason_left: 'Logic (rings) 481: has weak global dimension 0 <=== ring is von Neumann
+    regular'
+  reason_right: 'Logic (rings) 481: has weak global dimension 0 <=== ring is von Neumann
+    regular'
   right_dimension: '0'
   ring: RING_000017

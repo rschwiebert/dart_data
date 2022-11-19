@@ -4,5 +4,7 @@ DIM_000001:
   crosstable_pk: 325
   dimension_type: DIM_000001
   left_dimension: '1'
+  reason_left: null
+  reason_right: null
   right_dimension: '1'
   ring: RING_000123

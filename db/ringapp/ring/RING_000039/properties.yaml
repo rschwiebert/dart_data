@@ -920,6 +920,18 @@ PROP_000093:
     ring'
   reason_right: 'Logic 140: free ideal ring on the right ===> hereditary on the right'
   ring: RING_000039
+PROP_000094:
+  citation_left: []
+  citation_right: []
+  crosstable_pk: 19169
+  has_on_left: true
+  has_on_right: true
+  property: PROP_000094
+  reason_left: 'Logic (rings) 478: \( "Ore ring" on the left\) <=== \( "cohopfian"
+    on the left\).'
+  reason_right: 'Logic (rings) 478: \( "Ore ring" on the right\) <=== \( "cohopfian"
+    on the right\).'
+  ring: RING_000039
 PROP_000097:
   citation_left: []
   citation_right: []

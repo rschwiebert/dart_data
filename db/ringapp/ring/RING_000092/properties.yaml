@@ -640,6 +640,30 @@ PROP_000069:
   reason_right: 'Logic 56: Ore domain on the right <==> domain and Ore ring on the
     right'
   ring: RING_000092
+PROP_000070:
+  citation_left: []
+  citation_right: []
+  crosstable_pk: 19186
+  has_on_left: false
+  has_on_right: false
+  property: PROP_000070
+  reason_left: 'Logic (rings) logical AND: ring_deduced("lacks",2,Y) <=== \( "commutative"
+    \) AND ring_deduced("lacks",1,Y).'
+  reason_right: 'Logic (rings) logical AND: ring_deduced("lacks",3,Y) <=== \( "commutative"
+    \) AND ring_deduced("lacks",1,Y).'
+  ring: RING_000092
+PROP_000071:
+  citation_left: []
+  citation_right: []
+  crosstable_pk: 19187
+  has_on_left: false
+  has_on_right: false
+  property: PROP_000071
+  reason_left: 'Logic (rings) 204: \(NOT "semihereditary" on the left\) <=== \(NOT
+    "hereditary" on the left\) AND \( "Noetherian" on the left\).'
+  reason_right: 'Logic (rings) 204: \(NOT "semihereditary" on the right\) <=== \(NOT
+    "hereditary" on the right\) AND \( "Noetherian" on the right\).'
+  ring: RING_000092
 PROP_000072:
   citation_left: []
   citation_right: []
@@ -955,6 +979,18 @@ PROP_000103:
   reason_right: 'Logic 212: finitely cogenerated on the right <==> essential socle
     on the right and finitely generated socle on the right'
   ring: RING_000092
+PROP_000104:
+  citation_left: []
+  citation_right: []
+  crosstable_pk: 19188
+  has_on_left: false
+  has_on_right: false
+  property: PROP_000104
+  reason_left: 'Logic (rings) logical AND: ring_deduced("lacks",2,Y) <=== \( "commutative"
+    \) AND ring_deduced("lacks",1,Y).'
+  reason_right: 'Logic (rings) logical AND: ring_deduced("lacks",3,Y) <=== \( "commutative"
+    \) AND ring_deduced("lacks",1,Y).'
+  ring: RING_000092
 PROP_000105:
   citation_left: []
   citation_right: []
@@ -1028,6 +1064,18 @@ PROP_000111:
   reason_left: It has Krull dimension 2, but a Dedekind domain must have Krull dimension
     1
   reason_right: symmetry with left side
+  ring: RING_000092
+PROP_000112:
+  citation_left: []
+  citation_right: []
+  crosstable_pk: 19185
+  has_on_left: false
+  has_on_right: false
+  property: PROP_000112
+  reason_left: 'Logic (rings) 408: \(NOT "Prufer domain" \) <=== \(NOT "semihereditary"
+    on the left or right\) AND \( "commutative" \).'
+  reason_right: 'Logic (rings) 408: \(NOT "Prufer domain" \) <=== \(NOT "semihereditary"
+    on the left or right\) AND \( "commutative" \).'
   ring: RING_000092
 PROP_000113:
   citation_left: []
