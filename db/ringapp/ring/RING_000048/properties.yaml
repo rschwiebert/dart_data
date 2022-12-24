@@ -574,6 +574,16 @@ PROP_000056:
   reason_left: 'Logic 302: Euclidean field ===> ordered field'
   reason_right: 'Logic 302: Euclidean field ===> ordered field'
   ring: RING_000048
+PROP_000057:
+  citation_left: []
+  citation_right: []
+  crosstable_pk: 19333
+  has_on_left: false
+  has_on_right: false
+  property: PROP_000057
+  reason_left: There's no square root of $x$
+  reason_right: symmetry with left side
+  ring: RING_000048
 PROP_000058:
   citation_left: []
   citation_right: []
@@ -1658,4 +1668,73 @@ PROP_000158:
     cancellation)'
   reason_right: 'Logic 471: unique generator property on the left ===> IC (internal
     cancellation)'
+  ring: RING_000048
+PROP_000159:
+  citation_left: []
+  citation_right: []
+  crosstable_pk: 19503
+  has_on_left: true
+  has_on_right: true
+  property: PROP_000159
+  reason_left: 'Logic (rings) 492: \( "arithmetical" \) <=== \( "commutative" \) AND
+    \( "distributive" on the left or right\).'
+  reason_right: 'Logic (rings) 492: \( "arithmetical" \) <=== \( "commutative" \)
+    AND \( "distributive" on the left or right\).'
+  ring: RING_000048
+PROP_000160:
+  citation_left: []
+  citation_right: []
+  crosstable_pk: 19507
+  has_on_left: false
+  has_on_right: false
+  property: PROP_000160
+  reason_left: 'Logic (rings) 499: \(NOT "discrete valuation ring" \) <=== \( "field"
+    \).'
+  reason_right: 'Logic (rings) 499: \(NOT "discrete valuation ring" \) <=== \( "field"
+    \).'
+  ring: RING_000048
+PROP_000161:
+  citation_left: []
+  citation_right: []
+  crosstable_pk: 19508
+  has_on_left: false
+  has_on_right: false
+  property: PROP_000161
+  reason_left: 'Logic (rings) 495: \(NOT "complete discrete valuation ring" \) <===
+    \(NOT "discrete valuation ring" \).'
+  reason_right: 'Logic (rings) 495: \(NOT "complete discrete valuation ring" \) <===
+    \(NOT "discrete valuation ring" \).'
+  ring: RING_000048
+PROP_000162:
+  citation_left: []
+  citation_right: []
+  crosstable_pk: 19504
+  has_on_left: true
+  has_on_right: true
+  property: PROP_000162
+  reason_left: 'Logic (rings) 496: \( "anti-automorphic" \) <=== \( "involutive" \).'
+  reason_right: 'Logic (rings) 496: \( "anti-automorphic" \) <=== \( "involutive"
+    \).'
+  ring: RING_000048
+PROP_000163:
+  citation_left: []
+  citation_right: []
+  crosstable_pk: 19505
+  has_on_left: true
+  has_on_right: true
+  property: PROP_000163
+  reason_left: 'Logic (rings) 497: \( "involutive" \) <=== \( "commutative" \).'
+  reason_right: 'Logic (rings) 497: \( "involutive" \) <=== \( "commutative" \).'
+  ring: RING_000048
+PROP_000166:
+  citation_left: []
+  citation_right: []
+  crosstable_pk: 19506
+  has_on_left: true
+  has_on_right: true
+  property: PROP_000166
+  reason_left: 'Logic (rings) 506: \( "$h$-local domain" \) <=== \( "commutative"
+    \) AND \( "domain" \) AND \( "local" \).'
+  reason_right: 'Logic (rings) 506: \( "$h$-local domain" \) <=== \( "commutative"
+    \) AND \( "domain" \) AND \( "local" \).'
   ring: RING_000048

@@ -1,0 +1,7 @@
+active: true
+citation: []
+concs: ring_deduced("lacks",0,54)
+hyps: ring_deduced("has",0,160)
+readable: ring is discrete valuation ring ===> ring is not field
+symmetric: true
+variety: 0

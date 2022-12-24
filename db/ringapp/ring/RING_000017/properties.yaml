@@ -1678,3 +1678,72 @@ PROP_000158:
   reason_right: 'Logic 471: unique generator property on the left ===> IC (internal
     cancellation)'
   ring: RING_000017
+PROP_000159:
+  citation_left: []
+  citation_right: []
+  crosstable_pk: 19303
+  has_on_left: true
+  has_on_right: true
+  property: PROP_000159
+  reason_left: 'Logic (rings) 492: \( "arithmetical" \) <=== \( "commutative" \) AND
+    \( "distributive" on the left or right\).'
+  reason_right: 'Logic (rings) 492: \( "arithmetical" \) <=== \( "commutative" \)
+    AND \( "distributive" on the left or right\).'
+  ring: RING_000017
+PROP_000160:
+  citation_left: []
+  citation_right: []
+  crosstable_pk: 19307
+  has_on_left: false
+  has_on_right: false
+  property: PROP_000160
+  reason_left: 'Logic (rings) 499: \(NOT "discrete valuation ring" \) <=== \( "field"
+    \).'
+  reason_right: 'Logic (rings) 499: \(NOT "discrete valuation ring" \) <=== \( "field"
+    \).'
+  ring: RING_000017
+PROP_000161:
+  citation_left: []
+  citation_right: []
+  crosstable_pk: 19308
+  has_on_left: false
+  has_on_right: false
+  property: PROP_000161
+  reason_left: 'Logic (rings) 495: \(NOT "complete discrete valuation ring" \) <===
+    \(NOT "discrete valuation ring" \).'
+  reason_right: 'Logic (rings) 495: \(NOT "complete discrete valuation ring" \) <===
+    \(NOT "discrete valuation ring" \).'
+  ring: RING_000017
+PROP_000162:
+  citation_left: []
+  citation_right: []
+  crosstable_pk: 19304
+  has_on_left: true
+  has_on_right: true
+  property: PROP_000162
+  reason_left: 'Logic (rings) 496: \( "anti-automorphic" \) <=== \( "involutive" \).'
+  reason_right: 'Logic (rings) 496: \( "anti-automorphic" \) <=== \( "involutive"
+    \).'
+  ring: RING_000017
+PROP_000163:
+  citation_left: []
+  citation_right: []
+  crosstable_pk: 19305
+  has_on_left: true
+  has_on_right: true
+  property: PROP_000163
+  reason_left: 'Logic (rings) 497: \( "involutive" \) <=== \( "commutative" \).'
+  reason_right: 'Logic (rings) 497: \( "involutive" \) <=== \( "commutative" \).'
+  ring: RING_000017
+PROP_000166:
+  citation_left: []
+  citation_right: []
+  crosstable_pk: 19306
+  has_on_left: true
+  has_on_right: true
+  property: PROP_000166
+  reason_left: 'Logic (rings) 506: \( "$h$-local domain" \) <=== \( "commutative"
+    \) AND \( "domain" \) AND \( "local" \).'
+  reason_right: 'Logic (rings) 506: \( "$h$-local domain" \) <=== \( "commutative"
+    \) AND \( "domain" \) AND \( "local" \).'
+  ring: RING_000017

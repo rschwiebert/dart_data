@@ -1,0 +1,7 @@
+active: true
+citation: []
+concs: ring_deduced("has",0,8)
+hyps: ring_deduced("has",0,166)
+readable: ring is $h$-local domain ===> ring is domain
+symmetric: true
+variety: 0

@@ -1382,3 +1382,15 @@ PROP_000158:
   reason_right: 'Logic 471: unique generator property on the left ===> IC (internal
     cancellation)'
   ring: RING_000005
+PROP_000159:
+  citation_left: []
+  citation_right: []
+  crosstable_pk: 19242
+  has_on_left: false
+  has_on_right: false
+  property: PROP_000159
+  reason_left: 'Logic (rings) 492: \(NOT "arithmetical" \) <=== \(NOT "commutative"
+    \).'
+  reason_right: 'Logic (rings) 492: \(NOT "arithmetical" \) <=== \(NOT "commutative"
+    \).'
+  ring: RING_000005

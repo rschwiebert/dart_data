@@ -1,0 +1,6 @@
+citation: []
+commutative_only: false
+definition: There exists an anti-automorphism $\tau:R\to R$ such that $\tau^2$ is
+  the identity map on $R$.
+name: involutive
+symmetric: true

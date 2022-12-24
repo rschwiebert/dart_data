@@ -1,0 +1,15 @@
+citation: []
+description: The ring of germs (at the origin) of holomorphic functions on $\mathbb
+  C^n$, where $n>1$. This can also be described as the subring of the power series
+  ring in $n$ variables over $\mathbb C$ whose members have positive radius of convergence
+  at the origin.
+is_commutative: true
+keywords:
+- KWD_000070
+- KWD_000012
+- KWD_000016
+- KWD_000007
+krull_dim: null
+name: ring of germs of holomorphic functions on $\mathbb C^n$, $n>1$
+notes: null
+optional_template: ''

@@ -1,3 +1,14 @@
+DIM_000001:
+  citation: []
+  crosstable_pk: 386
+  dimension_type: DIM_000001
+  left_dimension: '1'
+  reason_left: 'Logic (rings) 515: has Krull dimension (classical) 1 <=== ring is
+    discrete valuation ring'
+  reason_right: 'Logic (rings) 515: has Krull dimension (classical) 1 <=== ring is
+    discrete valuation ring'
+  right_dimension: '1'
+  ring: RING_000160
 DIM_000003:
   citation: []
   crosstable_pk: 361
@@ -6,4 +17,15 @@ DIM_000003:
   reason_left: null
   reason_right: null
   right_dimension: $\aleph_0$
+  ring: RING_000160
+DIM_000004:
+  citation: []
+  crosstable_pk: 385
+  dimension_type: DIM_000004
+  left_dimension: '1'
+  reason_left: 'Logic (rings) 479: has global dimension 1 on the left <=== ring is
+    hereditary on the left AND ring is not semisimple'
+  reason_right: 'Logic (rings) 479: has global dimension 1 on the right <=== ring
+    is hereditary on the right AND ring is not semisimple'
+  right_dimension: '1'
   ring: RING_000160

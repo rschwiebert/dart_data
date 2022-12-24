@@ -1197,3 +1197,36 @@ PROP_000158:
   reason_right: 'Logic 471: unique generator property on the left ===> IC (internal
     cancellation)'
   ring: RING_000128
+PROP_000162:
+  citation_left: []
+  citation_right: []
+  crosstable_pk: 19359
+  has_on_left: true
+  has_on_right: true
+  property: PROP_000162
+  reason_left: 'Logic (rings) 496: \( "anti-automorphic" \) <=== \( "involutive" \).'
+  reason_right: 'Logic (rings) 496: \( "anti-automorphic" \) <=== \( "involutive"
+    \).'
+  ring: RING_000128
+PROP_000163:
+  citation_left: []
+  citation_right: []
+  crosstable_pk: 19360
+  has_on_left: true
+  has_on_right: true
+  property: PROP_000163
+  reason_left: 'Logic (rings) 497: \( "involutive" \) <=== \( "commutative" \).'
+  reason_right: 'Logic (rings) 497: \( "involutive" \) <=== \( "commutative" \).'
+  ring: RING_000128
+PROP_000166:
+  citation_left: []
+  citation_right: []
+  crosstable_pk: 19361
+  has_on_left: true
+  has_on_right: true
+  property: PROP_000166
+  reason_left: 'Logic (rings) 506: \( "$h$-local domain" \) <=== \( "commutative"
+    \) AND \( "domain" \) AND \( "local" \).'
+  reason_right: 'Logic (rings) 506: \( "$h$-local domain" \) <=== \( "commutative"
+    \) AND \( "domain" \) AND \( "local" \).'
+  ring: RING_000128

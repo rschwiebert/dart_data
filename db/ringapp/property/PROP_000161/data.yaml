@@ -1,0 +1,6 @@
+citation: []
+commutative_only: true
+definition: $R$ is a valuation ring and it is complete with respect to the metric
+  furnished by its valuation
+name: complete discrete valuation ring
+symmetric: true

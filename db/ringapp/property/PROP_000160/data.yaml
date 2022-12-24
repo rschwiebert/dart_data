@@ -1,0 +1,5 @@
+citation: []
+commutative_only: true
+definition: $R$ is a valuation ring with value group isomorphic to $(\mathbb Z,+)$
+name: discrete valuation ring
+symmetric: true

@@ -1,0 +1,8 @@
+active: true
+citation:
+- CITE_000520
+concs: ring_deduced("has",0,168)
+hyps: ring_deduced("has",0,165)
+readable: ring is almost maximal valuation ring ===> ring is FGC
+symmetric: true
+variety: 0

@@ -1181,6 +1181,18 @@ PROP_000113:
   reason_right: 'Logic 299: commutative and Euclidean domain ===> principal ideal
     domain on the left and right'
   ring: RING_000065
+PROP_000114:
+  citation_left: []
+  citation_right: []
+  crosstable_pk: 19353
+  has_on_left: false
+  has_on_right: false
+  property: PROP_000114
+  reason_left: 'Logic (rings) 341: \(NOT "unique factorization domain" \) <=== \(NOT
+    "Schreier domain" \) AND \( "commutative" \).'
+  reason_right: 'Logic (rings) 341: \(NOT "unique factorization domain" \) <=== \(NOT
+    "Schreier domain" \) AND \( "commutative" \).'
+  ring: RING_000065
 PROP_000115:
   citation_left: []
   citation_right: []
@@ -1200,6 +1212,30 @@ PROP_000116:
   property: PROP_000116
   reason_left: 'Logic 318: regular local <==> local and regular'
   reason_right: 'Logic 318: regular local <==> local and regular'
+  ring: RING_000065
+PROP_000118:
+  citation_left: []
+  citation_right: []
+  crosstable_pk: 19354
+  has_on_left: false
+  has_on_right: false
+  property: PROP_000118
+  reason_left: 'Logic (rings) 326: \(NOT "normal" \) <=== \(NOT "normal domain" \)
+    AND \( "domain" \).'
+  reason_right: 'Logic (rings) 326: \(NOT "normal" \) <=== \(NOT "normal domain" \)
+    AND \( "domain" \).'
+  ring: RING_000065
+PROP_000123:
+  citation_left: []
+  citation_right: []
+  crosstable_pk: 19355
+  has_on_left: false
+  has_on_right: false
+  property: PROP_000123
+  reason_left: 'Logic (rings) 307: \(NOT "GCD domain" \) <=== \(NOT "Schreier domain"
+    \).'
+  reason_right: 'Logic (rings) 307: \(NOT "GCD domain" \) <=== \(NOT "Schreier domain"
+    \).'
   ring: RING_000065
 PROP_000124:
   citation_left: []
@@ -1223,6 +1259,32 @@ PROP_000125:
   reason_left: 'Logic 325: 2-primal and Jacobson (Hilbert) ===> rad-nil'
   reason_right: 'Logic 325: 2-primal and Jacobson (Hilbert) ===> rad-nil'
   ring: RING_000065
+PROP_000126:
+  citation_left: []
+  citation_right: []
+  crosstable_pk: 19356
+  has_on_left: false
+  has_on_right: false
+  property: PROP_000126
+  reason_left: 'Logic (rings) 319: \(NOT "Schreier domain" \) <=== \(NOT "normal domain"
+    \).'
+  reason_right: 'Logic (rings) 319: \(NOT "Schreier domain" \) <=== \(NOT "normal
+    domain" \).'
+  ring: RING_000065
+PROP_000127:
+  citation_left: []
+  citation_right: []
+  crosstable_pk: 19357
+  has_on_left: false
+  has_on_right: false
+  property: PROP_000127
+  reason_left: 'Logic (rings) 512: \(NOT "normal domain" \) <=== \(NOT "discrete valuation
+    ring" \) AND \( "commutative" \) AND \( "local" \) AND \( "Noetherian" on the
+    left or right\) AND ring_dim_deduced("1",2,1).'
+  reason_right: 'Logic (rings) 512: \(NOT "normal domain" \) <=== \(NOT "discrete
+    valuation ring" \) AND \( "commutative" \) AND \( "local" \) AND \( "Noetherian"
+    on the left or right\) AND ring_dim_deduced("1",2,1).'
+  ring: RING_000065
 PROP_000128:
   citation_left: []
   citation_right: []
@@ -1232,6 +1294,18 @@ PROP_000128:
   property: PROP_000128
   reason_left: local, not a field, and maximal ideal not nilpotent
   reason_right: symmetry with left side
+  ring: RING_000065
+PROP_000130:
+  citation_left: []
+  citation_right: []
+  crosstable_pk: 19358
+  has_on_left: false
+  has_on_right: false
+  property: PROP_000130
+  reason_left: 'Logic (rings) 285: \(NOT "Krull domain" \) <=== \(NOT "normal domain"
+    \).'
+  reason_right: 'Logic (rings) 285: \(NOT "Krull domain" \) <=== \(NOT "normal domain"
+    \).'
   ring: RING_000065
 PROP_000131:
   citation_left: []
@@ -1433,4 +1507,73 @@ PROP_000158:
     cancellation)'
   reason_right: 'Logic 471: unique generator property on the left ===> IC (internal
     cancellation)'
+  ring: RING_000065
+PROP_000159:
+  citation_left: []
+  citation_right: []
+  crosstable_pk: 19350
+  has_on_left: false
+  has_on_right: false
+  property: PROP_000159
+  reason_left: 'Logic (rings) 491: \(NOT "arithmetical" \) <=== \(NOT "Prufer domain"
+    \) AND \( "domain" \).'
+  reason_right: 'Logic (rings) 491: \(NOT "arithmetical" \) <=== \(NOT "Prufer domain"
+    \) AND \( "domain" \).'
+  ring: RING_000065
+PROP_000160:
+  citation_left: []
+  citation_right: []
+  crosstable_pk: 19351
+  has_on_left: false
+  has_on_right: false
+  property: PROP_000160
+  reason_left: 'Logic (rings) 493: \(NOT "discrete valuation ring" \) <=== \(NOT "valuation
+    domain" on the left and right\).'
+  reason_right: 'Logic (rings) 493: \(NOT "discrete valuation ring" \) <=== \(NOT
+    "valuation domain" on the left and right\).'
+  ring: RING_000065
+PROP_000161:
+  citation_left: []
+  citation_right: []
+  crosstable_pk: 19352
+  has_on_left: false
+  has_on_right: false
+  property: PROP_000161
+  reason_left: 'Logic (rings) 495: \(NOT "complete discrete valuation ring" \) <===
+    \(NOT "discrete valuation ring" \).'
+  reason_right: 'Logic (rings) 495: \(NOT "complete discrete valuation ring" \) <===
+    \(NOT "discrete valuation ring" \).'
+  ring: RING_000065
+PROP_000162:
+  citation_left: []
+  citation_right: []
+  crosstable_pk: 19347
+  has_on_left: true
+  has_on_right: true
+  property: PROP_000162
+  reason_left: 'Logic (rings) 496: \( "anti-automorphic" \) <=== \( "involutive" \).'
+  reason_right: 'Logic (rings) 496: \( "anti-automorphic" \) <=== \( "involutive"
+    \).'
+  ring: RING_000065
+PROP_000163:
+  citation_left: []
+  citation_right: []
+  crosstable_pk: 19348
+  has_on_left: true
+  has_on_right: true
+  property: PROP_000163
+  reason_left: 'Logic (rings) 497: \( "involutive" \) <=== \( "commutative" \).'
+  reason_right: 'Logic (rings) 497: \( "involutive" \) <=== \( "commutative" \).'
+  ring: RING_000065
+PROP_000166:
+  citation_left: []
+  citation_right: []
+  crosstable_pk: 19349
+  has_on_left: true
+  has_on_right: true
+  property: PROP_000166
+  reason_left: 'Logic (rings) 506: \( "$h$-local domain" \) <=== \( "commutative"
+    \) AND \( "domain" \) AND \( "local" \).'
+  reason_right: 'Logic (rings) 506: \( "$h$-local domain" \) <=== \( "commutative"
+    \) AND \( "domain" \) AND \( "local" \).'
   ring: RING_000065

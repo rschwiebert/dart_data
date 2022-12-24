@@ -1,0 +1,7 @@
+active: true
+citation: []
+concs: ring_deduced("has",0,162)
+hyps: ring_deduced("has",0,163)
+readable: ring is involutive ===> ring is anti-automorphic
+symmetric: true
+variety: 0

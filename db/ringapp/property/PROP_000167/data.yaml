@@ -1,0 +1,6 @@
+citation: []
+commutative_only: true
+definition: $R$ is an arithmetical ring, and it has a unique minimal prime which is
+  nonzero and is uniserial as a module, and $R$ is not local.
+name: torch
+symmetric: true

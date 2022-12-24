@@ -1,0 +1,7 @@
+citation: []
+commutative_only: true
+definition: $R$ is a commutative uniserial ring such that every system of congruences
+  $x \equiv r_{\lambda } \mbox{mod} {\mathfrak {b}}_{\lambda }  (\lambda \in \Lambda
+  )$ which is pairwise soluable has a simultaneous solution in $R$.
+name: maximal valuation ring
+symmetric: true

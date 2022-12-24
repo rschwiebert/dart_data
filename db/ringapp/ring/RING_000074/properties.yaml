@@ -1001,3 +1001,15 @@ PROP_000158:
   reason_left: 'Logic 473: Abelian ===> IC (internal cancellation)'
   reason_right: 'Logic 473: Abelian ===> IC (internal cancellation)'
   ring: RING_000074
+PROP_000159:
+  citation_left: []
+  citation_right: []
+  crosstable_pk: 19772
+  has_on_left: false
+  has_on_right: false
+  property: PROP_000159
+  reason_left: 'Logic (rings) 492: \(NOT "arithmetical" \) <=== \(NOT "commutative"
+    \).'
+  reason_right: 'Logic (rings) 492: \(NOT "arithmetical" \) <=== \(NOT "commutative"
+    \).'
+  ring: RING_000074

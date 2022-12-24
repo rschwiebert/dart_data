@@ -1,0 +1,5 @@
+description: For a ring consisting of functions on a topological space $X$, "germs"
+  of functions at a predetermined point are equivalence classes of functions identified
+  as functions which match values on some open interval containing the predetermined
+  point.
+name: germs of functions

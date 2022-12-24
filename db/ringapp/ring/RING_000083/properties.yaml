@@ -397,3 +397,27 @@ PROP_000154:
   reason_right: 'Logic 415: valuation domain on the right ===> uniserial ring on the
     right'
   ring: RING_000083
+PROP_000160:
+  citation_left: []
+  citation_right: []
+  crosstable_pk: 19809
+  has_on_left: false
+  has_on_right: false
+  property: PROP_000160
+  reason_left: 'Logic (rings) 493: \(NOT "discrete valuation ring" \) <=== \(NOT "valuation
+    domain" on the left and right\).'
+  reason_right: 'Logic (rings) 493: \(NOT "discrete valuation ring" \) <=== \(NOT
+    "valuation domain" on the left and right\).'
+  ring: RING_000083
+PROP_000161:
+  citation_left: []
+  citation_right: []
+  crosstable_pk: 19810
+  has_on_left: false
+  has_on_right: false
+  property: PROP_000161
+  reason_left: 'Logic (rings) 495: \(NOT "complete discrete valuation ring" \) <===
+    \(NOT "discrete valuation ring" \).'
+  reason_right: 'Logic (rings) 495: \(NOT "complete discrete valuation ring" \) <===
+    \(NOT "discrete valuation ring" \).'
+  ring: RING_000083

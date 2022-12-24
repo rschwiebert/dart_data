@@ -1,0 +1,6 @@
+citation: []
+commutative_only: true
+definition: $R$ is a commutative uniserial ring such that for every nonzero ideal
+  $I$, the quotient $R/I$ is a maximal valuation ring.
+name: almost maximal valuation ring
+symmetric: true

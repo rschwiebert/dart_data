@@ -1393,3 +1393,63 @@ PROP_000154:
   reason_right: 'Logic 414: valuation domain on the right ===> Bezout domain on the
     right'
   ring: RING_000030
+PROP_000159:
+  citation_left: []
+  citation_right: []
+  crosstable_pk: 19544
+  has_on_left: false
+  has_on_right: false
+  property: PROP_000159
+  reason_left: 'Logic (rings) 492: \(NOT "arithmetical" \) <=== \(NOT "commutative"
+    \).'
+  reason_right: 'Logic (rings) 492: \(NOT "arithmetical" \) <=== \(NOT "commutative"
+    \).'
+  ring: RING_000030
+PROP_000160:
+  citation_left: []
+  citation_right: []
+  crosstable_pk: 19545
+  has_on_left: false
+  has_on_right: false
+  property: PROP_000160
+  reason_left: 'Logic (rings) 493: \(NOT "discrete valuation ring" \) <=== \(NOT "valuation
+    domain" on the left and right\).'
+  reason_right: 'Logic (rings) 493: \(NOT "discrete valuation ring" \) <=== \(NOT
+    "valuation domain" on the left and right\).'
+  ring: RING_000030
+PROP_000161:
+  citation_left: []
+  citation_right: []
+  crosstable_pk: 19546
+  has_on_left: false
+  has_on_right: false
+  property: PROP_000161
+  reason_left: 'Logic (rings) 495: \(NOT "complete discrete valuation ring" \) <===
+    \(NOT "discrete valuation ring" \).'
+  reason_right: 'Logic (rings) 495: \(NOT "complete discrete valuation ring" \) <===
+    \(NOT "discrete valuation ring" \).'
+  ring: RING_000030
+PROP_000166:
+  citation_left: []
+  citation_right: []
+  crosstable_pk: 19547
+  has_on_left: false
+  has_on_right: false
+  property: PROP_000166
+  reason_left: 'Logic (rings) 509: \(NOT "$h$-local domain" \) <=== \(NOT "domain"
+    \).'
+  reason_right: 'Logic (rings) 509: \(NOT "$h$-local domain" \) <=== \(NOT "domain"
+    \).'
+  ring: RING_000030
+PROP_000169:
+  citation_left: []
+  citation_right: []
+  crosstable_pk: 19548
+  has_on_left: false
+  has_on_right: false
+  property: PROP_000169
+  reason_left: 'Logic (rings) 501: \(NOT "almost maximal domain" \) <=== \(NOT "domain"
+    \).'
+  reason_right: 'Logic (rings) 501: \(NOT "almost maximal domain" \) <=== \(NOT "domain"
+    \).'
+  ring: RING_000030

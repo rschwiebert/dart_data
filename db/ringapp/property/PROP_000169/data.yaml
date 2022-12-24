@@ -1,0 +1,6 @@
+citation: []
+commutative_only: true
+definition: $R$ is an integral domain, is $h$-local, and the localization at each
+  maximal ideal is an almost maximal valuation ring.
+name: almost maximal domain
+symmetric: true

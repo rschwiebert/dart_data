@@ -1,0 +1,7 @@
+citation: []
+commutative_only: true
+definition: A commutative domain $R$ for which every nontrivial ideal is contained
+  in finitely many maximal ideals, and every nonzero prime is contained in a unique
+  maximal ideal
+name: $h$-local domain
+symmetric: true

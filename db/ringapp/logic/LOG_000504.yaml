@@ -1,0 +1,8 @@
+active: true
+citation:
+- CITE_000519
+concs: ring_deduced("has",0,168)
+hyps: ring_deduced("has",0,167)
+readable: ring is torch ===> ring is FGC
+symmetric: true
+variety: 0

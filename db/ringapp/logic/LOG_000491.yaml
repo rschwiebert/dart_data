@@ -1,0 +1,8 @@
+active: true
+citation:
+- CITE_000517
+concs: ring_deduced("has",0,112)
+hyps: ring_deduced("has",0,8) AND ring_deduced("has",0,159)
+readable: ring is domain AND ring is arithmetical ===> ring is Prufer domain
+symmetric: true
+variety: 0

@@ -1,0 +1,8 @@
+citation:
+- CITE_000516
+commutative_only: true
+definition: $R$ is commutative and the localization at each maximal ideal is a uniserial
+  ring.   (This is known to be equivalent to $R$ being a commutative distributive
+  ring.)
+name: arithmetical
+symmetric: true

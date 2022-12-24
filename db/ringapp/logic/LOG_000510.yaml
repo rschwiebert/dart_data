@@ -1,0 +1,7 @@
+active: true
+citation: []
+concs: ring_deduced("has",0,119)
+hyps: ring_deduced("has",0,143) AND ring_deduced("has",0,118)
+readable: ring is complete local AND ring is normal ===> ring is analytically normal
+symmetric: true
+variety: 0

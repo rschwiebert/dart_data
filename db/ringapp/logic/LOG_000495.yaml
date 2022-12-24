@@ -1,0 +1,8 @@
+active: true
+citation: []
+concs: ring_deduced("has",0,160)
+hyps: ring_deduced("has",0,161)
+readable: ring is complete discrete valuation ring ===> ring is discrete valuation
+  ring
+symmetric: true
+variety: 0

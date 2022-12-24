@@ -1,0 +1,7 @@
+active: true
+citation: []
+concs: ring_deduced("has",0,163)
+hyps: ring_deduced("has",0,1)
+readable: ring is commutative ===> ring is involutive
+symmetric: true
+variety: 0

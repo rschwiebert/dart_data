@@ -1,0 +1,13 @@
+citation: []
+description: Choose a prime$p$ and an infinite degree field extension$K$ of a characteristic
+  $p$ field $k$ such that $K^{p}\subseteq k$. Let the discrete valuation ring $R$
+  be the ring of formal power series over $K$ whose coefficients generate a finite
+  extension of $k$.
+is_commutative: true
+keywords:
+- KWD_000012
+- KWD_000007
+krull_dim: null
+name: DVR that is not N-2
+notes: null
+optional_template: ''
