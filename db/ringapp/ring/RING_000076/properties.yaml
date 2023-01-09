@@ -1705,3 +1705,15 @@ PROP_000163:
   reason_left: 'Logic (rings) 497: \( "involutive" \) <=== \( "commutative" \).'
   reason_right: 'Logic (rings) 497: \( "involutive" \) <=== \( "commutative" \).'
   ring: RING_000076
+PROP_000166:
+  citation_left: []
+  citation_right: []
+  crosstable_pk: 20722
+  has_on_left: true
+  has_on_right: true
+  property: PROP_000166
+  reason_left: 'Logic (rings) 507: \( "$h$-local domain" \) <=== \( "commutative"
+    \) AND \( "Noetherian" on the left or right\) AND \( "domain" \) AND ring_dim_deduced("1",0,1).'
+  reason_right: 'Logic (rings) 507: \( "$h$-local domain" \) <=== \( "commutative"
+    \) AND \( "Noetherian" on the left or right\) AND \( "domain" \) AND ring_dim_deduced("1",0,1).'
+  ring: RING_000076

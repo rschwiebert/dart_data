@@ -30,8 +30,10 @@ DIM_000004:
   crosstable_pk: 96
   dimension_type: DIM_000004
   left_dimension: '0'
-  reason_left: null
-  reason_right: null
+  reason_left: 'Logic (rings) 480: has global dimension 0 on the left <=== ring is
+    semisimple'
+  reason_right: 'Logic (rings) 480: has global dimension 0 on the right <=== ring
+    is semisimple'
   right_dimension: '0'
   ring: RING_000009
 DIM_000005:

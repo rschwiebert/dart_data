@@ -1717,3 +1717,13 @@ PROP_000166:
   reason_right: 'Logic (rings) 506: \( "$h$-local domain" \) <=== \( "commutative"
     \) AND \( "domain" \) AND \( "local" \).'
   ring: RING_000061
+PROP_000169:
+  citation_left: []
+  citation_right: []
+  crosstable_pk: 20714
+  has_on_left: false
+  has_on_right: false
+  property: PROP_000169
+  reason_left: This is a local domain that isn't a valuation ring
+  reason_right: symmetry with left side
+  ring: RING_000061

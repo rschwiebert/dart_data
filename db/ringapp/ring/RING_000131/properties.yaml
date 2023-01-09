@@ -1058,6 +1058,16 @@ PROP_000130:
   reason_left: 'Logic 285: Krull domain ===> normal domain'
   reason_right: 'Logic 285: Krull domain ===> normal domain'
   ring: RING_000131
+PROP_000133:
+  citation_left: []
+  citation_right: []
+  crosstable_pk: 20726
+  has_on_left: true
+  has_on_right: true
+  property: PROP_000133
+  reason_left: null
+  reason_right: symmetry with left side
+  ring: RING_000131
 PROP_000134:
   citation_left: []
   citation_right: []
@@ -1321,4 +1331,16 @@ PROP_000163:
   property: PROP_000163
   reason_left: 'Logic (rings) 497: \( "involutive" \) <=== \( "commutative" \).'
   reason_right: 'Logic (rings) 497: \( "involutive" \) <=== \( "commutative" \).'
+  ring: RING_000131
+PROP_000166:
+  citation_left: []
+  citation_right: []
+  crosstable_pk: 20725
+  has_on_left: true
+  has_on_right: true
+  property: PROP_000166
+  reason_left: 'Logic (rings) 507: \( "$h$-local domain" \) <=== \( "commutative"
+    \) AND \( "Noetherian" on the left or right\) AND \( "domain" \) AND ring_dim_deduced("1",0,1).'
+  reason_right: 'Logic (rings) 507: \( "$h$-local domain" \) <=== \( "commutative"
+    \) AND \( "Noetherian" on the left or right\) AND \( "domain" \) AND ring_dim_deduced("1",0,1).'
   ring: RING_000131

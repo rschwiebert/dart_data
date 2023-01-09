@@ -1,7 +1,8 @@
 active: true
 citation: []
 concs: ring_dim_deduced("1",0,1)
-hyps: ring_deduced("has",0,160)
-readable: ring is discrete valuation ring ===> has Krull dimension (classical) 1
+hyps: ring_deduced("has",0,111) AND ring_deduced("lacks",0,54)
+readable: ring is Dedekind domain AND ring is not field ===> has Krull dimension (classical)
+  1
 symmetric: true
 variety: 0

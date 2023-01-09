@@ -1,3 +1,14 @@
+DIM_000001:
+  citation: []
+  crosstable_pk: 389
+  dimension_type: DIM_000001
+  left_dimension: '1'
+  reason_left: 'Logic (rings) 515: has Krull dimension (classical) 1 <=== ring is
+    Dedekind domain AND ring is not field'
+  reason_right: 'Logic (rings) 515: has Krull dimension (classical) 1 <=== ring is
+    Dedekind domain AND ring is not field'
+  right_dimension: '1'
+  ring: RING_000034
 DIM_000002:
   citation: []
   crosstable_pk: 162
@@ -21,8 +32,10 @@ DIM_000004:
   crosstable_pk: 107
   dimension_type: DIM_000004
   left_dimension: '1'
-  reason_left: null
-  reason_right: null
+  reason_left: 'Logic (rings) 479: has global dimension 1 on the left <=== ring is
+    hereditary on the left AND ring is not semisimple'
+  reason_right: 'Logic (rings) 479: has global dimension 1 on the right <=== ring
+    is hereditary on the right AND ring is not semisimple'
   right_dimension: '1'
   ring: RING_000034
 DIM_000005:

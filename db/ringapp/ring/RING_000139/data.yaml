@@ -1,0 +1,11 @@
+citation:
+- CITE_000527
+description: Let $S=\mathbb Z/8\mathbb Z$.  The ring is the trivial extension ring
+  $R=T(S, S)$.
+is_commutative: true
+keywords:
+- KWD_000009
+krull_dim: null
+name: Commutative ring that isn't Armendariz
+notes: null
+optional_template: ''
