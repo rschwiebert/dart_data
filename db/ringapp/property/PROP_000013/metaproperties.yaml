@@ -7,6 +7,14 @@ METAPROP_000001:
   has_metaproperty: true
   metaproperty: METAPROP_000001
   property: PROP_000013
+METAPROP_000002:
+  citation: []
+  commutative_only: false
+  crosstable_pk: 274
+  example: null
+  has_metaproperty: true
+  metaproperty: METAPROP_000002
+  property: PROP_000013
 METAPROP_000004:
   citation: []
   commutative_only: false
@@ -30,4 +38,12 @@ METAPROP_000006:
   example: null
   has_metaproperty: true
   metaproperty: METAPROP_000006
+  property: PROP_000013
+METAPROP_000008:
+  citation: []
+  commutative_only: false
+  crosstable_pk: 277
+  example: null
+  has_metaproperty: true
+  metaproperty: METAPROP_000008
   property: PROP_000013

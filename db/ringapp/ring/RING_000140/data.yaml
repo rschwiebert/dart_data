@@ -1,0 +1,12 @@
+citation:
+- CITE_000530
+description: Let $K$ and $M$ be splitting fields of $x^4+5x+5$ and $x^3-18x+18$ over
+  $\mathbb Q$, and let $K=MF$.  Then $Gal(M/F)$ is cyclic with a generator $\sigma$
+  with order 3. The cyclic algebra $D=(M/F,\sigma,11)$
+is_commutative: false
+keywords:
+- KWD_000071
+krull_dim: null
+name: division ring with an antihomomorphism but no involution
+notes: null
+optional_template: ''

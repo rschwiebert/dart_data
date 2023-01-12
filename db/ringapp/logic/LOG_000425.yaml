@@ -2,7 +2,7 @@ active: true
 citation: []
 concs: ring_deduced("has",3,154)
 hyps: ring_deduced("has",0,8) AND ring_deduced("has",3,76)
-readable: ring is domain AND ring is uniserial ring on the right <==> ring is valuation
+readable: ring is domain AND ring is uniserial ring on the right <==> ring is uniserial
   domain on the right
 symmetric: false
 variety: 1

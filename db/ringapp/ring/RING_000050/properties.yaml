@@ -1650,6 +1650,30 @@ PROP_000163:
   reason_left: 'Logic (rings) 497: \( "involutive" \) <=== \( "commutative" \).'
   reason_right: 'Logic (rings) 497: \( "involutive" \) <=== \( "commutative" \).'
   ring: RING_000050
+PROP_000164:
+  citation_left: []
+  citation_right: []
+  crosstable_pk: 21351
+  has_on_left: false
+  has_on_right: false
+  property: PROP_000164
+  reason_left: 'Logic (rings) 531: \(NOT "maximal valuation ring" \) <=== \(NOT "valuation
+    ring" \).'
+  reason_right: 'Logic (rings) 531: \(NOT "maximal valuation ring" \) <=== \(NOT "valuation
+    ring" \).'
+  ring: RING_000050
+PROP_000165:
+  citation_left: []
+  citation_right: []
+  crosstable_pk: 21352
+  has_on_left: false
+  has_on_right: false
+  property: PROP_000165
+  reason_left: 'Logic (rings) 505: \(NOT "almost maximal valuation ring" \) <=== \(NOT
+    "FGC" \).'
+  reason_right: 'Logic (rings) 505: \(NOT "almost maximal valuation ring" \) <===
+    \(NOT "FGC" \).'
+  ring: RING_000050
 PROP_000166:
   citation_left: []
   citation_right: []
@@ -1662,6 +1686,28 @@ PROP_000166:
   reason_right: 'Logic (rings) 509: \(NOT "$h$-local domain" \) <=== \(NOT "domain"
     \).'
   ring: RING_000050
+PROP_000167:
+  citation_left: []
+  citation_right: []
+  crosstable_pk: 21353
+  has_on_left: false
+  has_on_right: false
+  property: PROP_000167
+  reason_left: 'Logic (rings) 518: \(NOT "torch" \) <=== \( "local" \).'
+  reason_right: 'Logic (rings) 518: \(NOT "torch" \) <=== \( "local" \).'
+  ring: RING_000050
+PROP_000168:
+  citation_left: []
+  citation_right: []
+  crosstable_pk: 21354
+  has_on_left: false
+  has_on_right: false
+  property: PROP_000168
+  reason_left: 'Logic (rings) 516: \(NOT "FGC" \) <=== \(NOT "Bezout" on the left
+    and right\).'
+  reason_right: 'Logic (rings) 516: \(NOT "FGC" \) <=== \(NOT "Bezout" on the left
+    and right\).'
+  ring: RING_000050
 PROP_000169:
   citation_left: []
   citation_right: []
@@ -1672,5 +1718,65 @@ PROP_000169:
   reason_left: 'Logic (rings) 501: \(NOT "almost maximal domain" \) <=== \(NOT "domain"
     \).'
   reason_right: 'Logic (rings) 501: \(NOT "almost maximal domain" \) <=== \(NOT "domain"
+    \).'
+  ring: RING_000050
+PROP_000170:
+  citation_left: []
+  citation_right: []
+  crosstable_pk: 21359
+  has_on_left: true
+  has_on_right: true
+  property: PROP_000170
+  reason_left: 'Logic (rings) 519: \( "linearly compact" on the left\) <=== \( "Artinian"
+    on the left\).'
+  reason_right: 'Logic (rings) 519: \( "linearly compact" on the right\) <=== \( "Artinian"
+    on the right\).'
+  ring: RING_000050
+PROP_000171:
+  citation_left: []
+  citation_right: []
+  crosstable_pk: 21357
+  has_on_left: true
+  has_on_right: true
+  property: PROP_000171
+  reason_left: 'Logic (rings) 522: \( "maximal ring" \) <=== \( "linearly compact"
+    on the left or right\) AND \( "commutative" \).'
+  reason_right: 'Logic (rings) 522: \( "maximal ring" \) <=== \( "linearly compact"
+    on the left or right\) AND \( "commutative" \).'
+  ring: RING_000050
+PROP_000172:
+  citation_left: []
+  citation_right: []
+  crosstable_pk: 21355
+  has_on_left: false
+  has_on_right: false
+  property: PROP_000172
+  reason_left: 'Logic (rings) 527: \(NOT "valuation domain" \) <=== \(NOT "domain"
+    \).'
+  reason_right: 'Logic (rings) 527: \(NOT "valuation domain" \) <=== \(NOT "domain"
+    \).'
+  ring: RING_000050
+PROP_000173:
+  citation_left: []
+  citation_right: []
+  crosstable_pk: 21356
+  has_on_left: false
+  has_on_right: false
+  property: PROP_000173
+  reason_left: 'Logic (rings) 334: \(NOT "valuation ring" \) <=== \(NOT "serial" on
+    the left and right\).'
+  reason_right: 'Logic (rings) 334: \(NOT "valuation ring" \) <=== \(NOT "serial"
+    on the left and right\).'
+  ring: RING_000050
+PROP_000174:
+  citation_left: []
+  citation_right: []
+  crosstable_pk: 21358
+  has_on_left: true
+  has_on_right: true
+  property: PROP_000174
+  reason_left: 'Logic (rings) 529: \( "almost maximal ring" \) <=== \( "maximal ring"
+    \).'
+  reason_right: 'Logic (rings) 529: \( "almost maximal ring" \) <=== \( "maximal ring"
     \).'
   ring: RING_000050

@@ -1,0 +1,8 @@
+active: true
+citation: []
+concs: ring_deduced("has",0,165)
+hyps: ring_deduced("has",0,174) AND ring_deduced("has",0,173)
+readable: ring is almost maximal ring AND ring is valuation ring <==> ring is almost
+  maximal valuation ring
+symmetric: true
+variety: 1

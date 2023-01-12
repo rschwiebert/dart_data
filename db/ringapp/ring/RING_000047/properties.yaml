@@ -1340,6 +1340,16 @@ PROP_000166:
   reason_right: 'Logic (rings) 509: \(NOT "$h$-local domain" \) <=== \(NOT "domain"
     \).'
   ring: RING_000047
+PROP_000167:
+  citation_left: []
+  citation_right: []
+  crosstable_pk: 21331
+  has_on_left: false
+  has_on_right: false
+  property: PROP_000167
+  reason_left: 'Logic (rings) 518: \(NOT "torch" \) <=== \( "local" \).'
+  reason_right: 'Logic (rings) 518: \(NOT "torch" \) <=== \( "local" \).'
+  ring: RING_000047
 PROP_000169:
   citation_left: []
   citation_right: []
@@ -1350,5 +1360,17 @@ PROP_000169:
   reason_left: 'Logic (rings) 501: \(NOT "almost maximal domain" \) <=== \(NOT "domain"
     \).'
   reason_right: 'Logic (rings) 501: \(NOT "almost maximal domain" \) <=== \(NOT "domain"
+    \).'
+  ring: RING_000047
+PROP_000172:
+  citation_left: []
+  citation_right: []
+  crosstable_pk: 21332
+  has_on_left: false
+  has_on_right: false
+  property: PROP_000172
+  reason_left: 'Logic (rings) 527: \(NOT "valuation domain" \) <=== \(NOT "domain"
+    \).'
+  reason_right: 'Logic (rings) 527: \(NOT "valuation domain" \) <=== \(NOT "domain"
     \).'
   ring: RING_000047

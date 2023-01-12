@@ -1,0 +1,6 @@
+citation: []
+commutative_only: true
+definition: A commutative ring whose ideals are linearly ordered (not necessarily
+  a domain.)
+name: valuation ring
+symmetric: true

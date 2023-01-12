@@ -1230,3 +1230,37 @@ PROP_000166:
   reason_right: 'Logic (rings) 506: \( "$h$-local domain" \) <=== \( "commutative"
     \) AND \( "domain" \) AND \( "local" \).'
   ring: RING_000128
+PROP_000167:
+  citation_left: []
+  citation_right: []
+  crosstable_pk: 21860
+  has_on_left: false
+  has_on_right: false
+  property: PROP_000167
+  reason_left: 'Logic (rings) 518: \(NOT "torch" \) <=== \( "local" \).'
+  reason_right: 'Logic (rings) 518: \(NOT "torch" \) <=== \( "local" \).'
+  ring: RING_000128
+PROP_000169:
+  citation_left: []
+  citation_right: []
+  crosstable_pk: 21861
+  has_on_left: true
+  has_on_right: true
+  property: PROP_000169
+  reason_left: 'Logic (rings) 507: \( "almost maximal domain" \) <=== \( "commutative"
+    \) AND \( "Noetherian" on the left or right\) AND \( "domain" \) AND ring_dim_deduced("1",0,1).'
+  reason_right: 'Logic (rings) 507: \( "almost maximal domain" \) <=== \( "commutative"
+    \) AND \( "Noetherian" on the left or right\) AND \( "domain" \) AND ring_dim_deduced("1",0,1).'
+  ring: RING_000128
+PROP_000174:
+  citation_left: []
+  citation_right: []
+  crosstable_pk: 21862
+  has_on_left: true
+  has_on_right: true
+  property: PROP_000174
+  reason_left: 'Logic (rings) 533: \( "almost maximal ring" \) <=== \( "almost maximal
+    domain" \).'
+  reason_right: 'Logic (rings) 533: \( "almost maximal ring" \) <=== \( "almost maximal
+    domain" \).'
+  ring: RING_000128

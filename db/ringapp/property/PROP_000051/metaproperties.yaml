@@ -22,3 +22,11 @@ METAPROP_000005:
   has_metaproperty: true
   metaproperty: METAPROP_000005
   property: PROP_000051
+METAPROP_000010:
+  citation: []
+  commutative_only: false
+  crosstable_pk: 283
+  example: null
+  has_metaproperty: true
+  metaproperty: METAPROP_000010
+  property: PROP_000051

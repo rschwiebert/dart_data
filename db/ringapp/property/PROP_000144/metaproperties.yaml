@@ -25,3 +25,11 @@ METAPROP_000007:
   has_metaproperty: true
   metaproperty: METAPROP_000007
   property: PROP_000144
+METAPROP_000008:
+  citation: []
+  commutative_only: false
+  crosstable_pk: 280
+  example: null
+  has_metaproperty: true
+  metaproperty: METAPROP_000008
+  property: PROP_000144

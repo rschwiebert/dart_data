@@ -1,0 +1,7 @@
+citation:
+- CITE_000534
+commutative_only: false
+definition: A ring is right linearly compact if $R_R$ is linearly compact as a module.
+  That is, every finitely-solvable system of congruences using right ideals is solvable.
+name: linearly compact
+symmetric: false

@@ -70,3 +70,11 @@ METAPROP_000009:
   has_metaproperty: true
   metaproperty: METAPROP_000009
   property: PROP_000001
+METAPROP_000010:
+  citation: []
+  commutative_only: false
+  crosstable_pk: 281
+  example: null
+  has_metaproperty: true
+  metaproperty: METAPROP_000010
+  property: PROP_000001

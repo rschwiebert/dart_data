@@ -1,0 +1,8 @@
+active: true
+citation: []
+concs: ring_deduced("has",0,171)
+hyps: ring_deduced("has",4,170) AND ring_deduced("has",0,1)
+readable: ring is linearly compact on the left or right AND ring is commutative <==>
+  ring is maximal ring
+symmetric: true
+variety: 1

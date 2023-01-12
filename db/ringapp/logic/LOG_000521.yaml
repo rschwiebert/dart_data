@@ -1,0 +1,8 @@
+active: true
+citation:
+- CITE_000537
+concs: ring_deduced("has",0,25)
+hyps: ring_deduced("has",3,170)
+readable: ring is linearly compact on the right ===> ring is semiperfect
+symmetric: false
+variety: 0

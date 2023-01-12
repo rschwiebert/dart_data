@@ -1,0 +1,8 @@
+active: true
+citation:
+- CITE_000535
+concs: ring_deduced("has",3,170)
+hyps: ring_deduced("has",3,63)
+readable: ring is Artinian on the right ===> ring is linearly compact on the right
+symmetric: false
+variety: 0

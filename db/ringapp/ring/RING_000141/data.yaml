@@ -1,0 +1,13 @@
+citation: []
+description: Let $G$ be the subgroup of "eventually constant" sequences in $\mathbb
+  Z^\mathbb N$ (meaning except for finitely many positions, the positions are equal).
+  $G$ is a lattice ordered group with the order $(z_n)\leq (z'_n)$ given by $z_i\leq
+  z'_i$ for all $i\in \mathbb N$.  The desired ring is the Jaffard-Ohm-Kaplansky construction
+  that yields a Bezout domain with value group $G$.
+is_commutative: true
+keywords:
+- KWD_000072
+krull_dim: null
+name: non-$h$-local domain
+notes: null
+optional_template: ''

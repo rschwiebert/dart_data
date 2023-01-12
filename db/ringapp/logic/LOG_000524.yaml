@@ -1,0 +1,8 @@
+active: true
+citation: []
+concs: ring_deduced("has",0,172)
+hyps: ring_deduced("has",1,173) AND ring_deduced("has",0,8)
+readable: ring is valuation ring on the left and right AND ring is domain <==> ring
+  is valuation domain
+symmetric: true
+variety: 1

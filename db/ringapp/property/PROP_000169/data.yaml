@@ -1,6 +1,9 @@
 citation: []
 commutative_only: true
-definition: $R$ is an integral domain, is $h$-local, and the localization at each
-  maximal ideal is an almost maximal valuation ring.
+definition: '$R$ is an integral domain, is $h$-local, and the localization at each
+  maximal ideal is an almost maximal valuation ring. In Brandal, Willy. "Almost maximal
+  integral domains and finitely generated modules." Transactions of the American Mathematical
+  Society 183 (1973): 203-222. Theorem 2.9 this is shown to be equivalent to "almost
+  maximal ring + domain")'
 name: almost maximal domain
 symmetric: true

@@ -1064,3 +1064,13 @@ PROP_000163:
   reason_left: 'Logic (rings) 497: \( "involutive" \) <=== \( "commutative" \).'
   reason_right: 'Logic (rings) 497: \( "involutive" \) <=== \( "commutative" \).'
   ring: RING_000127
+PROP_000167:
+  citation_left: []
+  citation_right: []
+  crosstable_pk: 21859
+  has_on_left: false
+  has_on_right: false
+  property: PROP_000167
+  reason_left: 'Logic (rings) 518: \(NOT "torch" \) <=== \( "local" \).'
+  reason_right: 'Logic (rings) 518: \(NOT "torch" \) <=== \( "local" \).'
+  ring: RING_000127

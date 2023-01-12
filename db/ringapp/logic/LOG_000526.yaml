@@ -1,0 +1,9 @@
+active: true
+citation: []
+concs: ring_deduced("has",0,173)
+hyps: ring_deduced("has",0,1) AND ring_deduced("has",0,23) AND ring_deduced("has",1,66)
+  AND ring_deduced("has",0,20)
+readable: ring is commutative AND ring is local AND ring is principal ideal ring on
+  the left and right AND ring is semiprimary ===> ring is valuation ring
+symmetric: true
+variety: 0

@@ -1011,3 +1011,15 @@ PROP_000169:
   reason_right: 'Logic (rings) 501: \(NOT "almost maximal domain" \) <=== \(NOT "domain"
     \).'
   ring: RING_000103
+PROP_000172:
+  citation_left: []
+  citation_right: []
+  crosstable_pk: 21715
+  has_on_left: false
+  has_on_right: false
+  property: PROP_000172
+  reason_left: 'Logic (rings) 527: \(NOT "valuation domain" \) <=== \(NOT "domain"
+    \).'
+  reason_right: 'Logic (rings) 527: \(NOT "valuation domain" \) <=== \(NOT "domain"
+    \).'
+  ring: RING_000103

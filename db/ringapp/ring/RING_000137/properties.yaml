@@ -1706,6 +1706,18 @@ PROP_000163:
   reason_left: 'Logic (rings) 497: \( "involutive" \) <=== \( "commutative" \).'
   reason_right: 'Logic (rings) 497: \( "involutive" \) <=== \( "commutative" \).'
   ring: RING_000137
+PROP_000165:
+  citation_left: []
+  citation_right: []
+  crosstable_pk: 21915
+  has_on_left: true
+  has_on_right: true
+  property: PROP_000165
+  reason_left: 'Logic (rings) 532: \( "almost maximal valuation ring" \) <=== \( "almost
+    maximal ring" \) AND \( "valuation ring" \).'
+  reason_right: 'Logic (rings) 532: \( "almost maximal valuation ring" \) <=== \(
+    "almost maximal ring" \) AND \( "valuation ring" \).'
+  ring: RING_000137
 PROP_000166:
   citation_left: []
   citation_right: []
@@ -1717,4 +1729,72 @@ PROP_000166:
     \) AND \( "domain" \) AND \( "local" \).'
   reason_right: 'Logic (rings) 506: \( "$h$-local domain" \) <=== \( "commutative"
     \) AND \( "domain" \) AND \( "local" \).'
+  ring: RING_000137
+PROP_000167:
+  citation_left: []
+  citation_right: []
+  crosstable_pk: 21914
+  has_on_left: false
+  has_on_right: false
+  property: PROP_000167
+  reason_left: 'Logic (rings) 518: \(NOT "torch" \) <=== \( "local" \).'
+  reason_right: 'Logic (rings) 518: \(NOT "torch" \) <=== \( "local" \).'
+  ring: RING_000137
+PROP_000168:
+  citation_left: []
+  citation_right: []
+  crosstable_pk: 21916
+  has_on_left: true
+  has_on_right: true
+  property: PROP_000168
+  reason_left: 'Logic (rings) 503: \( "FGC" \) <=== \( "almost maximal domain" \)
+    AND \( "Bezout domain" on the left or right\).'
+  reason_right: 'Logic (rings) 503: \( "FGC" \) <=== \( "almost maximal domain" \)
+    AND \( "Bezout domain" on the left or right\).'
+  ring: RING_000137
+PROP_000169:
+  citation_left: []
+  citation_right: []
+  crosstable_pk: 21917
+  has_on_left: true
+  has_on_right: true
+  property: PROP_000169
+  reason_left: 'Logic (rings) 507: \( "almost maximal domain" \) <=== \( "commutative"
+    \) AND \( "Noetherian" on the left or right\) AND \( "domain" \) AND ring_dim_deduced("1",0,1).'
+  reason_right: 'Logic (rings) 507: \( "almost maximal domain" \) <=== \( "commutative"
+    \) AND \( "Noetherian" on the left or right\) AND \( "domain" \) AND ring_dim_deduced("1",0,1).'
+  ring: RING_000137
+PROP_000172:
+  citation_left: []
+  citation_right: []
+  crosstable_pk: 21918
+  has_on_left: true
+  has_on_right: true
+  property: PROP_000172
+  reason_left: 'Logic (rings) 523: \( "valuation domain" \) <=== \( "discrete valuation
+    ring" \).'
+  reason_right: 'Logic (rings) 523: \( "valuation domain" \) <=== \( "discrete valuation
+    ring" \).'
+  ring: RING_000137
+PROP_000173:
+  citation_left: []
+  citation_right: []
+  crosstable_pk: 21919
+  has_on_left: true
+  has_on_right: true
+  property: PROP_000173
+  reason_left: 'Logic (rings) logical AND: ring_deduced("has",2,Y) <=== ring_deduced("has",1,Y).'
+  reason_right: 'Logic (rings) logical AND: ring_deduced("has",3,Y) <=== ring_deduced("has",1,Y).'
+  ring: RING_000137
+PROP_000174:
+  citation_left: []
+  citation_right: []
+  crosstable_pk: 21920
+  has_on_left: true
+  has_on_right: true
+  property: PROP_000174
+  reason_left: 'Logic (rings) 533: \( "almost maximal ring" \) <=== \( "almost maximal
+    domain" \).'
+  reason_right: 'Logic (rings) 533: \( "almost maximal ring" \) <=== \( "almost maximal
+    domain" \).'
   ring: RING_000137

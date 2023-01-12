@@ -1,9 +1,10 @@
 active: true
-citation: []
-concs: ring_deduced("has",0,166)
+citation:
+- CITE_000538
+concs: ring_deduced("has",0,169)
 hyps: ring_deduced("has",0,1) AND ring_deduced("has",4,64) AND ring_deduced("has",0,8)
   AND ring_dim_deduced("1",0,1)
 readable: ring is commutative AND ring is Noetherian on the left or right AND ring
-  is domain AND has Krull dimension (classical) 1 ===> ring is $h$-local domain
+  is domain AND has Krull dimension (classical) 1 ===> ring is almost maximal domain
 symmetric: true
 variety: 0

@@ -1,0 +1,5 @@
+citation: []
+commutative_only: true
+definition: $R/I$ is a maximal ring for every nonzero ideal $I$
+name: almost maximal ring
+symmetric: true

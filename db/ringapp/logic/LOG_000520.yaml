@@ -1,0 +1,9 @@
+active: true
+citation:
+- CITE_000536
+concs: ring_deduced("has",3,85)
+hyps: ring_deduced("has",3,170)
+readable: ring is linearly compact on the right ===> ring is finite uniform dimension
+  on the right
+symmetric: false
+variety: 0

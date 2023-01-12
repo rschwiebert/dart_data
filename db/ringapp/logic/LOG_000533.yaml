@@ -1,0 +1,7 @@
+active: true
+citation: []
+concs: ring_deduced("has",0,174)
+hyps: ring_deduced("has",0,169)
+readable: ring is almost maximal domain ===> ring is almost maximal ring
+symmetric: true
+variety: 0

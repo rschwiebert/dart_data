@@ -1,0 +1,8 @@
+active: true
+citation: []
+concs: ring_deduced("has",0,173)
+hyps: ring_deduced("has",1,76) AND ring_deduced("has",0,1)
+readable: ring is uniserial ring on the left and right AND ring is commutative <==>
+  ring is valuation ring
+symmetric: true
+variety: 1

@@ -1,0 +1,6 @@
+citation: []
+commutative_only: true
+definition: A commutative integral domain whose ideals are linearly ordered. (In some
+  places also called a "valuation ring")
+name: valuation domain
+symmetric: true

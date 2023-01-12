@@ -1,0 +1,8 @@
+active: true
+citation:
+- CITE_000532
+concs: ring_deduced("has",1,67)
+hyps: ring_deduced("has",0,168)
+readable: ring is FGC ===> ring is Bezout on the left and right
+symmetric: true
+variety: 0
