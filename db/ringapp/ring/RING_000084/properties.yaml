@@ -1703,6 +1703,18 @@ PROP_000163:
   reason_left: 'Logic (rings) 497: \( "involutive" \) <=== \( "commutative" \).'
   reason_right: 'Logic (rings) 497: \( "involutive" \) <=== \( "commutative" \).'
   ring: RING_000084
+PROP_000164:
+  citation_left: []
+  citation_right: []
+  crosstable_pk: 22013
+  has_on_left: true
+  has_on_right: true
+  property: PROP_000164
+  reason_left: 'Logic (rings) 531: \( "maximal valuation ring" \) <=== \( "maximal
+    ring" \) AND \( "valuation ring" \).'
+  reason_right: 'Logic (rings) 531: \( "maximal valuation ring" \) <=== \( "maximal
+    ring" \) AND \( "valuation ring" \).'
+  ring: RING_000084
 PROP_000165:
   citation_left: []
   citation_right: []
@@ -1760,6 +1772,30 @@ PROP_000169:
     \) AND \( "Noetherian" on the left or right\) AND \( "domain" \) AND ring_dim_deduced("1",0,1).'
   reason_right: 'Logic (rings) 507: \( "almost maximal domain" \) <=== \( "commutative"
     \) AND \( "Noetherian" on the left or right\) AND \( "domain" \) AND ring_dim_deduced("1",0,1).'
+  ring: RING_000084
+PROP_000170:
+  citation_left: []
+  citation_right: []
+  crosstable_pk: 22015
+  has_on_left: true
+  has_on_right: true
+  property: PROP_000170
+  reason_left: 'Logic (rings) logical OR: ring_deduced("has",2,Y) <=== \( "commutative"
+    \) AND ring_deduced("has",4,Y).'
+  reason_right: 'Logic (rings) logical OR: ring_deduced("has",3,Y) <=== \( "commutative"
+    \) AND ring_deduced("has",4,Y).'
+  ring: RING_000084
+PROP_000171:
+  citation_left: []
+  citation_right: []
+  crosstable_pk: 22014
+  has_on_left: true
+  has_on_right: true
+  property: PROP_000171
+  reason_left: 'Logic (rings) 536: \( "maximal ring" \) <=== \( "Noetherian" on the
+    left or right\) AND \( "complete local" \).'
+  reason_right: 'Logic (rings) 536: \( "maximal ring" \) <=== \( "Noetherian" on the
+    left or right\) AND \( "complete local" \).'
   ring: RING_000084
 PROP_000172:
   citation_left: []

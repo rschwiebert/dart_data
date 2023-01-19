@@ -1,0 +1,7 @@
+active: true
+citation: []
+concs: module_deduced("has",51)
+hyps: ring_deduced("has",3,170) AND module_deduced("has",39)
+readable: ring is linearly compact on the right AND module is $R_R$  ===>  module
+  is linearly compact
+variety: 0

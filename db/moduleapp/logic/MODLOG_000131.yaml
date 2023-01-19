@@ -1,0 +1,7 @@
+active: true
+citation:
+- CITE_000019
+concs: module_deduced("has",37)
+hyps: module_deduced("has",51)
+readable: module is linearly compact  ===>  module is finite uniform dimension
+variety: 0

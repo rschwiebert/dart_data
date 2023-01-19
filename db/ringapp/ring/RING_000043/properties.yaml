@@ -1422,6 +1422,17 @@ PROP_000166:
   reason_right: 'Logic (rings) 509: \(NOT "$h$-local domain" \) <=== \(NOT "domain"
     \).'
   ring: RING_000043
+PROP_000167:
+  citation_left: []
+  citation_right: []
+  crosstable_pk: 21971
+  has_on_left: false
+  has_on_right: false
+  property: PROP_000167
+  reason_left: The minimal prime is also the socle, and this socle is far from a unserial
+    module
+  reason_right: symmetry with left side
+  ring: RING_000043
 PROP_000169:
   citation_left: []
   citation_right: []

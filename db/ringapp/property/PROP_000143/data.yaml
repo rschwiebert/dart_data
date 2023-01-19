@@ -1,6 +1,6 @@
 citation: []
 commutative_only: true
-definition: $R$ is a local ring in which the canonical map into the completion at
-  the maximal ideal is an isomorphism.
+definition: $R$ is a commutative local ring in which the canonical map into the completion
+  at the maximal ideal is an isomorphism.
 name: complete local
 symmetric: true

@@ -613,6 +613,17 @@ PROP_000066:
   reason_right: 'Logic 49: principal ideal ring on the right <==> Bezout on the right
     and Noetherian on the right'
   ring: RING_000042
+PROP_000067:
+  citation_left: []
+  citation_right: []
+  crosstable_pk: 22007
+  has_on_left: null
+  has_on_right: false
+  property: PROP_000067
+  reason_left: null
+  reason_right: 'Logic (rings) 414: \(NOT "Bezout" on the right\) <=== \(NOT "uniserial
+    ring" on the right\) AND \( "local" \).'
+  ring: RING_000042
 PROP_000068:
   citation_left: []
   citation_right: []
@@ -1408,6 +1419,18 @@ PROP_000167:
   property: PROP_000167
   reason_left: 'Logic (rings) 518: \(NOT "torch" \) <=== \( "local" \).'
   reason_right: 'Logic (rings) 518: \(NOT "torch" \) <=== \( "local" \).'
+  ring: RING_000042
+PROP_000168:
+  citation_left: []
+  citation_right: []
+  crosstable_pk: 22006
+  has_on_left: false
+  has_on_right: false
+  property: PROP_000168
+  reason_left: 'Logic (rings) 516: \(NOT "FGC" \) <=== \(NOT "Bezout" on the left
+    and right\).'
+  reason_right: 'Logic (rings) 516: \(NOT "FGC" \) <=== \(NOT "Bezout" on the left
+    and right\).'
   ring: RING_000042
 PROP_000169:
   citation_left: []

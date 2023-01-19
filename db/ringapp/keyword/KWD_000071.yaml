@@ -1,0 +1,5 @@
+description: Let $K/F$ be a cyclic field extension of degree $n$, let $\sigma$ be
+  a generator of $Gal(K/F)$ and $u\in F^\times$.  Denote $(K/F,'sigma, u)=\oplus_{i=0}^{n-1}Kz^i$
+  where $z$ is a symbol, and define a multiplication by $zx=\sigma(x)z$ and $z^n=u$.  This
+  is a central simple $F$ algebra of degree $n$.
+name: cyclic algebra

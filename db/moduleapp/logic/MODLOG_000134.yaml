@@ -1,0 +1,8 @@
+active: true
+citation:
+- CITE_000021
+concs: module_deduced("has",1)
+hyps: ring_deduced("has",3,63) AND module_deduced("has",51)
+readable: ring is Artinian on the right AND module is linearly compact  ===>  module
+  is Artinian
+variety: 0

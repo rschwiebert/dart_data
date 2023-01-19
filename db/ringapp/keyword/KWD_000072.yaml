@@ -1,0 +1,4 @@
+description: "Given a lattice ordered group $G$, In Jaffard, Paul. \"Les syst\xE8\
+  mes d'id\xE9aux.\" (1960), it is described how to find a Bezout domain with divisibility\
+  \ group $G$."
+name: Jaffard-Ohm-Kaplansky construction

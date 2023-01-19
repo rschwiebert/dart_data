@@ -1406,6 +1406,16 @@ PROP_000166:
   reason_left: null
   reason_right: symmetry with left side
   ring: RING_000141
+PROP_000167:
+  citation_left: []
+  citation_right: []
+  crosstable_pk: 22005
+  has_on_left: false
+  has_on_right: false
+  property: PROP_000167
+  reason_left: 'Logic (rings) 534: \(NOT "torch" \) <=== \( "reduced" \).'
+  reason_right: 'Logic (rings) 534: \(NOT "torch" \) <=== \( "reduced" \).'
+  ring: RING_000141
 PROP_000169:
   citation_left: []
   citation_right: []

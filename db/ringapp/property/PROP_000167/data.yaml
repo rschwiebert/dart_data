@@ -1,6 +1,9 @@
 citation: []
 commutative_only: true
-definition: $R$ is an arithmetical ring, and it has a unique minimal prime which is
-  nonzero and is uniserial as a module, and $R$ is not local.
+definition: "$R$ is a commutative ring meeting these conditions: 1) $R$ is not local;\
+  \ 2) $R$ has a unique minimal prime $P$ which is a nonzero uniserial module; 3)\
+  \ $R/P$ is an $h$-local domain; 4)  $R$ is Bezout; 5) The localization $R_M$ is\
+  \ an almost maximal valuation ring for every maximal ideal $M$.  (Stronger than\
+  \ the definition given by V\xE1mos.)"
 name: torch
 symmetric: true

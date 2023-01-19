@@ -1,0 +1,7 @@
+active: true
+citation:
+- CITE_000020
+concs: module_deduced("has",51)
+hyps: module_deduced("has",1)
+readable: module is Artinian  ===>  module is linearly compact
+variety: 0

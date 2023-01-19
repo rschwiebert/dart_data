@@ -659,3 +659,13 @@ PROP_000158:
   reason_left: 'Logic 473: Abelian ===> IC (internal cancellation)'
   reason_right: 'Logic 473: Abelian ===> IC (internal cancellation)'
   ring: RING_000086
+PROP_000167:
+  citation_left: []
+  citation_right: []
+  crosstable_pk: 21993
+  has_on_left: false
+  has_on_right: false
+  property: PROP_000167
+  reason_left: 'Logic (rings) 534: \(NOT "torch" \) <=== \( "reduced" \).'
+  reason_right: 'Logic (rings) 534: \(NOT "torch" \) <=== \( "reduced" \).'
+  ring: RING_000086

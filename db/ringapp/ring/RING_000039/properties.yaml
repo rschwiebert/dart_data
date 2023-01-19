@@ -1425,6 +1425,16 @@ PROP_000166:
   reason_right: 'Logic (rings) 509: \(NOT "$h$-local domain" \) <=== \(NOT "domain"
     \).'
   ring: RING_000039
+PROP_000167:
+  citation_left: []
+  citation_right: []
+  crosstable_pk: 21982
+  has_on_left: false
+  has_on_right: false
+  property: PROP_000167
+  reason_left: 'Logic (rings) 535: \(NOT "torch" \) <=== ring_dim_deduced("0",0,1).'
+  reason_right: 'Logic (rings) 535: \(NOT "torch" \) <=== ring_dim_deduced("0",0,1).'
+  ring: RING_000039
 PROP_000169:
   citation_left: []
   citation_right: []

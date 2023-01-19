@@ -1751,6 +1751,16 @@ PROP_000166:
   reason_right: 'Logic (rings) 507: \( "$h$-local domain" \) <=== \( "commutative"
     \) AND \( "Noetherian" on the left or right\) AND \( "domain" \) AND ring_dim_deduced("1",0,1).'
   ring: RING_000007
+PROP_000167:
+  citation_left: []
+  citation_right: []
+  crosstable_pk: 21974
+  has_on_left: false
+  has_on_right: false
+  property: PROP_000167
+  reason_left: 'Logic (rings) 534: \(NOT "torch" \) <=== \( "reduced" \).'
+  reason_right: 'Logic (rings) 534: \(NOT "torch" \) <=== \( "reduced" \).'
+  ring: RING_000007
 PROP_000168:
   citation_left: []
   citation_right: []
