@@ -1,0 +1,15 @@
+citation:
+- CITE_000551
+description: Start with the ring of power series of the form $\sum a_\alpha x^\alpha$
+  where $a_\alpha\in \mathbb C$ and $\alpha$ ranges over a well-founded set of nonnegative
+  rationals.  Within the field of fractions of this ring, it can be shown there are
+  $n$-pairwise independent maximal valuation rings $D_i$. The ring is $R=\cap_{i=1}^n
+  D_i$.  For this ring we use $n=2$.
+is_commutative: true
+keywords:
+- KWD_000012
+- KWD_000028
+krull_dim: null
+name: Osofsky's Type I ring
+notes: This construction produces a ring with $n$ maximal ideals
+optional_template: ''

@@ -1401,3 +1401,13 @@ PROP_000173:
   reason_right: 'Logic (rings) 334: \(NOT "valuation ring" \) <=== \(NOT "connected"
     \).'
   ring: RING_000068
+PROP_000175:
+  citation_left: []
+  citation_right: []
+  crosstable_pk: 22626
+  has_on_left: false
+  has_on_right: false
+  property: PROP_000175
+  reason_left: 'Logic (rings) 541: \(NOT "?-ring" \) <=== \( "reduced" \).'
+  reason_right: 'Logic (rings) 541: \(NOT "?-ring" \) <=== \( "reduced" \).'
+  ring: RING_000068

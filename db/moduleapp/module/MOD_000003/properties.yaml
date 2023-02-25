@@ -143,6 +143,13 @@ MODPROP_000020:
   property: MODPROP_000020
   reason: 'Logic (modules) 67: module(has ''principally injective'') <=== module(has
     ''divisible (naive)'').'
+MODPROP_000021:
+  citation: []
+  crosstable_pk: 449
+  has: true
+  module: MOD_000003
+  property: MODPROP_000021
+  reason: nonzero divisible (in the naive sense) module
 MODPROP_000022:
   citation: []
   crosstable_pk: 444
@@ -309,6 +316,13 @@ MODPROP_000044:
   property: MODPROP_000044
   reason: 'Logic (modules) 104: module("has" ''clean (endoclean)'') <=== module("has"
     ''strongly indecomposable (endolocal)'').'
+MODPROP_000047:
+  citation: []
+  crosstable_pk: 450
+  has: true
+  module: MOD_000003
+  property: MODPROP_000047
+  reason: The socle is the subgroup of elements of order no more than $p$
 MODPROP_000050:
   citation: []
   crosstable_pk: 418

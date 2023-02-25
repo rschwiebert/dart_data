@@ -1710,6 +1710,18 @@ PROP_000163:
   reason_left: 'Logic (rings) 497: \( "involutive" \) <=== \( "commutative" \).'
   reason_right: 'Logic (rings) 497: \( "involutive" \) <=== \( "commutative" \).'
   ring: RING_000069
+PROP_000164:
+  citation_left: []
+  citation_right: []
+  crosstable_pk: 22627
+  has_on_left: false
+  has_on_right: false
+  property: PROP_000164
+  reason_left: 'Logic (rings) 531: \(NOT "maximal valuation ring" \) <=== \(NOT "maximal
+    ring" \).'
+  reason_right: 'Logic (rings) 531: \(NOT "maximal valuation ring" \) <=== \(NOT "maximal
+    ring" \).'
+  ring: RING_000069
 PROP_000165:
   citation_left: []
   citation_right: []
@@ -1768,6 +1780,28 @@ PROP_000169:
   reason_right: 'Logic (rings) 507: \( "almost maximal domain" \) <=== \( "commutative"
     \) AND \( "Noetherian" on the left or right\) AND \( "domain" \) AND ring_dim_deduced("1",0,1).'
   ring: RING_000069
+PROP_000170:
+  citation_left: []
+  citation_right: []
+  crosstable_pk: 22630
+  has_on_left: false
+  has_on_right: false
+  property: PROP_000170
+  reason_left: 'Logic (rings) logical OR: ring_deduced("lacks",2,Y) <=== ring_deduced("lacks",4,Y).'
+  reason_right: 'Logic (rings) logical OR: ring_deduced("lacks",3,Y) <=== ring_deduced("lacks",4,Y).'
+  ring: RING_000069
+PROP_000171:
+  citation_left: []
+  citation_right: []
+  crosstable_pk: 22628
+  has_on_left: false
+  has_on_right: false
+  property: PROP_000171
+  reason_left: 'Logic (rings) 536: \(NOT "maximal ring" \) <=== \(NOT "complete local"
+    \) AND \( "Noetherian" on the left or right\) AND \( "local" \).'
+  reason_right: 'Logic (rings) 536: \(NOT "maximal ring" \) <=== \(NOT "complete local"
+    \) AND \( "Noetherian" on the left or right\) AND \( "local" \).'
+  ring: RING_000069
 PROP_000172:
   citation_left: []
   citation_right: []
@@ -1801,4 +1835,14 @@ PROP_000174:
     domain" \).'
   reason_right: 'Logic (rings) 533: \( "almost maximal ring" \) <=== \( "almost maximal
     domain" \).'
+  ring: RING_000069
+PROP_000175:
+  citation_left: []
+  citation_right: []
+  crosstable_pk: 22629
+  has_on_left: false
+  has_on_right: false
+  property: PROP_000175
+  reason_left: 'Logic (rings) 540: \(NOT "?-ring" \) <=== \( "local" \).'
+  reason_right: 'Logic (rings) 540: \(NOT "?-ring" \) <=== \( "local" \).'
   ring: RING_000069

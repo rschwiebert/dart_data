@@ -666,6 +666,17 @@ PROP_000066:
     and Noetherian on the right'
   reason_right: symmetry with left side
   ring: RING_000063
+PROP_000067:
+  citation_left: []
+  citation_right: []
+  crosstable_pk: 22214
+  has_on_left: true
+  has_on_right: true
+  property: PROP_000067
+  reason_left: Can be shown $(a,b)R=(a,0)R\supseteq (0,\mathbb Z_{2^\infty})$ when
+    $a\neq 0$, then easy to see 2-generated ideals are principal
+  reason_right: symmetry with left side
+  ring: RING_000063
 PROP_000068:
   citation_left: []
   citation_right: []
@@ -840,6 +851,18 @@ PROP_000085:
   reason_right: 'Logic 278: finitely cogenerated on the right ===> finite uniform
     dimension on the right'
   ring: RING_000063
+PROP_000088:
+  citation_left: []
+  citation_right: []
+  crosstable_pk: 22218
+  has_on_left: false
+  has_on_right: false
+  property: PROP_000088
+  reason_left: 'Logic (rings) 221: \(NOT "ACC principal" on the left\) <=== \(NOT
+    "principal ideal ring" on the left\) AND \( "Bezout" on the left\).'
+  reason_right: 'Logic (rings) 221: \(NOT "ACC principal" on the right\) <=== \(NOT
+    "principal ideal ring" on the right\) AND \( "Bezout" on the right\).'
+  ring: RING_000063
 PROP_000091:
   citation_left: []
   citation_right: []
@@ -979,6 +1002,18 @@ PROP_000103:
   reason_left: symmetry with right side
   reason_right: 'Logic 212: finitely cogenerated on the right <==> essential socle
     on the right and finitely generated socle on the right'
+  ring: RING_000063
+PROP_000104:
+  citation_left: []
+  citation_right: []
+  crosstable_pk: 22217
+  has_on_left: true
+  has_on_right: true
+  property: PROP_000104
+  reason_left: 'Logic (rings) 227: \( "distributive" on the left\) <=== \( "Bezout"
+    on the left\) AND \( "quasi-duo" on the left\).'
+  reason_right: 'Logic (rings) 227: \( "distributive" on the right\) <=== \( "Bezout"
+    on the right\) AND \( "quasi-duo" on the right\).'
   ring: RING_000063
 PROP_000105:
   citation_left: []
@@ -1398,6 +1433,18 @@ PROP_000154:
   reason_right: 'Logic 414: valuation domain on the right ===> Bezout domain on the
     right'
   ring: RING_000063
+PROP_000155:
+  citation_left: []
+  citation_right: []
+  crosstable_pk: 22215
+  has_on_left: true
+  has_on_right: true
+  property: PROP_000155
+  reason_left: 'Logic (rings) 423: \( "Armendariz" \) <=== \( "commutative" \) AND
+    \( "distributive" on the left or right\).'
+  reason_right: 'Logic (rings) 423: \( "Armendariz" \) <=== \( "commutative" \) AND
+    \( "distributive" on the left or right\).'
+  ring: RING_000063
 PROP_000156:
   citation_left: []
   citation_right: []
@@ -1417,6 +1464,18 @@ PROP_000158:
   property: PROP_000158
   reason_left: 'Logic 473: Abelian ===> IC (internal cancellation)'
   reason_right: 'Logic 473: Abelian ===> IC (internal cancellation)'
+  ring: RING_000063
+PROP_000159:
+  citation_left: []
+  citation_right: []
+  crosstable_pk: 22216
+  has_on_left: true
+  has_on_right: true
+  property: PROP_000159
+  reason_left: 'Logic (rings) 492: \( "arithmetical" \) <=== \( "commutative" \) AND
+    \( "distributive" on the left or right\).'
+  reason_right: 'Logic (rings) 492: \( "arithmetical" \) <=== \( "commutative" \)
+    AND \( "distributive" on the left or right\).'
   ring: RING_000063
 PROP_000160:
   citation_left: []
@@ -1499,6 +1558,28 @@ PROP_000166:
   reason_right: 'Logic (rings) 509: \(NOT "$h$-local domain" \) <=== \(NOT "domain"
     \).'
   ring: RING_000063
+PROP_000167:
+  citation_left: []
+  citation_right: []
+  crosstable_pk: 22219
+  has_on_left: false
+  has_on_right: false
+  property: PROP_000167
+  reason_left: 'Logic (rings) 504: \(NOT "torch" \) <=== \(NOT "FGC" \).'
+  reason_right: 'Logic (rings) 504: \(NOT "torch" \) <=== \(NOT "FGC" \).'
+  ring: RING_000063
+PROP_000168:
+  citation_left: []
+  citation_right: []
+  crosstable_pk: 22220
+  has_on_left: false
+  has_on_right: false
+  property: PROP_000168
+  reason_left: 'Logic (rings) 538: \(NOT "FGC" \) <=== \(NOT "principal ideal ring"
+    on the left and right\) AND \( "countable" \).'
+  reason_right: 'Logic (rings) 538: \(NOT "FGC" \) <=== \(NOT "principal ideal ring"
+    on the left and right\) AND \( "countable" \).'
+  ring: RING_000063
 PROP_000169:
   citation_left: []
   citation_right: []
@@ -1558,4 +1639,15 @@ PROP_000173:
     the left and right\).'
   reason_right: 'Logic (rings) 334: \(NOT "valuation ring" \) <=== \(NOT "serial"
     on the left and right\).'
+  ring: RING_000063
+PROP_000175:
+  citation_left:
+  - CITE_000550
+  citation_right: []
+  crosstable_pk: 22221
+  has_on_left: true
+  has_on_right: true
+  property: PROP_000175
+  reason_left: null
+  reason_right: symmetry with left side
   ring: RING_000063

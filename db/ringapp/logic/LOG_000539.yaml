@@ -1,0 +1,7 @@
+active: true
+citation: []
+concs: ring_deduced("has",0,175)
+hyps: ring_deduced("has",0,167)
+readable: ring is torch ===> ring is ?-ring
+symmetric: true
+variety: 0

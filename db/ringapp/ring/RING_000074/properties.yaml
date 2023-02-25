@@ -909,6 +909,18 @@ PROP_000130:
   reason_left: 'Logic 286: Krull domain ===> Mori domain'
   reason_right: 'Logic 286: Krull domain ===> Mori domain'
   ring: RING_000074
+PROP_000143:
+  citation_left: []
+  citation_right: []
+  crosstable_pk: 22637
+  has_on_left: false
+  has_on_right: false
+  property: PROP_000143
+  reason_left: 'Logic (rings) 536: \(NOT "complete local" \) <=== \(NOT "maximal ring"
+    \) AND \( "Noetherian" on the left or right\).'
+  reason_right: 'Logic (rings) 536: \(NOT "complete local" \) <=== \(NOT "maximal
+    ring" \) AND \( "Noetherian" on the left or right\).'
+  ring: RING_000074
 PROP_000144:
   citation_left: []
   citation_right: []
@@ -1106,4 +1118,14 @@ PROP_000173:
     \).'
   reason_right: 'Logic (rings) 528: \(NOT "valuation ring" \) <=== \(NOT "commutative"
     \).'
+  ring: RING_000074
+PROP_000175:
+  citation_left: []
+  citation_right: []
+  crosstable_pk: 22638
+  has_on_left: false
+  has_on_right: false
+  property: PROP_000175
+  reason_left: 'Logic (rings) 541: \(NOT "?-ring" \) <=== \( "reduced" \).'
+  reason_right: 'Logic (rings) 541: \(NOT "?-ring" \) <=== \( "reduced" \).'
   ring: RING_000074

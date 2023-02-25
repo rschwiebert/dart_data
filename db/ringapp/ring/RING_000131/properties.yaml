@@ -1438,3 +1438,13 @@ PROP_000174:
   reason_right: 'Logic (rings) 533: \( "almost maximal ring" \) <=== \( "almost maximal
     domain" \).'
   ring: RING_000131
+PROP_000175:
+  citation_left: []
+  citation_right: []
+  crosstable_pk: 22730
+  has_on_left: false
+  has_on_right: false
+  property: PROP_000175
+  reason_left: 'Logic (rings) 541: \(NOT "?-ring" \) <=== \( "reduced" \).'
+  reason_right: 'Logic (rings) 541: \(NOT "?-ring" \) <=== \( "reduced" \).'
+  ring: RING_000131

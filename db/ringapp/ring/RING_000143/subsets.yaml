@@ -1,0 +1,8 @@
+SUBSET_000005:
+  citation: []
+  crosstable_pk: 578
+  reason: 'Logic (rings) ?: has Right singular ideal $\{0\}$ <=== ring is nonsingular
+    on the right'
+  ring: RING_000143
+  subset: $\{0\}$
+  subset_type: SUBSET_000005

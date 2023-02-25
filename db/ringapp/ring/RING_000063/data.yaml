@@ -1,4 +1,5 @@
-citation: []
+citation:
+- CITE_000550
 description: "The ring is the trivial extension $T(\\mathbb Z, \\mathbb Z_{2^\\infty})$\
   \ of the Pr\xFCfer $2$-group."
 is_commutative: true

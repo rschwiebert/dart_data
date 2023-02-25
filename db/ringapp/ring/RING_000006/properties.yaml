@@ -1708,6 +1708,16 @@ PROP_000165:
   reason_right: 'Logic (rings) 505: \(NOT "almost maximal valuation ring" \) <===
     \(NOT "FGC" \).'
   ring: RING_000006
+PROP_000166:
+  citation_left: []
+  citation_right: []
+  crosstable_pk: 22194
+  has_on_left: false
+  has_on_right: false
+  property: PROP_000166
+  reason_left: $x$ is contained in infinitely many primes of the form $(p,x)$
+  reason_right: symmetry with left side
+  ring: RING_000006
 PROP_000167:
   citation_left: []
   citation_right: []
@@ -1729,6 +1739,18 @@ PROP_000168:
     and right\).'
   reason_right: 'Logic (rings) 516: \(NOT "FGC" \) <=== \(NOT "Bezout" on the left
     and right\).'
+  ring: RING_000006
+PROP_000169:
+  citation_left: []
+  citation_right: []
+  crosstable_pk: 22195
+  has_on_left: false
+  has_on_right: false
+  property: PROP_000169
+  reason_left: 'Logic (rings) 502: \(NOT "almost maximal domain" \) <=== \(NOT "$h$-local
+    domain" \).'
+  reason_right: 'Logic (rings) 502: \(NOT "almost maximal domain" \) <=== \(NOT "$h$-local
+    domain" \).'
   ring: RING_000006
 PROP_000170:
   citation_left: []
@@ -1777,4 +1799,14 @@ PROP_000173:
     \) AND ring_deduced("lacks",1,Y).'
   reason_right: 'Logic (rings) logical AND: ring_deduced("lacks",3,Y) <=== \( "commutative"
     \) AND ring_deduced("lacks",1,Y).'
+  ring: RING_000006
+PROP_000175:
+  citation_left: []
+  citation_right: []
+  crosstable_pk: 22542
+  has_on_left: false
+  has_on_right: false
+  property: PROP_000175
+  reason_left: 'Logic (rings) 541: \(NOT "?-ring" \) <=== \( "reduced" \).'
+  reason_right: 'Logic (rings) 541: \(NOT "?-ring" \) <=== \( "reduced" \).'
   ring: RING_000006

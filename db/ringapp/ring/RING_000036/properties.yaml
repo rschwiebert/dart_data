@@ -1515,6 +1515,17 @@ PROP_000165:
   reason_right: 'Logic (rings) 532: \(NOT "almost maximal valuation ring" \) <===
     \(NOT "valuation ring" \).'
   ring: RING_000036
+PROP_000166:
+  citation_left: []
+  citation_right: []
+  crosstable_pk: 22197
+  has_on_left: false
+  has_on_right: false
+  property: PROP_000166
+  reason_left: The prime ideal $(x)$ is contained in $(p,x)$ which is maximal for
+    every prime $p$.
+  reason_right: symmetry with left side
+  ring: RING_000036
 PROP_000167:
   citation_left: []
   citation_right: []
@@ -1524,6 +1535,30 @@ PROP_000167:
   property: PROP_000167
   reason_left: 'Logic (rings) 534: \(NOT "torch" \) <=== \( "reduced" \).'
   reason_right: 'Logic (rings) 534: \(NOT "torch" \) <=== \( "reduced" \).'
+  ring: RING_000036
+PROP_000168:
+  citation_left: []
+  citation_right: []
+  crosstable_pk: 22583
+  has_on_left: false
+  has_on_right: false
+  property: PROP_000168
+  reason_left: 'Logic (rings) 538: \(NOT "FGC" \) <=== \(NOT "principal ideal ring"
+    on the left and right\) AND \( "countable" \).'
+  reason_right: 'Logic (rings) 538: \(NOT "FGC" \) <=== \(NOT "principal ideal ring"
+    on the left and right\) AND \( "countable" \).'
+  ring: RING_000036
+PROP_000169:
+  citation_left: []
+  citation_right: []
+  crosstable_pk: 22200
+  has_on_left: false
+  has_on_right: false
+  property: PROP_000169
+  reason_left: 'Logic (rings) 502: \(NOT "almost maximal domain" \) <=== \(NOT "$h$-local
+    domain" \).'
+  reason_right: 'Logic (rings) 502: \(NOT "almost maximal domain" \) <=== \(NOT "$h$-local
+    domain" \).'
   ring: RING_000036
 PROP_000170:
   citation_left: []
@@ -1572,4 +1607,14 @@ PROP_000173:
     \) AND ring_deduced("lacks",1,Y).'
   reason_right: 'Logic (rings) logical AND: ring_deduced("lacks",3,Y) <=== \( "commutative"
     \) AND ring_deduced("lacks",1,Y).'
+  ring: RING_000036
+PROP_000175:
+  citation_left: []
+  citation_right: []
+  crosstable_pk: 22584
+  has_on_left: false
+  has_on_right: false
+  property: PROP_000175
+  reason_left: 'Logic (rings) 541: \(NOT "?-ring" \) <=== \( "reduced" \).'
+  reason_right: 'Logic (rings) 541: \(NOT "?-ring" \) <=== \( "reduced" \).'
   ring: RING_000036

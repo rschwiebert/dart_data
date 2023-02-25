@@ -1624,3 +1624,13 @@ PROP_000173:
   reason_right: 'Logic (rings) 334: \(NOT "valuation ring" \) <=== \(NOT "serial"
     on the left and right\).'
   ring: RING_000130
+PROP_000175:
+  citation_left: []
+  citation_right: []
+  crosstable_pk: 22729
+  has_on_left: false
+  has_on_right: false
+  property: PROP_000175
+  reason_left: 'Logic (rings) 541: \(NOT "?-ring" \) <=== \( "reduced" \).'
+  reason_right: 'Logic (rings) 541: \(NOT "?-ring" \) <=== \( "reduced" \).'
+  ring: RING_000130

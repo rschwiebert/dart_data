@@ -1006,6 +1006,18 @@ PROP_000140:
   reason_right: 'Logic 348: Nagata <==> Noetherian on the left and right and universally
     Japanese'
   ring: RING_000021
+PROP_000143:
+  citation_left: []
+  citation_right: []
+  crosstable_pk: 22558
+  has_on_left: false
+  has_on_right: false
+  property: PROP_000143
+  reason_left: 'Logic (rings) 536: \(NOT "complete local" \) <=== \(NOT "maximal ring"
+    \) AND \( "Noetherian" on the left or right\).'
+  reason_right: 'Logic (rings) 536: \(NOT "complete local" \) <=== \(NOT "maximal
+    ring" \) AND \( "Noetherian" on the left or right\).'
+  ring: RING_000021
 PROP_000144:
   citation_left: []
   citation_right: []
@@ -1248,4 +1260,14 @@ PROP_000173:
     \).'
   reason_right: 'Logic (rings) 528: \(NOT "valuation ring" \) <=== \(NOT "commutative"
     \).'
+  ring: RING_000021
+PROP_000175:
+  citation_left: []
+  citation_right: []
+  crosstable_pk: 22559
+  has_on_left: false
+  has_on_right: false
+  property: PROP_000175
+  reason_left: 'Logic (rings) 541: \(NOT "?-ring" \) <=== \( "reduced" \).'
+  reason_right: 'Logic (rings) 541: \(NOT "?-ring" \) <=== \( "reduced" \).'
   ring: RING_000021

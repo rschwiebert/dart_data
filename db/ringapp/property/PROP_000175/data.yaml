@@ -1,0 +1,9 @@
+citation:
+- CITE_000549
+- CITE_000548
+commutative_only: true
+definition: $R$ is 1) arithmetical; 2) has a unique, nonzero, minimal prime ideal
+  $P$ that is uniserial as an $R$ module; 3) $R/P$ is an h-local domain; 4)$R$ is
+  not local
+name: ?-ring
+symmetric: true

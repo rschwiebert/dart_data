@@ -1312,6 +1312,18 @@ PROP_000130:
   reason_right: 'Logic (rings) 286: \(NOT "Krull domain" \) <=== \(NOT "Mori domain"
     \).'
   ring: RING_000140
+PROP_000143:
+  citation_left: []
+  citation_right: []
+  crosstable_pk: 22750
+  has_on_left: false
+  has_on_right: false
+  property: PROP_000143
+  reason_left: 'Logic (rings) 536: \(NOT "complete local" \) <=== \(NOT "maximal ring"
+    \) AND \( "Noetherian" on the left or right\).'
+  reason_right: 'Logic (rings) 536: \(NOT "complete local" \) <=== \(NOT "maximal
+    ring" \) AND \( "Noetherian" on the left or right\).'
+  ring: RING_000140
 PROP_000144:
   citation_left: []
   citation_right: []
@@ -1588,4 +1600,14 @@ PROP_000173:
     \).'
   reason_right: 'Logic (rings) 528: \(NOT "valuation ring" \) <=== \(NOT "commutative"
     \).'
+  ring: RING_000140
+PROP_000175:
+  citation_left: []
+  citation_right: []
+  crosstable_pk: 22751
+  has_on_left: false
+  has_on_right: false
+  property: PROP_000175
+  reason_left: 'Logic (rings) 540: \(NOT "?-ring" \) <=== \( "local" \).'
+  reason_right: 'Logic (rings) 540: \(NOT "?-ring" \) <=== \( "local" \).'
   ring: RING_000140

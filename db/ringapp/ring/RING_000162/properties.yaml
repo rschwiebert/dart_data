@@ -1514,6 +1514,16 @@ PROP_000166:
   reason_right: 'Logic (rings) 509: \(NOT "$h$-local domain" \) <=== \(NOT "domain"
     \).'
   ring: RING_000162
+PROP_000167:
+  citation_left: []
+  citation_right: []
+  crosstable_pk: 22763
+  has_on_left: false
+  has_on_right: false
+  property: PROP_000167
+  reason_left: 'Logic (rings) 539: \(NOT "torch" \) <=== \(NOT "?-ring" \).'
+  reason_right: 'Logic (rings) 539: \(NOT "torch" \) <=== \(NOT "?-ring" \).'
+  ring: RING_000162
 PROP_000169:
   citation_left: []
   citation_right: []
@@ -1573,4 +1583,14 @@ PROP_000173:
     \).'
   reason_right: 'Logic (rings) 528: \(NOT "valuation ring" \) <=== \(NOT "commutative"
     \).'
+  ring: RING_000162
+PROP_000175:
+  citation_left: []
+  citation_right: []
+  crosstable_pk: 22764
+  has_on_left: false
+  has_on_right: false
+  property: PROP_000175
+  reason_left: 'Logic (rings) 542: \(NOT "?-ring" \) <=== \(NOT "arithmetical" \).'
+  reason_right: 'Logic (rings) 542: \(NOT "?-ring" \) <=== \(NOT "arithmetical" \).'
   ring: RING_000162

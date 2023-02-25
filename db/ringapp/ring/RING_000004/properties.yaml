@@ -1835,3 +1835,13 @@ PROP_000174:
   reason_right: 'Logic (rings) 529: \( "almost maximal ring" \) <=== \( "maximal ring"
     \).'
   ring: RING_000004
+PROP_000175:
+  citation_left: []
+  citation_right: []
+  crosstable_pk: 22539
+  has_on_left: false
+  has_on_right: false
+  property: PROP_000175
+  reason_left: 'Logic (rings) 540: \(NOT "?-ring" \) <=== \( "local" \).'
+  reason_right: 'Logic (rings) 540: \(NOT "?-ring" \) <=== \( "local" \).'
+  ring: RING_000004
