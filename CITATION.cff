@@ -1,0 +1,38 @@
+# This CITATION.cff file was generated with cffinit.
+# Visit https://bit.ly/cffinit to generate yours today!
+
+cff-version: 1.2.0
+title: dart_data
+message: >-
+  If you use this dataset, please cite it using the metadata
+  from this file.
+type: dataset
+authors:
+  - given-names: Ryan
+    family-names: Schwiebert
+    email: databaseofringtheory@gmail.com
+    orcid: 'https://orcid.org/0000-0001-9230-3938'
+identifiers:
+  - type: doi
+    value: 10.5281/zenodo.7745128
+    description: >-
+      https://github.com/rschwiebert/dart_data/releases/tag/v23.03
+repository-code: 'https://github.com/rschwiebert/dart_data'
+abstract: >
+  This dataset contains the contents presented at the
+  Database of Ring Theory and Module Examples website. 
+  Examples, properties, theorems, citations and everything
+  else stored is serialized into a directory tree of
+  (mostly) yaml files.
+keywords:
+  - mathematics
+  - ring theory
+  - dataset
+  - abstract algebra
+  - examples
+  - counterexamples
+license: CC-BY-4.0
+commit: 'Tag: v23.03'
+version: v23.03
+date-released: '2023-03-17'
+

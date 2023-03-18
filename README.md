@@ -35,6 +35,13 @@ Once the pull request is integrated into this repository, a developer will need 
 data to the website where it can be seen. Then your contribution will be live!
 
 
+## Citing this work
+If the dataset helps you in your research, please cite it using the 
+github button or by following the link in this DOI badge:
+
+[![DOI](https://zenodo.org/badge/498697559.svg)](https://zenodo.org/badge/latestdoi/498697559)
+
+
 ## TODO
 1. Some sorta web tool to assist in filling .yaml templates?
 1. dotfile path and contents
