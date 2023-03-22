@@ -71,4 +71,4 @@ Please feel free to contact us with any questions.  If you are interested in bec
 
 Data in this repository - including any merged user contributions - is licensed under
 [CC-BY-4.0](https://creativecommons.org/licenses/by/4.0/).
-Please see [LICENSE.md](https://github.com/pi-base/data/blob/master/LICENSE.md) for details.
+Please see [LICENSE.md](https://github.com/rschwiebert/dart_data/blob/master/LICENSE.md) for details.
