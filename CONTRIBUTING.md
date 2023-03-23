@@ -26,6 +26,14 @@ Here are a few tips to follow:
   - for a single example, suggest one (or many) resolution to the example's properties
   - for a single property, suggest one (or many) examples and their statuses for the property
   - suggest a new theorem ("logic") that could be used to make deductions
+  
+- (When suggesting an example) mention what the example contributes that is new to the database. Usually 
+  an example is added to make a particular distinction between properties.  If there are already other examples  
+  very similar to the proposed one, it might not make the cut.  Sometimes an example is interesting enough 
+  in its own right to add, without a particular use.
+  
+- (When suggesting a new property) support its relevance with peer-reviewed citations.  If you can make the case that 
+  it interests algebraists, then you'll have good chances at inclusion of the material.
     
 After discussion of your suggestion, any contributor can make a Pull Request (see below) to implement your improvement. 
 
@@ -48,6 +56,11 @@ Once the PR is approved, a developer can go about integrating it into the master
 This is the least flexible method, but if you really won't use git, then you can 
 [log into the website](https://ringtheory.herokuapp.com/accounts/login/) and 
 send a message via [the suggestion form](https://ringtheory.herokuapp.com/contribute/).
+
+### Caveat
+Not all suggestions can be approved. There are an infinitude of conditions and examples out there, 
+but we need to balance quantity and quality to try to create the best experience.  Deliberations in a GitHub issue 
+should suffice for deciding unusual cases, and ultimately it's up to the discretion of the maintainers.
 
 ## References
 
