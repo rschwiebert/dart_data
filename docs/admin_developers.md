@@ -3,23 +3,28 @@
 ## Preliminary setup
 
 1. install `git`
-1. install python 3.10+, and arrange for a virtual environment for RingApp (this can be done in many ways)
 1. checkout the RingApp repository and the dart_data repository
+1. install python 3.10+, and arrange for a virtual environment for RingApp (this can be done in many ways)
 1. pip install the requirements of RingApp into your venv (right now I'm using pipenv but I plan to change to poetry when possible.)
-1. export environment variables (I owe you a template)
-1. You might need to install postgres>=12 to run the Django app (will check into that and see if a local sqlite version will suffice)
-   1. when using postgres you'd have to create a user and database specified in the connection string in the environment
+1. export environment variables as in the localenv.sh.example file in RingApp/dev
+1. The website uses two databases, one postgres and one sqlite, 
+   but you may be able to alter the settings to use sqlite for both.
+   1. when using postgres you'd have to create a postgres user and database matching the connection string in the environment
 1. (Using the virtualenv) run `python manage.py migrate` inside RingApp to set up the tables in the databases.
-1. Ensure that the EXPORT_ROOT_DIR environment variable has been set to point at the /db directory of your dart_data checkout
+1. Set up a username with `python manage.py createsuperuser` 
+1. Ensure that the `EXPORT_ROOT_DIR` environment variable has been set to point at the /db directory of your dart_data checkout
 1. From RingApp, run `python manage.py db_to_data import --settings=ringapp.local_settings` to populate your local 
    sqlite database with the information stored in dart_data
 1. To test if things are working, you might run `python manage.py runserver --settings=ringapp.local_settings` and 
-   browsing to the frontend link it provides.  The site should look like the real site (but it is just a local instance.)
-   
+   browsing to the frontend link it provides.  The default is usually <http://127.0.0.1:8000/> .
+   The site should look like the real site (but it is just a local instance.)
+1. Additions to the database can be made using the Django admin UI at <http://127.0.0.1:8000/admin>, using
+   the superuser credentials you set up earlier.
+
 ## Review workflow
 
 ### Import and validate format
-This step validates whether the submission is parseable into the database.
+This step validates whether edited yaml files are parseable into the database.
 
 1. Ensure you have a working setup.
 1. Check out the submitted fork of dart_data next to your existing RingApp and dart_data repos.
