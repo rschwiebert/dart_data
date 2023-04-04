@@ -1,0 +1,11 @@
+citation:
+- CITE_000554
+description: See the <a href="expanded-details">expanded details page</a>.  It is
+  given as an example of a torch ring that is not a split null extension.
+is_commutative: true
+keywords:
+- KWD_000073
+krull_dim: null
+name: Facchini's torch ring
+notes: Has characteristic $p^2$.
+optional_template: ''

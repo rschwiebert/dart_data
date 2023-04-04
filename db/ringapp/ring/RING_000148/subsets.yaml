@@ -1,0 +1,8 @@
+SUBSET_000011:
+  citation:
+  - CITE_000555
+  crosstable_pk: 587
+  reason: null
+  ring: RING_000148
+  subset: $\{0\}$
+  subset_type: SUBSET_000011

@@ -1,0 +1,10 @@
+citation: []
+description: Let $S$ be <a href="/rings/ring/145">$R_{145}$</a>. The desired ring
+  is $R=S\times S$.
+is_commutative: true
+keywords:
+- KWD_000011
+krull_dim: null
+name: Square of a torch ring
+notes: null
+optional_template: ''

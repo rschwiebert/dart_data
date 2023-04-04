@@ -1,0 +1,5 @@
+description: 'Given a ring $S$, an Ore extension is constructed using a ring homomorphism
+  $\sigma : S\to  S$ and a derivation $\delta:S\to S$.  The new ring is the abelian
+  group $R[x]$ with the multiplication dictated by the rule $rx:=\sigma(r)x+\delta(r)$
+  for every $r\in R$.'
+name: Ore extension

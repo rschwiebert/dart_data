@@ -1,0 +1,7 @@
+active: true
+citation: []
+concs: ring_deduced("has",0,38)
+hyps: ring_deduced("has",0,175)
+readable: ring is ?-ring ===> ring is connected
+symmetric: true
+variety: 0

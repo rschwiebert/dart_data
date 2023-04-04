@@ -1,0 +1,10 @@
+citation: []
+description: $k[[x,y]]/(x^2,xy)$ where $k$ is a countably infinite field.
+is_commutative: true
+keywords:
+- KWD_000012
+- KWD_000003
+krull_dim: null
+name: $k[[x,y]]/(x^2,xy)$
+notes: null
+optional_template: ''
