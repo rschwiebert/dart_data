@@ -192,6 +192,30 @@ PROP_000019:
   reason_right: 'Logic 80: quasi-Frobenius <==> Artinian on the left and right and
     dual on the left and right'
   ring: RING_000097
+PROP_000020:
+  citation_left: []
+  citation_right: []
+  crosstable_pk: 23341
+  has_on_left: false
+  has_on_right: false
+  property: PROP_000020
+  reason_left: 'Logic (rings) 94: \(NOT "semiprimary" \) <=== \(NOT "perfect" on the
+    left and right\).'
+  reason_right: 'Logic (rings) 94: \(NOT "semiprimary" \) <=== \(NOT "perfect" on
+    the left and right\).'
+  ring: RING_000097
+PROP_000021:
+  citation_left: []
+  citation_right: []
+  crosstable_pk: 23342
+  has_on_left: false
+  has_on_right: false
+  property: PROP_000021
+  reason_left: 'Logic (rings) 150: \(NOT "nilpotent radical" \) <=== \(NOT "T-nilpotent
+    radical" on the right\).'
+  reason_right: 'Logic (rings) 150: \(NOT "nilpotent radical" \) <=== \(NOT "T-nilpotent
+    radical" on the right\).'
+  ring: RING_000097
 PROP_000024:
   citation_left: []
   citation_right: []
@@ -231,6 +255,16 @@ PROP_000027:
   property: PROP_000027
   reason_left: 'Logic 99: semilocal ===> stable range 1'
   reason_right: 'Logic 99: semilocal ===> stable range 1'
+  ring: RING_000097
+PROP_000028:
+  citation_left: []
+  citation_right: []
+  crosstable_pk: 23343
+  has_on_left: false
+  has_on_right: false
+  property: PROP_000028
+  reason_left: 'Logic (rings) 175: \(NOT "primary" \) <=== \(NOT "semiprimary" \).'
+  reason_right: 'Logic (rings) 175: \(NOT "primary" \) <=== \(NOT "semiprimary" \).'
   ring: RING_000097
 PROP_000031:
   citation_left: []
@@ -332,6 +366,28 @@ PROP_000044:
   property: PROP_000044
   reason_left: 'Logic 108: stably finite ===> IBN'
   reason_right: 'Logic 108: stably finite ===> IBN'
+  ring: RING_000097
+PROP_000045:
+  citation_left: []
+  citation_right: []
+  crosstable_pk: 23344
+  has_on_left: false
+  has_on_right: false
+  property: PROP_000045
+  reason_left: 'Logic (rings) 125: \(NOT "strongly $\pi$-regular" \) <=== \(NOT "$\pi$-regular"
+    \).'
+  reason_right: 'Logic (rings) 125: \(NOT "strongly $\pi$-regular" \) <=== \(NOT "$\pi$-regular"
+    \).'
+  ring: RING_000097
+PROP_000046:
+  citation_left: []
+  citation_right: []
+  crosstable_pk: 23340
+  has_on_left: false
+  has_on_right: false
+  property: PROP_000046
+  reason_left: It has quotients that are not pi-regular ($\mathbb Z_p$ for one)
+  reason_right: symmetry with left side
   ring: RING_000097
 PROP_000047:
   citation_left: []
@@ -626,6 +682,18 @@ PROP_000080:
   reason_left: Neither left nor right fp-injective, so not left or right injective
   reason_right: Neither left nor right fp-injective, so not left or right injective
   ring: RING_000097
+PROP_000082:
+  citation_left: []
+  citation_right: []
+  crosstable_pk: 23345
+  has_on_left: false
+  has_on_right: false
+  property: PROP_000082
+  reason_left: 'Logic (rings) 390: \(NOT "perfect" on the left\) <=== \(NOT "$\pi$-regular"
+    \).'
+  reason_right: 'Logic (rings) 390: \(NOT "perfect" on the right\) <=== \(NOT "$\pi$-regular"
+    \).'
+  ring: RING_000097
 PROP_000093:
   citation_left: []
   citation_right: []
@@ -637,6 +705,18 @@ PROP_000093:
     ring'
   reason_right: 'Logic 139: free ideal ring on the left or right ===> semi free ideal
     ring'
+  ring: RING_000097
+PROP_000097:
+  citation_left: []
+  citation_right: []
+  crosstable_pk: 23346
+  has_on_left: false
+  has_on_right: false
+  property: PROP_000097
+  reason_left: 'Logic (rings) 105: \(NOT "T-nilpotent radical" on the left\) <===
+    \(NOT "perfect" on the left\) AND \( "semilocal" \).'
+  reason_right: 'Logic (rings) 105: \(NOT "T-nilpotent radical" on the right\) <===
+    \(NOT "perfect" on the right\) AND \( "semilocal" \).'
   ring: RING_000097
 PROP_000111:
   citation_left: []
@@ -811,6 +891,18 @@ PROP_000147:
     and Noetherian on the right and V ring on the right'
   reason_right: 'Logic 382: PCI ring on the right ===> hereditary on the left and
     right and Noetherian on the right and V ring on the right'
+  ring: RING_000097
+PROP_000148:
+  citation_left: []
+  citation_right: []
+  crosstable_pk: 23347
+  has_on_left: false
+  has_on_right: false
+  property: PROP_000148
+  reason_left: 'Logic (rings) 389: \(NOT "max ring" on the left\) <=== \(NOT "perfect"
+    on the left\) AND \( "semilocal" \).'
+  reason_right: 'Logic (rings) 389: \(NOT "max ring" on the right\) <=== \(NOT "perfect"
+    on the right\) AND \( "semilocal" \).'
   ring: RING_000097
 PROP_000149:
   citation_left: []

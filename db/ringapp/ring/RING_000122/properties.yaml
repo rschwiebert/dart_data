@@ -217,6 +217,18 @@ PROP_000021:
   reason_right: 'Logic 150: nilpotent radical ===> T-nilpotent radical on the left
     and right and T-nilpotent radical on the right'
   ring: RING_000122
+PROP_000022:
+  citation_left: []
+  citation_right: []
+  crosstable_pk: 23350
+  has_on_left: false
+  has_on_right: false
+  property: PROP_000022
+  reason_left: 'Logic (rings) 243: \(NOT "nil radical" \) <=== \(NOT "$\pi$-regular"
+    \) AND \( "commutative" \) AND \( "semiregular" \).'
+  reason_right: 'Logic (rings) 243: \(NOT "nil radical" \) <=== \(NOT "$\pi$-regular"
+    \) AND \( "commutative" \) AND \( "semiregular" \).'
+  ring: RING_000122
 PROP_000023:
   citation_left: []
   citation_right: []
@@ -443,6 +455,28 @@ PROP_000044:
   reason_left: 'Logic 108: stably finite ===> IBN'
   reason_right: 'Logic 108: stably finite ===> IBN'
   ring: RING_000122
+PROP_000045:
+  citation_left: []
+  citation_right: []
+  crosstable_pk: 23351
+  has_on_left: false
+  has_on_right: false
+  property: PROP_000045
+  reason_left: 'Logic (rings) 125: \(NOT "strongly $\pi$-regular" \) <=== \(NOT "$\pi$-regular"
+    \).'
+  reason_right: 'Logic (rings) 125: \(NOT "strongly $\pi$-regular" \) <=== \(NOT "$\pi$-regular"
+    \).'
+  ring: RING_000122
+PROP_000046:
+  citation_left: []
+  citation_right: []
+  crosstable_pk: 23348
+  has_on_left: false
+  has_on_right: false
+  property: PROP_000046
+  reason_left: Has a non pi regular quotient (namely $\mathbb Z_2$)
+  reason_right: symmetry with left side
+  ring: RING_000122
 PROP_000047:
   citation_left: []
   citation_right: []
@@ -462,6 +496,16 @@ PROP_000048:
   property: PROP_000048
   reason_left: 'Logic 128: exchange ===> $I_0$'
   reason_right: 'Logic 128: exchange ===> $I_0$'
+  ring: RING_000122
+PROP_000049:
+  citation_left: []
+  citation_right: []
+  crosstable_pk: 23352
+  has_on_left: false
+  has_on_right: false
+  property: PROP_000049
+  reason_left: 'Logic (rings) 130: \(NOT "Zorn" \) <=== \(NOT "nil radical" \).'
+  reason_right: 'Logic (rings) 130: \(NOT "Zorn" \) <=== \(NOT "nil radical" \).'
   ring: RING_000122
 PROP_000050:
   citation_left: []
@@ -1162,6 +1206,18 @@ PROP_000124:
   reason_left: 'Logic 293: atomic domain ===> domain'
   reason_right: 'Logic 293: atomic domain ===> domain'
   ring: RING_000122
+PROP_000125:
+  citation_left: []
+  citation_right: []
+  crosstable_pk: 23353
+  has_on_left: false
+  has_on_right: false
+  property: PROP_000125
+  reason_left: 'Logic (rings) 325: \(NOT "Jacobson (Hilbert)" \) <=== \(NOT "rad-nil"
+    \) AND \( "2-primal" \).'
+  reason_right: 'Logic (rings) 325: \(NOT "Jacobson (Hilbert)" \) <=== \(NOT "rad-nil"
+    \) AND \( "2-primal" \).'
+  ring: RING_000122
 PROP_000126:
   citation_left: []
   citation_right: []
@@ -1181,6 +1237,18 @@ PROP_000127:
   property: PROP_000127
   reason_left: 'Logic 326: normal domain <==> domain and normal'
   reason_right: 'Logic 326: normal domain <==> domain and normal'
+  ring: RING_000122
+PROP_000128:
+  citation_left: []
+  citation_right: []
+  crosstable_pk: 23354
+  has_on_left: false
+  has_on_right: false
+  property: PROP_000128
+  reason_left: 'Logic (rings) 413: \(NOT "rad-nil" \) <=== \(NOT "nil radical" \)
+    AND \( "commutative" \).'
+  reason_right: 'Logic (rings) 413: \(NOT "rad-nil" \) <=== \(NOT "nil radical" \)
+    AND \( "commutative" \).'
   ring: RING_000122
 PROP_000129:
   citation_left: []

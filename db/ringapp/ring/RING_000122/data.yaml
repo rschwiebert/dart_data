@@ -1,7 +1,7 @@
 citation:
 - CITE_000399
 description: Let $B$ be the ring of $2$-adic integers, and $Q$ be its field of quotients.  The
-  required ring is the trivial extension $R=B\ltimes Q/B$.
+  required ring is the trivial extension $R=T(B, Q/B)$.
 is_commutative: true
 keywords:
 - KWD_000024

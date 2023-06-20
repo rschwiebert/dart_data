@@ -377,6 +377,29 @@ PROP_000044:
   reason_left: 'Logic 108: stably finite ===> IBN'
   reason_right: 'Logic 108: stably finite ===> IBN'
   ring: RING_000104
+PROP_000045:
+  citation_left: []
+  citation_right: []
+  crosstable_pk: 23331
+  has_on_left: false
+  has_on_right: false
+  property: PROP_000045
+  reason_left: 'Logic (rings) 125: \(NOT "strongly $\pi$-regular" \) <=== \(NOT "$\pi$-regular"
+    \).'
+  reason_right: 'Logic (rings) 125: \(NOT "strongly $\pi$-regular" \) <=== \(NOT "$\pi$-regular"
+    \).'
+  ring: RING_000104
+PROP_000046:
+  citation_left: []
+  citation_right: []
+  crosstable_pk: 23329
+  has_on_left: false
+  has_on_right: false
+  property: PROP_000046
+  reason_left: pi regularity passes to quotients, and it has non pi regular quotients
+    ($\mathbb Q[[X,Y]]$)
+  reason_right: symmetry with left side
+  ring: RING_000104
 PROP_000051:
   citation_left: []
   citation_right: []

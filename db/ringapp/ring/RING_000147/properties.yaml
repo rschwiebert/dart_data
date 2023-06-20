@@ -401,6 +401,28 @@ PROP_000044:
   reason_left: 'Logic (rings) 108: \( "IBN" \) <=== \( "stably finite" \).'
   reason_right: 'Logic (rings) 108: \( "IBN" \) <=== \( "stably finite" \).'
   ring: RING_000147
+PROP_000045:
+  citation_left: []
+  citation_right: []
+  crosstable_pk: 23355
+  has_on_left: false
+  has_on_right: false
+  property: PROP_000045
+  reason_left: 'Logic (rings) 125: \(NOT "strongly $\pi$-regular" \) <=== \(NOT "$\pi$-regular"
+    \).'
+  reason_right: 'Logic (rings) 125: \(NOT "strongly $\pi$-regular" \) <=== \(NOT "$\pi$-regular"
+    \).'
+  ring: RING_000147
+PROP_000046:
+  citation_left: []
+  citation_right: []
+  crosstable_pk: 23349
+  has_on_left: false
+  has_on_right: false
+  property: PROP_000046
+  reason_left: It has a quotient that is not pi regular (either one of its factors)
+  reason_right: symmetry with left side
+  ring: RING_000147
 PROP_000051:
   citation_left: []
   citation_right: []
