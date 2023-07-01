@@ -1,0 +1,13 @@
+citation: []
+description: $R$ is the restricted direct product of $\mathbb R$ and the $p$-adic
+  rings $\mathbb Q_p$.  That is, it is the subring of $\mathbb R\times\prod_p \mathbb
+  Q_p$ of elements for which all but finitely many coordinates lie in $\mathbb Z_p$
+  for each respective position indexed by $p$.
+is_commutative: true
+keywords:
+- KWD_000011
+- KWD_000007
+krull_dim: null
+name: '$A_\mathbb Q$: the ring of adeles of $\mathbb Q$'
+notes: null
+optional_template: ''

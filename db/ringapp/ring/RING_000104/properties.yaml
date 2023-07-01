@@ -638,6 +638,18 @@ PROP_000080:
   reason_right: 'Logic 219: nonsingular on the right and self-injective on the right
     ===> von Neumann regular'
   ring: RING_000104
+PROP_000081:
+  citation_left: []
+  citation_right: []
+  crosstable_pk: 23359
+  has_on_left: false
+  has_on_right: false
+  property: PROP_000081
+  reason_left: 'Logic (rings) 92: \(NOT "Kasch" on the left\) <=== \(NOT "nonzero
+    socle" on the left\).'
+  reason_right: 'Logic (rings) 92: \(NOT "Kasch" on the right\) <=== \(NOT "nonzero
+    socle" on the right\).'
+  ring: RING_000104
 PROP_000082:
   citation_left: []
   citation_right: []
@@ -764,6 +776,52 @@ PROP_000096:
   property: PROP_000096
   reason_left: symmetry with right side
   reason_right: 'Logic 111: duo on the right ===> quasi-duo on the right'
+  ring: RING_000104
+PROP_000098:
+  citation_left: []
+  citation_right: []
+  crosstable_pk: 23360
+  has_on_left: false
+  has_on_right: false
+  property: PROP_000098
+  reason_left: 'Logic (rings) 154: \(NOT "simple socle" on the left\) <=== \(NOT "nonzero
+    socle" on the left\).'
+  reason_right: 'Logic (rings) 154: \(NOT "simple socle" on the right\) <=== \(NOT
+    "nonzero socle" on the right\).'
+  ring: RING_000104
+PROP_000100:
+  citation_left: []
+  citation_right: []
+  crosstable_pk: 23358
+  has_on_left: false
+  has_on_right: false
+  property: PROP_000100
+  reason_left: None of the factor rings have minimal ideals
+  reason_right: symmetry with left side
+  ring: RING_000104
+PROP_000101:
+  citation_left: []
+  citation_right: []
+  crosstable_pk: 23361
+  has_on_left: false
+  has_on_right: false
+  property: PROP_000101
+  reason_left: 'Logic (rings) 156: \(NOT "essential socle" on the left\) <=== \(NOT
+    "nonzero socle" on the left\).'
+  reason_right: 'Logic (rings) 156: \(NOT "essential socle" on the right\) <=== \(NOT
+    "nonzero socle" on the right\).'
+  ring: RING_000104
+PROP_000102:
+  citation_left: []
+  citation_right: []
+  crosstable_pk: 23362
+  has_on_left: false
+  has_on_right: false
+  property: PROP_000102
+  reason_left: 'Logic (rings) 202: \(NOT "cogenerator ring" on the left\) <=== \(NOT
+    "Kasch" on the left\).'
+  reason_right: 'Logic (rings) 202: \(NOT "cogenerator ring" on the right\) <=== \(NOT
+    "Kasch" on the right\).'
   ring: RING_000104
 PROP_000103:
   citation_left: []
