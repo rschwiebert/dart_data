@@ -1,0 +1,12 @@
+citation: []
+description: This algebra is isomorphic to $M_2(\mathbb H)\times M_2(\mathbb H)$ where
+  $\mathbb H$ are Hamilton's quaternions
+is_commutative: false
+keywords:
+- KWD_000075
+- KWD_000011
+- KWD_000015
+krull_dim: null
+name: '$C\ell_{1,3}(\mathbb R)$: the spacetime algebra'
+notes: null
+optional_template: ''
