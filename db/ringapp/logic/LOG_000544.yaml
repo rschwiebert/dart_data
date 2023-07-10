@@ -1,0 +1,8 @@
+active: true
+citation: []
+concs: ring_dim_deduced("0",0,1)
+hyps: ring_deduced("has",4,63)
+readable: ring is Artinian on the left or right ===> has Krull dimension (classical)
+  0
+symmetric: true
+variety: 0

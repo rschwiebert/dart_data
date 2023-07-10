@@ -1,0 +1,9 @@
+active: true
+citation:
+- CITE_000214
+concs: ring_deduced("has",3,147) AND ring_deduced("has",2,87)
+hyps: ring_deduced("has",3,147) AND ring_deduced("has",2,147)
+readable: ring is PCI ring on the right AND ring is PCI ring on the left <==> ring
+  is PCI ring on the right AND ring is coherent on the left
+symmetric: false
+variety: 1

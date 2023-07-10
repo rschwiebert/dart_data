@@ -758,10 +758,11 @@ PROP_000075:
   citation_right:
   - CITE_000239
   crosstable_pk: 14142
-  has_on_left: null
+  has_on_left: true
   has_on_right: true
   property: PROP_000075
-  reason_left: null
+  reason_left: 'Logic (rings) 382: \( "V ring" on the left\) <=== \( "PCI ring" on
+    the left\).'
   reason_right: null
   ring: RING_000109
 PROP_000076:
@@ -1243,10 +1244,11 @@ PROP_000147:
   citation_right:
   - CITE_000462
   crosstable_pk: 17560
-  has_on_left: null
+  has_on_left: true
   has_on_right: true
   property: PROP_000147
-  reason_left: null
+  reason_left: 'Logic (rings) 546: \( "PCI ring" on the left\) <=== \( "PCI ring"
+    on the right\) AND \( "coherent" on the left\).'
   reason_right: Boyle's theorem 5 says it is right QI, Cor. 10 pt 2 is satisfied,
     hence pt 1 holds
   ring: RING_000109
@@ -1254,10 +1256,11 @@ PROP_000148:
   citation_left: []
   citation_right: []
   crosstable_pk: 14311
-  has_on_left: null
+  has_on_left: true
   has_on_right: true
   property: PROP_000148
-  reason_left: null
+  reason_left: 'Logic (rings) 387: \( "max ring" on the left\) <=== \( "V ring" on
+    the left\).'
   reason_right: 'Logic 387: V ring on the right ===> max ring on the right'
   ring: RING_000109
 PROP_000150:

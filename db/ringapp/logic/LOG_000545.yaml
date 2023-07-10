@@ -1,0 +1,8 @@
+active: true
+citation: []
+concs: ring_dim_deduced(X,3,6)
+hyps: ring_deduced("has",0,5) AND ring_dim_deduced(X,3,2)
+readable: ring is semisimple AND has composition length X on the right ===> has uniform
+  dimension X on the right
+symmetric: false
+variety: 0
