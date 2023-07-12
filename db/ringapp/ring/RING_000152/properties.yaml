@@ -48,7 +48,7 @@ PROP_000005:
   has_on_left: true
   has_on_right: true
   property: PROP_000005
-  reason_left: Since it is isomorphic to $M_2(\mathbb H)^2$
+  reason_left: Since it is isomorphic to $M_2(\mathbb R)^2$
   reason_right: symmetry with left side
   ring: RING_000152
 PROP_000006:
