@@ -68,6 +68,16 @@ PROP_000008:
   reason_right: 'Logic (rings) 462: \(NOT "domain" \) <=== \(NOT "strongly connected"
     \).'
   ring: RING_000142
+PROP_000010:
+  citation_left: []
+  citation_right: []
+  crosstable_pk: 23840
+  has_on_left: false
+  has_on_right: false
+  property: PROP_000010
+  reason_left: 'Logic (rings) 420: \(NOT "reduced" \) <=== \(NOT "Armendariz" \).'
+  reason_right: 'Logic (rings) 420: \(NOT "reduced" \) <=== \(NOT "Armendariz" \).'
+  ring: RING_000142
 PROP_000011:
   citation_left: []
   citation_right: []
@@ -77,6 +87,18 @@ PROP_000011:
   property: PROP_000011
   reason_left: 'Logic (rings) 261: \( "semiprime" \) <=== \( "semiprimitive" \).'
   reason_right: 'Logic (rings) 261: \( "semiprime" \) <=== \( "semiprimitive" \).'
+  ring: RING_000142
+PROP_000012:
+  citation_left: []
+  citation_right: []
+  crosstable_pk: 23841
+  has_on_left: false
+  has_on_right: false
+  property: PROP_000012
+  reason_left: 'Logic (rings) 37: \(NOT "strongly regular" \) <=== \(NOT "reduced"
+    \).'
+  reason_right: 'Logic (rings) 37: \(NOT "strongly regular" \) <=== \(NOT "reduced"
+    \).'
   ring: RING_000142
 PROP_000014:
   citation_left:
@@ -236,6 +258,50 @@ PROP_000031:
   reason_right: 'Logic (rings) 35: \( "top regular" \) <=== \( "von Neumann regular"
     \).'
   ring: RING_000142
+PROP_000032:
+  citation_left: []
+  citation_right: []
+  crosstable_pk: 23842
+  has_on_left: false
+  has_on_right: false
+  property: PROP_000032
+  reason_left: 'Logic (rings) 195: \(NOT "semicommutative  (SI condition, zero-insertive)"
+    \) <=== \(NOT "2-primal" \).'
+  reason_right: 'Logic (rings) 195: \(NOT "semicommutative  (SI condition, zero-insertive)"
+    \) <=== \(NOT "2-primal" \).'
+  ring: RING_000142
+PROP_000034:
+  citation_left: []
+  citation_right: []
+  crosstable_pk: 23843
+  has_on_left: false
+  has_on_right: false
+  property: PROP_000034
+  reason_left: 'Logic (rings) 42: \(NOT "2-primal" \) <=== \(NOT "reduced" \) AND
+    \( "semiprime" \).'
+  reason_right: 'Logic (rings) 42: \(NOT "2-primal" \) <=== \(NOT "reduced" \) AND
+    \( "semiprime" \).'
+  ring: RING_000142
+PROP_000035:
+  citation_left: []
+  citation_right: []
+  crosstable_pk: 23844
+  has_on_left: false
+  has_on_right: false
+  property: PROP_000035
+  reason_left: 'Logic (rings) 177: \(NOT "reversible" \) <=== \(NOT "2-primal" \).'
+  reason_right: 'Logic (rings) 177: \(NOT "reversible" \) <=== \(NOT "2-primal" \).'
+  ring: RING_000142
+PROP_000036:
+  citation_left: []
+  citation_right: []
+  crosstable_pk: 23845
+  has_on_left: false
+  has_on_right: false
+  property: PROP_000036
+  reason_left: 'Logic (rings) 178: \(NOT "symmetric" \) <=== \(NOT "reversible" \).'
+  reason_right: 'Logic (rings) 178: \(NOT "symmetric" \) <=== \(NOT "reversible" \).'
+  ring: RING_000142
 PROP_000037:
   citation_left: []
   citation_right: []
@@ -247,6 +313,18 @@ PROP_000037:
     ring" \) AND \( "von Neumann regular" \).'
   reason_right: 'Logic (rings) 192: \(NOT "strongly connected" \) <=== \(NOT "division
     ring" \) AND \( "von Neumann regular" \).'
+  ring: RING_000142
+PROP_000040:
+  citation_left: []
+  citation_right: []
+  crosstable_pk: 23846
+  has_on_left: false
+  has_on_right: false
+  property: PROP_000040
+  reason_left: 'Logic (rings) 169: \(NOT "Abelian" \) <=== \(NOT "strongly regular"
+    \) AND \( "von Neumann regular" \).'
+  reason_right: 'Logic (rings) 169: \(NOT "Abelian" \) <=== \(NOT "strongly regular"
+    \) AND \( "von Neumann regular" \).'
   ring: RING_000142
 PROP_000043:
   citation_left: []
@@ -313,6 +391,17 @@ PROP_000050:
     "top regular" \).'
   reason_right: 'Logic (rings) 132: \( "semiregular" \) <=== \( "lift/rad" \) AND
     \( "top regular" \).'
+  ring: RING_000142
+PROP_000051:
+  citation_left: []
+  citation_right: []
+  crosstable_pk: 23838
+  has_on_left: false
+  has_on_right: false
+  property: PROP_000051
+  reason_left: Contains $B$ as a subring, which contains copies of $M_n(k)$ for all
+    $n$, hence there can be no PI
+  reason_right: symmetry with left side
   ring: RING_000142
 PROP_000054:
   citation_left: []
@@ -602,6 +691,18 @@ PROP_000082:
   reason_right: 'Logic (rings) 389: \(NOT "perfect" on the right\) <=== \(NOT "semilocal"
     \).'
   ring: RING_000142
+PROP_000084:
+  citation_left: []
+  citation_right: []
+  crosstable_pk: 23848
+  has_on_left: false
+  has_on_right: false
+  property: PROP_000084
+  reason_left: 'Logic (rings) 170: \(NOT "duo" on the left\) <=== \(NOT "strongly
+    regular" \) AND \( "von Neumann regular" \).'
+  reason_right: 'Logic (rings) 170: \(NOT "duo" on the right\) <=== \(NOT "strongly
+    regular" \) AND \( "von Neumann regular" \).'
+  ring: RING_000142
 PROP_000085:
   citation_left: []
   citation_right: []
@@ -704,6 +805,18 @@ PROP_000095:
   reason_left: 'Logic (rings) logical AND: ring_deduced("has",2,Y) <=== ring_deduced("has",1,Y).'
   reason_right: 'Logic (rings) logical AND: ring_deduced("has",3,Y) <=== ring_deduced("has",1,Y).'
   ring: RING_000142
+PROP_000096:
+  citation_left: []
+  citation_right: []
+  crosstable_pk: 23849
+  has_on_left: false
+  has_on_right: false
+  property: PROP_000096
+  reason_left: 'Logic (rings) 227: \(NOT "quasi-duo" on the left\) <=== \(NOT "distributive"
+    on the left\) AND \( "Bezout" on the left\).'
+  reason_right: 'Logic (rings) 227: \(NOT "quasi-duo" on the right\) <=== \(NOT "distributive"
+    on the right\) AND \( "Bezout" on the right\).'
+  ring: RING_000142
 PROP_000097:
   citation_left: []
   citation_right: []
@@ -726,6 +839,18 @@ PROP_000103:
     \(NOT "semisimple" \) AND \( "semiprime" \).'
   reason_right: 'Logic (rings) 213: \(NOT "finitely cogenerated" on the right\) <===
     \(NOT "semisimple" \) AND \( "semiprime" \).'
+  ring: RING_000142
+PROP_000104:
+  citation_left: []
+  citation_right: []
+  crosstable_pk: 23850
+  has_on_left: false
+  has_on_right: false
+  property: PROP_000104
+  reason_left: 'Logic (rings) 224: \(NOT "distributive" on the left\) <=== \(NOT "reduced"
+    \) AND \( "nonsingular" on the left\).'
+  reason_right: 'Logic (rings) 224: \(NOT "distributive" on the right\) <=== \(NOT
+    "reduced" \) AND \( "nonsingular" on the right\).'
   ring: RING_000142
 PROP_000105:
   citation_left: []
@@ -808,6 +933,16 @@ PROP_000117:
     on the left and right\).'
   reason_right: 'Logic (rings) 352: \(NOT "Cohen-Macaulay" \) <=== \(NOT "Noetherian"
     on the left and right\).'
+  ring: RING_000142
+PROP_000118:
+  citation_left: []
+  citation_right: []
+  crosstable_pk: 23847
+  has_on_left: false
+  has_on_right: false
+  property: PROP_000118
+  reason_left: 'Logic (rings) 309: \(NOT "normal" \) <=== \(NOT "reduced" \).'
+  reason_right: 'Logic (rings) 309: \(NOT "normal" \) <=== \(NOT "reduced" \).'
   ring: RING_000142
 PROP_000119:
   citation_left: []
@@ -1091,6 +1226,16 @@ PROP_000154:
     "uniserial ring" on the left\).'
   reason_right: 'Logic (rings) 425: \(NOT "uniserial domain" on the right\) <=== \(NOT
     "uniserial ring" on the right\).'
+  ring: RING_000142
+PROP_000155:
+  citation_left: []
+  citation_right: []
+  crosstable_pk: 23839
+  has_on_left: false
+  has_on_right: false
+  property: PROP_000155
+  reason_left: Contains a copy of $B$ containing a copy of $M_2(k)$ which is not Armendariz
+  reason_right: symmetry with left side
   ring: RING_000142
 PROP_000159:
   citation_left: []

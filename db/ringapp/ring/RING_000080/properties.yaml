@@ -327,6 +327,17 @@ PROP_000050:
   reason_left: 'Logic 132: semiregular <==> lift/rad and top regular'
   reason_right: 'Logic 132: semiregular <==> lift/rad and top regular'
   ring: RING_000080
+PROP_000051:
+  citation_left: []
+  citation_right: []
+  crosstable_pk: 23853
+  has_on_left: false
+  has_on_right: false
+  property: PROP_000051
+  reason_left: Contains copies of $M_n(k)$ for all $n$, hence cannot satisfy a single
+    polynomial identity.
+  reason_right: symmetry with left side
+  ring: RING_000080
 PROP_000054:
   citation_left: []
   citation_right: []
@@ -834,6 +845,16 @@ PROP_000154:
     right'
   reason_right: 'Logic 414: valuation domain on the right ===> Bezout domain on the
     right'
+  ring: RING_000080
+PROP_000155:
+  citation_left: []
+  citation_right: []
+  crosstable_pk: 23854
+  has_on_left: false
+  has_on_right: false
+  property: PROP_000155
+  reason_left: Contains a copy of $M_2(k)$, hence cannot be Armendariz.
+  reason_right: symmetry with left side
   ring: RING_000080
 PROP_000159:
   citation_left: []

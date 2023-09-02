@@ -1276,6 +1276,16 @@ PROP_000154:
   reason_right: 'Logic 414: valuation domain on the right ===> Bezout domain on the
     right'
   ring: RING_000087
+PROP_000155:
+  citation_left: []
+  citation_right: []
+  crosstable_pk: 23835
+  has_on_left: false
+  has_on_right: false
+  property: PROP_000155
+  reason_left: $([1,1;0,0]x+[1,0;0,0])([0,-1;0,1]x+[0,0;0,1])=0$
+  reason_right: symmetry with left side
+  ring: RING_000087
 PROP_000157:
   citation_left: []
   citation_right: []

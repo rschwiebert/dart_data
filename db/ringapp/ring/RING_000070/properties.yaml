@@ -423,6 +423,16 @@ PROP_000050:
   reason_left: 'Logic 132: semiregular <==> lift/rad and top regular'
   reason_right: 'Logic 132: semiregular <==> lift/rad and top regular'
   ring: RING_000070
+PROP_000051:
+  citation_left: []
+  citation_right: []
+  crosstable_pk: 23857
+  has_on_left: false
+  has_on_right: false
+  property: PROP_000051
+  reason_left: Contains copies of $M_n(F)$ for all $n$, hence can't satisfy a PI.
+  reason_right: symmetry with left side
+  ring: RING_000070
 PROP_000052:
   citation_left: []
   citation_right: []
@@ -1217,6 +1227,16 @@ PROP_000154:
     right'
   reason_right: 'Logic 414: valuation domain on the right ===> Bezout domain on the
     right'
+  ring: RING_000070
+PROP_000155:
+  citation_left: []
+  citation_right: []
+  crosstable_pk: 23858
+  has_on_left: false
+  has_on_right: false
+  property: PROP_000155
+  reason_left: Contains a copy of $M_2(F)$ which isn't Armendariz
+  reason_right: symmetry with left side
   ring: RING_000070
 PROP_000157:
   citation_left: []

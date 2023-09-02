@@ -1,0 +1,10 @@
+alias: When skew polynomial rings are right duo
+categories:
+- THMCAT_000003
+citation:
+- CITE_000558
+commutative_only: false
+link: null
+statement: If $R$ is a ring and $\sigma$ is a ring endomorphism of $R$, the skew polynomial
+  ring $R[x;\sigma]$ is right duo (or left duo) only when it is commutative (i.e.
+  $R$ is commutative and $\sigma$ is the identity.)

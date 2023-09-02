@@ -1143,6 +1143,16 @@ PROP_000154:
   reason_right: 'Logic 414: valuation domain on the right ===> Bezout domain on the
     right'
   ring: RING_000044
+PROP_000155:
+  citation_left: []
+  citation_right: []
+  crosstable_pk: 23833
+  has_on_left: false
+  has_on_right: false
+  property: PROP_000155
+  reason_left: "Use $f(x)=e_{12}x+e_{13}$, $g(x)=e_{34}x\u2212e_{24}$ of $A[x]$"
+  reason_right: symmetry with left side
+  ring: RING_000044
 PROP_000157:
   citation_left: []
   citation_right: []

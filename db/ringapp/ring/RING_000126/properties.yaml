@@ -50,6 +50,16 @@ PROP_000008:
   reason_left: 'Logic 464: domain ===> ACC annihilator on the left and right'
   reason_right: 'Logic 464: domain ===> ACC annihilator on the left and right'
   ring: RING_000126
+PROP_000010:
+  citation_left: []
+  citation_right: []
+  crosstable_pk: 23867
+  has_on_left: false
+  has_on_right: false
+  property: PROP_000010
+  reason_left: 'Logic (rings) 420: \(NOT "reduced" \) <=== \(NOT "Armendariz" \).'
+  reason_right: 'Logic (rings) 420: \(NOT "reduced" \) <=== \(NOT "Armendariz" \).'
+  ring: RING_000126
 PROP_000012:
   citation_left: []
   citation_right: []
@@ -589,6 +599,16 @@ PROP_000117:
   reason_right: 'Logic 352: Cohen-Macaulay ===> Noetherian on the left and right and
     universally catenary'
   ring: RING_000126
+PROP_000118:
+  citation_left: []
+  citation_right: []
+  crosstable_pk: 23868
+  has_on_left: false
+  has_on_right: false
+  property: PROP_000118
+  reason_left: 'Logic (rings) 309: \(NOT "normal" \) <=== \(NOT "reduced" \).'
+  reason_right: 'Logic (rings) 309: \(NOT "normal" \) <=== \(NOT "reduced" \).'
+  ring: RING_000126
 PROP_000121:
   citation_left: []
   citation_right: []
@@ -815,6 +835,16 @@ PROP_000154:
     right'
   reason_right: 'Logic 414: valuation domain on the right ===> Bezout domain on the
     right'
+  ring: RING_000126
+PROP_000155:
+  citation_left: []
+  citation_right: []
+  crosstable_pk: 23865
+  has_on_left: false
+  has_on_right: false
+  property: PROP_000155
+  reason_left: $([1,1;0,0]x+[1,0;0,0])([0,-1;0,1]x+[0,0;0,1])=0]$
+  reason_right: symmetry with left side
   ring: RING_000126
 PROP_000159:
   citation_left: []

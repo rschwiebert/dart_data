@@ -89,6 +89,16 @@ PROP_000048:
   reason_left: 'Logic 128: exchange ===> $I_0$'
   reason_right: 'Logic 128: exchange ===> $I_0$'
   ring: RING_000067
+PROP_000051:
+  citation_left: []
+  citation_right: []
+  crosstable_pk: 23856
+  has_on_left: false
+  has_on_right: false
+  property: PROP_000051
+  reason_left: Contains a copy of $R_{70}$ which is not PI.
+  reason_right: symmetry with left side
+  ring: RING_000067
 PROP_000052:
   citation_left: []
   citation_right: []
@@ -440,6 +450,16 @@ PROP_000154:
     right'
   reason_right: 'Logic 414: valuation domain on the right ===> Bezout domain on the
     right'
+  ring: RING_000067
+PROP_000155:
+  citation_left: []
+  citation_right: []
+  crosstable_pk: 23855
+  has_on_left: false
+  has_on_right: false
+  property: PROP_000155
+  reason_left: Contains a copy of a $2\times 2$ matrix ring and so it cannot be Armendariz
+  reason_right: symmetry with left side
   ring: RING_000067
 PROP_000159:
   citation_left: []

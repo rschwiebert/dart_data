@@ -509,6 +509,17 @@ PROP_000050:
   reason_left: 'Logic 132: semiregular <==> lift/rad and top regular'
   reason_right: 'Logic 132: semiregular <==> lift/rad and top regular'
   ring: RING_000015
+PROP_000051:
+  citation_left: []
+  citation_right: []
+  crosstable_pk: 23830
+  has_on_left: false
+  has_on_right: false
+  property: PROP_000051
+  reason_left: A subalgebra $M_n(F)$ cannot satisfy a PI of degree less than $2n$.  It
+    has such subalgebras for all $n$.
+  reason_right: symmetry with left side
+  ring: RING_000015
 PROP_000052:
   citation_left: []
   citation_right: []
@@ -1472,6 +1483,17 @@ PROP_000154:
     right'
   reason_right: 'Logic 414: valuation domain on the right ===> Bezout domain on the
     right'
+  ring: RING_000015
+PROP_000155:
+  citation_left: []
+  citation_right: []
+  crosstable_pk: 23831
+  has_on_left: false
+  has_on_right: false
+  property: PROP_000155
+  reason_left: Armendariz passes to subrings, and it has $M_2(F)$ as a subring (not
+    Armendariz)
+  reason_right: symmetry with left side
   ring: RING_000015
 PROP_000157:
   citation_left: []

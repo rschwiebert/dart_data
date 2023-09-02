@@ -1,0 +1,8 @@
+active: true
+citation: []
+concs: ring_dim_deduced("0",0,1)
+hyps: ring_deduced("has",0,46) AND ring_deduced("has",0,1)
+readable: ring is $\pi$-regular AND ring is commutative ===> has Krull dimension (classical)
+  0
+symmetric: true
+variety: 0

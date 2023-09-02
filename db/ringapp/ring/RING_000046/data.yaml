@@ -1,8 +1,8 @@
 citation:
 - CITE_000111
-description: The ring is $\begin{bmatrix} F_2&F_2\\0&Z_{(2)}\end{bmatrix}$ where the
-  field of two elements $F_2$ is given the natural right $\mathbb Z_{(2)}$ module
-  structure by localizing $\mathbb Z$ at the prime ideal $(2)$
+description: The ring is $\begin{bmatrix} F_2&F_2\\0&\mathbb Z_{(2)}\end{bmatrix}$
+  where the field of two elements $F_2$ is given the natural right $\mathbb Z_{(2)}$
+  module structure by localizing $\mathbb Z$ at the prime ideal $(2)$
 is_commutative: false
 keywords:
 - KWD_000005

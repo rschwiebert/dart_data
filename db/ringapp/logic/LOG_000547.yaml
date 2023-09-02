@@ -1,0 +1,7 @@
+active: true
+citation: []
+concs: ring_deduced("lacks",0,167)
+hyps: ring_deduced("has",0,46) AND ring_deduced("has",0,1)
+readable: ring is $\pi$-regular AND ring is commutative ===> ring is not torch
+symmetric: true
+variety: 0

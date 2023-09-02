@@ -1532,6 +1532,17 @@ PROP_000154:
   reason_right: 'Logic (rings) 425: \(NOT "uniserial domain" on the right\) <=== \(NOT
     "domain" \).'
   ring: RING_000152
+PROP_000155:
+  citation_left: []
+  citation_right: []
+  crosstable_pk: 23832
+  has_on_left: false
+  has_on_right: false
+  property: PROP_000155
+  reason_left: Contains a copy of $M_2(F)$ which is not Armendariz (Armendariz passes
+    to subrings)
+  reason_right: symmetry with left side
+  ring: RING_000152
 PROP_000157:
   citation_left: []
   citation_right: []

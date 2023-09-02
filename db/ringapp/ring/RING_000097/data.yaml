@@ -11,6 +11,6 @@ keywords:
 - KWD_000004
 krull_dim: (unknown)
 name: Puninski's triangular serial ring
-notes: Krull dimension $1$, (probably Rentschler-MIchler Krull dimension) The radical
+notes: Krull dimension $1$, (probably Rentschler-Michler Krull dimension) The radical
   is the union of the singular ideals. It is its own classical quotient ring.
 optional_template: ''
