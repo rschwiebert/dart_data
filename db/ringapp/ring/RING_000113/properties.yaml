@@ -683,6 +683,28 @@ PROP_000161:
   reason_right: 'Logic (rings) 495: \(NOT "complete discrete valuation ring" \) <===
     \(NOT "discrete valuation ring" \).'
   ring: RING_000113
+PROP_000162:
+  citation_left: []
+  citation_right: []
+  crosstable_pk: 23922
+  has_on_left: false
+  has_on_right: false
+  property: PROP_000162
+  reason_left: 'Has asymmetry: left but not right McCoy'
+  reason_right: symmetry with left side
+  ring: RING_000113
+PROP_000163:
+  citation_left: []
+  citation_right: []
+  crosstable_pk: 23926
+  has_on_left: false
+  has_on_right: false
+  property: PROP_000163
+  reason_left: 'Logic (rings) 496: \(NOT "involutive" \) <=== \(NOT "anti-automorphic"
+    \).'
+  reason_right: 'Logic (rings) 496: \(NOT "involutive" \) <=== \(NOT "anti-automorphic"
+    \).'
+  ring: RING_000113
 PROP_000164:
   citation_left: []
   citation_right: []

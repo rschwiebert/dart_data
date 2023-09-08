@@ -1,3 +1,24 @@
+SUBSET_000001:
+  citation: []
+  crosstable_pk: 609
+  reason: null
+  ring: RING_000044
+  subset: $S$
+  subset_type: SUBSET_000001
+SUBSET_000002:
+  citation: []
+  crosstable_pk: 614
+  reason: null
+  ring: RING_000044
+  subset: $R\setminus S$
+  subset_type: SUBSET_000002
+SUBSET_000003:
+  citation: []
+  crosstable_pk: 611
+  reason: null
+  ring: RING_000044
+  subset: $S$
+  subset_type: SUBSET_000003
 SUBSET_000004:
   citation: []
   crosstable_pk: 58
@@ -5,3 +26,39 @@ SUBSET_000004:
   ring: RING_000044
   subset: $\{0,1\}$
   subset_type: SUBSET_000004
+SUBSET_000007:
+  citation: []
+  crosstable_pk: 615
+  reason: 'Logic (rings) ?: has Right socle $\{0\}$ <=== ring is not nonzero socle
+    on the right'
+  ring: RING_000044
+  subset: $\{0\}$
+  subset_type: SUBSET_000007
+SUBSET_000008:
+  citation: []
+  crosstable_pk: 616
+  reason: null
+  ring: RING_000044
+  subset: Elements of $S$ that are nonzero only on the top row.
+  subset_type: SUBSET_000008
+SUBSET_000009:
+  citation: []
+  crosstable_pk: 612
+  reason: null
+  ring: RING_000044
+  subset: $S$
+  subset_type: SUBSET_000009
+SUBSET_000010:
+  citation: []
+  crosstable_pk: 613
+  reason: null
+  ring: RING_000044
+  subset: $S$
+  subset_type: SUBSET_000010
+SUBSET_000011:
+  citation: []
+  crosstable_pk: 610
+  reason: null
+  ring: RING_000044
+  subset: $S$
+  subset_type: SUBSET_000011

@@ -1,0 +1,7 @@
+active: true
+citation: []
+concs: ring_subset_deduced("$\\{0\\}$",7)
+hyps: ring_deduced("lacks",3,100)
+readable: ring is not nonzero socle on the right ===> has Right socle $\\{0\\}$
+symmetric: true
+variety: 0

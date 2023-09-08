@@ -1042,10 +1042,11 @@ PROP_000147:
   citation_left: []
   citation_right: []
   crosstable_pk: 12035
-  has_on_left: null
+  has_on_left: false
   has_on_right: false
   property: PROP_000147
-  reason_left: null
+  reason_left: 'Logic (rings) 546: \(NOT "PCI ring" on the left\) <=== \(NOT "PCI
+    ring" on the right\) AND \( "coherent" on the right\).'
   reason_right: 'Logic 382: PCI ring on the right ===> hereditary on the left and
     right and Noetherian on the right and V ring on the right'
   ring: RING_000021
@@ -1155,6 +1156,28 @@ PROP_000161:
     \(NOT "discrete valuation ring" \).'
   reason_right: 'Logic (rings) 495: \(NOT "complete discrete valuation ring" \) <===
     \(NOT "discrete valuation ring" \).'
+  ring: RING_000021
+PROP_000162:
+  citation_left: []
+  citation_right: []
+  crosstable_pk: 23896
+  has_on_left: false
+  has_on_right: false
+  property: PROP_000162
+  reason_left: 'Has asymmetry: left not right Noetherian'
+  reason_right: symmetry with left side
+  ring: RING_000021
+PROP_000163:
+  citation_left: []
+  citation_right: []
+  crosstable_pk: 23900
+  has_on_left: false
+  has_on_right: false
+  property: PROP_000163
+  reason_left: 'Logic (rings) 496: \(NOT "involutive" \) <=== \(NOT "anti-automorphic"
+    \).'
+  reason_right: 'Logic (rings) 496: \(NOT "involutive" \) <=== \(NOT "anti-automorphic"
+    \).'
   ring: RING_000021
 PROP_000164:
   citation_left: []

@@ -100,6 +100,18 @@ PROP_000010:
   reason_left: Matrix with only a 1 in the first row second column squares to zero
   reason_right: symmetry with left side
   ring: RING_000044
+PROP_000011:
+  citation_left: []
+  citation_right: []
+  crosstable_pk: 23874
+  has_on_left: false
+  has_on_right: false
+  property: PROP_000011
+  reason_left: 'Logic (rings) 42: \(NOT "semiprime" \) <=== \(NOT "reduced" \) AND
+    \( "2-primal" \).'
+  reason_right: 'Logic (rings) 42: \(NOT "semiprime" \) <=== \(NOT "reduced" \) AND
+    \( "2-primal" \).'
+  ring: RING_000044
 PROP_000012:
   citation_left: []
   citation_right: []
@@ -139,6 +151,18 @@ PROP_000015:
   property: PROP_000015
   reason_left: 'Logic 142: semi free ideal ring ===> domain'
   reason_right: 'Logic 142: semi free ideal ring ===> domain'
+  ring: RING_000044
+PROP_000016:
+  citation_left: []
+  citation_right: []
+  crosstable_pk: 23875
+  has_on_left: false
+  has_on_right: false
+  property: PROP_000016
+  reason_left: 'Logic (rings) 143: \(NOT "fully semiprime" \) <=== \(NOT "semiprime"
+    \).'
+  reason_right: 'Logic (rings) 143: \(NOT "fully semiprime" \) <=== \(NOT "semiprime"
+    \).'
   ring: RING_000044
 PROP_000017:
   citation_left: []
@@ -294,6 +318,61 @@ PROP_000031:
   reason_left: 'Logic 132: semiregular <==> lift/rad and top regular'
   reason_right: 'Logic 132: semiregular <==> lift/rad and top regular'
   ring: RING_000044
+PROP_000032:
+  citation_left: []
+  citation_right: []
+  crosstable_pk: 23869
+  has_on_left: false
+  has_on_right: false
+  property: PROP_000032
+  reason_left: $e_{12}e_{34}=0$ but $e_{12}e_{23}e_{34}\neq 0$
+  reason_right: symmetry with left side
+  ring: RING_000044
+PROP_000033:
+  citation_left: []
+  citation_right: []
+  crosstable_pk: 23876
+  has_on_left: true
+  has_on_right: true
+  property: PROP_000033
+  reason_left: 'Logic (rings) 147: \( "NI (nilpotents form an ideal)" \) <=== \( "2-primal"
+    \).'
+  reason_right: 'Logic (rings) 147: \( "NI (nilpotents form an ideal)" \) <=== \(
+    "2-primal" \).'
+  ring: RING_000044
+PROP_000034:
+  citation_left: []
+  citation_right: []
+  crosstable_pk: 23873
+  has_on_left: true
+  has_on_right: true
+  property: PROP_000034
+  reason_left: Its radical is a union of nilpotent ideals, so it is the only prime
+    ideal. It's clearly completely prime.
+  reason_right: symmetry with left side
+  ring: RING_000044
+PROP_000035:
+  citation_left: []
+  citation_right: []
+  crosstable_pk: 23870
+  has_on_left: false
+  has_on_right: false
+  property: PROP_000035
+  reason_left: 'Logic (rings) 179: \(NOT "reversible" \) <=== \(NOT "semicommutative  (SI
+    condition, zero-insertive)" \).'
+  reason_right: 'Logic (rings) 179: \(NOT "reversible" \) <=== \(NOT "semicommutative  (SI
+    condition, zero-insertive)" \).'
+  ring: RING_000044
+PROP_000036:
+  citation_left: []
+  citation_right: []
+  crosstable_pk: 23871
+  has_on_left: false
+  has_on_right: false
+  property: PROP_000036
+  reason_left: 'Logic (rings) 178: \(NOT "symmetric" \) <=== \(NOT "reversible" \).'
+  reason_right: 'Logic (rings) 178: \(NOT "symmetric" \) <=== \(NOT "reversible" \).'
+  ring: RING_000044
 PROP_000037:
   citation_left: []
   citation_right: []
@@ -433,6 +512,17 @@ PROP_000050:
   property: PROP_000050
   reason_left: 'Logic 102: semiperfect ===> semiregular'
   reason_right: 'Logic 102: semiperfect ===> semiregular'
+  ring: RING_000044
+PROP_000051:
+  citation_left: []
+  citation_right: []
+  crosstable_pk: 23960
+  has_on_left: false
+  has_on_right: false
+  property: PROP_000051
+  reason_left: 'If PI, derive a multilinear PI of degree $n$. Substitute the first
+    $n$ terms of  $e_{i,i+1}$: it cannot satisfy the identity.'
+  reason_right: symmetry with left side
   ring: RING_000044
 PROP_000052:
   citation_left: []
@@ -700,16 +790,52 @@ PROP_000077:
   reason_right: 'Logic 71: valuation ring on the right <==> local and serial on the
     right'
   ring: RING_000044
+PROP_000078:
+  citation_left: []
+  citation_right: []
+  crosstable_pk: 23877
+  has_on_left: false
+  has_on_right: false
+  property: PROP_000078
+  reason_left: 'Logic (rings) 87: \(NOT "pseudo-Frobenius" on the left\) <=== \(NOT
+    "Kasch" on the right\).'
+  reason_right: 'Logic (rings) 84: \(NOT "pseudo-Frobenius" on the right\) <=== \(NOT
+    "Kasch" on the right\).'
+  ring: RING_000044
+PROP_000079:
+  citation_left: []
+  citation_right: []
+  crosstable_pk: 23878
+  has_on_left: false
+  has_on_right: null
+  property: PROP_000079
+  reason_left: 'Logic (rings) 231: \(NOT "finitely pseudo-Frobenius" on the left\)
+    <=== \(NOT "self-injective" on the left\) AND \( "nil radical" \) AND \( "semiperfect"
+    \).'
+  reason_right: null
+  ring: RING_000044
+PROP_000080:
+  citation_left: []
+  citation_right: []
+  crosstable_pk: 23879
+  has_on_left: false
+  has_on_right: null
+  property: PROP_000080
+  reason_left: 'Logic (rings) 84: \(NOT "self-injective" on the left\) <=== \(NOT
+    "pseudo-Frobenius" on the left\) AND \( "Kasch" on the left\).'
+  reason_right: null
+  ring: RING_000044
 PROP_000081:
   citation_left: []
   citation_right: []
   crosstable_pk: 4558
   has_on_left: true
-  has_on_right: null
+  has_on_right: false
   property: PROP_000081
   reason_left: 'Logic 252: local and nonzero socle on the right ===> Kasch on the
     right'
-  reason_right: null
+  reason_right: 'Logic (rings) 92: \(NOT "Kasch" on the right\) <=== \(NOT "nonzero
+    socle" on the right\).'
   ring: RING_000044
 PROP_000082:
   citation_left: []
@@ -732,6 +858,16 @@ PROP_000083:
   reason_right: 'Logic 124: strongly $\pi$-regular ===> cohopfian on the left and
     right'
   ring: RING_000044
+PROP_000084:
+  citation_left: []
+  citation_right: []
+  crosstable_pk: 23872
+  has_on_left: false
+  has_on_right: false
+  property: PROP_000084
+  reason_left: 'Logic (rings) logical OR: ring_deduced("lacks",2,Y) <=== ring_deduced("lacks",4,Y).'
+  reason_right: 'Logic (rings) logical OR: ring_deduced("lacks",3,Y) <=== ring_deduced("lacks",4,Y).'
+  ring: RING_000044
 PROP_000088:
   citation_left: []
   citation_right: []
@@ -741,6 +877,17 @@ PROP_000088:
   property: PROP_000088
   reason_left: 'Logic 162: perfect on the right ===> ACC principal on the left'
   reason_right: null
+  ring: RING_000044
+PROP_000091:
+  citation_left: []
+  citation_right: []
+  crosstable_pk: 23881
+  has_on_left: null
+  has_on_right: false
+  property: PROP_000091
+  reason_left: null
+  reason_right: 'Logic (rings) 121: \(NOT "dual" on the right\) <=== \(NOT "Kasch"
+    on the right\).'
   ring: RING_000044
 PROP_000093:
   citation_left: []
@@ -788,26 +935,62 @@ PROP_000097:
   reason_right: 'Logic 105: perfect on the right <==> T-nilpotent radical on the right
     and semilocal'
   ring: RING_000044
+PROP_000098:
+  citation_left: []
+  citation_right: []
+  crosstable_pk: 23882
+  has_on_left: null
+  has_on_right: false
+  property: PROP_000098
+  reason_left: null
+  reason_right: 'Logic (rings) 154: \(NOT "simple socle" on the right\) <=== \(NOT
+    "nonzero socle" on the right\).'
+  ring: RING_000044
 PROP_000100:
   citation_left: []
   citation_right: []
   crosstable_pk: 4552
   has_on_left: true
-  has_on_right: null
+  has_on_right: false
   property: PROP_000100
   reason_left: 'Logic 156: essential socle on the right ===> nonzero socle on the
     right'
-  reason_right: null
+  reason_right: Left annihilator of the Jacobson radical is zero, indicating there
+    are no simple right ideals.
   ring: RING_000044
 PROP_000101:
   citation_left: []
   citation_right: []
   crosstable_pk: 4517
   has_on_left: true
-  has_on_right: null
+  has_on_right: false
   property: PROP_000101
   reason_left: 'Logic 163: perfect on the right ===> essential socle on the left'
-  reason_right: null
+  reason_right: 'Logic (rings) 156: \(NOT "essential socle" on the right\) <=== \(NOT
+    "nonzero socle" on the right\).'
+  ring: RING_000044
+PROP_000102:
+  citation_left: []
+  citation_right: []
+  crosstable_pk: 23880
+  has_on_left: false
+  has_on_right: false
+  property: PROP_000102
+  reason_left: 'Logic (rings) 247: \(NOT "cogenerator ring" on the left\) <=== \(NOT
+    "self-injective" on the left\) AND \( "strongly connected" \).'
+  reason_right: 'Logic (rings) 202: \(NOT "cogenerator ring" on the right\) <=== \(NOT
+    "Kasch" on the right\).'
+  ring: RING_000044
+PROP_000103:
+  citation_left: []
+  citation_right: []
+  crosstable_pk: 23883
+  has_on_left: null
+  has_on_right: false
+  property: PROP_000103
+  reason_left: null
+  reason_right: 'Logic (rings) 212: \(NOT "finitely cogenerated" on the right\) <===
+    \(NOT "essential socle" on the right\).'
   ring: RING_000044
 PROP_000104:
   citation_left: []
@@ -1212,6 +1395,28 @@ PROP_000161:
     \(NOT "discrete valuation ring" \).'
   reason_right: 'Logic (rings) 495: \(NOT "complete discrete valuation ring" \) <===
     \(NOT "discrete valuation ring" \).'
+  ring: RING_000044
+PROP_000162:
+  citation_left: []
+  citation_right: []
+  crosstable_pk: 23884
+  has_on_left: false
+  has_on_right: false
+  property: PROP_000162
+  reason_left: It has asymmetry, e.g. "perfect" or "nonzero socle" properties
+  reason_right: symmetry with left side
+  ring: RING_000044
+PROP_000163:
+  citation_left: []
+  citation_right: []
+  crosstable_pk: 23886
+  has_on_left: false
+  has_on_right: false
+  property: PROP_000163
+  reason_left: 'Logic (rings) 496: \(NOT "involutive" \) <=== \(NOT "anti-automorphic"
+    \).'
+  reason_right: 'Logic (rings) 496: \(NOT "involutive" \) <=== \(NOT "anti-automorphic"
+    \).'
   ring: RING_000044
 PROP_000164:
   citation_left: []

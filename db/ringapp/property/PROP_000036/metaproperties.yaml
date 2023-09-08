@@ -1,0 +1,8 @@
+METAPROP_000003:
+  citation: []
+  commutative_only: false
+  crosstable_pk: 293
+  example: null
+  has_metaproperty: true
+  metaproperty: METAPROP_000003
+  property: PROP_000036
