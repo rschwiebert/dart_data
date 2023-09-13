@@ -316,6 +316,14 @@ MODPROP_000044:
   property: MODPROP_000044
   reason: 'Logic (modules) 104: module("has" ''clean (endoclean)'') <=== module("has"
     ''strongly indecomposable (endolocal)'').'
+MODPROP_000046:
+  citation: []
+  crosstable_pk: 455
+  has: true
+  module: MOD_000003
+  property: MODPROP_000046
+  reason: 'Logic (modules) 114: module("has" ''colocal'') <=== module("has" ''essential
+    socle'') AND module("has" ''simple socle'').'
 MODPROP_000047:
   citation: []
   crosstable_pk: 450
@@ -323,6 +331,14 @@ MODPROP_000047:
   module: MOD_000003
   property: MODPROP_000047
   reason: The socle is the subgroup of elements of order no more than $p$
+MODPROP_000048:
+  citation: []
+  crosstable_pk: 456
+  has: true
+  module: MOD_000003
+  property: MODPROP_000048
+  reason: 'Logic (modules) 120: module("has" ''subdirectly irreducible'') <=== module("has"
+    ''colocal'').'
 MODPROP_000050:
   citation: []
   crosstable_pk: 418
@@ -331,3 +347,11 @@ MODPROP_000050:
   property: MODPROP_000050
   reason: 'Logic (modules) 123: module("lacks" ''has a projective cover'') <=== module("lacks"
     ''projective'') AND ring("has" ''semiprimitive'' ).'
+MODPROP_000051:
+  citation: []
+  crosstable_pk: 457
+  has: true
+  module: MOD_000003
+  property: MODPROP_000051
+  reason: 'Logic (modules) 132: module("has" ''linearly compact'') <=== module("has"
+    ''Artinian'').'

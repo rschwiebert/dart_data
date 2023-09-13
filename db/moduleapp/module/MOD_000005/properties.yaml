@@ -269,3 +269,19 @@ MODPROP_000048:
   module: MOD_000005
   property: MODPROP_000048
   reason: $\{0, c\}$ is the intersection of all nonzero submodules
+MODPROP_000050:
+  citation: []
+  crosstable_pk: 459
+  has: true
+  module: MOD_000005
+  property: MODPROP_000050
+  reason: 'Logic (modules) 127: module("has" ''has a projective cover'') <=== ring("has"
+    ''perfect'' on the right).'
+MODPROP_000051:
+  citation: []
+  crosstable_pk: 460
+  has: true
+  module: MOD_000005
+  property: MODPROP_000051
+  reason: 'Logic (modules) 132: module("has" ''linearly compact'') <=== module("has"
+    ''Artinian'').'

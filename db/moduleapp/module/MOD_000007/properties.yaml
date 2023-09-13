@@ -116,6 +116,14 @@ MODPROP_000016:
   module: MOD_000007
   property: MODPROP_000016
   reason: Clearly the identity map $R\to R$ works.
+MODPROP_000017:
+  citation: []
+  crosstable_pk: 462
+  has: false
+  module: MOD_000007
+  property: MODPROP_000017
+  reason: 'Logic (modules) 81: module(X ''distributive'') <=== module("has" ''$R_R$'')
+    AND ring(X ''distributive'' on the right).'
 MODPROP_000018:
   citation: []
   crosstable_pk: 222

@@ -243,6 +243,13 @@ MODPROP_000037:
   property: MODPROP_000037
   reason: 'Logic (modules) 64: module(has ''finite uniform dimension'') <=== module(has
     ''finitely cogenerated'').'
+MODPROP_000038:
+  citation: []
+  crosstable_pk: 453
+  has: false
+  module: MOD_000004
+  property: MODPROP_000038
+  reason: For any rank $1$ matrix $A$, $M_n(k)A\neq M_n(k)$
 MODPROP_000039:
   citation: []
   crosstable_pk: 323
@@ -327,3 +334,11 @@ MODPROP_000050:
   property: MODPROP_000050
   reason: 'Logic (modules) 122: module("has" ''has a projective cover'') <=== module("has"
     ''projective'').'
+MODPROP_000051:
+  citation: []
+  crosstable_pk: 458
+  has: true
+  module: MOD_000004
+  property: MODPROP_000051
+  reason: 'Logic (modules) 132: module("has" ''linearly compact'') <=== module("has"
+    ''Artinian'').'

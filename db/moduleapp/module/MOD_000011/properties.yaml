@@ -158,6 +158,14 @@ MODPROP_000023:
   property: MODPROP_000023
   reason: 'Logic (modules) 60: module("lacks" ''nonsingular'') <=== module("lacks"
     ''projective'') AND module("has" ''semisimple'').'
+MODPROP_000024:
+  citation: []
+  crosstable_pk: 452
+  has: true
+  module: MOD_000011
+  property: MODPROP_000024
+  reason: It's an ideal of its ring, so obviously the inclusion embeds it into a single
+    copy of $R$.
 MODPROP_000025:
   citation: []
   crosstable_pk: 377
@@ -296,3 +304,19 @@ MODPROP_000044:
   property: MODPROP_000044
   reason: 'Logic (modules) 104: module("has" ''clean (endoclean)'') <=== module("has"
     ''strongly indecomposable (endolocal)'').'
+MODPROP_000050:
+  citation: []
+  crosstable_pk: 465
+  has: true
+  module: MOD_000011
+  property: MODPROP_000050
+  reason: 'Logic (modules) 127: module("has" ''has a projective cover'') <=== ring("has"
+    ''perfect'' on the right).'
+MODPROP_000051:
+  citation: []
+  crosstable_pk: 466
+  has: true
+  module: MOD_000011
+  property: MODPROP_000051
+  reason: 'Logic (modules) 132: module("has" ''linearly compact'') <=== module("has"
+    ''Artinian'').'

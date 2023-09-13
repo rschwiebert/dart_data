@@ -101,6 +101,14 @@ MODPROP_000016:
   property: MODPROP_000016
   reason: 'Logic (modules) 15: module(has ''finitely presented'') <=== module(has
     ''finitely generated'') AND module(has ''projective'').'
+MODPROP_000017:
+  citation: []
+  crosstable_pk: 463
+  has: true
+  module: MOD_000008
+  property: MODPROP_000017
+  reason: 'Logic (modules) 81: module(X ''distributive'') <=== module("has" ''$R_R$'')
+    AND ring(X ''distributive'' on the right).'
 MODPROP_000018:
   citation: []
   crosstable_pk: 225

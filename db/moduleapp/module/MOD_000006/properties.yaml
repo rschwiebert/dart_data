@@ -150,6 +150,21 @@ MODPROP_000023:
   module: MOD_000006
   property: MODPROP_000023
   reason: All annihilators are zero (except for 0's annihilator)
+MODPROP_000024:
+  citation: []
+  crosstable_pk: 451
+  has: false
+  module: MOD_000006
+  property: MODPROP_000024
+  reason: Every $\mathbb Z$ homomorphism from $\mathbb Q\to \mathbb Z$ is zero.
+MODPROP_000027:
+  citation: []
+  crosstable_pk: 461
+  has: false
+  module: MOD_000006
+  property: MODPROP_000027
+  reason: 'Logic (modules) 17: module("lacks" ''reflexive'') <=== module("lacks" ''semi-reflexive
+    (torsionless)'').'
 MODPROP_000028:
   citation: []
   crosstable_pk: 94

@@ -1,0 +1,7 @@
+active: true
+citation: []
+concs: module_deduced("has",34)
+hyps: module_deduced("has",24) AND ring_deduced("has",0,8)
+readable: module is semi-reflexive (torsionless) AND ring is domain  ===>  module
+  is torsion-free
+variety: 0

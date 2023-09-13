@@ -309,3 +309,11 @@ MODPROP_000050:
   property: MODPROP_000050
   reason: 'Logic (modules) 122: module("has" ''has a projective cover'') <=== module("has"
     ''projective'').'
+MODPROP_000051:
+  citation: []
+  crosstable_pk: 454
+  has: true
+  module: MOD_000002
+  property: MODPROP_000051
+  reason: 'Logic (modules) 132: module("has" ''linearly compact'') <=== module("has"
+    ''Artinian'').'
