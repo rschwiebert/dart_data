@@ -295,6 +295,13 @@ MODPROP_000044:
   property: MODPROP_000044
   reason: 'Logic (modules) 103: module("has" ''clean (endoclean)'') <=== module("has"
     ''continuous'').'
+MODPROP_000045:
+  citation: []
+  crosstable_pk: 477
+  has: false
+  module: MOD_000004
+  property: MODPROP_000045
+  reason: 'Logic (modules) 142: module("lacks" ''local'') <=== module("lacks" ''indecomposable'').'
 MODPROP_000046:
   citation: []
   crosstable_pk: 421

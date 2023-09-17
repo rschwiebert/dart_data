@@ -316,6 +316,13 @@ MODPROP_000044:
   property: MODPROP_000044
   reason: 'Logic (modules) 104: module("has" ''clean (endoclean)'') <=== module("has"
     ''strongly indecomposable (endolocal)'').'
+MODPROP_000045:
+  citation: []
+  crosstable_pk: 475
+  has: false
+  module: MOD_000003
+  property: MODPROP_000045
+  reason: The union of proper subgroups is the entire module.
 MODPROP_000046:
   citation: []
   crosstable_pk: 455

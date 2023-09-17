@@ -1,0 +1,6 @@
+active: true
+citation: []
+concs: module_deduced("has",31)
+hyps: module_deduced("has",45)
+readable: module is local  ===>  module is indecomposable
+variety: 0

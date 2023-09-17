@@ -294,6 +294,14 @@ MODPROP_000043:
   property: MODPROP_000043
   reason: 'Logic (modules) 108: module("lacks" ''quasi-injective'') <=== module("has"
     ''$R_R$'') AND ring("lacks" ''self-injective'' on the right).'
+MODPROP_000045:
+  citation: []
+  crosstable_pk: 481
+  has: false
+  module: MOD_000001
+  property: MODPROP_000045
+  reason: 'Logic (modules) 143: module(X ''local'') <=== ring(X ''local'' ) AND module("has"
+    ''$R_R$'').'
 MODPROP_000046:
   citation: []
   crosstable_pk: 414

@@ -238,6 +238,13 @@ MODPROP_000043:
   module: MOD_000010
   property: MODPROP_000043
   reason: It would imply that $\mathbb Z$ itself is quasi-injective, which is untrue
+MODPROP_000045:
+  citation: []
+  crosstable_pk: 478
+  has: false
+  module: MOD_000010
+  property: MODPROP_000045
+  reason: 'Logic (modules) 142: module("lacks" ''local'') <=== module("lacks" ''indecomposable'').'
 MODPROP_000046:
   citation: []
   crosstable_pk: 440

@@ -1,0 +1,6 @@
+active: true
+citation: []
+concs: module_deduced("has",12)
+hyps: module_deduced("has",32)
+readable: module is brick  ===>  module is co-Hopfian
+variety: 0
