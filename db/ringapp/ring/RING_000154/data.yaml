@@ -1,0 +1,14 @@
+citation:
+- CITE_000559
+description: Let $V_1=\mathbb Z[i]_{(2-i)}$ and $V_2=\mathbb Z[i]_{(2+i)}$ and $V=V_1\cap
+  V_2$.  The ring is $\begin{bmatrix}\bar\alpha && x \\ 0 && \alpha\end{bmatrix}$
+  where $\alpha\in V$ and $x\in \mathbb Q[i]/V_1$. It is isomorphic to the endomorphism
+  ring of <a href="/modules/12/">module 12</a>.
+is_commutative: false
+keywords:
+- KWD_000007
+- KWD_000009
+krull_dim: null
+name: Nonlocal endomorphism ring of a uniserial module
+notes: null
+optional_template: ''

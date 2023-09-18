@@ -1,0 +1,7 @@
+citation:
+- MODCITE_000022
+description: $M_R=R/xR$, where $R$ is <a href="/rings/ring/153/">ring 153</a>
+name: Uniserial, not endolocal module
+notes: null
+opposite_ring: false
+ring: 153

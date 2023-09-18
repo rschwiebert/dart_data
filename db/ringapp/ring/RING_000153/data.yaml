@@ -1,0 +1,15 @@
+citation:
+- CITE_000559
+description: Let $T$ be the localization $\mathbb Z[i]_{(2-i)}$.  This is a subring
+  of $\mathbb Q[i]$.  Let $S$ be the skew power series $\mathbb Q[i][x;\sigma]$ where
+  $\sigma$ is complex conjugation, so that $\alpha x=x\bar\alpha$.  The ring $R$ is
+  the subring of $S$ whose constant terms lie in $T$.
+is_commutative: false
+keywords:
+- KWD_000012
+- KWD_000007
+- KWD_000027
+krull_dim: '2'
+name: 2-dimensional uniserial domain
+notes: null
+optional_template: ''

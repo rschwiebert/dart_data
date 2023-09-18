@@ -1,0 +1,181 @@
+MODPROP_000001:
+  citation: []
+  crosstable_pk: 494
+  has: false
+  module: MOD_000012
+  property: MODPROP_000001
+  reason: 'Logic (modules) 51: module("lacks" ''Artinian'') <=== module("lacks" ''strongly
+    indecomposable (endolocal)'') AND module("has" ''uniform'').'
+MODPROP_000002:
+  citation: []
+  crosstable_pk: 508
+  has: false
+  module: MOD_000012
+  property: MODPROP_000002
+  reason: 'Logic (modules) 26: module("lacks" ''Noetherian'') <=== module("lacks"
+    ''Hopfian'').'
+MODPROP_000003:
+  citation: []
+  crosstable_pk: 502
+  has: true
+  module: MOD_000012
+  property: MODPROP_000003
+  reason: 'Logic (modules) 9: module("has" ''finitely generated'') <=== module("has"
+    ''cyclic'').'
+MODPROP_000004:
+  citation: []
+  crosstable_pk: 495
+  has: false
+  module: MOD_000012
+  property: MODPROP_000004
+  reason: 'Logic (modules) 50: module("lacks" ''simple'') <=== module("lacks" ''brick'').'
+MODPROP_000005:
+  citation: []
+  crosstable_pk: 496
+  has: false
+  module: MOD_000012
+  property: MODPROP_000005
+  reason: 'Logic (modules) 44: module("lacks" ''semisimple'') <=== module("lacks"
+    ''simple'') AND module("has" ''indecomposable'').'
+MODPROP_000006:
+  citation: []
+  crosstable_pk: 504
+  has: false
+  module: MOD_000012
+  property: MODPROP_000006
+  reason: If it were projective, $xR$ would split out of $R$ (and it cannot)
+MODPROP_000007:
+  citation: []
+  crosstable_pk: 497
+  has: false
+  module: MOD_000012
+  property: MODPROP_000007
+  reason: 'Logic (modules) 52: module("lacks" ''injective'') <=== module("lacks" ''strongly
+    indecomposable (endolocal)'') AND module("has" ''indecomposable'').'
+MODPROP_000009:
+  citation: []
+  crosstable_pk: 505
+  has: false
+  module: MOD_000012
+  property: MODPROP_000009
+  reason: 'Logic (modules) 3: module("lacks" ''free'') <=== module("lacks" ''projective'').'
+MODPROP_000010:
+  citation: []
+  crosstable_pk: 501
+  has: true
+  module: MOD_000012
+  property: MODPROP_000010
+  reason: Defined as a quotient of its ring $R$ by a right ideal
+MODPROP_000011:
+  citation: []
+  crosstable_pk: 506
+  has: false
+  module: MOD_000012
+  property: MODPROP_000011
+  reason: One maximal ideal of $End(M_R)$ is the set of injections, the other is surjections,
+    and neither one contains the other
+MODPROP_000012:
+  citation: []
+  crosstable_pk: 507
+  has: false
+  module: MOD_000012
+  property: MODPROP_000012
+  reason: One maximal ideal of $End(M_R)$ is the set of injections, the other is surjections,
+    and neither one contains the other
+MODPROP_000018:
+  citation: []
+  crosstable_pk: 488
+  has: true
+  module: MOD_000012
+  property: MODPROP_000018
+  reason: 'Logic (modules) 12: module("has" ''uniform'') <=== module("has" ''uniserial'').'
+MODPROP_000019:
+  citation: []
+  crosstable_pk: 489
+  has: true
+  module: MOD_000012
+  property: MODPROP_000019
+  reason: 'Logic (modules) 111: module("has" ''hollow'') <=== module("has" ''uniserial'').'
+MODPROP_000025:
+  citation: []
+  crosstable_pk: 485
+  has: true
+  module: MOD_000012
+  property: MODPROP_000025
+  reason: It is a quotient of a right uniserial domain
+MODPROP_000026:
+  citation: []
+  crosstable_pk: 490
+  has: true
+  module: MOD_000012
+  property: MODPROP_000026
+  reason: 'Logic (modules) 45: module("has" ''serial'') <=== module("has" ''uniserial'').'
+MODPROP_000028:
+  citation: []
+  crosstable_pk: 498
+  has: false
+  module: MOD_000012
+  property: MODPROP_000028
+  reason: 'Logic (modules) 20: module("lacks" ''finite composition length'') <===
+    module("lacks" ''Artinian'').'
+MODPROP_000031:
+  citation: []
+  crosstable_pk: 491
+  has: true
+  module: MOD_000012
+  property: MODPROP_000031
+  reason: 'Logic (modules) 45: module("has" ''indecomposable'') <=== module("has"
+    ''uniserial'').'
+MODPROP_000032:
+  citation: []
+  crosstable_pk: 499
+  has: false
+  module: MOD_000012
+  property: MODPROP_000032
+  reason: 'Logic (modules) 48: module("lacks" ''brick'') <=== module("lacks" ''strongly
+    indecomposable (endolocal)'').'
+MODPROP_000033:
+  citation:
+  - MODCITE_000022
+  crosstable_pk: 486
+  has: false
+  module: MOD_000012
+  property: MODPROP_000033
+  reason: The endomorphism ring has exactly 2 maximal right ideals
+MODPROP_000037:
+  citation: []
+  crosstable_pk: 492
+  has: true
+  module: MOD_000012
+  property: MODPROP_000037
+  reason: 'Logic (modules) 69: module("has" ''finite uniform dimension'') <=== module("has"
+    ''uniform'').'
+MODPROP_000039:
+  citation: []
+  crosstable_pk: 500
+  has: false
+  module: MOD_000012
+  property: MODPROP_000039
+  reason: null
+MODPROP_000042:
+  citation: []
+  crosstable_pk: 493
+  has: true
+  module: MOD_000012
+  property: MODPROP_000042
+  reason: 'Logic (modules) 113: module("has" ''CS'') <=== module("has" ''uniform'').'
+MODPROP_000045:
+  citation: []
+  crosstable_pk: 487
+  has: true
+  module: MOD_000012
+  property: MODPROP_000045
+  reason: Since it is a quotient of its ring (a local ring) the module is local
+MODPROP_000050:
+  citation: []
+  crosstable_pk: 503
+  has: true
+  module: MOD_000012
+  property: MODPROP_000050
+  reason: $R$ is projective, and $xR$ is small (since $R$ is uniserial) so the projection
+    $R\to R/xR$ works.
