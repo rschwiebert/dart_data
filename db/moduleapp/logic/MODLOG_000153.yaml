@@ -1,0 +1,6 @@
+active: true
+citation: []
+concs: module_deduced("has",53)
+hyps: module_deduced("has",6)
+readable: module is projective  ===>  module is proper Jacobson radical
+variety: 0

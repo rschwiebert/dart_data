@@ -1,0 +1,7 @@
+active: true
+citation: []
+concs: module_deduced("has",48)
+hyps: module_deduced("has",18) AND module_deduced("has",52)
+readable: module is uniform AND module is nonzero socle  ===>  module is subdirectly
+  irreducible (co-local)
+variety: 0

@@ -1,0 +1,7 @@
+active: true
+citation: []
+concs: module_deduced("has",52)
+hyps: module_deduced("has",39) AND ring_deduced("has",3,100)
+readable: module is $R_R$ AND ring is nonzero socle on the right  ===>  module is
+  nonzero socle
+variety: 0

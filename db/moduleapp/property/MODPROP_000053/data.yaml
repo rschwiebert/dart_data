@@ -1,0 +1,4 @@
+citation: []
+definition: $M$ has a maximal submodule, so that $J(M)$, the intersection of maximal
+  submodules of $M$, is a proper submodule.
+name: proper Jacobson radical

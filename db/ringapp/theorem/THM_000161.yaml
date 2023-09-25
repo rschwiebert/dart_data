@@ -1,0 +1,8 @@
+alias: Socles coincide in semiprime rings
+categories:
+- THMCAT_000004
+citation:
+- CITE_000560
+commutative_only: false
+link: null
+statement: 'If $R$ is semiprime, then the socles are equal:  $\mathrm{soc}(R_R)=\mathrm{soc}(_RR)$.'

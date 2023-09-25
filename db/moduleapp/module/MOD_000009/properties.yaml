@@ -333,6 +333,13 @@ MODPROP_000047:
   property: MODPROP_000047
   reason: 'Logic (modules) 116: module(X ''simple socle'') <=== module("has" ''$R_R$'')
     AND ring(X ''simple socle'' on the right).'
+MODPROP_000048:
+  citation: []
+  crosstable_pk: 438
+  has: false
+  module: MOD_000009
+  property: MODPROP_000048
+  reason: 'Logic (modules) 115: module("lacks" ''colocal'') <=== module("lacks" ''uniform'').'
 MODPROP_000049:
   citation: []
   crosstable_pk: 436

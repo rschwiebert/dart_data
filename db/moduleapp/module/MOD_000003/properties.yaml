@@ -344,8 +344,7 @@ MODPROP_000048:
   has: true
   module: MOD_000003
   property: MODPROP_000048
-  reason: 'Logic (modules) 120: module("has" ''subdirectly irreducible'') <=== module("has"
-    ''colocal'').'
+  reason: The group of order $p$ is its unique minimal submodule.
 MODPROP_000050:
   citation: []
   crosstable_pk: 418

@@ -1,0 +1,7 @@
+active: true
+citation: []
+concs: module_deduced("has",45)
+hyps: module_deduced("has",53) AND module_deduced("has",19)
+readable: module is proper Jacobson radical AND module is hollow  ===>  module is
+  local
+variety: 0

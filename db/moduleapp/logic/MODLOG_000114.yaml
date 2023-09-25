@@ -1,6 +1,7 @@
 active: true
 citation: []
-concs: module_deduced("has",46)
+concs: module_deduced("has",48)
 hyps: module_deduced("has",35) AND module_deduced("has",47)
-readable: module is essential socle AND module is simple socle  <==>  module is colocal
+readable: module is essential socle AND module is simple socle  <==>  module is subdirectly
+  irreducible (co-local)
 variety: 1

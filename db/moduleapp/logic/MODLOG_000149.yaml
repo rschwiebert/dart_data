@@ -1,0 +1,6 @@
+active: true
+citation: []
+concs: module_deduced("has",52)
+hyps: module_deduced("has",47)
+readable: module is simple socle  ===>  module is nonzero socle
+variety: 0

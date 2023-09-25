@@ -103,7 +103,7 @@ MODPROP_000016:
     ''finitely generated'') AND module(has ''projective'').'
 MODPROP_000017:
   citation: []
-  crosstable_pk: 463
+  crosstable_pk: 542
   has: true
   module: MOD_000008
   property: MODPROP_000017
@@ -290,7 +290,7 @@ MODPROP_000043:
     ''$R_R$'') AND ring("lacks" ''self-injective'' on the right).'
 MODPROP_000045:
   citation: []
-  crosstable_pk: 483
+  crosstable_pk: 548
   has: false
   module: MOD_000008
   property: MODPROP_000045
@@ -306,7 +306,7 @@ MODPROP_000046:
     socle'') AND module("has" ''simple socle'').'
 MODPROP_000047:
   citation: []
-  crosstable_pk: 432
+  crosstable_pk: 544
   has: true
   module: MOD_000008
   property: MODPROP_000047
@@ -314,15 +314,14 @@ MODPROP_000047:
     AND ring(X ''simple socle'' on the right).'
 MODPROP_000048:
   citation: []
-  crosstable_pk: 433
+  crosstable_pk: 545
   has: true
   module: MOD_000008
   property: MODPROP_000048
-  reason: 'Logic (modules) 120: module("has" ''subdirectly irreducible'') <=== module("has"
-    ''colocal'').'
+  reason: The socle is essential and order 2.
 MODPROP_000049:
   citation: []
-  crosstable_pk: 434
+  crosstable_pk: 546
   has: true
   module: MOD_000008
   property: MODPROP_000049
@@ -330,7 +329,7 @@ MODPROP_000049:
     ''projective'').'
 MODPROP_000050:
   citation: []
-  crosstable_pk: 435
+  crosstable_pk: 547
   has: true
   module: MOD_000008
   property: MODPROP_000050

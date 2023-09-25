@@ -301,6 +301,14 @@ MODPROP_000046:
   property: MODPROP_000046
   reason: 'Logic (modules) 114: module("lacks" ''colocal'') <=== module("lacks" ''essential
     socle'').'
+MODPROP_000048:
+  citation: []
+  crosstable_pk: 424
+  has: false
+  module: MOD_000006
+  property: MODPROP_000048
+  reason: 'Logic (modules) 114: module("lacks" ''colocal'') <=== module("lacks" ''essential
+    socle'').'
 MODPROP_000050:
   citation: []
   crosstable_pk: 425
