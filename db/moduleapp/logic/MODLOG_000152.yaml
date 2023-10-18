@@ -1,6 +1,6 @@
 active: true
 citation: []
-concs: module_deduced("has",53)
+concs: module_deduced("has",56)
 hyps: module_deduced("has",45)
-readable: module is local  ===>  module is proper Jacobson radical
+readable: module is local  ===>  module is B-object
 variety: 0

@@ -1,0 +1,7 @@
+active: true
+citation:
+- CITE_000025
+concs: module_deduced("has",53)
+hyps: module_deduced("has",56)
+readable: module is B-object  ===>  module is proper Jacobson radical
+variety: 0

@@ -47,3 +47,14 @@ DIM_000005:
     regular'
   right_dimension: '0'
   ring: RING_000003
+DIM_000006:
+  citation: []
+  crosstable_pk: 405
+  dimension_type: DIM_000006
+  left_dimension: '1'
+  reason_left: 'Logic (rings) 545: has uniform dimension X on the left <=== ring is
+    semisimple AND has composition length X on the left'
+  reason_right: 'Logic (rings) 545: has uniform dimension X on the right <=== ring
+    is semisimple AND has composition length X on the right'
+  right_dimension: '1'
+  ring: RING_000003

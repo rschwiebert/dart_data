@@ -1,0 +1,6 @@
+active: true
+citation: []
+concs: module_deduced("has",54)
+hyps: ring_deduced("has",3,148)
+readable: ring is max ring on the right  ===>  module is semi-noetherian
+variety: 0

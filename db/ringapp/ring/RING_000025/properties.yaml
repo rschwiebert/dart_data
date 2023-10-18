@@ -1660,3 +1660,27 @@ PROP_000175:
   reason_left: 'Logic (rings) 540: \(NOT "?-ring" \) <=== \( "local" \).'
   reason_right: 'Logic (rings) 540: \(NOT "?-ring" \) <=== \( "local" \).'
   ring: RING_000025
+PROP_000176:
+  citation_left: []
+  citation_right: []
+  crosstable_pk: 24269
+  has_on_left: true
+  has_on_right: true
+  property: PROP_000176
+  reason_left: 'Logic (rings) 558: \( "semi-Noetherian" on the left\) <=== \( "max
+    ring" on the left\).'
+  reason_right: 'Logic (rings) 558: \( "semi-Noetherian" on the right\) <=== \( "max
+    ring" on the right\).'
+  ring: RING_000025
+PROP_000177:
+  citation_left: []
+  citation_right: []
+  crosstable_pk: 24270
+  has_on_left: true
+  has_on_right: true
+  property: PROP_000177
+  reason_left: 'Logic (rings) 551: \( "semi-Artinian" on the left\) <=== \( "perfect"
+    on the right\).'
+  reason_right: 'Logic (rings) 551: \( "semi-Artinian" on the right\) <=== \( "perfect"
+    on the left\).'
+  ring: RING_000025

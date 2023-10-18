@@ -1734,3 +1734,15 @@ PROP_000175:
   reason_left: 'Logic (rings) 540: \(NOT "?-ring" \) <=== \( "local" \).'
   reason_right: 'Logic (rings) 540: \(NOT "?-ring" \) <=== \( "local" \).'
   ring: RING_000099
+PROP_000177:
+  citation_left: []
+  citation_right: []
+  crosstable_pk: 24351
+  has_on_left: false
+  has_on_right: false
+  property: PROP_000177
+  reason_left: 'Logic (rings) 552: \(NOT "semi-Artinian" on the left\) <=== \(NOT
+    "essential socle" on the left\).'
+  reason_right: 'Logic (rings) 552: \(NOT "semi-Artinian" on the right\) <=== \(NOT
+    "essential socle" on the right\).'
+  ring: RING_000099

@@ -1655,3 +1655,14 @@ PROP_000175:
   reason_left: 'Logic (rings) 541: \(NOT "?-ring" \) <=== \( "reduced" \).'
   reason_right: 'Logic (rings) 541: \(NOT "?-ring" \) <=== \( "reduced" \).'
   ring: RING_000088
+PROP_000177:
+  citation_left: []
+  citation_right: []
+  crosstable_pk: 24229
+  has_on_left: false
+  has_on_right: false
+  property: PROP_000177
+  reason_left: symmetry with right side
+  reason_right: 'Logic (modules) 156: ring(lacks ''semi-Artinian'' on the right) <===
+    module(lacks ''semi-artinian'').'
+  ring: RING_000088

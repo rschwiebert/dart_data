@@ -232,6 +232,22 @@ MODPROP_000045:
   module: MOD_000013
   property: MODPROP_000045
   reason: 'Logic (modules) 141: module("has" ''local'') <=== module("has" ''simple'').'
+MODPROP_000047:
+  citation: []
+  crosstable_pk: 619
+  has: true
+  module: MOD_000013
+  property: MODPROP_000047
+  reason: 'Logic (modules) 114: module("has" ''simple socle'') <=== module("has" ''subdirectly
+    irreducible (co-local)'').'
+MODPROP_000048:
+  citation: []
+  crosstable_pk: 620
+  has: true
+  module: MOD_000013
+  property: MODPROP_000048
+  reason: 'Logic (modules) 148: module("has" ''subdirectly irreducible (co-local)'')
+    <=== module("has" ''uniform'') AND module("has" ''nonzero socle'').'
 MODPROP_000049:
   citation: []
   crosstable_pk: 539
@@ -248,3 +264,50 @@ MODPROP_000051:
   property: MODPROP_000051
   reason: 'Logic (modules) 132: module("has" ''linearly compact'') <=== module("has"
     ''Artinian'').'
+MODPROP_000052:
+  citation: []
+  crosstable_pk: 621
+  has: true
+  module: MOD_000013
+  property: MODPROP_000052
+  reason: 'Logic (modules) 150: module("has" ''nonzero socle'') <=== module("has"
+    ''essential socle'').'
+MODPROP_000053:
+  citation: []
+  crosstable_pk: 622
+  has: true
+  module: MOD_000013
+  property: MODPROP_000053
+  reason: 'Logic (modules) 159: module("has" ''proper Jacobson radical'') <=== module("has"
+    ''B-object'').'
+MODPROP_000054:
+  citation: []
+  crosstable_pk: 623
+  has: true
+  module: MOD_000013
+  property: MODPROP_000054
+  reason: 'Logic (modules) 157: module("has" ''semi-noetherian'') <=== ring("has"
+    ''max ring'' on the right).'
+MODPROP_000055:
+  citation: []
+  crosstable_pk: 624
+  has: true
+  module: MOD_000013
+  property: MODPROP_000055
+  reason: 'Logic (modules) 155: module("has" ''semi-artinian'') <=== module("has"
+    ''Artinian'').'
+MODPROP_000056:
+  citation: []
+  crosstable_pk: 625
+  has: true
+  module: MOD_000013
+  property: MODPROP_000056
+  reason: 'Logic (modules) 152: module("has" ''B-object'') <=== module("has" ''local'').'
+MODPROP_000057:
+  citation: []
+  crosstable_pk: 626
+  has: true
+  module: MOD_000013
+  property: MODPROP_000057
+  reason: 'Logic (modules) 162: module("has" ''strongly semi-Noetherian'') <=== module("has"
+    ''Noetherian'').'

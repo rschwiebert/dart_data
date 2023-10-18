@@ -1,0 +1,6 @@
+active: true
+citation: []
+concs: module_deduced("has",2)
+hyps: module_deduced("has",5) AND module_deduced("has",1)
+readable: module is semisimple AND module is Artinian  ===>  module is Noetherian
+variety: 0

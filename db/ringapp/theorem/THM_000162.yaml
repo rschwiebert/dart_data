@@ -1,0 +1,9 @@
+alias: Formanek-Snider primitive group-ring theorem
+categories:
+- THMCAT_000003
+citation:
+- CITE_000561
+commutative_only: false
+link: null
+statement: For any field $F$ and group $G$, there exists a group $H$ containing $G$
+  such that $F[H]$ is a primitive ring.

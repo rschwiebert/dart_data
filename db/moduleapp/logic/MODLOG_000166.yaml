@@ -1,0 +1,6 @@
+active: true
+citation: []
+concs: module_deduced("has",57)
+hyps: module_deduced("has",5)
+readable: module is semisimple  ===>  module is strongly semi-Noetherian
+variety: 0

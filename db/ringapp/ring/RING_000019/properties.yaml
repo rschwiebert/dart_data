@@ -1617,3 +1617,14 @@ PROP_000175:
   reason_left: 'Logic (rings) 542: \(NOT "?-ring" \) <=== \(NOT "arithmetical" \).'
   reason_right: 'Logic (rings) 542: \(NOT "?-ring" \) <=== \(NOT "arithmetical" \).'
   ring: RING_000019
+PROP_000177:
+  citation_left: []
+  citation_right: []
+  crosstable_pk: 24261
+  has_on_left: false
+  has_on_right: null
+  property: PROP_000177
+  reason_left: 'Logic (rings) 552: \(NOT "semi-Artinian" on the left\) <=== \(NOT
+    "essential socle" on the left\).'
+  reason_right: null
+  ring: RING_000019

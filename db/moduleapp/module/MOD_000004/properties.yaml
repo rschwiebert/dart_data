@@ -134,6 +134,13 @@ MODPROP_000018:
   module: MOD_000004
   property: MODPROP_000018
   reason: 'Logic (modules) 46: module(lacks ''uniform'') <=== module(lacks ''indecomposable'').'
+MODPROP_000019:
+  citation: []
+  crosstable_pk: 577
+  has: false
+  module: MOD_000004
+  property: MODPROP_000019
+  reason: 'Logic (modules) 151: module("lacks" ''hollow'') <=== module("lacks" ''indecomposable'').'
 MODPROP_000020:
   citation: []
   crosstable_pk: 68
@@ -349,3 +356,51 @@ MODPROP_000051:
   property: MODPROP_000051
   reason: 'Logic (modules) 132: module("has" ''linearly compact'') <=== module("has"
     ''Artinian'').'
+MODPROP_000052:
+  citation: []
+  crosstable_pk: 571
+  has: true
+  module: MOD_000004
+  property: MODPROP_000052
+  reason: 'Logic (modules) 146: module("has" ''nonzero socle'') <=== module("has"
+    ''$R_R$'') AND ring("has" ''nonzero socle'' on the right).'
+MODPROP_000053:
+  citation: []
+  crosstable_pk: 572
+  has: true
+  module: MOD_000004
+  property: MODPROP_000053
+  reason: 'Logic (modules) 147: module("has" ''proper Jacobson radical'') <=== module("has"
+    ''$R_R$'').'
+MODPROP_000054:
+  citation: []
+  crosstable_pk: 573
+  has: true
+  module: MOD_000004
+  property: MODPROP_000054
+  reason: 'Logic (modules) 157: module("has" ''semi-noetherian'') <=== ring("has"
+    ''max ring'' on the right).'
+MODPROP_000055:
+  citation: []
+  crosstable_pk: 574
+  has: true
+  module: MOD_000004
+  property: MODPROP_000055
+  reason: 'Logic (modules) 155: module("has" ''semi-artinian'') <=== module("has"
+    ''Artinian'').'
+MODPROP_000056:
+  citation: []
+  crosstable_pk: 575
+  has: true
+  module: MOD_000004
+  property: MODPROP_000056
+  reason: 'Logic (modules) 153: module("has" ''B-object'') <=== module("has" ''has
+    a projective cover'').'
+MODPROP_000057:
+  citation: []
+  crosstable_pk: 576
+  has: true
+  module: MOD_000004
+  property: MODPROP_000057
+  reason: 'Logic (modules) 162: module("has" ''strongly semi-Noetherian'') <=== module("has"
+    ''Noetherian'').'

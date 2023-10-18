@@ -293,6 +293,13 @@ MODPROP_000044:
   property: MODPROP_000044
   reason: 'Logic (modules) 104: module("has" ''clean (endoclean)'') <=== module("has"
     ''strongly indecomposable (endolocal)'').'
+MODPROP_000045:
+  citation: []
+  crosstable_pk: 630
+  has: false
+  module: MOD_000006
+  property: MODPROP_000045
+  reason: 'Logic (modules) 152: module("lacks" ''local'') <=== module("lacks" ''B-object'').'
 MODPROP_000046:
   citation: []
   crosstable_pk: 424
@@ -301,6 +308,14 @@ MODPROP_000046:
   property: MODPROP_000046
   reason: 'Logic (modules) 114: module("lacks" ''colocal'') <=== module("lacks" ''essential
     socle'').'
+MODPROP_000047:
+  citation: []
+  crosstable_pk: 584
+  has: false
+  module: MOD_000006
+  property: MODPROP_000047
+  reason: 'Logic (modules) 149: module("lacks" ''simple socle'') <=== module("lacks"
+    ''nonzero socle'').'
 MODPROP_000048:
   citation: []
   crosstable_pk: 424
@@ -317,3 +332,50 @@ MODPROP_000050:
   property: MODPROP_000050
   reason: 'Logic (modules) 123: module("lacks" ''has a projective cover'') <=== module("lacks"
     ''projective'') AND ring("has" ''semiprimitive'' ).'
+MODPROP_000052:
+  citation: []
+  crosstable_pk: 585
+  has: false
+  module: MOD_000006
+  property: MODPROP_000052
+  reason: 'Logic (modules) 148: module("lacks" ''nonzero socle'') <=== module("lacks"
+    ''subdirectly irreducible (co-local)'') AND module("has" ''uniform'').'
+MODPROP_000053:
+  citation: []
+  crosstable_pk: 629
+  has: false
+  module: MOD_000006
+  property: MODPROP_000053
+  reason: Well-known it does not have maximal subgroups
+MODPROP_000054:
+  citation: []
+  crosstable_pk: 631
+  has: false
+  module: MOD_000006
+  property: MODPROP_000054
+  reason: 'Logic (modules) 163: module("lacks" ''semi-noetherian'') <=== module("lacks"
+    ''proper Jacobson radical'').'
+MODPROP_000055:
+  citation: []
+  crosstable_pk: 586
+  has: false
+  module: MOD_000006
+  property: MODPROP_000055
+  reason: 'Logic (modules) 154: module("lacks" ''semi-artinian'') <=== module("lacks"
+    ''essential socle'').'
+MODPROP_000056:
+  citation: []
+  crosstable_pk: 632
+  has: false
+  module: MOD_000006
+  property: MODPROP_000056
+  reason: 'Logic (modules) 159: module("lacks" ''B-object'') <=== module("lacks" ''proper
+    Jacobson radical'').'
+MODPROP_000057:
+  citation: []
+  crosstable_pk: 633
+  has: false
+  module: MOD_000006
+  property: MODPROP_000057
+  reason: 'Logic (modules) 164: module("lacks" ''strongly semi-Noetherian'') <===
+    module("lacks" ''B-object'').'

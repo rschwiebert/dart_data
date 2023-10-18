@@ -1,0 +1,6 @@
+citation: []
+commutative_only: false
+definition: $R$ is right semi-Artinian if every nonzero quotient of $R_R$ contains
+  a minimal submodule. (Equivalently, every nonzero quotient has an essential socle.)
+name: semi-Artinian
+symmetric: false

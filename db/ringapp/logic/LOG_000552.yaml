@@ -1,0 +1,7 @@
+active: true
+citation: []
+concs: ring_deduced("has",3,101)
+hyps: ring_deduced("has",3,177)
+readable: ring is semi-Artinian on the right ===> ring is essential socle on the right
+symmetric: false
+variety: 0

@@ -1717,3 +1717,27 @@ PROP_000175:
   reason_left: 'Logic (rings) 543: \(NOT "?-ring" \) <=== \(NOT "connected" \).'
   reason_right: 'Logic (rings) 543: \(NOT "?-ring" \) <=== \(NOT "connected" \).'
   ring: RING_000152
+PROP_000176:
+  citation_left: []
+  citation_right: []
+  crosstable_pk: 24402
+  has_on_left: true
+  has_on_right: true
+  property: PROP_000176
+  reason_left: 'Logic (rings) 558: \( "semi-Noetherian" on the left\) <=== \( "max
+    ring" on the left\).'
+  reason_right: 'Logic (rings) 558: \( "semi-Noetherian" on the right\) <=== \( "max
+    ring" on the right\).'
+  ring: RING_000152
+PROP_000177:
+  citation_left: []
+  citation_right: []
+  crosstable_pk: 24403
+  has_on_left: true
+  has_on_right: true
+  property: PROP_000177
+  reason_left: 'Logic (rings) 551: \( "semi-Artinian" on the left\) <=== \( "perfect"
+    on the right\).'
+  reason_right: 'Logic (rings) 551: \( "semi-Artinian" on the right\) <=== \( "perfect"
+    on the left\).'
+  ring: RING_000152

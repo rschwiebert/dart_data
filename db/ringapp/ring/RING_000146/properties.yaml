@@ -1431,3 +1431,15 @@ PROP_000175:
   reason_left: 'Logic (rings) 539: \( "?-ring" \) <=== \( "torch" \).'
   reason_right: 'Logic (rings) 539: \( "?-ring" \) <=== \( "torch" \).'
   ring: RING_000146
+PROP_000177:
+  citation_left: []
+  citation_right: []
+  crosstable_pk: 24398
+  has_on_left: false
+  has_on_right: false
+  property: PROP_000177
+  reason_left: 'Logic (rings) commutativity: ring_deduced("lacks",2,Y) <=== \( "commutative"
+    \) AND ring_deduced("lacks",3,Y).'
+  reason_right: 'Logic (rings) 556: \(NOT "semi-Artinian" on the right\) <=== \(NOT
+    "semiregular" \) AND \( "commutative" \).'
+  ring: RING_000146

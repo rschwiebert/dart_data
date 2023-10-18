@@ -293,3 +293,51 @@ MODPROP_000051:
   property: MODPROP_000051
   reason: 'Logic (modules) 132: module("has" ''linearly compact'') <=== module("has"
     ''Artinian'').'
+MODPROP_000052:
+  citation: []
+  crosstable_pk: 578
+  has: true
+  module: MOD_000005
+  property: MODPROP_000052
+  reason: 'Logic (modules) 149: module("has" ''nonzero socle'') <=== module("has"
+    ''simple socle'').'
+MODPROP_000053:
+  citation: []
+  crosstable_pk: 579
+  has: true
+  module: MOD_000005
+  property: MODPROP_000053
+  reason: 'Logic (modules) 159: module("has" ''proper Jacobson radical'') <=== module("has"
+    ''B-object'').'
+MODPROP_000054:
+  citation: []
+  crosstable_pk: 580
+  has: true
+  module: MOD_000005
+  property: MODPROP_000054
+  reason: 'Logic (modules) 157: module("has" ''semi-noetherian'') <=== ring("has"
+    ''max ring'' on the right).'
+MODPROP_000055:
+  citation: []
+  crosstable_pk: 581
+  has: true
+  module: MOD_000005
+  property: MODPROP_000055
+  reason: 'Logic (modules) 155: module("has" ''semi-artinian'') <=== module("has"
+    ''Artinian'').'
+MODPROP_000056:
+  citation: []
+  crosstable_pk: 582
+  has: true
+  module: MOD_000005
+  property: MODPROP_000056
+  reason: 'Logic (modules) 153: module("has" ''B-object'') <=== module("has" ''has
+    a projective cover'').'
+MODPROP_000057:
+  citation: []
+  crosstable_pk: 583
+  has: true
+  module: MOD_000005
+  property: MODPROP_000057
+  reason: 'Logic (modules) 162: module("has" ''strongly semi-Noetherian'') <=== module("has"
+    ''Noetherian'').'

@@ -120,11 +120,12 @@ MODPROP_000018:
     on the right).'
 MODPROP_000019:
   citation: []
-  crosstable_pk: 430
-  has: true
+  crosstable_pk: 595
+  has: false
   module: MOD_000008
   property: MODPROP_000019
-  reason: 'Logic (modules) 121: module("has" ''hollow'') <=== module("has" ''colocal'').'
+  reason: 'Logic (modules) 145: module("lacks" ''hollow'') <=== module("lacks" ''local'')
+    AND module("has" ''proper Jacobson radical'').'
 MODPROP_000020:
   citation: []
   crosstable_pk: 192
@@ -335,3 +336,51 @@ MODPROP_000050:
   property: MODPROP_000050
   reason: 'Logic (modules) 122: module("has" ''has a projective cover'') <=== module("has"
     ''projective'').'
+MODPROP_000052:
+  citation: []
+  crosstable_pk: 592
+  has: true
+  module: MOD_000008
+  property: MODPROP_000052
+  reason: 'Logic (modules) 146: module("has" ''nonzero socle'') <=== module("has"
+    ''$R_R$'') AND ring("has" ''nonzero socle'' on the right).'
+MODPROP_000053:
+  citation: []
+  crosstable_pk: 593
+  has: true
+  module: MOD_000008
+  property: MODPROP_000053
+  reason: 'Logic (modules) 147: module("has" ''proper Jacobson radical'') <=== module("has"
+    ''$R_R$'').'
+MODPROP_000054:
+  citation: []
+  crosstable_pk: 668
+  has: false
+  module: MOD_000008
+  property: MODPROP_000054
+  reason: 'Logic (modules) 158: module(X ''semi-noetherian'') <=== ring(X ''semi-Noetherian''
+    on the right) AND module("has" ''$R_R$'').'
+MODPROP_000055:
+  citation: []
+  crosstable_pk: 628
+  has: false
+  module: MOD_000008
+  property: MODPROP_000055
+  reason: 'Logic (modules) 168: module(X ''semi-artinian'') <=== ring(X ''semi-Artinian''
+    on the right) AND module("has" ''$R_R$'').'
+MODPROP_000056:
+  citation: []
+  crosstable_pk: 594
+  has: true
+  module: MOD_000008
+  property: MODPROP_000056
+  reason: 'Logic (modules) 153: module("has" ''B-object'') <=== module("has" ''has
+    a projective cover'').'
+MODPROP_000057:
+  citation: []
+  crosstable_pk: 669
+  has: false
+  module: MOD_000008
+  property: MODPROP_000057
+  reason: 'Logic (modules) 165: module("lacks" ''strongly semi-Noetherian'') <===
+    module("lacks" ''semi-noetherian'').'

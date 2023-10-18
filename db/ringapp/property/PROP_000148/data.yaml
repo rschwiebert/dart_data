@@ -1,7 +1,8 @@
 citation:
 - CITE_000302
 commutative_only: false
-definition: (right max ring) A ring $R$ is called a right max ring if every nonzero
-  right $R$ module has a maximal submodule.
+definition: '(right max ring) A ring $R$ is called a right max ring if every nonzero
+  right $R$ module has a maximal submodule.  Also called: "right $B$-ring" by Faith;
+  "ring satisfying condition H on the right" by several French authors.'
 name: max ring
 symmetric: false

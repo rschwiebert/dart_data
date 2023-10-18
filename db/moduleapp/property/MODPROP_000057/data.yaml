@@ -1,0 +1,5 @@
+citation:
+- MODCITE_000028
+definition: Every quotient of $M$ is semi-Noetherian. (The notion appears as "semi-Noetherian"
+  in literature, so this term is invented to distinguish it.)
+name: strongly semi-Noetherian

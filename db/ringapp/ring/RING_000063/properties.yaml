@@ -1372,6 +1372,18 @@ PROP_000147:
   reason_right: 'Logic 382: PCI ring on the right ===> hereditary on the left and
     right and Noetherian on the right and V ring on the right'
   ring: RING_000063
+PROP_000148:
+  citation_left: []
+  citation_right: []
+  crosstable_pk: 24422
+  has_on_left: false
+  has_on_right: false
+  property: PROP_000148
+  reason_left: 'Logic (rings) 558: \(NOT "max ring" on the left\) <=== \(NOT "semi-Noetherian"
+    on the left\).'
+  reason_right: 'Logic (rings) 558: \(NOT "max ring" on the right\) <=== \(NOT "semi-Noetherian"
+    on the right\).'
+  ring: RING_000063
 PROP_000149:
   citation_left: []
   citation_right: []
@@ -1650,4 +1662,26 @@ PROP_000175:
   property: PROP_000175
   reason_left: null
   reason_right: symmetry with left side
+  ring: RING_000063
+PROP_000176:
+  citation_left: []
+  citation_right: []
+  crosstable_pk: 24421
+  has_on_left: false
+  has_on_right: false
+  property: PROP_000176
+  reason_left: The ideal $\{0\}\times \mathbb Z_{p^\infty}$ lacks a maximal submodule.
+  reason_right: symmetry with left side
+  ring: RING_000063
+PROP_000177:
+  citation_left: []
+  citation_right: []
+  crosstable_pk: 24317
+  has_on_left: false
+  has_on_right: false
+  property: PROP_000177
+  reason_left: 'Logic (rings) commutativity: ring_deduced("lacks",2,Y) <=== \( "commutative"
+    \) AND ring_deduced("lacks",3,Y).'
+  reason_right: 'Logic (rings) 556: \(NOT "semi-Artinian" on the right\) <=== \(NOT
+    "semiregular" \) AND \( "commutative" \).'
   ring: RING_000063

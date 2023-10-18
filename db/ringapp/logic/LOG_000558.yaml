@@ -1,0 +1,7 @@
+active: true
+citation: []
+concs: ring_deduced("has",3,176)
+hyps: ring_deduced("has",3,148)
+readable: ring is max ring on the right ===> ring is semi-Noetherian on the right
+symmetric: false
+variety: 0

@@ -1534,3 +1534,26 @@ PROP_000175:
   reason_left: 'Logic (rings) 540: \(NOT "?-ring" \) <=== \( "local" \).'
   reason_right: 'Logic (rings) 540: \(NOT "?-ring" \) <=== \( "local" \).'
   ring: RING_000044
+PROP_000176:
+  citation_left: []
+  citation_right: []
+  crosstable_pk: 24292
+  has_on_left: null
+  has_on_right: true
+  property: PROP_000176
+  reason_left: null
+  reason_right: 'Logic (rings) 558: \( "semi-Noetherian" on the right\) <=== \( "max
+    ring" on the right\).'
+  ring: RING_000044
+PROP_000177:
+  citation_left: []
+  citation_right: []
+  crosstable_pk: 24291
+  has_on_left: true
+  has_on_right: false
+  property: PROP_000177
+  reason_left: 'Logic (rings) 551: \( "semi-Artinian" on the left\) <=== \( "perfect"
+    on the right\).'
+  reason_right: 'Logic (rings) 552: \(NOT "semi-Artinian" on the right\) <=== \(NOT
+    "essential socle" on the right\).'
+  ring: RING_000044

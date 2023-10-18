@@ -1,0 +1,237 @@
+MODPROP_000001:
+  citation: []
+  crosstable_pk: 661
+  has: false
+  module: MOD_000014
+  property: MODPROP_000001
+  reason: 'Logic (modules) 2: module("lacks" ''Artinian'') <=== module("lacks" ''finitely
+    cogenerated'').'
+MODPROP_000002:
+  citation: []
+  crosstable_pk: 638
+  has: false
+  module: MOD_000014
+  property: MODPROP_000002
+  reason: 'Logic (modules) 1: module("lacks" ''Noetherian'') <=== module("lacks" ''finitely
+    generated'').'
+MODPROP_000003:
+  citation: []
+  crosstable_pk: 639
+  has: false
+  module: MOD_000014
+  property: MODPROP_000003
+  reason: 'Logic (modules) 160: module("lacks" ''finitely generated'') <=== module("lacks"
+    ''B-object'').'
+MODPROP_000004:
+  citation: []
+  crosstable_pk: 640
+  has: false
+  module: MOD_000014
+  property: MODPROP_000004
+  reason: 'Logic (modules) 141: module("lacks" ''simple'') <=== module("lacks" ''local'').'
+MODPROP_000005:
+  citation: []
+  crosstable_pk: 641
+  has: false
+  module: MOD_000014
+  property: MODPROP_000005
+  reason: 'Logic (modules) 166: module("lacks" ''semisimple'') <=== module("lacks"
+    ''strongly semi-Noetherian'').'
+MODPROP_000006:
+  citation: []
+  crosstable_pk: 642
+  has: false
+  module: MOD_000014
+  property: MODPROP_000006
+  reason: 'Logic (modules) 122: module("lacks" ''projective'') <=== module("lacks"
+    ''has a projective cover'').'
+MODPROP_000009:
+  citation: []
+  crosstable_pk: 643
+  has: false
+  module: MOD_000014
+  property: MODPROP_000009
+  reason: 'Logic (modules) 3: module("lacks" ''free'') <=== module("lacks" ''projective'').'
+MODPROP_000010:
+  citation: []
+  crosstable_pk: 644
+  has: false
+  module: MOD_000014
+  property: MODPROP_000010
+  reason: 'Logic (modules) 9: module("lacks" ''cyclic'') <=== module("lacks" ''finitely
+    generated'').'
+MODPROP_000013:
+  citation: []
+  crosstable_pk: 662
+  has: false
+  module: MOD_000014
+  property: MODPROP_000013
+  reason: 'Logic (modules) 63: module("lacks" ''finitely cogenerated'') <=== module("lacks"
+    ''essential socle'').'
+MODPROP_000014:
+  citation: []
+  crosstable_pk: 645
+  has: false
+  module: MOD_000014
+  property: MODPROP_000014
+  reason: 'Logic (modules) 7: module("lacks" ''coherent'') <=== module("lacks" ''finitely
+    presented'').'
+MODPROP_000016:
+  citation: []
+  crosstable_pk: 646
+  has: false
+  module: MOD_000014
+  property: MODPROP_000016
+  reason: 'Logic (modules) 14: module("lacks" ''finitely presented'') <=== module("lacks"
+    ''finitely generated'').'
+MODPROP_000018:
+  citation: []
+  crosstable_pk: 655
+  has: false
+  module: MOD_000014
+  property: MODPROP_000018
+  reason: 'Logic (modules) 46: module("lacks" ''uniform'') <=== module("lacks" ''indecomposable'').'
+MODPROP_000019:
+  citation: []
+  crosstable_pk: 647
+  has: false
+  module: MOD_000014
+  property: MODPROP_000019
+  reason: 'Logic (modules) 145: module("lacks" ''hollow'') <=== module("lacks" ''local'')
+    AND module("has" ''proper Jacobson radical'').'
+MODPROP_000021:
+  citation: []
+  crosstable_pk: 666
+  has: true
+  module: MOD_000014
+  property: MODPROP_000021
+  reason: null
+MODPROP_000025:
+  citation: []
+  crosstable_pk: 648
+  has: false
+  module: MOD_000014
+  property: MODPROP_000025
+  reason: 'Logic (modules) 111: module("lacks" ''uniserial'') <=== module("lacks"
+    ''hollow'').'
+MODPROP_000028:
+  citation: []
+  crosstable_pk: 649
+  has: false
+  module: MOD_000014
+  property: MODPROP_000028
+  reason: 'Logic (modules) 20: module("lacks" ''finite composition length'') <===
+    module("lacks" ''Noetherian'').'
+MODPROP_000031:
+  citation: []
+  crosstable_pk: 654
+  has: false
+  module: MOD_000014
+  property: MODPROP_000031
+  reason: Clearly splits into two submodules
+MODPROP_000032:
+  citation: []
+  crosstable_pk: 656
+  has: false
+  module: MOD_000014
+  property: MODPROP_000032
+  reason: 'Logic (modules) 48: module("lacks" ''brick'') <=== module("lacks" ''strongly
+    indecomposable (endolocal)'').'
+MODPROP_000033:
+  citation: []
+  crosstable_pk: 657
+  has: false
+  module: MOD_000014
+  property: MODPROP_000033
+  reason: 'Logic (modules) 49: module("lacks" ''strongly indecomposable (endolocal)'')
+    <=== module("lacks" ''indecomposable'').'
+MODPROP_000035:
+  citation: []
+  crosstable_pk: 660
+  has: false
+  module: MOD_000014
+  property: MODPROP_000035
+  reason: 'The socle is a summand: $\{0\}\times \frac{\mathbb Z}{p\mathbb Z}$'
+MODPROP_000036:
+  citation: []
+  crosstable_pk: 667
+  has: true
+  module: MOD_000014
+  property: MODPROP_000036
+  reason: 'Logic (modules) 169: module("has" ''finitely generated socle'') <=== module("has"
+    ''simple socle'').'
+MODPROP_000039:
+  citation: []
+  crosstable_pk: 650
+  has: false
+  module: MOD_000014
+  property: MODPROP_000039
+  reason: 'Logic (modules) 75: module("lacks" ''$R_R$'') <=== module("lacks" ''cyclic'').'
+MODPROP_000045:
+  citation: []
+  crosstable_pk: 651
+  has: false
+  module: MOD_000014
+  property: MODPROP_000045
+  reason: 'Logic (modules) 152: module("lacks" ''local'') <=== module("lacks" ''B-object'').'
+MODPROP_000047:
+  citation: []
+  crosstable_pk: 664
+  has: true
+  module: MOD_000014
+  property: MODPROP_000047
+  reason: The socle is $\{0\}\times \frac{\mathbb Z}{p\mathbb Z}$
+MODPROP_000048:
+  citation: []
+  crosstable_pk: 658
+  has: false
+  module: MOD_000014
+  property: MODPROP_000048
+  reason: 'Logic (modules) 115: module("lacks" ''subdirectly irreducible (co-local)'')
+    <=== module("lacks" ''uniform'').'
+MODPROP_000050:
+  citation: []
+  crosstable_pk: 652
+  has: false
+  module: MOD_000014
+  property: MODPROP_000050
+  reason: 'Logic (modules) 153: module("lacks" ''has a projective cover'') <=== module("lacks"
+    ''B-object'').'
+MODPROP_000052:
+  citation: []
+  crosstable_pk: 659
+  has: true
+  module: MOD_000014
+  property: MODPROP_000052
+  reason: $\{0\}\times \frac{\mathbb Z}{p\mathbb Z}$ is a simple submodule
+MODPROP_000053:
+  citation: []
+  crosstable_pk: 637
+  has: true
+  module: MOD_000014
+  property: MODPROP_000053
+  reason: $\mathbb Q\times \{0\}$ is a maximal submodule
+MODPROP_000055:
+  citation: []
+  crosstable_pk: 663
+  has: false
+  module: MOD_000014
+  property: MODPROP_000055
+  reason: 'Logic (modules) 154: module("lacks" ''semi-artinian'') <=== module("lacks"
+    ''essential socle'').'
+MODPROP_000056:
+  citation: []
+  crosstable_pk: 636
+  has: false
+  module: MOD_000014
+  property: MODPROP_000056
+  reason: $\mathbb \{0\}\times \frac{\mathbb Z}{p\mathbb Z}$ is not contained in any
+    maximal submodule (because $\mathbb Q_\mathbb Z$ has none)
+MODPROP_000057:
+  citation: []
+  crosstable_pk: 653
+  has: false
+  module: MOD_000014
+  property: MODPROP_000057
+  reason: 'Logic (modules) 164: module("lacks" ''strongly semi-Noetherian'') <===
+    module("lacks" ''B-object'').'

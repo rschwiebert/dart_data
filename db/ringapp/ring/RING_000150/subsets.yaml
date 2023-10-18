@@ -21,3 +21,19 @@ SUBSET_000006:
   ring: RING_000150
   subset: $\{0\}$
   subset_type: SUBSET_000006
+SUBSET_000007:
+  citation: []
+  crosstable_pk: 742
+  reason: 'Logic (rings) ?: has Right socle $\{0\}$ <=== ring is not nonzero socle
+    on the right'
+  ring: RING_000150
+  subset: $\{0\}$
+  subset_type: SUBSET_000007
+SUBSET_000008:
+  citation: []
+  crosstable_pk: 743
+  reason: 'Logic (rings) ?: has Left socle $\{0\}$ <=== ring is not nonzero socle
+    on the left'
+  ring: RING_000150
+  subset: $\{0\}$
+  subset_type: SUBSET_000008

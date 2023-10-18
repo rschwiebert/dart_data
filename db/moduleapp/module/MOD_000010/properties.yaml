@@ -111,6 +111,13 @@ MODPROP_000018:
   module: MOD_000010
   property: MODPROP_000018
   reason: 'Logic (modules) 46: module("lacks" ''uniform'') <=== module("lacks" ''indecomposable'').'
+MODPROP_000019:
+  citation: []
+  crosstable_pk: 607
+  has: false
+  module: MOD_000010
+  property: MODPROP_000019
+  reason: 'Logic (modules) 151: module("lacks" ''hollow'') <=== module("lacks" ''indecomposable'').'
 MODPROP_000020:
   citation: []
   crosstable_pk: 279
@@ -253,6 +260,13 @@ MODPROP_000046:
   property: MODPROP_000046
   reason: 'Logic (modules) 114: module("lacks" ''colocal'') <=== module("lacks" ''essential
     socle'').'
+MODPROP_000047:
+  citation: []
+  crosstable_pk: 665
+  has: true
+  module: MOD_000010
+  property: MODPROP_000047
+  reason: $\{0\}\times \frac{\mathbb Z}{p\mathbb Z}$ is the socle
 MODPROP_000048:
   citation: []
   crosstable_pk: 441
@@ -269,3 +283,50 @@ MODPROP_000050:
   property: MODPROP_000050
   reason: 'Logic (modules) 123: module("lacks" ''has a projective cover'') <=== module("lacks"
     ''projective'') AND ring("has" ''semiprimitive'' ).'
+MODPROP_000052:
+  citation: []
+  crosstable_pk: 627
+  has: true
+  module: MOD_000010
+  property: MODPROP_000052
+  reason: Socle is $\{0\}\times \mathbb Z/p\mathbb Z
+MODPROP_000053:
+  citation: []
+  crosstable_pk: 603
+  has: true
+  module: MOD_000010
+  property: MODPROP_000053
+  reason: 'Logic (modules) 159: module("has" ''proper Jacobson radical'') <=== module("has"
+    ''B-object'').'
+MODPROP_000054:
+  citation: []
+  crosstable_pk: 604
+  has: true
+  module: MOD_000010
+  property: MODPROP_000054
+  reason: 'Logic (modules) 165: module("has" ''semi-noetherian'') <=== module("has"
+    ''strongly semi-Noetherian'').'
+MODPROP_000055:
+  citation: []
+  crosstable_pk: 608
+  has: false
+  module: MOD_000010
+  property: MODPROP_000055
+  reason: 'Logic (modules) 154: module("lacks" ''semi-artinian'') <=== module("lacks"
+    ''essential socle'').'
+MODPROP_000056:
+  citation: []
+  crosstable_pk: 605
+  has: true
+  module: MOD_000010
+  property: MODPROP_000056
+  reason: 'Logic (modules) 160: module("has" ''B-object'') <=== module("has" ''finitely
+    generated'').'
+MODPROP_000057:
+  citation: []
+  crosstable_pk: 606
+  has: true
+  module: MOD_000010
+  property: MODPROP_000057
+  reason: 'Logic (modules) 162: module("has" ''strongly semi-Noetherian'') <=== module("has"
+    ''Noetherian'').'

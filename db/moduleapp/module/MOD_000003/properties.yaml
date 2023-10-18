@@ -361,3 +361,51 @@ MODPROP_000051:
   property: MODPROP_000051
   reason: 'Logic (modules) 132: module("has" ''linearly compact'') <=== module("has"
     ''Artinian'').'
+MODPROP_000052:
+  citation: []
+  crosstable_pk: 565
+  has: true
+  module: MOD_000003
+  property: MODPROP_000052
+  reason: 'Logic (modules) 149: module("has" ''nonzero socle'') <=== module("has"
+    ''simple socle'').'
+MODPROP_000053:
+  citation: []
+  crosstable_pk: 567
+  has: false
+  module: MOD_000003
+  property: MODPROP_000053
+  reason: 'Logic (modules) 145: module("lacks" ''proper Jacobson radical'') <=== module("lacks"
+    ''local'') AND module("has" ''hollow'').'
+MODPROP_000054:
+  citation: []
+  crosstable_pk: 568
+  has: false
+  module: MOD_000003
+  property: MODPROP_000054
+  reason: 'Logic (modules) 163: module("lacks" ''semi-noetherian'') <=== module("lacks"
+    ''proper Jacobson radical'').'
+MODPROP_000055:
+  citation: []
+  crosstable_pk: 566
+  has: true
+  module: MOD_000003
+  property: MODPROP_000055
+  reason: 'Logic (modules) 155: module("has" ''semi-artinian'') <=== module("has"
+    ''Artinian'').'
+MODPROP_000056:
+  citation: []
+  crosstable_pk: 569
+  has: false
+  module: MOD_000003
+  property: MODPROP_000056
+  reason: 'Logic (modules) 159: module("lacks" ''B-object'') <=== module("lacks" ''proper
+    Jacobson radical'').'
+MODPROP_000057:
+  citation: []
+  crosstable_pk: 570
+  has: false
+  module: MOD_000003
+  property: MODPROP_000057
+  reason: 'Logic (modules) 164: module("lacks" ''strongly semi-Noetherian'') <===
+    module("lacks" ''B-object'').'

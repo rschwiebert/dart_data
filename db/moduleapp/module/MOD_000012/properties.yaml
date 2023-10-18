@@ -179,3 +179,34 @@ MODPROP_000050:
   property: MODPROP_000050
   reason: $R$ is projective, and $xR$ is small (since $R$ is uniserial) so the projection
     $R\to R/xR$ works.
+MODPROP_000053:
+  citation: []
+  crosstable_pk: 617
+  has: true
+  module: MOD_000012
+  property: MODPROP_000053
+  reason: 'Logic (modules) 159: module("has" ''proper Jacobson radical'') <=== module("has"
+    ''B-object'').'
+MODPROP_000054:
+  citation: []
+  crosstable_pk: 634
+  has: false
+  module: MOD_000012
+  property: MODPROP_000054
+  reason: Take submodules $N_i$ strictly ascending. $\cup_{i\in \mathbb N} N_i$ cannot
+    have a maximal submodule
+MODPROP_000056:
+  citation: []
+  crosstable_pk: 618
+  has: true
+  module: MOD_000012
+  property: MODPROP_000056
+  reason: 'Logic (modules) 152: module("has" ''B-object'') <=== module("has" ''local'').'
+MODPROP_000057:
+  citation: []
+  crosstable_pk: 635
+  has: false
+  module: MOD_000012
+  property: MODPROP_000057
+  reason: 'Logic (modules) 165: module("lacks" ''strongly semi-Noetherian'') <===
+    module("lacks" ''semi-noetherian'').'

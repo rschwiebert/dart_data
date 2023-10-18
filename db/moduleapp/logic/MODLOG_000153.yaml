@@ -1,6 +1,7 @@
 active: true
-citation: []
-concs: module_deduced("has",53)
-hyps: module_deduced("has",6)
-readable: module is projective  ===>  module is proper Jacobson radical
+citation:
+- CITE_000025
+concs: module_deduced("has",56)
+hyps: module_deduced("has",50)
+readable: module is has a projective cover  ===>  module is B-object
 variety: 0

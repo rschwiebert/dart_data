@@ -1,0 +1,6 @@
+citation: []
+commutative_only: false
+definition: $R$ is right semi-Noetherian if every nonzero submodule of $R_R$ has a
+  maximal submodule
+name: semi-Noetherian
+symmetric: false

@@ -132,6 +132,14 @@ MODPROP_000018:
   module: MOD_000001
   property: MODPROP_000018
   reason: null
+MODPROP_000019:
+  citation: []
+  crosstable_pk: 554
+  has: false
+  module: MOD_000001
+  property: MODPROP_000019
+  reason: 'Logic (modules) 145: module("lacks" ''hollow'') <=== module("lacks" ''local'')
+    AND module("has" ''proper Jacobson radical'').'
 MODPROP_000020:
   citation: []
   crosstable_pk: 194
@@ -342,3 +350,51 @@ MODPROP_000050:
   property: MODPROP_000050
   reason: 'Logic (modules) 122: module("has" ''has a projective cover'') <=== module("has"
     ''projective'').'
+MODPROP_000052:
+  citation: []
+  crosstable_pk: 555
+  has: false
+  module: MOD_000001
+  property: MODPROP_000052
+  reason: 'Logic (modules) 148: module("lacks" ''nonzero socle'') <=== module("lacks"
+    ''subdirectly irreducible (co-local)'') AND module("has" ''uniform'').'
+MODPROP_000053:
+  citation: []
+  crosstable_pk: 550
+  has: true
+  module: MOD_000001
+  property: MODPROP_000053
+  reason: 'Logic (modules) 147: module("has" ''proper Jacobson radical'') <=== module("has"
+    ''$R_R$'').'
+MODPROP_000054:
+  citation: []
+  crosstable_pk: 551
+  has: true
+  module: MOD_000001
+  property: MODPROP_000054
+  reason: 'Logic (modules) 165: module("has" ''semi-noetherian'') <=== module("has"
+    ''strongly semi-Noetherian'').'
+MODPROP_000055:
+  citation: []
+  crosstable_pk: 556
+  has: false
+  module: MOD_000001
+  property: MODPROP_000055
+  reason: 'Logic (modules) 154: module("lacks" ''semi-artinian'') <=== module("lacks"
+    ''essential socle'').'
+MODPROP_000056:
+  citation: []
+  crosstable_pk: 552
+  has: true
+  module: MOD_000001
+  property: MODPROP_000056
+  reason: 'Logic (modules) 153: module("has" ''B-object'') <=== module("has" ''has
+    a projective cover'').'
+MODPROP_000057:
+  citation: []
+  crosstable_pk: 553
+  has: true
+  module: MOD_000001
+  property: MODPROP_000057
+  reason: 'Logic (modules) 162: module("has" ''strongly semi-Noetherian'') <=== module("has"
+    ''Noetherian'').'

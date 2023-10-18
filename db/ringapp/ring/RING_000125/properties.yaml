@@ -1229,3 +1229,26 @@ PROP_000175:
   reason_left: 'Logic (rings) 542: \(NOT "?-ring" \) <=== \(NOT "arithmetical" \).'
   reason_right: 'Logic (rings) 542: \(NOT "?-ring" \) <=== \(NOT "arithmetical" \).'
   ring: RING_000125
+PROP_000176:
+  citation_left: []
+  citation_right: []
+  crosstable_pk: 24380
+  has_on_left: null
+  has_on_right: true
+  property: PROP_000176
+  reason_left: null
+  reason_right: 'Logic (rings) 558: \( "semi-Noetherian" on the right\) <=== \( "max
+    ring" on the right\).'
+  ring: RING_000125
+PROP_000177:
+  citation_left: []
+  citation_right: []
+  crosstable_pk: 24379
+  has_on_left: true
+  has_on_right: false
+  property: PROP_000177
+  reason_left: 'Logic (rings) 551: \( "semi-Artinian" on the left\) <=== \( "perfect"
+    on the right\).'
+  reason_right: 'Logic (rings) 555: \(NOT "semi-Artinian" on the right\) <=== \(NOT
+    "T-nilpotent radical" on the left\).'
+  ring: RING_000125

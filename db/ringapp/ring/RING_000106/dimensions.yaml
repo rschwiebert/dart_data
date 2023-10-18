@@ -1,3 +1,14 @@
+DIM_000001:
+  citation: []
+  crosstable_pk: 418
+  dimension_type: DIM_000001
+  left_dimension: '0'
+  reason_left: 'Logic (rings) 548: has Krull dimension (classical) 0 <=== ring is
+    $\pi$-regular AND ring is commutative'
+  reason_right: 'Logic (rings) 548: has Krull dimension (classical) 0 <=== ring is
+    $\pi$-regular AND ring is commutative'
+  right_dimension: '0'
+  ring: RING_000106
 DIM_000004:
   citation: []
   crosstable_pk: 369

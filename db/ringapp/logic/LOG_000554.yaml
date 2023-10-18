@@ -1,0 +1,9 @@
+active: true
+citation:
+- CITE_000564
+concs: ring_deduced("has",2,176)
+hyps: ring_deduced("has",3,177) AND ring_deduced("has",4,80)
+readable: ring is semi-Artinian on the right AND ring is self-injective on the left
+  or right ===> ring is semi-Noetherian on the left
+symmetric: false
+variety: 0

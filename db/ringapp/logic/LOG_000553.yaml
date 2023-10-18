@@ -1,0 +1,9 @@
+active: true
+citation:
+- CITE_000563
+concs: ring_deduced("has",2,82)
+hyps: ring_deduced("has",3,177) AND ring_deduced("has",4,80)
+readable: ring is semi-Artinian on the right AND ring is self-injective on the left
+  or right ===> ring is perfect on the left
+symmetric: false
+variety: 0

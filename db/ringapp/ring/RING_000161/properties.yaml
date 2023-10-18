@@ -1595,3 +1595,15 @@ PROP_000175:
   reason_left: 'Logic (rings) 542: \(NOT "?-ring" \) <=== \(NOT "arithmetical" \).'
   reason_right: 'Logic (rings) 542: \(NOT "?-ring" \) <=== \(NOT "arithmetical" \).'
   ring: RING_000161
+PROP_000177:
+  citation_left: []
+  citation_right: []
+  crosstable_pk: 24419
+  has_on_left: false
+  has_on_right: false
+  property: PROP_000177
+  reason_left: 'Logic (rings) 553: \(NOT "semi-Artinian" on the left\) <=== \(NOT
+    "perfect" on the right\) AND \( "self-injective" on the left or right\).'
+  reason_right: 'Logic (rings) 553: \(NOT "semi-Artinian" on the right\) <=== \(NOT
+    "perfect" on the left\) AND \( "self-injective" on the left or right\).'
+  ring: RING_000161

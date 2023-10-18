@@ -1671,3 +1671,15 @@ PROP_000175:
   reason_left: 'Logic (rings) 540: \(NOT "?-ring" \) <=== \( "local" \).'
   reason_right: 'Logic (rings) 540: \(NOT "?-ring" \) <=== \( "local" \).'
   ring: RING_000054
+PROP_000177:
+  citation_left: []
+  citation_right: []
+  crosstable_pk: 24307
+  has_on_left: false
+  has_on_right: false
+  property: PROP_000177
+  reason_left: 'Logic (rings) 555: \(NOT "semi-Artinian" on the left\) <=== \(NOT
+    "T-nilpotent radical" on the right\).'
+  reason_right: 'Logic (rings) 555: \(NOT "semi-Artinian" on the right\) <=== \(NOT
+    "T-nilpotent radical" on the left\).'
+  ring: RING_000054

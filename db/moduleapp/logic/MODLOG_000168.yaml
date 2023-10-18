@@ -1,0 +1,6 @@
+active: true
+citation: []
+concs: module_deduced(X,55)
+hyps: ring_deduced(X,3,177) AND module_deduced("has",39)
+readable: ring X semi-Artinian on the right AND module is $R_R$  ===>  module X semi-artinian
+variety: 0
