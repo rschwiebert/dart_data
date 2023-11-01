@@ -808,14 +808,15 @@ PROP_000086:
   reason_right: 'Logic 57: Ore domain on the right ===> Goldie on the right'
   ring: RING_000088
 PROP_000087:
-  citation_left: []
+  citation_left:
+  - CITE_000568
   citation_right: []
   crosstable_pk: 19153
-  has_on_left: false
-  has_on_right: false
+  has_on_left: true
+  has_on_right: true
   property: PROP_000087
-  reason_left: Valkil says so(?)
-  reason_right: symmetry with left side
+  reason_left: null
+  reason_right: symmetry
   ring: RING_000088
 PROP_000088:
   citation_left: []
@@ -980,14 +981,12 @@ PROP_000103:
 PROP_000104:
   citation_left: []
   citation_right: []
-  crosstable_pk: 19183
+  crosstable_pk: 24442
   has_on_left: false
   has_on_right: false
   property: PROP_000104
-  reason_left: 'Logic (rings) logical AND: ring_deduced("lacks",2,Y) <=== \( "commutative"
-    \) AND ring_deduced("lacks",1,Y).'
-  reason_right: 'Logic (rings) logical AND: ring_deduced("lacks",3,Y) <=== \( "commutative"
-    \) AND ring_deduced("lacks",1,Y).'
+  reason_left: 'Logic (rings) logical OR: ring_deduced("lacks",2,Y) <=== ring_deduced("lacks",4,Y).'
+  reason_right: 'Logic (rings) logical OR: ring_deduced("lacks",3,Y) <=== ring_deduced("lacks",4,Y).'
   ring: RING_000088
 PROP_000105:
   citation_left: []
@@ -1474,7 +1473,7 @@ PROP_000158:
 PROP_000159:
   citation_left: []
   citation_right: []
-  crosstable_pk: 19821
+  crosstable_pk: 24430
   has_on_left: false
   has_on_right: false
   property: PROP_000159
@@ -1486,19 +1485,19 @@ PROP_000159:
 PROP_000160:
   citation_left: []
   citation_right: []
-  crosstable_pk: 19822
+  crosstable_pk: 24431
   has_on_left: false
   has_on_right: false
   property: PROP_000160
-  reason_left: 'Logic (rings) 493: \(NOT "discrete valuation ring" \) <=== \(NOT "valuation
-    domain" on the left and right\).'
-  reason_right: 'Logic (rings) 493: \(NOT "discrete valuation ring" \) <=== \(NOT
-    "valuation domain" on the left and right\).'
+  reason_left: 'Logic (rings) 500: \(NOT "discrete valuation ring" \) <=== \(NOT "principal
+    ideal domain" on the left and right\).'
+  reason_right: 'Logic (rings) 500: \(NOT "discrete valuation ring" \) <=== \(NOT
+    "principal ideal domain" on the left and right\).'
   ring: RING_000088
 PROP_000161:
   citation_left: []
   citation_right: []
-  crosstable_pk: 19823
+  crosstable_pk: 24432
   has_on_left: false
   has_on_right: false
   property: PROP_000161
@@ -1510,7 +1509,7 @@ PROP_000161:
 PROP_000162:
   citation_left: []
   citation_right: []
-  crosstable_pk: 19824
+  crosstable_pk: 24445
   has_on_left: true
   has_on_right: true
   property: PROP_000162
@@ -1521,7 +1520,7 @@ PROP_000162:
 PROP_000163:
   citation_left: []
   citation_right: []
-  crosstable_pk: 19825
+  crosstable_pk: 24446
   has_on_left: true
   has_on_right: true
   property: PROP_000163
@@ -1531,7 +1530,7 @@ PROP_000163:
 PROP_000164:
   citation_left: []
   citation_right: []
-  crosstable_pk: 21606
+  crosstable_pk: 24433
   has_on_left: false
   has_on_right: false
   property: PROP_000164
@@ -1543,7 +1542,7 @@ PROP_000164:
 PROP_000165:
   citation_left: []
   citation_right: []
-  crosstable_pk: 21607
+  crosstable_pk: 24434
   has_on_left: false
   has_on_right: false
   property: PROP_000165
@@ -1566,17 +1565,17 @@ PROP_000166:
 PROP_000167:
   citation_left: []
   citation_right: []
-  crosstable_pk: 21608
+  crosstable_pk: 24435
   has_on_left: false
   has_on_right: false
   property: PROP_000167
-  reason_left: 'Logic (rings) 504: \(NOT "torch" \) <=== \(NOT "FGC" \).'
-  reason_right: 'Logic (rings) 504: \(NOT "torch" \) <=== \(NOT "FGC" \).'
+  reason_left: 'Logic (rings) 539: \(NOT "torch" \) <=== \(NOT "?-ring" \).'
+  reason_right: 'Logic (rings) 539: \(NOT "torch" \) <=== \(NOT "?-ring" \).'
   ring: RING_000088
 PROP_000168:
   citation_left: []
   citation_right: []
-  crosstable_pk: 21609
+  crosstable_pk: 24436
   has_on_left: false
   has_on_right: false
   property: PROP_000168
@@ -1588,7 +1587,7 @@ PROP_000168:
 PROP_000169:
   citation_left: []
   citation_right: []
-  crosstable_pk: 22201
+  crosstable_pk: 24437
   has_on_left: false
   has_on_right: false
   property: PROP_000169
@@ -1600,7 +1599,7 @@ PROP_000169:
 PROP_000170:
   citation_left: []
   citation_right: []
-  crosstable_pk: 21613
+  crosstable_pk: 24443
   has_on_left: false
   has_on_right: false
   property: PROP_000170
@@ -1612,7 +1611,7 @@ PROP_000170:
 PROP_000171:
   citation_left: []
   citation_right: []
-  crosstable_pk: 21610
+  crosstable_pk: 24438
   has_on_left: false
   has_on_right: false
   property: PROP_000171
@@ -1624,7 +1623,7 @@ PROP_000171:
 PROP_000172:
   citation_left: []
   citation_right: []
-  crosstable_pk: 21611
+  crosstable_pk: 24439
   has_on_left: false
   has_on_right: false
   property: PROP_000172
@@ -1636,19 +1635,19 @@ PROP_000172:
 PROP_000173:
   citation_left: []
   citation_right: []
-  crosstable_pk: 21612
+  crosstable_pk: 24440
   has_on_left: false
   has_on_right: false
   property: PROP_000173
-  reason_left: 'Logic (rings) logical AND: ring_deduced("lacks",2,Y) <=== \( "commutative"
-    \) AND ring_deduced("lacks",1,Y).'
-  reason_right: 'Logic (rings) logical AND: ring_deduced("lacks",3,Y) <=== \( "commutative"
-    \) AND ring_deduced("lacks",1,Y).'
+  reason_left: 'Logic (rings) 334: \(NOT "valuation ring" \) <=== \(NOT "serial" on
+    the left and right\).'
+  reason_right: 'Logic (rings) 334: \(NOT "valuation ring" \) <=== \(NOT "serial"
+    on the left and right\).'
   ring: RING_000088
 PROP_000175:
   citation_left: []
   citation_right: []
-  crosstable_pk: 22655
+  crosstable_pk: 24441
   has_on_left: false
   has_on_right: false
   property: PROP_000175
@@ -1658,11 +1657,12 @@ PROP_000175:
 PROP_000177:
   citation_left: []
   citation_right: []
-  crosstable_pk: 24229
+  crosstable_pk: 24444
   has_on_left: false
   has_on_right: false
   property: PROP_000177
-  reason_left: symmetry with right side
-  reason_right: 'Logic (modules) 156: ring(lacks ''semi-Artinian'' on the right) <===
-    module(lacks ''semi-artinian'').'
+  reason_left: 'Logic (rings) 552: \(NOT "semi-Artinian" on the left\) <=== \(NOT
+    "essential socle" on the left\).'
+  reason_right: 'Logic (rings) 552: \(NOT "semi-Artinian" on the right\) <=== \(NOT
+    "essential socle" on the right\).'
   ring: RING_000088

@@ -3,5 +3,5 @@ citation:
 - CITE_000027
 concs: module_deduced("has",56)
 hyps: ring_deduced("has",3,148)
-readable: ring is max ring on the right  ===>  module is B-object
+readable: ring is max ring on the right  ===>  module is Bass module
 variety: 0

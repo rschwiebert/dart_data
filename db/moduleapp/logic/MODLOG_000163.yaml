@@ -2,5 +2,6 @@ active: true
 citation: []
 concs: module_deduced("has",53)
 hyps: module_deduced("has",54)
-readable: module is semi-noetherian  ===>  module is proper Jacobson radical
+readable: module is semi-Noetherian (Hamsher, max module)  ===>  module is proper
+  Jacobson radical
 variety: 0

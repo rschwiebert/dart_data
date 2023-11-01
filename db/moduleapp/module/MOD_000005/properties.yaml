@@ -327,15 +327,15 @@ MODPROP_000055:
     ''Artinian'').'
 MODPROP_000056:
   citation: []
-  crosstable_pk: 582
+  crosstable_pk: 764
   has: true
   module: MOD_000005
   property: MODPROP_000056
-  reason: 'Logic (modules) 153: module("has" ''B-object'') <=== module("has" ''has
-    a projective cover'').'
+  reason: 'Logic (modules) 160: module("has" ''Bass module'') <=== module("has" ''finitely
+    generated'').'
 MODPROP_000057:
   citation: []
-  crosstable_pk: 583
+  crosstable_pk: 765
   has: true
   module: MOD_000005
   property: MODPROP_000057

@@ -134,7 +134,7 @@ MODPROP_000018:
   reason: null
 MODPROP_000019:
   citation: []
-  crosstable_pk: 554
+  crosstable_pk: 758
   has: false
   module: MOD_000001
   property: MODPROP_000019
@@ -352,7 +352,7 @@ MODPROP_000050:
     ''projective'').'
 MODPROP_000052:
   citation: []
-  crosstable_pk: 555
+  crosstable_pk: 759
   has: false
   module: MOD_000001
   property: MODPROP_000052
@@ -376,23 +376,23 @@ MODPROP_000054:
     ''strongly semi-Noetherian'').'
 MODPROP_000055:
   citation: []
-  crosstable_pk: 556
+  crosstable_pk: 760
   has: false
   module: MOD_000001
   property: MODPROP_000055
-  reason: 'Logic (modules) 154: module("lacks" ''semi-artinian'') <=== module("lacks"
+  reason: 'Logic (modules) 154: module("lacks" ''semi-Artinian (Loewy)'') <=== module("lacks"
     ''essential socle'').'
 MODPROP_000056:
   citation: []
-  crosstable_pk: 552
+  crosstable_pk: 756
   has: true
   module: MOD_000001
   property: MODPROP_000056
-  reason: 'Logic (modules) 153: module("has" ''B-object'') <=== module("has" ''has
-    a projective cover'').'
+  reason: 'Logic (modules) 160: module("has" ''Bass module'') <=== module("has" ''finitely
+    generated'').'
 MODPROP_000057:
   citation: []
-  crosstable_pk: 553
+  crosstable_pk: 757
   has: true
   module: MOD_000001
   property: MODPROP_000057

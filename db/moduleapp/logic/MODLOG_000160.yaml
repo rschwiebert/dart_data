@@ -3,5 +3,5 @@ citation:
 - CITE_000026
 concs: module_deduced("has",56)
 hyps: module_deduced("has",3)
-readable: module is finitely generated  ===>  module is B-object
+readable: module is finitely generated  ===>  module is Bass module
 variety: 0

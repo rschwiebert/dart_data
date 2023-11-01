@@ -1,5 +1,5 @@
 citation:
 - MODCITE_000025
-definition: A module is called a B-object if every proper submodule is contained in
-  a maximal submodule.
-name: B-object
+definition: A module is called a Bass module if every proper submodule is contained
+  in a maximal submodule.
+name: Bass module

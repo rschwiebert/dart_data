@@ -1,0 +1,6 @@
+active: true
+citation: []
+concs: module_deduced("has",36)
+hyps: module_deduced("lacks",52)
+readable: module is not nonzero socle  ===>  module is finitely generated socle
+variety: 0

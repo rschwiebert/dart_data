@@ -2,5 +2,5 @@ active: true
 citation: []
 concs: module_deduced("has",56)
 hyps: module_deduced("has",45)
-readable: module is local  ===>  module is B-object
+readable: module is local  ===>  module is Bass module
 variety: 0

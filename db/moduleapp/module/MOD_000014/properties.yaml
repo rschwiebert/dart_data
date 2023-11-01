@@ -1,6 +1,6 @@
 MODPROP_000001:
   citation: []
-  crosstable_pk: 661
+  crosstable_pk: 776
   has: false
   module: MOD_000014
   property: MODPROP_000001
@@ -45,6 +45,13 @@ MODPROP_000006:
   property: MODPROP_000006
   reason: 'Logic (modules) 122: module("lacks" ''projective'') <=== module("lacks"
     ''has a projective cover'').'
+MODPROP_000007:
+  citation: []
+  crosstable_pk: 708
+  has: false
+  module: MOD_000014
+  property: MODPROP_000007
+  reason: $\mathbb Z/p\mathbb Z$ is not injective (it is not divisible)
 MODPROP_000009:
   citation: []
   crosstable_pk: 643
@@ -62,7 +69,7 @@ MODPROP_000010:
     generated'').'
 MODPROP_000013:
   citation: []
-  crosstable_pk: 662
+  crosstable_pk: 777
   has: false
   module: MOD_000014
   property: MODPROP_000013
@@ -86,7 +93,7 @@ MODPROP_000016:
     ''finitely generated'').'
 MODPROP_000018:
   citation: []
-  crosstable_pk: 655
+  crosstable_pk: 778
   has: false
   module: MOD_000014
   property: MODPROP_000018
@@ -99,6 +106,14 @@ MODPROP_000019:
   property: MODPROP_000019
   reason: 'Logic (modules) 145: module("lacks" ''hollow'') <=== module("lacks" ''local'')
     AND module("has" ''proper Jacobson radical'').'
+MODPROP_000020:
+  citation: []
+  crosstable_pk: 779
+  has: false
+  module: MOD_000014
+  property: MODPROP_000020
+  reason: 'Logic (modules) 66: module("lacks" ''principally injective'') <=== module("lacks"
+    ''injective'') AND ring("has" ''principal ideal ring'' on the right).'
 MODPROP_000021:
   citation: []
   crosstable_pk: 666
@@ -131,7 +146,7 @@ MODPROP_000031:
   reason: Clearly splits into two submodules
 MODPROP_000032:
   citation: []
-  crosstable_pk: 656
+  crosstable_pk: 780
   has: false
   module: MOD_000014
   property: MODPROP_000032
@@ -139,7 +154,7 @@ MODPROP_000032:
     indecomposable (endolocal)'').'
 MODPROP_000033:
   citation: []
-  crosstable_pk: 657
+  crosstable_pk: 781
   has: false
   module: MOD_000014
   property: MODPROP_000033
@@ -154,12 +169,20 @@ MODPROP_000035:
   reason: 'The socle is a summand: $\{0\}\times \frac{\mathbb Z}{p\mathbb Z}$'
 MODPROP_000036:
   citation: []
-  crosstable_pk: 667
+  crosstable_pk: 775
   has: true
   module: MOD_000014
   property: MODPROP_000036
   reason: 'Logic (modules) 169: module("has" ''finitely generated socle'') <=== module("has"
     ''simple socle'').'
+MODPROP_000038:
+  citation: []
+  crosstable_pk: 782
+  has: false
+  module: MOD_000014
+  property: MODPROP_000038
+  reason: 'Logic (modules) 67: module("lacks" ''divisible (naive)'') <=== module("lacks"
+    ''principally injective'').'
 MODPROP_000039:
   citation: []
   crosstable_pk: 650
@@ -183,20 +206,20 @@ MODPROP_000047:
   reason: The socle is $\{0\}\times \frac{\mathbb Z}{p\mathbb Z}$
 MODPROP_000048:
   citation: []
-  crosstable_pk: 658
+  crosstable_pk: 783
   has: false
   module: MOD_000014
   property: MODPROP_000048
-  reason: 'Logic (modules) 115: module("lacks" ''subdirectly irreducible (co-local)'')
-    <=== module("lacks" ''uniform'').'
+  reason: 'Logic (modules) 114: module("lacks" ''subdirectly irreducible (co-local)'')
+    <=== module("lacks" ''essential socle'').'
 MODPROP_000050:
   citation: []
-  crosstable_pk: 652
+  crosstable_pk: 784
   has: false
   module: MOD_000014
   property: MODPROP_000050
-  reason: 'Logic (modules) 153: module("lacks" ''has a projective cover'') <=== module("lacks"
-    ''B-object'').'
+  reason: 'Logic (modules) 123: module("lacks" ''has a projective cover'') <=== module("lacks"
+    ''projective'') AND ring("has" ''semiprimitive'' ).'
 MODPROP_000052:
   citation: []
   crosstable_pk: 659
@@ -211,13 +234,20 @@ MODPROP_000053:
   module: MOD_000014
   property: MODPROP_000053
   reason: $\mathbb Q\times \{0\}$ is a maximal submodule
+MODPROP_000054:
+  citation: []
+  crosstable_pk: 711
+  has: false
+  module: MOD_000014
+  property: MODPROP_000054
+  reason: submodule $\mathbb Q\times\{0\}$ does not have a maximal submodule.
 MODPROP_000055:
   citation: []
-  crosstable_pk: 663
+  crosstable_pk: 785
   has: false
   module: MOD_000014
   property: MODPROP_000055
-  reason: 'Logic (modules) 154: module("lacks" ''semi-artinian'') <=== module("lacks"
+  reason: 'Logic (modules) 154: module("lacks" ''semi-Artinian (Loewy)'') <=== module("lacks"
     ''essential socle'').'
 MODPROP_000056:
   citation: []
@@ -229,9 +259,9 @@ MODPROP_000056:
     maximal submodule (because $\mathbb Q_\mathbb Z$ has none)
 MODPROP_000057:
   citation: []
-  crosstable_pk: 653
+  crosstable_pk: 786
   has: false
   module: MOD_000014
   property: MODPROP_000057
   reason: 'Logic (modules) 164: module("lacks" ''strongly semi-Noetherian'') <===
-    module("lacks" ''B-object'').'
+    module("lacks" ''Bass module'').'

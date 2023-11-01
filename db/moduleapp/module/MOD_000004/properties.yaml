@@ -136,11 +136,12 @@ MODPROP_000018:
   reason: 'Logic (modules) 46: module(lacks ''uniform'') <=== module(lacks ''indecomposable'').'
 MODPROP_000019:
   citation: []
-  crosstable_pk: 577
+  crosstable_pk: 763
   has: false
   module: MOD_000004
   property: MODPROP_000019
-  reason: 'Logic (modules) 151: module("lacks" ''hollow'') <=== module("lacks" ''indecomposable'').'
+  reason: 'Logic (modules) 145: module("lacks" ''hollow'') <=== module("lacks" ''local'')
+    AND module("has" ''proper Jacobson radical'').'
 MODPROP_000020:
   citation: []
   crosstable_pk: 68
@@ -390,15 +391,15 @@ MODPROP_000055:
     ''Artinian'').'
 MODPROP_000056:
   citation: []
-  crosstable_pk: 575
+  crosstable_pk: 761
   has: true
   module: MOD_000004
   property: MODPROP_000056
-  reason: 'Logic (modules) 153: module("has" ''B-object'') <=== module("has" ''has
-    a projective cover'').'
+  reason: 'Logic (modules) 160: module("has" ''Bass module'') <=== module("has" ''finitely
+    generated'').'
 MODPROP_000057:
   citation: []
-  crosstable_pk: 576
+  crosstable_pk: 762
   has: true
   module: MOD_000004
   property: MODPROP_000057

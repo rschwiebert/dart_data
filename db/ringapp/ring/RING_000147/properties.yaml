@@ -1375,3 +1375,13 @@ PROP_000175:
   reason_left: not directly irreducible
   reason_right: symmetry with left side
   ring: RING_000147
+PROP_000177:
+  citation_left: []
+  citation_right: []
+  crosstable_pk: 24427
+  has_on_left: false
+  has_on_right: false
+  property: PROP_000177
+  reason_left: The ring of which it is the square of is not left semi-artinian
+  reason_right: symmetry with left side
+  ring: RING_000147

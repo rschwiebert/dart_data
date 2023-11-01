@@ -3,5 +3,5 @@ citation:
 - CITE_000024
 concs: module_deduced("has",35)
 hyps: module_deduced("has",55)
-readable: module is semi-artinian  ===>  module is essential socle
+readable: module is semi-Artinian (Loewy)  ===>  module is essential socle
 variety: 0

@@ -120,7 +120,7 @@ MODPROP_000018:
     on the right).'
 MODPROP_000019:
   citation: []
-  crosstable_pk: 595
+  crosstable_pk: 771
   has: false
   module: MOD_000008
   property: MODPROP_000019
@@ -354,33 +354,33 @@ MODPROP_000053:
     ''$R_R$'').'
 MODPROP_000054:
   citation: []
-  crosstable_pk: 668
+  crosstable_pk: 772
   has: false
   module: MOD_000008
   property: MODPROP_000054
-  reason: 'Logic (modules) 158: module(X ''semi-noetherian'') <=== ring(X ''semi-Noetherian''
-    on the right) AND module("has" ''$R_R$'').'
+  reason: 'Logic (modules) 158: module(X ''semi-Noetherian (Hamsher, max module)'')
+    <=== ring(X ''semi-Noetherian'' on the right) AND module("has" ''$R_R$'').'
 MODPROP_000055:
   citation: []
-  crosstable_pk: 628
+  crosstable_pk: 773
   has: false
   module: MOD_000008
   property: MODPROP_000055
-  reason: 'Logic (modules) 168: module(X ''semi-artinian'') <=== ring(X ''semi-Artinian''
+  reason: 'Logic (modules) 168: module(X ''semi-Artinian (Loewy)'') <=== ring(X ''semi-Artinian''
     on the right) AND module("has" ''$R_R$'').'
 MODPROP_000056:
   citation: []
-  crosstable_pk: 594
+  crosstable_pk: 770
   has: true
   module: MOD_000008
   property: MODPROP_000056
-  reason: 'Logic (modules) 153: module("has" ''B-object'') <=== module("has" ''has
-    a projective cover'').'
+  reason: 'Logic (modules) 160: module("has" ''Bass module'') <=== module("has" ''finitely
+    generated'').'
 MODPROP_000057:
   citation: []
-  crosstable_pk: 669
+  crosstable_pk: 774
   has: false
   module: MOD_000008
   property: MODPROP_000057
   reason: 'Logic (modules) 165: module("lacks" ''strongly semi-Noetherian'') <===
-    module("lacks" ''semi-noetherian'').'
+    module("lacks" ''semi-Noetherian (Hamsher, max module)'').'

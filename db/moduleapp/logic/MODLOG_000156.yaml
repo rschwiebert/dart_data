@@ -2,5 +2,5 @@ active: true
 citation: []
 concs: module_deduced("has",55)
 hyps: ring_deduced("has",3,177)
-readable: ring is semi-Artinian on the right  ===>  module is semi-artinian
+readable: ring is semi-Artinian on the right  ===>  module is semi-Artinian (Loewy)
 variety: 0

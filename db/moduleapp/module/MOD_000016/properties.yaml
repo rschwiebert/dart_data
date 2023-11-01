@@ -1,0 +1,335 @@
+MODPROP_000001:
+  citation: []
+  crosstable_pk: 789
+  has: false
+  module: MOD_000016
+  property: MODPROP_000001
+  reason: 'Logic (modules) 2: module("lacks" ''Artinian'') <=== module("lacks" ''finitely
+    cogenerated'').'
+MODPROP_000002:
+  citation: []
+  crosstable_pk: 790
+  has: false
+  module: MOD_000016
+  property: MODPROP_000002
+  reason: 'Logic (modules) 1: module("lacks" ''Noetherian'') <=== module("lacks" ''finitely
+    generated'').'
+MODPROP_000003:
+  citation: []
+  crosstable_pk: 713
+  has: false
+  module: MOD_000016
+  property: MODPROP_000003
+  reason: null
+MODPROP_000004:
+  citation: []
+  crosstable_pk: 791
+  has: false
+  module: MOD_000016
+  property: MODPROP_000004
+  reason: 'Logic (modules) 44: module("lacks" ''simple'') <=== module("lacks" ''indecomposable'').'
+MODPROP_000005:
+  citation: []
+  crosstable_pk: 792
+  has: false
+  module: MOD_000016
+  property: MODPROP_000005
+  reason: 'Logic (modules) 166: module("lacks" ''semisimple'') <=== module("lacks"
+    ''strongly semi-Noetherian'').'
+MODPROP_000006:
+  citation: []
+  crosstable_pk: 714
+  has: true
+  module: MOD_000016
+  property: MODPROP_000006
+  reason: 'Logic (modules) 3: module("has" ''projective'') <=== module("has" ''free'').'
+MODPROP_000007:
+  citation: []
+  crosstable_pk: 749
+  has: false
+  module: MOD_000016
+  property: MODPROP_000007
+  reason: It's not a principally injective (a.k.a. divisible) abelian group
+MODPROP_000008:
+  citation: []
+  crosstable_pk: 715
+  has: true
+  module: MOD_000016
+  property: MODPROP_000008
+  reason: 'Logic (modules) 4: module("has" ''flat'') <=== module("has" ''projective'').'
+MODPROP_000009:
+  citation: []
+  crosstable_pk: 712
+  has: true
+  module: MOD_000016
+  property: MODPROP_000009
+  reason: null
+MODPROP_000010:
+  citation: []
+  crosstable_pk: 793
+  has: false
+  module: MOD_000016
+  property: MODPROP_000010
+  reason: 'Logic (modules) 9: module("lacks" ''cyclic'') <=== module("lacks" ''finitely
+    generated'').'
+MODPROP_000013:
+  citation: []
+  crosstable_pk: 794
+  has: false
+  module: MOD_000016
+  property: MODPROP_000013
+  reason: 'Logic (modules) 64: module("lacks" ''finitely cogenerated'') <=== module("lacks"
+    ''finite uniform dimension'').'
+MODPROP_000014:
+  citation: []
+  crosstable_pk: 795
+  has: false
+  module: MOD_000016
+  property: MODPROP_000014
+  reason: 'Logic (modules) 7: module("lacks" ''coherent'') <=== module("lacks" ''finitely
+    presented'').'
+MODPROP_000016:
+  citation: []
+  crosstable_pk: 796
+  has: false
+  module: MOD_000016
+  property: MODPROP_000016
+  reason: 'Logic (modules) 14: module("lacks" ''finitely presented'') <=== module("lacks"
+    ''finitely generated'').'
+MODPROP_000018:
+  citation: []
+  crosstable_pk: 797
+  has: false
+  module: MOD_000016
+  property: MODPROP_000018
+  reason: 'Logic (modules) 46: module("lacks" ''uniform'') <=== module("lacks" ''indecomposable'').'
+MODPROP_000019:
+  citation: []
+  crosstable_pk: 747
+  has: false
+  module: MOD_000016
+  property: MODPROP_000019
+  reason: the module can be expressed as a sum of proper submodules in many different
+    ways
+MODPROP_000020:
+  citation: []
+  crosstable_pk: 798
+  has: false
+  module: MOD_000016
+  property: MODPROP_000020
+  reason: 'Logic (modules) 66: module("lacks" ''principally injective'') <=== module("lacks"
+    ''injective'') AND ring("has" ''principal ideal ring'' on the right).'
+MODPROP_000021:
+  citation: []
+  crosstable_pk: 742
+  has: true
+  module: MOD_000016
+  property: MODPROP_000021
+  reason: It's a nonzero free module
+MODPROP_000023:
+  citation: []
+  crosstable_pk: 755
+  has: true
+  module: MOD_000016
+  property: MODPROP_000023
+  reason: The annihilator of every nonzero element is 0.
+MODPROP_000024:
+  citation: []
+  crosstable_pk: 716
+  has: true
+  module: MOD_000016
+  property: MODPROP_000024
+  reason: 'Logic (modules) 19: module("has" ''semi-reflexive (torsionless)'') <===
+    module("has" ''projective'').'
+MODPROP_000025:
+  citation: []
+  crosstable_pk: 799
+  has: false
+  module: MOD_000016
+  property: MODPROP_000025
+  reason: 'Logic (modules) 45: module("lacks" ''uniserial'') <=== module("lacks" ''indecomposable'').'
+MODPROP_000028:
+  citation: []
+  crosstable_pk: 800
+  has: false
+  module: MOD_000016
+  property: MODPROP_000028
+  reason: 'Logic (modules) 20: module("lacks" ''finite composition length'') <===
+    module("lacks" ''Noetherian'').'
+MODPROP_000029:
+  citation: []
+  crosstable_pk: 801
+  has: false
+  module: MOD_000016
+  property: MODPROP_000029
+  reason: 'Logic (modules) 47: module("lacks" ''torsion (naive)'') <=== module("lacks"
+    ''torsion (regular element)'') AND ring("has" ''domain'' ).'
+MODPROP_000030:
+  citation: []
+  crosstable_pk: 802
+  has: false
+  module: MOD_000016
+  property: MODPROP_000030
+  reason: 'Logic (modules) 56: module("lacks" ''torsion (regular element)'') <===
+    module("has" ''torsion-free'').'
+MODPROP_000031:
+  citation: []
+  crosstable_pk: 752
+  has: false
+  module: MOD_000016
+  property: MODPROP_000031
+  reason: It can be decomposed in many ways
+MODPROP_000032:
+  citation: []
+  crosstable_pk: 803
+  has: false
+  module: MOD_000016
+  property: MODPROP_000032
+  reason: 'Logic (modules) 48: module("lacks" ''brick'') <=== module("lacks" ''strongly
+    indecomposable (endolocal)'').'
+MODPROP_000033:
+  citation: []
+  crosstable_pk: 804
+  has: false
+  module: MOD_000016
+  property: MODPROP_000033
+  reason: 'Logic (modules) 49: module("lacks" ''strongly indecomposable (endolocal)'')
+    <=== module("lacks" ''indecomposable'').'
+MODPROP_000034:
+  citation: []
+  crosstable_pk: 717
+  has: true
+  module: MOD_000016
+  property: MODPROP_000034
+  reason: 'Logic (modules) 54: module("has" ''torsion-free'') <=== module("has" ''flat'').'
+MODPROP_000035:
+  citation: []
+  crosstable_pk: 805
+  has: false
+  module: MOD_000016
+  property: MODPROP_000035
+  reason: 'Logic (modules) 150: module("lacks" ''essential socle'') <=== module("lacks"
+    ''nonzero socle'').'
+MODPROP_000036:
+  citation: []
+  crosstable_pk: 788
+  has: true
+  module: MOD_000016
+  property: MODPROP_000036
+  reason: 'Logic (modules) 173: module("has" ''finitely generated socle'') <=== module("lacks"
+    ''nonzero socle'').'
+MODPROP_000037:
+  citation: []
+  crosstable_pk: 743
+  has: false
+  module: MOD_000016
+  property: MODPROP_000037
+  reason: Clearly contains an infinite direct sum of nonzero submodules
+MODPROP_000038:
+  citation: []
+  crosstable_pk: 806
+  has: false
+  module: MOD_000016
+  property: MODPROP_000038
+  reason: 'Logic (modules) 67: module("lacks" ''divisible (naive)'') <=== module("lacks"
+    ''principally injective'').'
+MODPROP_000039:
+  citation: []
+  crosstable_pk: 807
+  has: false
+  module: MOD_000016
+  property: MODPROP_000039
+  reason: 'Logic (modules) 75: module("lacks" ''$R_R$'') <=== module("lacks" ''cyclic'').'
+MODPROP_000045:
+  citation: []
+  crosstable_pk: 808
+  has: false
+  module: MOD_000016
+  property: MODPROP_000045
+  reason: 'Logic (modules) 144: module("lacks" ''local'') <=== module("lacks" ''hollow'').'
+MODPROP_000047:
+  citation: []
+  crosstable_pk: 809
+  has: false
+  module: MOD_000016
+  property: MODPROP_000047
+  reason: 'Logic (modules) 149: module("lacks" ''simple socle'') <=== module("lacks"
+    ''nonzero socle'').'
+MODPROP_000048:
+  citation: []
+  crosstable_pk: 810
+  has: false
+  module: MOD_000016
+  property: MODPROP_000048
+  reason: 'Logic (modules) 114: module("lacks" ''subdirectly irreducible (co-local)'')
+    <=== module("lacks" ''essential socle'').'
+MODPROP_000049:
+  citation: []
+  crosstable_pk: 718
+  has: true
+  module: MOD_000016
+  property: MODPROP_000049
+  reason: 'Logic (modules) 118: module("has" ''quasi-projective'') <=== module("has"
+    ''projective'').'
+MODPROP_000050:
+  citation: []
+  crosstable_pk: 719
+  has: true
+  module: MOD_000016
+  property: MODPROP_000050
+  reason: 'Logic (modules) 122: module("has" ''has a projective cover'') <=== module("has"
+    ''projective'').'
+MODPROP_000051:
+  citation: []
+  crosstable_pk: 811
+  has: false
+  module: MOD_000016
+  property: MODPROP_000051
+  reason: 'Logic (modules) 131: module("lacks" ''linearly compact'') <=== module("lacks"
+    ''finite uniform dimension'').'
+MODPROP_000052:
+  citation: []
+  crosstable_pk: 736
+  has: false
+  module: MOD_000016
+  property: MODPROP_000052
+  reason: zero is the only element of finite order
+MODPROP_000053:
+  citation: []
+  crosstable_pk: 720
+  has: true
+  module: MOD_000016
+  property: MODPROP_000053
+  reason: 'Logic (modules) 159: module("has" ''proper Jacobson radical'') <=== module("has"
+    ''Bass module'').'
+MODPROP_000054:
+  citation: []
+  crosstable_pk: 732
+  has: true
+  module: MOD_000016
+  property: MODPROP_000054
+  reason: Over $\mathbb Z$, submodules of projective modules are projective (nonzero
+    projectives always have maximal submodules)
+MODPROP_000055:
+  citation: []
+  crosstable_pk: 812
+  has: false
+  module: MOD_000016
+  property: MODPROP_000055
+  reason: 'Logic (modules) 154: module("lacks" ''semi-Artinian (Loewy)'') <=== module("lacks"
+    ''essential socle'').'
+MODPROP_000056:
+  citation: []
+  crosstable_pk: 787
+  has: false
+  module: MOD_000016
+  property: MODPROP_000056
+  reason: "If $K$ is the kernel of the quotient onto a Pr\xFCfer p group, no maximal\
+    \ subgroup contains $K$"
+MODPROP_000057:
+  citation: []
+  crosstable_pk: 734
+  has: false
+  module: MOD_000016
+  property: MODPROP_000057
+  reason: $\mathbb Z_{p^\infty}$ is a quotient, and is not semi-Noetherian

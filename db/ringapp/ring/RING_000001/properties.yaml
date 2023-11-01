@@ -280,7 +280,8 @@ PROP_000025:
   has_on_right: false
   property: PROP_000025
   reason_left: 'Logic (rings) 101: \(NOT "semiperfect" \) <=== \(NOT "clean" \).'
-  reason_right: 'Logic (rings) 101: \(NOT "semiperfect" \) <=== \(NOT "clean" \).'
+  reason_right: 'Logic (modules) 128: ring(lacks ''semiperfect'' on the right) <===
+    module(lacks ''has a projective cover'') AND module(has ''finitely generated'').'
   ring: RING_000001
 PROP_000026:
   citation_left: []

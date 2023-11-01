@@ -1,0 +1,8 @@
+active: true
+citation: []
+concs: ring_deduced("has",3,63)
+hyps: ring_deduced("has",3,64) AND ring_deduced("has",3,177)
+readable: ring is Noetherian on the right AND ring is semi-Artinian on the right ===>
+  ring is Artinian on the right
+symmetric: false
+variety: 0

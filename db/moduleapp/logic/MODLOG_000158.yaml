@@ -3,5 +3,5 @@ citation: []
 concs: module_deduced(X,54)
 hyps: ring_deduced(X,3,176) AND module_deduced("has",39)
 readable: ring X semi-Noetherian on the right AND module is $R_R$  ===>  module X
-  semi-noetherian
+  semi-Noetherian (Hamsher, max module)
 variety: 0

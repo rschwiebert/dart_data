@@ -1,0 +1,7 @@
+active: true
+citation: []
+concs: module_deduced("has",28)
+hyps: module_deduced("has",55) AND module_deduced("has",2)
+readable: module is semi-Artinian (Loewy) AND module is Noetherian  ===>  module is
+  finite composition length
+variety: 0
