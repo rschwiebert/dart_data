@@ -1736,6 +1736,18 @@ PROP_000175:
   reason_left: 'Logic (rings) 540: \(NOT "?-ring" \) <=== \( "local" \).'
   reason_right: 'Logic (rings) 540: \(NOT "?-ring" \) <=== \( "local" \).'
   ring: RING_000138
+PROP_000176:
+  citation_left: []
+  citation_right: []
+  crosstable_pk: 24774
+  has_on_left: true
+  has_on_right: true
+  property: PROP_000176
+  reason_left: 'Logic (rings) 562: \( "semi-Noetherian" on the left\) <=== \( "Noetherian"
+    on the left\).'
+  reason_right: 'Logic (rings) 562: \( "semi-Noetherian" on the right\) <=== \( "Noetherian"
+    on the right\).'
+  ring: RING_000138
 PROP_000177:
   citation_left: []
   citation_right: []

@@ -1359,6 +1359,17 @@ PROP_000147:
   reason_right: 'Logic 382: PCI ring on the right ===> hereditary on the left and
     right and Noetherian on the right and V ring on the right'
   ring: RING_000019
+PROP_000148:
+  citation_left: []
+  citation_right: []
+  crosstable_pk: 24729
+  has_on_left: false
+  has_on_right: null
+  property: PROP_000148
+  reason_left: 'Logic (rings) 558: \(NOT "max ring" on the left\) <=== \(NOT "semi-Noetherian"
+    on the left\).'
+  reason_right: null
+  ring: RING_000019
 PROP_000149:
   citation_left: []
   citation_right: []

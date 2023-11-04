@@ -1020,6 +1020,17 @@ PROP_000175:
   reason_left: 'Logic (rings) 542: \(NOT "?-ring" \) <=== \(NOT "arithmetical" \).'
   reason_right: 'Logic (rings) 542: \(NOT "?-ring" \) <=== \(NOT "arithmetical" \).'
   ring: RING_000126
+PROP_000176:
+  citation_left: []
+  citation_right: []
+  crosstable_pk: 24764
+  has_on_left: null
+  has_on_right: true
+  property: PROP_000176
+  reason_left: null
+  reason_right: 'Logic (rings) 562: \( "semi-Noetherian" on the right\) <=== \( "Noetherian"
+    on the right\).'
+  ring: RING_000126
 PROP_000177:
   citation_left: []
   citation_right: []
