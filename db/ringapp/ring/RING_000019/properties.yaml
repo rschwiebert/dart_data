@@ -1617,6 +1617,18 @@ PROP_000175:
   reason_left: 'Logic (rings) 542: \(NOT "?-ring" \) <=== \(NOT "arithmetical" \).'
   reason_right: 'Logic (rings) 542: \(NOT "?-ring" \) <=== \(NOT "arithmetical" \).'
   ring: RING_000019
+PROP_000176:
+  citation_left: []
+  citation_right: []
+  crosstable_pk: 24725
+  has_on_left: false
+  has_on_right: true
+  property: PROP_000176
+  reason_left: 'The left ideal $\begin{bmatrix}0&\mathbb Q \\ 0 & 0\end{bmatrix}$
+    has no maximal submodule: it''s the same as $_\mathbb Z\mathbb Q$'
+  reason_right: 'Logic (rings) 562: \( "semi-Noetherian" on the right\) <=== \( "Noetherian"
+    on the right\).'
+  ring: RING_000019
 PROP_000177:
   citation_left: []
   citation_right: []

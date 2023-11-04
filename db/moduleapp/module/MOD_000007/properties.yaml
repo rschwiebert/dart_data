@@ -14,50 +14,50 @@ MODPROP_000002:
   reason: It's the regular module of a nonnoetherian ring
 MODPROP_000003:
   citation: []
-  crosstable_pk: 104
+  crosstable_pk: 813
   has: true
   module: MOD_000007
   property: MODPROP_000003
-  reason: 'Logic (modules) 8: module(has ''finitely generated'') <=== module(has ''finitely
-    presented'').'
+  reason: 'Logic (modules) 9: module("has" ''finitely generated'') <=== module("has"
+    ''cyclic'').'
 MODPROP_000004:
   citation: []
-  crosstable_pk: 106
+  crosstable_pk: 830
   has: false
   module: MOD_000007
   property: MODPROP_000004
-  reason: 'Logic (modules) 23: module(lacks ''simple'') <=== module(lacks ''finite
-    composition length'').'
+  reason: 'Logic (modules) 82: module(X ''simple'') <=== module("has" ''$R_R$'') AND
+    ring(X ''division ring'' ).'
 MODPROP_000005:
   citation: []
-  crosstable_pk: 107
+  crosstable_pk: 831
   has: false
   module: MOD_000007
   property: MODPROP_000005
-  reason: 'Logic (modules) 25: module(lacks ''semisimple'') <=== module(lacks ''finite
-    composition length'') AND module(has ''finitely generated'').'
+  reason: 'Logic (modules) 91: module(X ''semisimple'') <=== module("has" ''$R_R$'')
+    AND ring(X ''semisimple'' ).'
 MODPROP_000006:
   citation: []
-  crosstable_pk: 208
+  crosstable_pk: 814
   has: true
   module: MOD_000007
   property: MODPROP_000006
-  reason: 'Logic (modules) 3: module(has ''projective'') <=== module(has ''free'').'
+  reason: 'Logic (modules) 3: module("has" ''projective'') <=== module("has" ''free'').'
 MODPROP_000007:
   citation: []
-  crosstable_pk: 196
+  crosstable_pk: 832
   has: false
   module: MOD_000007
   property: MODPROP_000007
-  reason: 'Logic (modules) 5: module(lacks ''injective'') <=== module(lacks ''principally
+  reason: 'Logic (modules) 5: module("lacks" ''injective'') <=== module("lacks" ''principally
     injective'').'
 MODPROP_000008:
   citation: []
-  crosstable_pk: 209
+  crosstable_pk: 815
   has: true
   module: MOD_000007
   property: MODPROP_000008
-  reason: 'Logic (modules) 4: module(has ''flat'') <=== module(has ''projective'').'
+  reason: 'Logic (modules) 4: module("has" ''flat'') <=== module("has" ''projective'').'
 MODPROP_000009:
   citation: []
   crosstable_pk: 206
@@ -81,7 +81,7 @@ MODPROP_000011:
   reason: Regular module of a Dedekind finite ring is Hopfian.
 MODPROP_000012:
   citation: []
-  crosstable_pk: 341
+  crosstable_pk: 833
   has: false
   module: MOD_000007
   property: MODPROP_000012
@@ -97,18 +97,18 @@ MODPROP_000013:
 MODPROP_000014:
   citation: []
   crosstable_pk: 99
-  has: false
+  has: true
   module: MOD_000007
   property: MODPROP_000014
-  reason: Valkil says so(?)
+  reason: It's the right regular module of a right coherent ring
 MODPROP_000015:
   citation: []
-  crosstable_pk: 105
+  crosstable_pk: 816
   has: true
   module: MOD_000007
   property: MODPROP_000015
-  reason: 'Logic (modules) 14: module(has ''finitely related'') <=== module(has ''finitely
-    presented'').'
+  reason: 'Logic (modules) 14: module("has" ''finitely related'') <=== module("has"
+    ''finitely presented'').'
 MODPROP_000016:
   citation: []
   crosstable_pk: 98
@@ -118,7 +118,7 @@ MODPROP_000016:
   reason: Clearly the identity map $R\to R$ works.
 MODPROP_000017:
   citation: []
-  crosstable_pk: 462
+  crosstable_pk: 834
   has: false
   module: MOD_000007
   property: MODPROP_000017
@@ -126,15 +126,16 @@ MODPROP_000017:
     AND ring(X ''distributive'' on the right).'
 MODPROP_000018:
   citation: []
-  crosstable_pk: 222
+  crosstable_pk: 817
   has: true
   module: MOD_000007
   property: MODPROP_000018
-  reason: 'Logic (modules) 74: module(has ''uniform'') <=== module(has ''cyclic'')
-    AND module(has ''free'') AND ring(has ''uniform'' on the right).'
+  reason: 'Logic (modules) 74: module("has" ''uniform'') <=== module("has" ''cyclic'')
+    AND module("has" ''free'') AND ring("has" ''commutative'' ) AND ring("has" ''uniform''
+    on the right).'
 MODPROP_000019:
   citation: []
-  crosstable_pk: 767
+  crosstable_pk: 835
   has: false
   module: MOD_000007
   property: MODPROP_000019
@@ -156,7 +157,7 @@ MODPROP_000021:
   reason: It's the regular module of its ring
 MODPROP_000023:
   citation: []
-  crosstable_pk: 337
+  crosstable_pk: 818
   has: true
   module: MOD_000007
   property: MODPROP_000023
@@ -164,15 +165,15 @@ MODPROP_000023:
     AND ring(X ''nonsingular'' on the right).'
 MODPROP_000024:
   citation: []
-  crosstable_pk: 210
+  crosstable_pk: 819
   has: true
   module: MOD_000007
   property: MODPROP_000024
-  reason: 'Logic (modules) 19: module(has ''semi-reflexive (torsionless)'') <=== module(has
-    ''projective'').'
+  reason: 'Logic (modules) 19: module("has" ''semi-reflexive (torsionless)'') <===
+    module("has" ''projective'').'
 MODPROP_000025:
   citation: []
-  crosstable_pk: 342
+  crosstable_pk: 836
   has: false
   module: MOD_000007
   property: MODPROP_000025
@@ -180,7 +181,7 @@ MODPROP_000025:
     AND ring(X ''uniserial ring'' on the right).'
 MODPROP_000026:
   citation: []
-  crosstable_pk: 343
+  crosstable_pk: 837
   has: false
   module: MOD_000007
   property: MODPROP_000026
@@ -188,42 +189,43 @@ MODPROP_000026:
     ring(X ''serial'' on the right).'
 MODPROP_000028:
   citation: []
-  crosstable_pk: 108
+  crosstable_pk: 838
   has: false
   module: MOD_000007
   property: MODPROP_000028
-  reason: 'Logic (modules) 20: module(lacks ''finite composition length'') <=== module(lacks
-    ''Artinian'').'
+  reason: 'Logic (modules) 20: module("lacks" ''finite composition length'') <===
+    module("lacks" ''Artinian'').'
 MODPROP_000029:
   citation: []
-  crosstable_pk: 213
+  crosstable_pk: 839
   has: false
   module: MOD_000007
   property: MODPROP_000029
-  reason: 'Logic (modules) 47: module(lacks ''torsion (naive)'') <=== module(lacks
-    ''torsion (regular element)'') AND ring(has ''domain'' ).'
+  reason: 'Logic (modules) 47: module("lacks" ''torsion (naive)'') <=== module("lacks"
+    ''torsion (regular element)'') AND ring("has" ''domain'' ).'
 MODPROP_000030:
   citation: []
-  crosstable_pk: 214
+  crosstable_pk: 840
   has: false
   module: MOD_000007
   property: MODPROP_000030
-  reason: 'Logic (modules) 56: module(lacks ''torsion (regular element)'') <=== module(has
-    ''torsion-free'').'
+  reason: 'Logic (modules) 56: module("lacks" ''torsion (regular element)'') <===
+    module("has" ''torsion-free'').'
 MODPROP_000031:
   citation: []
-  crosstable_pk: 223
+  crosstable_pk: 820
   has: true
   module: MOD_000007
   property: MODPROP_000031
-  reason: 'Logic (modules) 46: module(has ''indecomposable'') <=== module(has ''uniform'').'
+  reason: 'Logic (modules) 93: module(X ''indecomposable'') <=== module("has" ''$R_R$'')
+    AND ring(X ''strongly connected'' ).'
 MODPROP_000032:
   citation: []
-  crosstable_pk: 130
+  crosstable_pk: 841
   has: false
   module: MOD_000007
   property: MODPROP_000032
-  reason: 'Logic (modules) 48: module(lacks ''brick'') <=== module(lacks ''strongly
+  reason: 'Logic (modules) 48: module("lacks" ''brick'') <=== module("lacks" ''strongly
     indecomposable (endolocal)'').'
 MODPROP_000033:
   citation: []
@@ -234,14 +236,14 @@ MODPROP_000033:
   reason: The endomorphism ring is again $R$, which is a nonlocal domain
 MODPROP_000034:
   citation: []
-  crosstable_pk: 211
+  crosstable_pk: 821
   has: true
   module: MOD_000007
   property: MODPROP_000034
-  reason: 'Logic (modules) 54: module(has ''torsion-free'') <=== module(has ''flat'').'
+  reason: 'Logic (modules) 54: module("has" ''torsion-free'') <=== module("has" ''flat'').'
 MODPROP_000035:
   citation: []
-  crosstable_pk: 344
+  crosstable_pk: 842
   has: false
   module: MOD_000007
   property: MODPROP_000035
@@ -249,7 +251,7 @@ MODPROP_000035:
     AND ring(X ''essential socle'' on the right).'
 MODPROP_000036:
   citation: []
-  crosstable_pk: 338
+  crosstable_pk: 822
   has: true
   module: MOD_000007
   property: MODPROP_000036
@@ -257,20 +259,19 @@ MODPROP_000036:
     ''$R_R$'') AND ring(X ''finitely generated socle'' on the right).'
 MODPROP_000037:
   citation: []
-  crosstable_pk: 212
+  crosstable_pk: 823
   has: true
   module: MOD_000007
   property: MODPROP_000037
-  reason: 'Logic (modules) 70: module(has ''finite uniform dimension'') <=== module(has
-    ''free'') AND module(has ''finitely generated'') AND ring(has ''uniform'' on the
-    right).'
+  reason: 'Logic (modules) 84: module(X ''finite uniform dimension'') <=== module("has"
+    ''$R_R$'') AND ring(X ''finite uniform dimension'' on the right).'
 MODPROP_000038:
   citation: []
-  crosstable_pk: 198
+  crosstable_pk: 843
   has: false
   module: MOD_000007
   property: MODPROP_000038
-  reason: 'Logic (modules) 67: module(lacks ''divisible (naive)'') <=== module(lacks
+  reason: 'Logic (modules) 67: module("lacks" ''divisible (naive)'') <=== module("lacks"
     ''principally injective'').'
 MODPROP_000039:
   citation: []
@@ -281,7 +282,7 @@ MODPROP_000039:
   reason: null
 MODPROP_000040:
   citation: []
-  crosstable_pk: 345
+  crosstable_pk: 844
   has: false
   module: MOD_000007
   property: MODPROP_000040
@@ -289,7 +290,7 @@ MODPROP_000040:
     AND ring(X ''continuous'' on the right).'
 MODPROP_000041:
   citation: []
-  crosstable_pk: 339
+  crosstable_pk: 824
   has: true
   module: MOD_000007
   property: MODPROP_000041
@@ -297,7 +298,7 @@ MODPROP_000041:
     AND ring(X ''quasi-continuous'' on the right).'
 MODPROP_000042:
   citation: []
-  crosstable_pk: 340
+  crosstable_pk: 825
   has: true
   module: MOD_000007
   property: MODPROP_000042
@@ -305,7 +306,7 @@ MODPROP_000042:
     ring(X ''CS'' on the right).'
 MODPROP_000043:
   citation: []
-  crosstable_pk: 346
+  crosstable_pk: 845
   has: false
   module: MOD_000007
   property: MODPROP_000043
@@ -313,7 +314,7 @@ MODPROP_000043:
     ''$R_R$'') AND ring("lacks" ''self-injective'' on the right).'
 MODPROP_000045:
   citation: []
-  crosstable_pk: 482
+  crosstable_pk: 846
   has: false
   module: MOD_000007
   property: MODPROP_000045
@@ -329,7 +330,7 @@ MODPROP_000046:
     socle'').'
 MODPROP_000047:
   citation: []
-  crosstable_pk: 429
+  crosstable_pk: 847
   has: false
   module: MOD_000007
   property: MODPROP_000047
@@ -337,15 +338,15 @@ MODPROP_000047:
     AND ring(X ''simple socle'' on the right).'
 MODPROP_000048:
   citation: []
-  crosstable_pk: 428
+  crosstable_pk: 848
   has: false
   module: MOD_000007
   property: MODPROP_000048
-  reason: 'Logic (modules) 114: module("lacks" ''colocal'') <=== module("lacks" ''essential
-    socle'').'
+  reason: 'Logic (modules) 114: module("lacks" ''subdirectly irreducible (co-local)'')
+    <=== module("lacks" ''essential socle'').'
 MODPROP_000049:
   citation: []
-  crosstable_pk: 426
+  crosstable_pk: 826
   has: true
   module: MOD_000007
   property: MODPROP_000049
@@ -353,7 +354,7 @@ MODPROP_000049:
     ''projective'').'
 MODPROP_000050:
   citation: []
-  crosstable_pk: 427
+  crosstable_pk: 827
   has: true
   module: MOD_000007
   property: MODPROP_000050
@@ -361,7 +362,7 @@ MODPROP_000050:
     ''projective'').'
 MODPROP_000052:
   citation: []
-  crosstable_pk: 768
+  crosstable_pk: 849
   has: false
   module: MOD_000007
   property: MODPROP_000052
@@ -369,7 +370,7 @@ MODPROP_000052:
     ''subdirectly irreducible (co-local)'') AND module("has" ''uniform'').'
 MODPROP_000053:
   citation: []
-  crosstable_pk: 587
+  crosstable_pk: 828
   has: true
   module: MOD_000007
   property: MODPROP_000053
@@ -377,15 +378,15 @@ MODPROP_000053:
     ''$R_R$'').'
 MODPROP_000055:
   citation: []
-  crosstable_pk: 769
+  crosstable_pk: 850
   has: false
   module: MOD_000007
   property: MODPROP_000055
-  reason: 'Logic (modules) 154: module("lacks" ''semi-Artinian (Loewy)'') <=== module("lacks"
-    ''essential socle'').'
+  reason: 'Logic (modules) 168: module(X ''semi-Artinian (Loewy)'') <=== ring(X ''semi-Artinian''
+    on the right) AND module("has" ''$R_R$'').'
 MODPROP_000056:
   citation: []
-  crosstable_pk: 766
+  crosstable_pk: 829
   has: true
   module: MOD_000007
   property: MODPROP_000056
