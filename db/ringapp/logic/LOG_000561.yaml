@@ -1,0 +1,7 @@
+active: true
+citation: []
+concs: ring_deduced("has",0,6)
+hyps: ring_deduced("has",0,10) AND ring_deduced("has",0,22)
+readable: ring is reduced AND ring is nil radical ===> ring is semiprimitive
+symmetric: true
+variety: 0

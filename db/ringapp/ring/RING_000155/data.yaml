@@ -1,0 +1,12 @@
+citation: []
+description: The ring of germs of smooth functions ($C^\infty$ functions) $\mathbb
+  R\to \mathbb R$ at the point $0$.
+is_commutative: true
+keywords:
+- KWD_000070
+- KWD_000016
+krull_dim: null
+name: '$C^\infty_0(\mathbb R)$: the ring of germs of smooth functions on $\mathbb
+  R$ at $0$'
+notes: Maximal ideal is idempotent
+optional_template: ''

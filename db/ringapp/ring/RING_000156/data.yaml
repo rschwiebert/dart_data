@@ -1,0 +1,13 @@
+citation: []
+description: 'Let $K$ be the unique cubic subextension of $\mathbb Q(\zeta_7)$.  Let
+  $\sigma$ be a generator of tha Galois group (of order $3$) for $K/\mathbb Q$.  Define
+  the ring $R$ by adjoining an indeterminate $x$ to $K$ with the relations: $xkx^{-1}=\sigma
+  k$ for all $k\in K$ and $x^3=2$.  This is a central simple $\mathbb Q$ algebra with
+  Brauer group order $3$.'
+is_commutative: false
+keywords:
+- KWD_000071
+krull_dim: null
+name: Division algebra with no anti-automorphism
+notes: Central simple $\mathbb Q$ division algebra.
+optional_template: ''
