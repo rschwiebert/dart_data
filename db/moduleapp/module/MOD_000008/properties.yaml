@@ -172,6 +172,14 @@ MODPROP_000026:
   property: MODPROP_000026
   reason: 'Logic (modules) 92: module(X ''serial'') <=== module("has" ''$R_R$'') AND
     ring(X ''serial'' on the right).'
+MODPROP_000027:
+  citation: []
+  crosstable_pk: 1039
+  has: true
+  module: MOD_000008
+  property: MODPROP_000027
+  reason: 'Logic (modules) 178: module("has" ''reflexive'') <=== module("has" ''finitely
+    generated'') AND module("has" ''free'').'
 MODPROP_000028:
   citation: []
   crosstable_pk: 189
@@ -336,6 +344,14 @@ MODPROP_000050:
   property: MODPROP_000050
   reason: 'Logic (modules) 122: module("has" ''has a projective cover'') <=== module("has"
     ''projective'').'
+MODPROP_000051:
+  citation: []
+  crosstable_pk: 854
+  has: false
+  module: MOD_000008
+  property: MODPROP_000051
+  reason: 'Logic (modules) 133: module(X ''linearly compact'') <=== ring(X ''linearly
+    compact'' on the right) AND module("has" ''$R_R$'').'
 MODPROP_000052:
   citation: []
   crosstable_pk: 592

@@ -1,7 +1,7 @@
 citation:
 - MODCITE_000018
 definition: Given any family of submodules $N_i$ of $M$ indexed by $I$, and elements
-  $m_i$ indexed by the same set, if $\cap{i\in F}(m_i+N_i)\neq \emptyset$ for all
-  finite subsets of $I$, then $\cap{i\in I}(m_i+N_i)\neq \emptyset$. (In other words,
-  every finitely-solvable system of congruence is solvable.)
+  $m_i$ indexed by the same set, if $\bigcap_{i\in F}(m_i+N_i)\neq \emptyset$ for
+  every finite subset $F$ of $I$, then $\bigcap_{i\in I}(m_i+N_i)\neq \emptyset$.
+  (In other words, every finitely-solvable system of congruence is solvable.)
 name: linearly compact

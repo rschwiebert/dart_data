@@ -1,0 +1,9 @@
+corrected_location:
+- CITE_000031
+description: '"A module with a projective cover is a B-object (Bass module)"  Over
+  $\mathbb Z$, a countable direct sum of copies of $\mathbb Z$ is projective (hence
+  has a projective cover) and yet it has quotients (namely $\mathbb Z_{p^\infty}$
+  with no maximal submodules. That is, the kernel of this projection is a proper submodule
+  not contained in any maximal submodule.'
+error_location: CITE_000571
+example: null

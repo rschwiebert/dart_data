@@ -1,2 +1,2 @@
 definition: If $M$ has the property, then so does $M/N$ for each submodule $N$.
-name: stable under quotients
+name: passes to quotients

@@ -1412,3 +1412,14 @@ PROP_000175:
   reason_left: 'Logic (rings) 542: \(NOT "?-ring" \) <=== \(NOT "arithmetical" \).'
   reason_right: 'Logic (rings) 542: \(NOT "?-ring" \) <=== \(NOT "arithmetical" \).'
   ring: RING_000070
+PROP_000177:
+  citation_left:
+  - CITE_000096
+  citation_right: []
+  crosstable_pk: 24782
+  has_on_left: true
+  has_on_right: true
+  property: PROP_000177
+  reason_left: Quotient by socle is a field
+  reason_right: Quotient by socle is a field
+  ring: RING_000070

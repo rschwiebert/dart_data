@@ -1341,6 +1341,18 @@ PROP_000169:
   reason_right: 'Logic (rings) 502: \(NOT "almost maximal domain" \) <=== \(NOT "$h$-local
     domain" \).'
   ring: RING_000147
+PROP_000170:
+  citation_left:
+  - CITE_000570
+  citation_right: []
+  crosstable_pk: 24781
+  has_on_left: false
+  has_on_right: false
+  property: PROP_000170
+  reason_left: The ring it is a square of is not linearly compact, and l.c. is inherited
+    by submodules
+  reason_right: symmetry with left side
+  ring: RING_000147
 PROP_000172:
   citation_left: []
   citation_right: []

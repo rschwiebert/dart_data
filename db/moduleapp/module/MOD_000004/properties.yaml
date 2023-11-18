@@ -150,6 +150,13 @@ MODPROP_000020:
   property: MODPROP_000020
   reason: 'Logic (modules) 38: module(has ''principally injective'') <=== ring(has
     ''von Neumann regular'' ).'
+MODPROP_000021:
+  citation: []
+  crosstable_pk: 969
+  has: true
+  module: MOD_000004
+  property: MODPROP_000021
+  reason: 'Logic (modules) 177: module("has" ''faithful'') <=== module("has" ''$R_R$'').'
 MODPROP_000023:
   citation: []
   crosstable_pk: 335
@@ -180,6 +187,14 @@ MODPROP_000026:
   module: MOD_000004
   property: MODPROP_000026
   reason: 'Logic (modules) 43: module(has ''serial'') <=== module(has ''semisimple'').'
+MODPROP_000027:
+  citation: []
+  crosstable_pk: 1037
+  has: true
+  module: MOD_000004
+  property: MODPROP_000027
+  reason: 'Logic (modules) 178: module("has" ''reflexive'') <=== module("has" ''finitely
+    generated'') AND module("has" ''free'').'
 MODPROP_000028:
   citation: []
   crosstable_pk: 53

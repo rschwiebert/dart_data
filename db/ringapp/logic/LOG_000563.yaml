@@ -1,0 +1,8 @@
+active: true
+citation:
+- CITE_000572
+concs: ring_deduced("has",0,47)
+hyps: ring_deduced("has",3,177)
+readable: ring is semi-Artinian on the right ===> ring is exchange
+symmetric: false
+variety: 0

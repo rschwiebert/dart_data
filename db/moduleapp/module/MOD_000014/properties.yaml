@@ -52,6 +52,13 @@ MODPROP_000007:
   module: MOD_000014
   property: MODPROP_000007
   reason: $\mathbb Z/p\mathbb Z$ is not injective (it is not divisible)
+MODPROP_000008:
+  citation: []
+  crosstable_pk: 859
+  has: false
+  module: MOD_000014
+  property: MODPROP_000008
+  reason: 'Logic (modules) 54: module("lacks" ''flat'') <=== module("lacks" ''torsion-free'').'
 MODPROP_000009:
   citation: []
   crosstable_pk: 643
@@ -121,6 +128,14 @@ MODPROP_000021:
   module: MOD_000014
   property: MODPROP_000021
   reason: null
+MODPROP_000024:
+  citation: []
+  crosstable_pk: 860
+  has: false
+  module: MOD_000014
+  property: MODPROP_000024
+  reason: 'Logic (modules) 135: module("lacks" ''semi-reflexive (torsionless)'') <===
+    module("lacks" ''torsion-free'') AND ring("has" ''domain'' ).'
 MODPROP_000025:
   citation: []
   crosstable_pk: 648
@@ -129,6 +144,14 @@ MODPROP_000025:
   property: MODPROP_000025
   reason: 'Logic (modules) 111: module("lacks" ''uniserial'') <=== module("lacks"
     ''hollow'').'
+MODPROP_000027:
+  citation: []
+  crosstable_pk: 861
+  has: false
+  module: MOD_000014
+  property: MODPROP_000027
+  reason: 'Logic (modules) 17: module("lacks" ''reflexive'') <=== module("lacks" ''semi-reflexive
+    (torsionless)'').'
 MODPROP_000028:
   citation: []
   crosstable_pk: 649
@@ -160,6 +183,13 @@ MODPROP_000033:
   property: MODPROP_000033
   reason: 'Logic (modules) 49: module("lacks" ''strongly indecomposable (endolocal)'')
     <=== module("lacks" ''indecomposable'').'
+MODPROP_000034:
+  citation: []
+  crosstable_pk: 858
+  has: false
+  module: MOD_000014
+  property: MODPROP_000034
+  reason: $p$ annihilates $(0,1)$.
 MODPROP_000035:
   citation: []
   crosstable_pk: 660
@@ -175,6 +205,13 @@ MODPROP_000036:
   property: MODPROP_000036
   reason: 'Logic (modules) 169: module("has" ''finitely generated socle'') <=== module("has"
     ''simple socle'').'
+MODPROP_000037:
+  citation: []
+  crosstable_pk: 976
+  has: true
+  module: MOD_000014
+  property: MODPROP_000037
+  reason: sum of two uniform submodules
 MODPROP_000038:
   citation: []
   crosstable_pk: 782
@@ -220,6 +257,14 @@ MODPROP_000050:
   property: MODPROP_000050
   reason: 'Logic (modules) 123: module("lacks" ''has a projective cover'') <=== module("lacks"
     ''projective'') AND ring("has" ''semiprimitive'' ).'
+MODPROP_000051:
+  citation:
+  - MODCITE_000032
+  crosstable_pk: 856
+  has: false
+  module: MOD_000014
+  property: MODPROP_000051
+  reason: Has $\mathbb Z$ as a submodule, which is not linearly compact
 MODPROP_000052:
   citation: []
   crosstable_pk: 659

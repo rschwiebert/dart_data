@@ -1,0 +1,6 @@
+active: true
+citation: []
+concs: module_deduced("has",27)
+hyps: module_deduced("has",3) AND module_deduced("has",9)
+readable: module is finitely generated AND module is free  ===>  module is reflexive
+variety: 0

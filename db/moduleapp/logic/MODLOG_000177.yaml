@@ -1,0 +1,6 @@
+active: true
+citation: []
+concs: module_deduced("has",21)
+hyps: module_deduced("has",39)
+readable: module is $R_R$  ===>  module is faithful
+variety: 0

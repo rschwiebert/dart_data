@@ -1,0 +1,6 @@
+active: true
+citation: []
+concs: module_deduced("has",58)
+hyps: module_deduced("has",56)
+readable: module is Bass module  ===>  module is superfluous Jacobson radical
+variety: 0

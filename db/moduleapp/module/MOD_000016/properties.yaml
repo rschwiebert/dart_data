@@ -148,6 +148,13 @@ MODPROP_000025:
   module: MOD_000016
   property: MODPROP_000025
   reason: 'Logic (modules) 45: module("lacks" ''uniserial'') <=== module("lacks" ''indecomposable'').'
+MODPROP_000027:
+  citation: []
+  crosstable_pk: 1035
+  has: true
+  module: MOD_000016
+  property: MODPROP_000027
+  reason: https://math.stackexchange.com/questions/64902/surjectivity-of-a-map-between-a-module-and-its-double-dual/
 MODPROP_000028:
   citation: []
   crosstable_pk: 800
@@ -240,6 +247,38 @@ MODPROP_000039:
   module: MOD_000016
   property: MODPROP_000039
   reason: 'Logic (modules) 75: module("lacks" ''$R_R$'') <=== module("lacks" ''cyclic'').'
+MODPROP_000040:
+  citation: []
+  crosstable_pk: 973
+  has: false
+  module: MOD_000016
+  property: MODPROP_000040
+  reason: 'Logic (modules) 99: module("lacks" ''continuous'') <=== module("lacks"
+    ''quasi-continuous'').'
+MODPROP_000041:
+  citation: []
+  crosstable_pk: 974
+  has: false
+  module: MOD_000016
+  property: MODPROP_000041
+  reason: 'Logic (modules) 100: module("lacks" ''quasi-continuous'') <=== module("lacks"
+    ''CS'').'
+MODPROP_000042:
+  citation:
+  - MODCITE_000034
+  crosstable_pk: 972
+  has: false
+  module: MOD_000016
+  property: MODPROP_000042
+  reason: Turns out a free abelian group is CS iff it has finite rank
+MODPROP_000043:
+  citation: []
+  crosstable_pk: 975
+  has: false
+  module: MOD_000016
+  property: MODPROP_000043
+  reason: 'Logic (modules) 101: module("lacks" ''quasi-injective'') <=== module("lacks"
+    ''continuous'').'
 MODPROP_000045:
   citation: []
   crosstable_pk: 808

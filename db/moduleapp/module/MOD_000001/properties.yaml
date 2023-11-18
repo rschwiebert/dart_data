@@ -147,6 +147,13 @@ MODPROP_000020:
   module: MOD_000001
   property: MODPROP_000020
   reason: It's a regular module and its ring is not right principally injective
+MODPROP_000021:
+  citation: []
+  crosstable_pk: 968
+  has: true
+  module: MOD_000001
+  property: MODPROP_000021
+  reason: 'Logic (modules) 177: module("has" ''faithful'') <=== module("has" ''$R_R$'').'
 MODPROP_000023:
   citation: []
   crosstable_pk: 329
@@ -178,6 +185,14 @@ MODPROP_000026:
   property: MODPROP_000026
   reason: 'Logic (modules) 45: module(lacks ''serial'') <=== module(lacks ''uniserial'')
     AND module(has ''indecomposable'').'
+MODPROP_000027:
+  citation: []
+  crosstable_pk: 1036
+  has: true
+  module: MOD_000001
+  property: MODPROP_000027
+  reason: 'Logic (modules) 178: module("has" ''reflexive'') <=== module("has" ''finitely
+    generated'') AND module("has" ''free'').'
 MODPROP_000028:
   citation: []
   crosstable_pk: 17
@@ -350,6 +365,14 @@ MODPROP_000050:
   property: MODPROP_000050
   reason: 'Logic (modules) 122: module("has" ''has a projective cover'') <=== module("has"
     ''projective'').'
+MODPROP_000051:
+  citation: []
+  crosstable_pk: 852
+  has: false
+  module: MOD_000001
+  property: MODPROP_000051
+  reason: 'Logic (modules) 133: module(X ''linearly compact'') <=== ring(X ''linearly
+    compact'' on the right) AND module("has" ''$R_R$'').'
 MODPROP_000052:
   citation: []
   crosstable_pk: 759

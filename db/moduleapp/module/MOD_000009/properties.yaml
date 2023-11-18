@@ -184,6 +184,14 @@ MODPROP_000026:
   property: MODPROP_000026
   reason: 'Logic (modules) 45: module(lacks ''serial'') <=== module(lacks ''uniserial'')
     AND module(has ''indecomposable'').'
+MODPROP_000027:
+  citation: []
+  crosstable_pk: 1040
+  has: true
+  module: MOD_000009
+  property: MODPROP_000027
+  reason: 'Logic (modules) 178: module("has" ''reflexive'') <=== module("has" ''finitely
+    generated'') AND module("has" ''free'').'
 MODPROP_000028:
   citation: []
   crosstable_pk: 248

@@ -52,6 +52,13 @@ MODPROP_000007:
   property: MODPROP_000007
   reason: 'Logic (modules) 52: module("lacks" ''injective'') <=== module("lacks" ''strongly
     indecomposable (endolocal)'') AND module("has" ''indecomposable'').'
+MODPROP_000008:
+  citation: []
+  crosstable_pk: 863
+  has: false
+  module: MOD_000012
+  property: MODPROP_000008
+  reason: 'Logic (modules) 54: module("lacks" ''flat'') <=== module("lacks" ''torsion-free'').'
 MODPROP_000009:
   citation: []
   crosstable_pk: 505
@@ -82,6 +89,29 @@ MODPROP_000012:
   property: MODPROP_000012
   reason: One maximal ideal of $End(M_R)$ is the set of injections, the other is surjections,
     and neither one contains the other
+MODPROP_000014:
+  citation: []
+  crosstable_pk: 1032
+  has: true
+  module: MOD_000012
+  property: MODPROP_000014
+  reason: 'Logic (modules) 65: module("has" ''coherent'') <=== ring("has" ''coherent''
+    on the right) AND module("has" ''finitely presented'').'
+MODPROP_000015:
+  citation: []
+  crosstable_pk: 1033
+  has: true
+  module: MOD_000012
+  property: MODPROP_000015
+  reason: 'Logic (modules) 14: module("has" ''finitely related'') <=== module("has"
+    ''finitely presented'').'
+MODPROP_000016:
+  citation: []
+  crosstable_pk: 1031
+  has: true
+  module: MOD_000012
+  property: MODPROP_000016
+  reason: $xR\to R\to R/xR=M$ witnesses $M$ is finitely presented
 MODPROP_000018:
   citation: []
   crosstable_pk: 488
@@ -96,6 +126,14 @@ MODPROP_000019:
   module: MOD_000012
   property: MODPROP_000019
   reason: 'Logic (modules) 111: module("has" ''hollow'') <=== module("has" ''uniserial'').'
+MODPROP_000024:
+  citation: []
+  crosstable_pk: 864
+  has: false
+  module: MOD_000012
+  property: MODPROP_000024
+  reason: 'Logic (modules) 135: module("lacks" ''semi-reflexive (torsionless)'') <===
+    module("lacks" ''torsion-free'') AND ring("has" ''domain'' ).'
 MODPROP_000025:
   citation: []
   crosstable_pk: 485
@@ -110,6 +148,14 @@ MODPROP_000026:
   module: MOD_000012
   property: MODPROP_000026
   reason: 'Logic (modules) 45: module("has" ''serial'') <=== module("has" ''uniserial'').'
+MODPROP_000027:
+  citation: []
+  crosstable_pk: 865
+  has: false
+  module: MOD_000012
+  property: MODPROP_000027
+  reason: 'Logic (modules) 17: module("lacks" ''reflexive'') <=== module("lacks" ''semi-reflexive
+    (torsionless)'').'
 MODPROP_000028:
   citation: []
   crosstable_pk: 498
@@ -142,6 +188,13 @@ MODPROP_000033:
   module: MOD_000012
   property: MODPROP_000033
   reason: The endomorphism ring has exactly 2 maximal right ideals
+MODPROP_000034:
+  citation: []
+  crosstable_pk: 862
+  has: false
+  module: MOD_000012
+  property: MODPROP_000034
+  reason: $x$ annihilates $1+xR$
 MODPROP_000037:
   citation: []
   crosstable_pk: 492

@@ -893,6 +893,17 @@ PROP_000086:
     finite uniform dimension on the right'
   reason_right: symmetry with left side
   ring: RING_000051
+PROP_000087:
+  citation_left: []
+  citation_right: []
+  crosstable_pk: 24789
+  has_on_left: false
+  has_on_right: false
+  property: PROP_000087
+  reason_left: Let $r=1/2$, and consider $ann(r)\to R\to rR$. One can see $ann(r)=((1/2,1])$
+    is not finitely generated
+  reason_right: symmetry with left side
+  ring: RING_000051
 PROP_000088:
   citation_left: []
   citation_right: []

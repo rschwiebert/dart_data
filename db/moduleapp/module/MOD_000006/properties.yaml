@@ -332,6 +332,14 @@ MODPROP_000050:
   property: MODPROP_000050
   reason: 'Logic (modules) 123: module("lacks" ''has a projective cover'') <=== module("lacks"
     ''projective'') AND ring("has" ''semiprimitive'' ).'
+MODPROP_000051:
+  citation:
+  - MODCITE_000032
+  crosstable_pk: 857
+  has: false
+  module: MOD_000006
+  property: MODPROP_000051
+  reason: Has $\mathbb Z$ as a submodule, which is not linearly compact
 MODPROP_000052:
   citation: []
   crosstable_pk: 585
