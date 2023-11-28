@@ -831,8 +831,8 @@ PROP_000084:
   has_on_left: true
   has_on_right: false
   property: PROP_000084
-  reason_left: Exactly three left ideals, two trivial, one unique maximalrschwiebert
-  reason_right: The simple submodules of the right socle are not two-sided idealsrschwiebert
+  reason_left: Exactly three left ideals, two trivial, one unique maximal
+  reason_right: The simple submodules of the right socle are not two-sided ideals
   ring: RING_000038
 PROP_000085:
   citation_left: []

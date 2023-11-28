@@ -5,7 +5,7 @@ PROP_000001:
   has_on_left: true
   has_on_right: true
   property: PROP_000001
-  reason_left: is a product of commutative ringsrschwiebert
+  reason_left: is a product of commutative rings
   reason_right: symmetry with left side
   ring: RING_000052
 PROP_000002:
@@ -120,7 +120,7 @@ PROP_000012:
   has_on_left: true
   has_on_right: true
   property: PROP_000012
-  reason_left: is a product of strongly regular ringsrschwiebert
+  reason_left: is a product of strongly regular rings
   reason_right: symmetry with left side
   ring: RING_000052
 PROP_000013:
@@ -649,7 +649,7 @@ PROP_000064:
   has_on_right: false
   property: PROP_000064
   reason_left: the rings in the product can be used to build an increasing sequence
-    of idealsrschwiebert
+    of ideals
   reason_right: 'Logic 10: Noetherian on the right ===> Goldie on the right'
   ring: RING_000052
 PROP_000065:

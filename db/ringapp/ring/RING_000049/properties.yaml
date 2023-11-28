@@ -5,7 +5,7 @@ PROP_000001:
   has_on_left: true
   has_on_right: true
   property: PROP_000001
-  reason_left: Obviousrschwiebert
+  reason_left: Obvious
   reason_right: symmetry with left side
   ring: RING_000049
 PROP_000002:
@@ -106,7 +106,7 @@ PROP_000011:
   has_on_left: false
   has_on_right: false
   property: PROP_000011
-  reason_left: (x)^2=(0)rschwiebert
+  reason_left: (x)^2=(0)
   reason_right: symmetry with left side
   ring: RING_000049
 PROP_000012:
@@ -210,7 +210,7 @@ PROP_000021:
   has_on_left: true
   has_on_right: true
   property: PROP_000021
-  reason_left: Radical is (x)rschwiebert
+  reason_left: Radical is $(x)$
   reason_right: symmetry with left side
   ring: RING_000049
 PROP_000022:
@@ -230,7 +230,7 @@ PROP_000023:
   has_on_left: true
   has_on_right: true
   property: PROP_000023
-  reason_left: Radical is (x) which is maximalrschwiebert
+  reason_left: Radical is (x) which is maximal
   reason_right: symmetry with left side
   ring: RING_000049
 PROP_000024:
@@ -634,7 +634,7 @@ PROP_000063:
   property: PROP_000063
   reason_left: 'Logic 256: quasi-Frobenius <==> Artinian on the right and finitely
     pseudo-Frobenius on the left'
-  reason_right: It has R dimension 2qrschwiebert
+  reason_right: It has R dimension 2q
   ring: RING_000049
 PROP_000064:
   citation_left: []
@@ -743,8 +743,8 @@ PROP_000073:
   has_on_left: false
   has_on_right: false
   property: PROP_000073
-  reason_left: ann((x))=(x) which is essential in Rrschwiebert
-  reason_right: ann((x))=(x) which is essential in Rrschwiebert
+  reason_left: $ann((x))=(x)$ which is essential in $R$
+  reason_right: $ann((x))=(x)$ which is essential in $R$
   ring: RING_000049
 PROP_000074:
   citation_left: []
@@ -773,8 +773,8 @@ PROP_000076:
   has_on_left: true
   has_on_right: true
   property: PROP_000076
-  reason_left: Has exactly three idealsrschwiebert
-  reason_right: Has exactly three idealsrschwiebert
+  reason_left: Has exactly three ideals
+  reason_right: Has exactly three ideals
   ring: RING_000049
 PROP_000077:
   citation_left: []
@@ -1012,8 +1012,8 @@ PROP_000098:
   has_on_left: true
   has_on_right: true
   property: PROP_000098
-  reason_left: (x) is the unique nontrivial idealrschwiebert
-  reason_right: (x) is the unique nontrivial idealrschwiebert
+  reason_left: (x) is the unique nontrivial ideal
+  reason_right: (x) is the unique nontrivial ideal
   ring: RING_000049
 PROP_000099:
   citation_left: []

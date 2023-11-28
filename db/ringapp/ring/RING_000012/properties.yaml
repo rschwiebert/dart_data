@@ -15,7 +15,7 @@ PROP_000002:
   has_on_left: false
   has_on_right: false
   property: PROP_000002
-  reason_left: obviousrschwiebert
+  reason_left: obvious
   reason_right: symmetry with left side
   ring: RING_000012
 PROP_000003:

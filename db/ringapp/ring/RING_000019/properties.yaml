@@ -56,7 +56,7 @@ PROP_000006:
   has_on_left: false
   has_on_right: false
   property: PROP_000006
-  reason_left: Strictly upper triangular matrices are in the Jacobson radicalrschwiebert
+  reason_left: Strictly upper triangular matrices are in the Jacobson radical
   reason_right: symmetry with left side
   ring: RING_000019
 PROP_000008:
@@ -86,7 +86,7 @@ PROP_000010:
   has_on_left: false
   has_on_right: false
   property: PROP_000010
-  reason_left: Strictly upper triangular matrices in this ring are nilpotentrschwiebert
+  reason_left: Strictly upper triangular matrices in this ring are nilpotent
   reason_right: symmetry with left side
   ring: RING_000019
 PROP_000011:

@@ -5,7 +5,7 @@ PROP_000001:
   has_on_left: true
   has_on_right: true
   property: PROP_000001
-  reason_left: Obviousrschwiebert
+  reason_left: Obvious
   reason_right: symmetry with left side
   ring: RING_000048
 PROP_000002:
@@ -15,7 +15,7 @@ PROP_000002:
   has_on_left: true
   has_on_right: true
   property: PROP_000002
-  reason_left: By definition it is the field of fractions for F_p[x]rschwiebert
+  reason_left: By definition it is the field of fractions for F_p[x]
   reason_right: symmetry with left side
   ring: RING_000048
 PROP_000003:

@@ -5,7 +5,7 @@ PROP_000001:
   has_on_left: true
   has_on_right: true
   property: PROP_000001
-  reason_left: obviousrschwiebert
+  reason_left: obvious
   reason_right: symmetry with left side
   ring: RING_000050
 PROP_000002:
@@ -632,7 +632,7 @@ PROP_000063:
   has_on_left: true
   has_on_right: true
   property: PROP_000063
-  reason_left: has finite R dimensionrschwiebert
+  reason_left: has finite R dimension
   reason_right: has finite R dimensionwikipedia
   ring: RING_000050
 PROP_000064:
@@ -774,8 +774,8 @@ PROP_000076:
   has_on_left: false
   has_on_right: false
   property: PROP_000076
-  reason_left: (x) and (y) cannot be arranged in a chainrschwiebert
-  reason_right: (x) and (y) cannot be arranged in a chainrschwiebert
+  reason_left: (x) and (y) cannot be arranged in a chain
+  reason_right: (x) and (y) cannot be arranged in a chain
   ring: RING_000050
 PROP_000077:
   citation_left: []
