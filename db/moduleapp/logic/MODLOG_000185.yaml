@@ -1,0 +1,8 @@
+active: true
+citation:
+- CITE_000039
+concs: module_deduced("has",2)
+hyps: module_deduced("has",54) AND module_deduced("has",51)
+readable: module is semi-Noetherian (Hamsher, max module) AND module is linearly compact  ===>  module
+  is Noetherian
+variety: 0

@@ -409,3 +409,43 @@ MODPROP_000057:
   property: MODPROP_000057
   reason: 'Logic (modules) 164: module("lacks" ''strongly semi-Noetherian'') <===
     module("lacks" ''B-object'').'
+MODPROP_000058:
+  citation: []
+  crosstable_pk: 1105
+  has: false
+  module: MOD_000003
+  property: MODPROP_000058
+  reason: 'Logic (modules) 180: module("lacks" ''superfluous Jacobson radical'') <===
+    module("lacks" ''proper Jacobson radical'').'
+MODPROP_000059:
+  citation: []
+  crosstable_pk: 1106
+  has: false
+  module: MOD_000003
+  property: MODPROP_000059
+  reason: 'Logic (modules) 187: module("lacks" ''Jacobson semisimple'') <=== module("lacks"
+    ''finitely generated'') AND module("has" ''linearly compact'').'
+MODPROP_000060:
+  citation: []
+  crosstable_pk: 1102
+  has: true
+  module: MOD_000003
+  property: MODPROP_000060
+  reason: 'Logic (modules) 182: module("has" ''supplemented'') <=== module("has" ''amply
+    supplemented'').'
+MODPROP_000061:
+  citation: []
+  crosstable_pk: 1103
+  has: true
+  module: MOD_000003
+  property: MODPROP_000061
+  reason: 'Logic (modules) 183: module("has" ''amply supplemented'') <=== module("has"
+    ''linearly compact'').'
+MODPROP_000062:
+  citation: []
+  crosstable_pk: 1104
+  has: true
+  module: MOD_000003
+  property: MODPROP_000062
+  reason: 'Logic (modules) 186: module("has" ''top semisimple'') <=== module("has"
+    ''linearly compact'').'

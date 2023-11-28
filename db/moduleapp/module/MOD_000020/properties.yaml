@@ -388,3 +388,43 @@ MODPROP_000057:
   property: MODPROP_000057
   reason: 'Logic (modules) 174: module("has" ''strongly semi-Noetherian'') <=== ring("has"
     ''max ring'' on the right).'
+MODPROP_000058:
+  citation: []
+  crosstable_pk: 1150
+  has: true
+  module: MOD_000020
+  property: MODPROP_000058
+  reason: 'Logic (modules) 179: module("has" ''superfluous Jacobson radical'') <===
+    module("has" ''Bass module'').'
+MODPROP_000059:
+  citation: []
+  crosstable_pk: 1151
+  has: true
+  module: MOD_000020
+  property: MODPROP_000059
+  reason: 'Logic (modules) 181: module("has" ''Jacobson semisimple'') <=== module("has"
+    ''semisimple'').'
+MODPROP_000060:
+  citation: []
+  crosstable_pk: 1152
+  has: true
+  module: MOD_000020
+  property: MODPROP_000060
+  reason: 'Logic (modules) 182: module("has" ''supplemented'') <=== module("has" ''amply
+    supplemented'').'
+MODPROP_000061:
+  citation: []
+  crosstable_pk: 1153
+  has: true
+  module: MOD_000020
+  property: MODPROP_000061
+  reason: 'Logic (modules) 183: module("has" ''amply supplemented'') <=== module("has"
+    ''linearly compact'').'
+MODPROP_000062:
+  citation: []
+  crosstable_pk: 1154
+  has: true
+  module: MOD_000020
+  property: MODPROP_000062
+  reason: 'Logic (modules) 186: module("has" ''top semisimple'') <=== module("has"
+    ''linearly compact'').'

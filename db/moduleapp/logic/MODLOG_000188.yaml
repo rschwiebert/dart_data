@@ -1,0 +1,6 @@
+active: true
+citation: []
+concs: module_deduced("has",62)
+hyps: module_deduced("lacks",53)
+readable: module is not proper Jacobson radical  ===>  module is top semisimple
+variety: 0

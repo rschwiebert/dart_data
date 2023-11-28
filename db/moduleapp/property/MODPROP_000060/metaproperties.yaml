@@ -1,0 +1,14 @@
+MODMETAPROP_000002:
+  citation: []
+  crosstable_pk: 8
+  example: null
+  has_metaproperty: true
+  metaproperty: MODMETAPROP_000002
+  property: MODPROP_000060
+MODMETAPROP_000004:
+  citation: []
+  crosstable_pk: 9
+  example: null
+  has_metaproperty: true
+  metaproperty: MODMETAPROP_000004
+  property: MODPROP_000060

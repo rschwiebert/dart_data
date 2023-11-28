@@ -1,0 +1,7 @@
+active: true
+citation:
+- CITE_000037
+concs: module_deduced("has",61)
+hyps: module_deduced("has",51)
+readable: module is linearly compact  ===>  module is amply supplemented
+variety: 0

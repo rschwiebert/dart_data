@@ -1,0 +1,8 @@
+active: true
+citation:
+- CITE_000040
+concs: module_deduced("has",5) AND module_deduced("has",3)
+hyps: module_deduced("has",51) AND module_deduced("has",59)
+readable: module is linearly compact AND module is Jacobson semisimple  ===>  module
+  is semisimple AND module is finitely generated
+variety: 0

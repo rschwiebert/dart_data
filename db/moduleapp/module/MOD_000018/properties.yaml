@@ -390,3 +390,11 @@ MODPROP_000056:
   module: MOD_000018
   property: MODPROP_000056
   reason: 'Logic (modules) 152: module("has" ''Bass module'') <=== module("has" ''local'').'
+MODPROP_000058:
+  citation: []
+  crosstable_pk: 1144
+  has: true
+  module: MOD_000018
+  property: MODPROP_000058
+  reason: 'Logic (modules) 179: module("has" ''superfluous Jacobson radical'') <===
+    module("has" ''Bass module'').'

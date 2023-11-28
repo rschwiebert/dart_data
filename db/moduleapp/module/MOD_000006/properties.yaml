@@ -387,3 +387,27 @@ MODPROP_000057:
   property: MODPROP_000057
   reason: 'Logic (modules) 164: module("lacks" ''strongly semi-Noetherian'') <===
     module("lacks" ''B-object'').'
+MODPROP_000058:
+  citation: []
+  crosstable_pk: 1117
+  has: false
+  module: MOD_000006
+  property: MODPROP_000058
+  reason: 'Logic (modules) 180: module("lacks" ''superfluous Jacobson radical'') <===
+    module("lacks" ''proper Jacobson radical'').'
+MODPROP_000059:
+  citation: []
+  crosstable_pk: 1156
+  has: false
+  module: MOD_000006
+  property: MODPROP_000059
+  reason: 'Logic (modules) 189: module("lacks" ''Jacobson semisimple'') <=== module("lacks"
+    ''semisimple'') AND module("has" ''top semisimple'').'
+MODPROP_000062:
+  citation: []
+  crosstable_pk: 1155
+  has: true
+  module: MOD_000006
+  property: MODPROP_000062
+  reason: 'Logic (modules) 188: module("has" ''top semisimple'') <=== module("lacks"
+    ''proper Jacobson radical'').'

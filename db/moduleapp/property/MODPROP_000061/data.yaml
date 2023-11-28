@@ -1,0 +1,5 @@
+citation:
+- MODCITE_000036
+definition: For every submodule $N$ of $M$, and every submodule $T$ such that $T+N=M$,
+  there exists a submodule $S$ contained in $T$ minimal with the property that $S+N=M$.
+name: amply supplemented

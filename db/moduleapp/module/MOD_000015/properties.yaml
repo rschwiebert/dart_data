@@ -312,3 +312,19 @@ MODPROP_000057:
   property: MODPROP_000057
   reason: 'Logic (modules) 166: module("has" ''strongly semi-Noetherian'') <=== module("has"
     ''semisimple'').'
+MODPROP_000058:
+  citation: []
+  crosstable_pk: 1137
+  has: true
+  module: MOD_000015
+  property: MODPROP_000058
+  reason: 'Logic (modules) 179: module("has" ''superfluous Jacobson radical'') <===
+    module("has" ''Bass module'').'
+MODPROP_000059:
+  citation: []
+  crosstable_pk: 1138
+  has: true
+  module: MOD_000015
+  property: MODPROP_000059
+  reason: 'Logic (modules) 181: module("has" ''Jacobson semisimple'') <=== module("has"
+    ''semisimple'').'

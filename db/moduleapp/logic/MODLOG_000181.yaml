@@ -1,0 +1,6 @@
+active: true
+citation: []
+concs: module_deduced("has",59)
+hyps: module_deduced("has",5)
+readable: module is semisimple  ===>  module is Jacobson semisimple
+variety: 0

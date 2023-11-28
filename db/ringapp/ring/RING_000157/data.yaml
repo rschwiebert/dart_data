@@ -1,0 +1,10 @@
+citation: []
+description: The group ring $F_2[S_4]$ of the symmetric group $S_4$ over the field
+  of two elements $F_2$.
+is_commutative: false
+keywords:
+- KWD_000021
+krull_dim: null
+name: $F_2[S_4]$
+notes: A non-local, irreducible group ring
+optional_template: ''

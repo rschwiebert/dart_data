@@ -1,0 +1,2 @@
+definition: If $A\oplus B=M$ and $M$ has the property, then $A$ and $B$ have the property.
+name: passes to summands
