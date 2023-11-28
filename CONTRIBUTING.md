@@ -77,6 +77,7 @@ can produce bibtex entries on demand, although occasionally it messes them up or
 These are our current mathematical reviewers. 
 
 - Ryan Schwiebert, @rschwiebert
+- Jose Brox
 
 Please feel free to contact us with any questions.  If you are interested in becoming a reviewer, please make contact.
 
