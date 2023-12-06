@@ -1,0 +1,11 @@
+alias: Levy's characterization of almost-self-injective Noetherian rings
+categories:
+- THMCAT_000006
+citation:
+- CITE_000573
+commutative_only: true
+link: null
+statement: 'Let $R$ be a commutative Noetherian ring.  Then the proper quotients of
+  $R$ are self-injective rings iff $R$ is one of the following types: 1) a Dedekind
+  domain; 2) an Artinian principal ideal ring; 3) a local ring with maximal ideal
+  $M$ such that $M^2=\{0\}$ and $R$ has composition length $2$.'
