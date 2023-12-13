@@ -1,0 +1,10 @@
+active: true
+citation:
+- CITE_000574
+concs: ring_deduced("has",0,23) AND ring_deduced("has",1,63) AND ring_deduced("has",0,18)
+hyps: ring_deduced("has",0,23) AND ring_deduced("has",1,63) AND ring_deduced("has",1,98)
+readable: ring is local AND ring is Artinian on the left and right AND ring is simple
+  socle on the left and right <==> ring is local AND ring is Artinian on the left
+  and right AND ring is Frobenius
+symmetric: true
+variety: 1

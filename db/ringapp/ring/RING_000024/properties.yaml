@@ -169,6 +169,30 @@ PROP_000017:
   reason_left: 'Logic 144: fully prime ===> prime'
   reason_right: 'Logic 144: fully prime ===> prime'
   ring: RING_000024
+PROP_000018:
+  citation_left: []
+  citation_right: []
+  crosstable_pk: 24956
+  has_on_left: false
+  has_on_right: false
+  property: PROP_000018
+  reason_left: 'Logic (rings) 564: \(NOT "Frobenius" \) <=== \(NOT "simple socle"
+    on the left and right\) AND \( "local" \) AND \( "Artinian" on the left and right\).'
+  reason_right: 'Logic (rings) 564: \(NOT "Frobenius" \) <=== \(NOT "simple socle"
+    on the left and right\) AND \( "local" \) AND \( "Artinian" on the left and right\).'
+  ring: RING_000024
+PROP_000019:
+  citation_left: []
+  citation_right: []
+  crosstable_pk: 24957
+  has_on_left: false
+  has_on_right: false
+  property: PROP_000019
+  reason_left: 'Logic (rings) 565: \(NOT "quasi-Frobenius" \) <=== \(NOT "Frobenius"
+    \) AND \( "local" \).'
+  reason_right: 'Logic (rings) 565: \(NOT "quasi-Frobenius" \) <=== \(NOT "Frobenius"
+    \) AND \( "local" \).'
+  ring: RING_000024
 PROP_000020:
   citation_left: []
   citation_right: []
@@ -621,6 +645,30 @@ PROP_000065:
   reason_right: 'Logic 50: principal ideal domain on the right <==> domain and principal
     ideal ring on the right'
   ring: RING_000024
+PROP_000066:
+  citation_left: []
+  citation_right: []
+  crosstable_pk: 24952
+  has_on_left: false
+  has_on_right: false
+  property: PROP_000066
+  reason_left: 'Logic (rings) 258: \(NOT "principal ideal ring" on the left\) <===
+    \(NOT "uniserial ring" on the left\) AND \( "local" \) AND \( "semiprimary" \).'
+  reason_right: 'Logic (rings) 258: \(NOT "principal ideal ring" on the right\) <===
+    \(NOT "uniserial ring" on the right\) AND \( "local" \) AND \( "semiprimary" \).'
+  ring: RING_000024
+PROP_000067:
+  citation_left: []
+  citation_right: []
+  crosstable_pk: 24953
+  has_on_left: false
+  has_on_right: false
+  property: PROP_000067
+  reason_left: 'Logic (rings) 414: \(NOT "Bezout" on the left\) <=== \(NOT "uniserial
+    ring" on the left\) AND \( "local" \).'
+  reason_right: 'Logic (rings) 414: \(NOT "Bezout" on the right\) <=== \(NOT "uniserial
+    ring" on the right\) AND \( "local" \).'
+  ring: RING_000024
 PROP_000068:
   citation_left: []
   citation_right: []
@@ -675,6 +723,18 @@ PROP_000072:
   reason_left: 'Logic 462: Rickart on the right and strongly connected <==> domain'
   reason_right: 'Logic 462: Rickart on the right and strongly connected <==> domain'
   ring: RING_000024
+PROP_000073:
+  citation_left: []
+  citation_right: []
+  crosstable_pk: 24969
+  has_on_left: false
+  has_on_right: false
+  property: PROP_000073
+  reason_left: Left annihilator of $yxz$ is 12 dimensional, so it is the maximal ideal,
+    hence essential
+  reason_right: Right annihilator of $yxz$ is 12 dimensional, so it is the maximal
+    ideal, hence essential
+  ring: RING_000024
 PROP_000074:
   citation_left: []
   citation_right: []
@@ -694,6 +754,66 @@ PROP_000075:
   property: PROP_000075
   reason_left: 'Logic 69: V ring on the left or right ===> semiprimitive'
   reason_right: 'Logic 69: V ring on the left or right ===> semiprimitive'
+  ring: RING_000024
+PROP_000076:
+  citation_left: []
+  citation_right: []
+  crosstable_pk: 24954
+  has_on_left: false
+  has_on_right: false
+  property: PROP_000076
+  reason_left: 'Logic (rings) 250: \(NOT "uniserial ring" on the left\) <=== \(NOT
+    "simple socle" on the left\) AND \( "Artinian" on the left\).'
+  reason_right: 'Logic (rings) 250: \(NOT "uniserial ring" on the right\) <=== \(NOT
+    "simple socle" on the right\) AND \( "Artinian" on the right\).'
+  ring: RING_000024
+PROP_000077:
+  citation_left: []
+  citation_right: []
+  crosstable_pk: 24955
+  has_on_left: false
+  has_on_right: false
+  property: PROP_000077
+  reason_left: 'Logic (rings) 71: \(NOT "serial" on the left\) <=== \(NOT "uniserial
+    ring" on the left\) AND \( "local" \).'
+  reason_right: 'Logic (rings) 71: \(NOT "serial" on the right\) <=== \(NOT "uniserial
+    ring" on the right\) AND \( "local" \).'
+  ring: RING_000024
+PROP_000078:
+  citation_left: []
+  citation_right: []
+  crosstable_pk: 24958
+  has_on_left: false
+  has_on_right: false
+  property: PROP_000078
+  reason_left: 'Logic (rings) 82: \(NOT "pseudo-Frobenius" on the left\) <=== \(NOT
+    "finitely pseudo-Frobenius" on the left\).'
+  reason_right: 'Logic (rings) 82: \(NOT "pseudo-Frobenius" on the right\) <=== \(NOT
+    "finitely pseudo-Frobenius" on the right\).'
+  ring: RING_000024
+PROP_000079:
+  citation_left: []
+  citation_right: []
+  crosstable_pk: 24959
+  has_on_left: false
+  has_on_right: false
+  property: PROP_000079
+  reason_left: 'Logic (rings) 256: \(NOT "finitely pseudo-Frobenius" on the left\)
+    <=== \(NOT "quasi-Frobenius" \) AND \( "Artinian" on the right\).'
+  reason_right: 'Logic (rings) 256: \(NOT "finitely pseudo-Frobenius" on the right\)
+    <=== \(NOT "quasi-Frobenius" \) AND \( "Artinian" on the left\).'
+  ring: RING_000024
+PROP_000080:
+  citation_left: []
+  citation_right: []
+  crosstable_pk: 24960
+  has_on_left: false
+  has_on_right: false
+  property: PROP_000080
+  reason_left: 'Logic (rings) 77: \(NOT "self-injective" on the left\) <=== \(NOT
+    "quasi-Frobenius" \) AND \( "Noetherian" on the left\).'
+  reason_right: 'Logic (rings) 77: \(NOT "self-injective" on the right\) <=== \(NOT
+    "quasi-Frobenius" \) AND \( "Noetherian" on the right\).'
   ring: RING_000024
 PROP_000081:
   citation_left: []
@@ -798,6 +918,18 @@ PROP_000090:
   reason_left: 'Logic 6: Artinian on the right ===> DCC annihilator on the right'
   reason_right: 'Logic 6: Artinian on the right ===> DCC annihilator on the right'
   ring: RING_000024
+PROP_000092:
+  citation_left: []
+  citation_right: []
+  crosstable_pk: 24964
+  has_on_left: false
+  has_on_right: false
+  property: PROP_000092
+  reason_left: 'Logic (rings) 138: \(NOT "continuous" on the left\) <=== \(NOT "quasi-continuous"
+    on the left\).'
+  reason_right: 'Logic (rings) 138: \(NOT "continuous" on the right\) <=== \(NOT "quasi-continuous"
+    on the right\).'
+  ring: RING_000024
 PROP_000093:
   citation_left: []
   citation_right: []
@@ -842,6 +974,16 @@ PROP_000097:
   reason_right: 'Logic 105: perfect on the right <==> T-nilpotent radical on the right
     and semilocal'
   ring: RING_000024
+PROP_000098:
+  citation_left: []
+  citation_right: []
+  crosstable_pk: 24950
+  has_on_left: false
+  has_on_right: false
+  property: PROP_000098
+  reason_left: left Socle has composition length at least 6
+  reason_right: right Socle has composition length at least 6
+  ring: RING_000024
 PROP_000099:
   citation_left: []
   citation_right: []
@@ -874,6 +1016,18 @@ PROP_000101:
   reason_left: 'Logic 163: perfect on the right ===> essential socle on the left'
   reason_right: 'Logic 163: perfect on the right ===> essential socle on the left'
   ring: RING_000024
+PROP_000102:
+  citation_left: []
+  citation_right: []
+  crosstable_pk: 24961
+  has_on_left: false
+  has_on_right: false
+  property: PROP_000102
+  reason_left: 'Logic (rings) 247: \(NOT "cogenerator ring" on the left\) <=== \(NOT
+    "self-injective" on the left\) AND \( "strongly connected" \).'
+  reason_right: 'Logic (rings) 247: \(NOT "cogenerator ring" on the right\) <=== \(NOT
+    "self-injective" on the right\) AND \( "strongly connected" \).'
+  ring: RING_000024
 PROP_000103:
   citation_left: []
   citation_right: []
@@ -885,6 +1039,90 @@ PROP_000103:
     on the right and finitely generated socle on the right'
   reason_right: 'Logic 212: finitely cogenerated on the right <==> essential socle
     on the right and finitely generated socle on the right'
+  ring: RING_000024
+PROP_000104:
+  citation_left: []
+  citation_right: []
+  crosstable_pk: 24970
+  has_on_left: false
+  has_on_right: false
+  property: PROP_000104
+  reason_left: The left socle contains $S\times S$ for the unique simple module. With
+    the diagonal copy of $S$, these three form the middle of a diamond lattice
+  reason_right: The right socle contains $S\times S$ for the unique simple module.
+    With the diagonal copy of $S$, these three form the middle of a diamond lattice
+  ring: RING_000024
+PROP_000105:
+  citation_left: []
+  citation_right: []
+  crosstable_pk: 24965
+  has_on_left: false
+  has_on_right: false
+  property: PROP_000105
+  reason_left: 'Logic (rings) 566: \(NOT "uniform" on the left\) <=== \( "nonzero
+    socle" on the left\) AND \(NOT "simple socle" on the left\).'
+  reason_right: 'Logic (rings) 566: \(NOT "uniform" on the right\) <=== \( "nonzero
+    socle" on the right\) AND \(NOT "simple socle" on the right\).'
+  ring: RING_000024
+PROP_000106:
+  citation_left: []
+  citation_right: []
+  crosstable_pk: 24966
+  has_on_left: false
+  has_on_right: false
+  property: PROP_000106
+  reason_left: 'Logic (rings) 158: \(NOT "Ikeda-Nakayama" on the left\) <=== \(NOT
+    "quasi-continuous" on the left\).'
+  reason_right: 'Logic (rings) 158: \(NOT "Ikeda-Nakayama" on the right\) <=== \(NOT
+    "quasi-continuous" on the right\).'
+  ring: RING_000024
+PROP_000107:
+  citation_left: []
+  citation_right: []
+  crosstable_pk: 24962
+  has_on_left: false
+  has_on_right: false
+  property: PROP_000107
+  reason_left: 'Logic (rings) 463: \(NOT "simple-injective" on the left\) <=== \(NOT
+    "self-injective" on the left\) AND \( "semiprimary" \).'
+  reason_right: 'Logic (rings) 463: \(NOT "simple-injective" on the right\) <=== \(NOT
+    "self-injective" on the right\) AND \( "semiprimary" \).'
+  ring: RING_000024
+PROP_000108:
+  citation_left: []
+  citation_right: []
+  crosstable_pk: 24963
+  has_on_left: false
+  has_on_right: false
+  property: PROP_000108
+  reason_left: 'Logic (rings) 159: \(NOT "FI-injective" on the left\) <=== \(NOT "simple-injective"
+    on the left\).'
+  reason_right: 'Logic (rings) 159: \(NOT "FI-injective" on the right\) <=== \(NOT
+    "simple-injective" on the right\).'
+  ring: RING_000024
+PROP_000109:
+  citation_left: []
+  citation_right: []
+  crosstable_pk: 24967
+  has_on_left: false
+  has_on_right: false
+  property: PROP_000109
+  reason_left: 'Logic (rings) 157: \(NOT "quasi-continuous" on the left\) <=== \(NOT
+    "CS" on the left\).'
+  reason_right: 'Logic (rings) 157: \(NOT "quasi-continuous" on the right\) <=== \(NOT
+    "CS" on the right\).'
+  ring: RING_000024
+PROP_000110:
+  citation_left: []
+  citation_right: []
+  crosstable_pk: 24968
+  has_on_left: false
+  has_on_right: false
+  property: PROP_000110
+  reason_left: 'Logic (rings) 458: \(NOT "CS" on the left\) <=== \(NOT "uniform" on
+    the left\) AND \( "strongly connected" \).'
+  reason_right: 'Logic (rings) 458: \(NOT "CS" on the right\) <=== \(NOT "uniform"
+    on the right\) AND \( "strongly connected" \).'
   ring: RING_000024
 PROP_000111:
   citation_left: []
@@ -1281,6 +1519,18 @@ PROP_000167:
   property: PROP_000167
   reason_left: 'Logic (rings) 518: \(NOT "torch" \) <=== \( "local" \).'
   reason_right: 'Logic (rings) 518: \(NOT "torch" \) <=== \( "local" \).'
+  ring: RING_000024
+PROP_000168:
+  citation_left: []
+  citation_right: []
+  crosstable_pk: 24951
+  has_on_left: false
+  has_on_right: false
+  property: PROP_000168
+  reason_left: 'Logic (rings) 516: \(NOT "FGC" \) <=== \(NOT "Bezout" on the left
+    and right\).'
+  reason_right: 'Logic (rings) 516: \(NOT "FGC" \) <=== \(NOT "Bezout" on the left
+    and right\).'
   ring: RING_000024
 PROP_000169:
   citation_left: []

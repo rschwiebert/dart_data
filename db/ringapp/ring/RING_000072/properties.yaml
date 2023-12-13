@@ -316,6 +316,61 @@ PROP_000031:
   reason_left: 'Logic 100: semilocal ===> top regular'
   reason_right: 'Logic 100: semilocal ===> top regular'
   ring: RING_000072
+PROP_000032:
+  citation_left: []
+  citation_right: []
+  crosstable_pk: 24935
+  has_on_left: false
+  has_on_right: false
+  property: PROP_000032
+  reason_left: 'Logic (rings) 195: \(NOT "semicommutative  (SI condition, zero-insertive)"
+    \) <=== \(NOT "2-primal" \).'
+  reason_right: 'Logic (rings) 195: \(NOT "semicommutative  (SI condition, zero-insertive)"
+    \) <=== \(NOT "2-primal" \).'
+  ring: RING_000072
+PROP_000033:
+  citation_left: []
+  citation_right: []
+  crosstable_pk: 24934
+  has_on_left: false
+  has_on_right: false
+  property: PROP_000033
+  reason_left: Use the image of $M_2(F_2)$ in $R$ to find two nilpotents that add
+    up to a non-nilpotent
+  reason_right: symmetry with left side
+  ring: RING_000072
+PROP_000034:
+  citation_left: []
+  citation_right: []
+  crosstable_pk: 24936
+  has_on_left: false
+  has_on_right: false
+  property: PROP_000034
+  reason_left: 'Logic (rings) 147: \(NOT "2-primal" \) <=== \(NOT "NI (nilpotents
+    form an ideal)" \).'
+  reason_right: 'Logic (rings) 147: \(NOT "2-primal" \) <=== \(NOT "NI (nilpotents
+    form an ideal)" \).'
+  ring: RING_000072
+PROP_000035:
+  citation_left: []
+  citation_right: []
+  crosstable_pk: 24937
+  has_on_left: false
+  has_on_right: false
+  property: PROP_000035
+  reason_left: 'Logic (rings) 177: \(NOT "reversible" \) <=== \(NOT "2-primal" \).'
+  reason_right: 'Logic (rings) 177: \(NOT "reversible" \) <=== \(NOT "2-primal" \).'
+  ring: RING_000072
+PROP_000036:
+  citation_left: []
+  citation_right: []
+  crosstable_pk: 24938
+  has_on_left: false
+  has_on_right: false
+  property: PROP_000036
+  reason_left: 'Logic (rings) 178: \(NOT "symmetric" \) <=== \(NOT "reversible" \).'
+  reason_right: 'Logic (rings) 178: \(NOT "symmetric" \) <=== \(NOT "reversible" \).'
+  ring: RING_000072
 PROP_000037:
   citation_left: []
   citation_right: []
@@ -759,6 +814,16 @@ PROP_000083:
     the left and right'
   reason_right: 'Logic 235: self-injective on the left and right ===> cohopfian on
     the left and right'
+  ring: RING_000072
+PROP_000084:
+  citation_left: []
+  citation_right: []
+  crosstable_pk: 24939
+  has_on_left: false
+  has_on_right: false
+  property: PROP_000084
+  reason_left: 'Logic (rings) logical OR: ring_deduced("lacks",2,Y) <=== ring_deduced("lacks",4,Y).'
+  reason_right: 'Logic (rings) logical OR: ring_deduced("lacks",3,Y) <=== ring_deduced("lacks",4,Y).'
   ring: RING_000072
 PROP_000085:
   citation_left: []

@@ -5,3 +5,17 @@ SUBSET_000004:
   ring: RING_000139
   subset: $\{0,1\}$
   subset_type: SUBSET_000004
+SUBSET_000007:
+  citation: []
+  crosstable_pk: 759
+  reason: null
+  ring: RING_000139
+  subset: $\{[[0,0],[0,0]],[[0,4],[0,0]]\}$
+  subset_type: SUBSET_000007
+SUBSET_000008:
+  citation: []
+  crosstable_pk: 760
+  reason: null
+  ring: RING_000139
+  subset: $\{[[0,0],[0,0]],[[0,4],[0,0]]\}$
+  subset_type: SUBSET_000008

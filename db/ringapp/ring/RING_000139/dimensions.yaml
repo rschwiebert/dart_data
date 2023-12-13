@@ -13,8 +13,8 @@ DIM_000003:
   citation: []
   crosstable_pk: 388
   dimension_type: DIM_000003
-  left_dimension: '16'
+  left_dimension: '64'
   reason_left: null
   reason_right: null
-  right_dimension: '16'
+  right_dimension: '64'
   ring: RING_000139

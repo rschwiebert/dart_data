@@ -1,0 +1,8 @@
+active: true
+citation: []
+concs: ring_deduced("lacks",3,105)
+hyps: ring_deduced("has",3,100) AND ring_deduced("lacks",3,98)
+readable: ring is nonzero socle on the right AND ring is not simple socle on the right
+  ===> ring is not uniform on the right
+symmetric: false
+variety: 0

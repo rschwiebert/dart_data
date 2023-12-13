@@ -289,6 +289,38 @@ PROP_000027:
   reason_left: 'Logic (rings) 99: \( "stable range 1" \) <=== \( "semilocal" \).'
   reason_right: 'Logic (rings) 99: \( "stable range 1" \) <=== \( "semilocal" \).'
   ring: RING_000157
+PROP_000028:
+  citation_left: []
+  citation_right: []
+  crosstable_pk: 24941
+  has_on_left: false
+  has_on_right: false
+  property: PROP_000028
+  reason_left: 'Logic (rings) 175: \(NOT "primary" \) <=== \(NOT "top simple" \).'
+  reason_right: 'Logic (rings) 175: \(NOT "primary" \) <=== \(NOT "top simple" \).'
+  ring: RING_000157
+PROP_000029:
+  citation_left: []
+  citation_right: []
+  crosstable_pk: 24940
+  has_on_left: false
+  has_on_right: false
+  property: PROP_000029
+  reason_left: Top is isomorphic to $F_2\times M_2(F_2)$
+  reason_right: symmetry with left side
+  ring: RING_000157
+PROP_000030:
+  citation_left: []
+  citation_right: []
+  crosstable_pk: 24942
+  has_on_left: false
+  has_on_right: false
+  property: PROP_000030
+  reason_left: 'Logic (rings) 205: \(NOT "top simple Artinian" \) <=== \(NOT "top
+    simple" \).'
+  reason_right: 'Logic (rings) 205: \(NOT "top simple Artinian" \) <=== \(NOT "top
+    simple" \).'
+  ring: RING_000157
 PROP_000031:
   citation_left: []
   citation_right: []
@@ -1486,6 +1518,27 @@ PROP_000161:
     \(NOT "discrete valuation ring" \).'
   reason_right: 'Logic (rings) 495: \(NOT "complete discrete valuation ring" \) <===
     \(NOT "discrete valuation ring" \).'
+  ring: RING_000157
+PROP_000162:
+  citation_left: []
+  citation_right: []
+  crosstable_pk: 24945
+  has_on_left: true
+  has_on_right: true
+  property: PROP_000162
+  reason_left: 'Logic (rings) 496: \( "anti-automorphic" \) <=== \( "involutive" \).'
+  reason_right: 'Logic (rings) 496: \( "anti-automorphic" \) <=== \( "involutive"
+    \).'
+  ring: RING_000157
+PROP_000163:
+  citation_left: []
+  citation_right: []
+  crosstable_pk: 24944
+  has_on_left: true
+  has_on_right: true
+  property: PROP_000163
+  reason_left: There's a canonical one defined by $g\mapsto g^{-1}$
+  reason_right: symmetry with left side
   ring: RING_000157
 PROP_000164:
   citation_left: []

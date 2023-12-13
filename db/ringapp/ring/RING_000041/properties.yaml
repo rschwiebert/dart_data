@@ -321,6 +321,28 @@ PROP_000032:
   reason_left: 'Logic 180: semicommutative  (SI condition, zero-insertive) ===> Abelian'
   reason_right: 'Logic 180: semicommutative  (SI condition, zero-insertive) ===> Abelian'
   ring: RING_000041
+PROP_000033:
+  citation_left: []
+  citation_right: []
+  crosstable_pk: 24949
+  has_on_left: true
+  has_on_right: true
+  property: PROP_000033
+  reason_left: 'Logic (rings) 147: \( "NI (nilpotents form an ideal)" \) <=== \( "2-primal"
+    \).'
+  reason_right: 'Logic (rings) 147: \( "NI (nilpotents form an ideal)" \) <=== \(
+    "2-primal" \).'
+  ring: RING_000041
+PROP_000034:
+  citation_left: []
+  citation_right: []
+  crosstable_pk: 24948
+  has_on_left: true
+  has_on_right: true
+  property: PROP_000034
+  reason_left: null
+  reason_right: symmetry with left side
+  ring: RING_000041
 PROP_000035:
   citation_left: []
   citation_right: []
@@ -480,6 +502,16 @@ PROP_000050:
   property: PROP_000050
   reason_left: 'Logic 132: semiregular <==> lift/rad and top regular'
   reason_right: 'Logic 132: semiregular <==> lift/rad and top regular'
+  ring: RING_000041
+PROP_000051:
+  citation_left: []
+  citation_right: []
+  crosstable_pk: 24946
+  has_on_left: true
+  has_on_right: true
+  property: PROP_000051
+  reason_left: It's a subring of the full matrix ring (which has PI)
+  reason_right: symmetry with left side
   ring: RING_000041
 PROP_000052:
   citation_left: []

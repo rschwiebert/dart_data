@@ -1,7 +1,7 @@
 citation:
 - CITE_000077
-description: Let $F$ be the field of two elements, and $R=F\langle x,y,z\rangle /I$
-  where $I=(FxF)^2+(FyF)^2+(FzF)^2 + FxyzF + FyzxF + FzxyF$
+description: Let $F$ be the field of two elements, $S=F\langle x,y,z\rangle$ and $R=S
+  /I$ where $I=(SxS)^2+(SyS)^2+(SzS)^2 + SxyzS + SyzxS + SzxyS$
 is_commutative: false
 keywords:
 - KWD_000003
