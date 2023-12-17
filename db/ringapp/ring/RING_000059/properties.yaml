@@ -19,6 +19,16 @@ PROP_000002:
   reason_left: 'Logic 16: division ring ===> valuation ring on the left and right'
   reason_right: 'Logic 16: division ring ===> valuation ring on the left and right'
   ring: RING_000059
+PROP_000003:
+  citation_left: []
+  citation_right: []
+  crosstable_pk: 25016
+  has_on_left: false
+  has_on_right: false
+  property: PROP_000003
+  reason_left: It has at least its augmentation ideal
+  reason_right: symmetry with left side
+  ring: RING_000059
 PROP_000004:
   citation_left: []
   citation_right: []
@@ -39,6 +49,17 @@ PROP_000005:
   reason_left: 'Logic 213: semisimple <==> finitely cogenerated on the right and semiprime'
   reason_right: 'Logic 213: semisimple <==> finitely cogenerated on the right and
     semiprime'
+  ring: RING_000059
+PROP_000006:
+  citation_left: []
+  citation_right: []
+  crosstable_pk: 24992
+  has_on_left: true
+  has_on_right: true
+  property: PROP_000006
+  reason_left: The length of words from the monoid is additive. This means the units
+    have to be in $\mathbb Q$, and $1-rs$ can't be a unit if $r$ is a nonunit
+  reason_right: symmetry with left side
   ring: RING_000059
 PROP_000007:
   citation_left: []
@@ -153,6 +174,86 @@ PROP_000020:
   reason_left: 'Logic 94: semiprimary ===> perfect on the left and right'
   reason_right: 'Logic 94: semiprimary ===> perfect on the left and right'
   ring: RING_000059
+PROP_000021:
+  citation_left: []
+  citation_right: []
+  crosstable_pk: 25011
+  has_on_left: true
+  has_on_right: true
+  property: PROP_000021
+  reason_left: 'Logic (rings) 261: \( "nilpotent radical" \) <=== \( "semiprimitive"
+    \).'
+  reason_right: 'Logic (rings) 261: \( "nilpotent radical" \) <=== \( "semiprimitive"
+    \).'
+  ring: RING_000059
+PROP_000022:
+  citation_left: []
+  citation_right: []
+  crosstable_pk: 25012
+  has_on_left: true
+  has_on_right: true
+  property: PROP_000022
+  reason_left: 'Logic (rings) 153: \( "nil radical" \) <=== \( "T-nilpotent radical"
+    on the left or right\).'
+  reason_right: 'Logic (rings) 153: \( "nil radical" \) <=== \( "T-nilpotent radical"
+    on the left or right\).'
+  ring: RING_000059
+PROP_000023:
+  citation_left: []
+  citation_right: []
+  crosstable_pk: 24993
+  has_on_left: false
+  has_on_right: false
+  property: PROP_000023
+  reason_left: 'Logic (rings) 280: \(NOT "local" \) <=== \(NOT "division ring" \)
+    AND \( "semiprimitive" \).'
+  reason_right: 'Logic (rings) 280: \(NOT "local" \) <=== \(NOT "division ring" \)
+    AND \( "semiprimitive" \).'
+  ring: RING_000059
+PROP_000024:
+  citation_left: []
+  citation_right: []
+  crosstable_pk: 24994
+  has_on_left: false
+  has_on_right: false
+  property: PROP_000024
+  reason_left: 'Logic (rings) 189: \(NOT "semilocal" \) <=== \(NOT "semisimple" \)
+    AND \( "semiprimitive" \).'
+  reason_right: 'Logic (rings) 189: \(NOT "semilocal" \) <=== \(NOT "semisimple" \)
+    AND \( "semiprimitive" \).'
+  ring: RING_000059
+PROP_000025:
+  citation_left: []
+  citation_right: []
+  crosstable_pk: 24995
+  has_on_left: false
+  has_on_right: false
+  property: PROP_000025
+  reason_left: 'Logic (rings) 103: \(NOT "semiperfect" \) <=== \(NOT "semilocal" \).'
+  reason_right: 'Logic (rings) 103: \(NOT "semiperfect" \) <=== \(NOT "semilocal"
+    \).'
+  ring: RING_000059
+PROP_000026:
+  citation_left: []
+  citation_right: []
+  crosstable_pk: 25013
+  has_on_left: true
+  has_on_right: true
+  property: PROP_000026
+  reason_left: 'Logic (rings) 152: \( "lift/rad" \) <=== \( "nil radical" \).'
+  reason_right: 'Logic (rings) 152: \( "lift/rad" \) <=== \( "nil radical" \).'
+  ring: RING_000059
+PROP_000027:
+  citation_left: []
+  citation_right: []
+  crosstable_pk: 25019
+  has_on_left: false
+  has_on_right: false
+  property: PROP_000027
+  reason_left: With $B=1-xa$, then $xa+b=1$, but $a+Yb\in \mathbb Q^\times$ does not
+    have any solutions for $Y$.
+  reason_right: symmetry with left side
+  ring: RING_000059
 PROP_000028:
   citation_left: []
   citation_right: []
@@ -162,6 +263,42 @@ PROP_000028:
   property: PROP_000028
   reason_left: 'Logic 255: primary ===> Kasch on the left and right'
   reason_right: 'Logic 255: primary ===> Kasch on the left and right'
+  ring: RING_000059
+PROP_000029:
+  citation_left: []
+  citation_right: []
+  crosstable_pk: 25017
+  has_on_left: false
+  has_on_right: false
+  property: PROP_000029
+  reason_left: 'Logic (rings) 206: \(NOT "top simple" \) <=== \(NOT "simple" \) AND
+    \( "semiprimitive" \).'
+  reason_right: 'Logic (rings) 206: \(NOT "top simple" \) <=== \(NOT "simple" \) AND
+    \( "semiprimitive" \).'
+  ring: RING_000059
+PROP_000030:
+  citation_left: []
+  citation_right: []
+  crosstable_pk: 24996
+  has_on_left: false
+  has_on_right: false
+  property: PROP_000030
+  reason_left: 'Logic (rings) 207: \(NOT "top simple Artinian" \) <=== \(NOT "simple
+    Artinian" \) AND \( "semiprimitive" \).'
+  reason_right: 'Logic (rings) 207: \(NOT "top simple Artinian" \) <=== \(NOT "simple
+    Artinian" \) AND \( "semiprimitive" \).'
+  ring: RING_000059
+PROP_000031:
+  citation_left: []
+  citation_right: []
+  crosstable_pk: 24997
+  has_on_left: false
+  has_on_right: false
+  property: PROP_000031
+  reason_left: 'Logic (rings) 35: \(NOT "top regular" \) <=== \(NOT "von Neumann regular"
+    \) AND \( "semiprimitive" \).'
+  reason_right: 'Logic (rings) 35: \(NOT "top regular" \) <=== \(NOT "von Neumann
+    regular" \) AND \( "semiprimitive" \).'
   ring: RING_000059
 PROP_000032:
   citation_left: []
@@ -293,6 +430,86 @@ PROP_000045:
   reason_left: 'Logic 124: strongly $\pi$-regular ===> cohopfian on the left and right'
   reason_right: 'Logic 124: strongly $\pi$-regular ===> cohopfian on the left and
     right'
+  ring: RING_000059
+PROP_000046:
+  citation_left: []
+  citation_right: []
+  crosstable_pk: 24998
+  has_on_left: false
+  has_on_right: false
+  property: PROP_000046
+  reason_left: 'Logic (rings) 126: \(NOT "$\pi$-regular" \) <=== \(NOT "exchange"
+    \).'
+  reason_right: 'Logic (rings) 126: \(NOT "$\pi$-regular" \) <=== \(NOT "exchange"
+    \).'
+  ring: RING_000059
+PROP_000047:
+  citation_left: []
+  citation_right: []
+  crosstable_pk: 24999
+  has_on_left: false
+  has_on_right: false
+  property: PROP_000047
+  reason_left: 'Logic (rings) 380: \(NOT "exchange" \) <=== \(NOT "local" \) AND \(
+    "strongly connected" \).'
+  reason_right: 'Logic (rings) 380: \(NOT "exchange" \) <=== \(NOT "local" \) AND
+    \( "strongly connected" \).'
+  ring: RING_000059
+PROP_000048:
+  citation_left: []
+  citation_right: []
+  crosstable_pk: 25000
+  has_on_left: false
+  has_on_right: false
+  property: PROP_000048
+  reason_left: 'Logic (rings) 477: \(NOT "$I_0$" \) <=== \(NOT "local" \) AND \( "strongly
+    connected" \).'
+  reason_right: 'Logic (rings) 477: \(NOT "$I_0$" \) <=== \(NOT "local" \) AND \(
+    "strongly connected" \).'
+  ring: RING_000059
+PROP_000049:
+  citation_left: []
+  citation_right: []
+  crosstable_pk: 25001
+  has_on_left: false
+  has_on_right: false
+  property: PROP_000049
+  reason_left: 'Logic (rings) 130: \(NOT "Zorn" \) <=== \(NOT "$I_0$" \).'
+  reason_right: 'Logic (rings) 130: \(NOT "Zorn" \) <=== \(NOT "$I_0$" \).'
+  ring: RING_000059
+PROP_000050:
+  citation_left: []
+  citation_right: []
+  crosstable_pk: 25002
+  has_on_left: false
+  has_on_right: false
+  property: PROP_000050
+  reason_left: 'Logic (rings) 132: \(NOT "semiregular" \) <=== \(NOT "top regular"
+    \).'
+  reason_right: 'Logic (rings) 132: \(NOT "semiregular" \) <=== \(NOT "top regular"
+    \).'
+  ring: RING_000059
+PROP_000052:
+  citation_left: []
+  citation_right: []
+  crosstable_pk: 25003
+  has_on_left: false
+  has_on_right: false
+  property: PROP_000052
+  reason_left: 'Logic (rings) 133: \(NOT "clean" \) <=== \(NOT "weakly clean" \).'
+  reason_right: 'Logic (rings) 133: \(NOT "clean" \) <=== \(NOT "weakly clean" \).'
+  ring: RING_000059
+PROP_000053:
+  citation_left: []
+  citation_right: []
+  crosstable_pk: 25004
+  has_on_left: false
+  has_on_right: false
+  property: PROP_000053
+  reason_left: 'Logic (rings) 476: \(NOT "weakly clean" \) <=== \(NOT "local" \) AND
+    \( "strongly connected" \).'
+  reason_right: 'Logic (rings) 476: \(NOT "weakly clean" \) <=== \(NOT "local" \)
+    AND \( "strongly connected" \).'
   ring: RING_000059
 PROP_000054:
   citation_left: []
@@ -494,6 +711,16 @@ PROP_000076:
   reason_right: 'Logic 222: domain and valuation ring on the right <==> Bezout domain
     on the right and local'
   ring: RING_000059
+PROP_000077:
+  citation_left: []
+  citation_right: []
+  crosstable_pk: 25010
+  has_on_left: false
+  has_on_right: false
+  property: PROP_000077
+  reason_left: 'Logic (rings) logical OR: ring_deduced("lacks",2,Y) <=== ring_deduced("lacks",4,Y).'
+  reason_right: 'Logic (rings) logical OR: ring_deduced("lacks",3,Y) <=== ring_deduced("lacks",4,Y).'
+  ring: RING_000059
 PROP_000078:
   citation_left: []
   citation_right: []
@@ -547,6 +774,16 @@ PROP_000083:
   property: PROP_000083
   reason_left: 'Logic 237: division ring <==> cohopfian on the right and domain'
   reason_right: 'Logic 237: division ring <==> cohopfian on the right and domain'
+  ring: RING_000059
+PROP_000084:
+  citation_left: []
+  citation_right: []
+  crosstable_pk: 25018
+  has_on_left: false
+  has_on_right: false
+  property: PROP_000084
+  reason_left: $ab\notin Ra$
+  reason_right: $ba\notin aR$
   ring: RING_000059
 PROP_000085:
   citation_left: []
@@ -634,6 +871,17 @@ PROP_000095:
     ===> cohopfian on the right'
   reason_right: 'Logic 203: Dedekind finite and principally injective on the right
     ===> cohopfian on the right'
+  ring: RING_000059
+PROP_000097:
+  citation_left: []
+  citation_right: []
+  crosstable_pk: 25014
+  has_on_left: true
+  has_on_right: true
+  property: PROP_000097
+  reason_left: 'Logic (rings) logical AND: ring_deduced("has",2,Y) <=== ring_deduced("has",1,Y).'
+  reason_right: 'Logic (rings) 150: \( "T-nilpotent radical" on the right\) <=== \(
+    "nilpotent radical" \).'
   ring: RING_000059
 PROP_000098:
   citation_left: []
@@ -837,6 +1085,30 @@ PROP_000117:
   reason_right: 'Logic 352: Cohen-Macaulay ===> Noetherian on the left and right and
     universally catenary'
   ring: RING_000059
+PROP_000119:
+  citation_left: []
+  citation_right: []
+  crosstable_pk: 25005
+  has_on_left: false
+  has_on_right: false
+  property: PROP_000119
+  reason_left: 'Logic (rings) 375: \(NOT "analytically normal" \) <=== \(NOT "local"
+    \).'
+  reason_right: 'Logic (rings) 375: \(NOT "analytically normal" \) <=== \(NOT "local"
+    \).'
+  ring: RING_000059
+PROP_000120:
+  citation_left: []
+  citation_right: []
+  crosstable_pk: 25006
+  has_on_left: false
+  has_on_right: false
+  property: PROP_000120
+  reason_left: 'Logic (rings) 466: \(NOT "analytically unramified" \) <=== \(NOT "local"
+    \).'
+  reason_right: 'Logic (rings) 466: \(NOT "analytically unramified" \) <=== \(NOT
+    "local" \).'
+  ring: RING_000059
 PROP_000121:
   citation_left: []
   citation_right: []
@@ -919,6 +1191,16 @@ PROP_000140:
   reason_right: 'Logic 348: Nagata <==> Noetherian on the left and right and universally
     Japanese'
   ring: RING_000059
+PROP_000143:
+  citation_left: []
+  citation_right: []
+  crosstable_pk: 25007
+  has_on_left: false
+  has_on_right: false
+  property: PROP_000143
+  reason_left: 'Logic (rings) 367: \(NOT "complete local" \) <=== \(NOT "local" \).'
+  reason_right: 'Logic (rings) 367: \(NOT "complete local" \) <=== \(NOT "local" \).'
+  ring: RING_000059
 PROP_000144:
   citation_left: []
   citation_right: []
@@ -939,6 +1221,16 @@ PROP_000145:
   reason_left: 'Logic 372: Goldman domain ===> commutative and domain'
   reason_right: 'Logic 372: Goldman domain ===> commutative and domain'
   ring: RING_000059
+PROP_000146:
+  citation_left: []
+  citation_right: []
+  crosstable_pk: 25008
+  has_on_left: false
+  has_on_right: false
+  property: PROP_000146
+  reason_left: 'Logic (rings) 377: \(NOT "potent" \) <=== \(NOT "$I_0$" \).'
+  reason_right: 'Logic (rings) 377: \(NOT "potent" \) <=== \(NOT "$I_0$" \).'
+  ring: RING_000059
 PROP_000147:
   citation_left: []
   citation_right: []
@@ -950,6 +1242,27 @@ PROP_000147:
     and Noetherian on the right and V ring on the right'
   reason_right: 'Logic 382: PCI ring on the right ===> hereditary on the left and
     right and Noetherian on the right and V ring on the right'
+  ring: RING_000059
+PROP_000149:
+  citation_left: []
+  citation_right: []
+  crosstable_pk: 25015
+  has_on_left: true
+  has_on_right: true
+  property: PROP_000149
+  reason_left: $M$ is countable, so is $\mathbb Q[M]$.
+  reason_right: symmetry with left side
+  ring: RING_000059
+PROP_000150:
+  citation_left: []
+  citation_right: []
+  crosstable_pk: 25009
+  has_on_left: false
+  has_on_right: false
+  property: PROP_000150
+  reason_left: 'Logic (rings) 397: \(NOT "Henselian local" \) <=== \(NOT "local" \).'
+  reason_right: 'Logic (rings) 397: \(NOT "Henselian local" \) <=== \(NOT "local"
+    \).'
   ring: RING_000059
 PROP_000151:
   citation_left: []
