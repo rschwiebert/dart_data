@@ -142,6 +142,29 @@ PROP_000014:
   reason_left: 'Logic 36: von Neumann regular ===> Ore ring on the left and right'
   reason_right: 'Logic 36: von Neumann regular ===> Ore ring on the left and right'
   ring: RING_000059
+PROP_000016:
+  citation_left: []
+  citation_right: []
+  crosstable_pk: 25020
+  has_on_left: false
+  has_on_right: false
+  property: PROP_000016
+  reason_left: Quotients of fully semiprime rings are fully semprime, and this ring
+    has $\mathbb Q[x]$ as a quotient (not fully semiprime)
+  reason_right: symmetry with left side
+  ring: RING_000059
+PROP_000017:
+  citation_left: []
+  citation_right: []
+  crosstable_pk: 25021
+  has_on_left: false
+  has_on_right: false
+  property: PROP_000017
+  reason_left: 'Logic (rings) 145: \(NOT "fully prime" \) <=== \(NOT "fully semiprime"
+    \).'
+  reason_right: 'Logic (rings) 145: \(NOT "fully prime" \) <=== \(NOT "fully semiprime"
+    \).'
+  ring: RING_000059
 PROP_000018:
   citation_left: []
   citation_right: []
