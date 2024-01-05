@@ -2,7 +2,11 @@ citation:
 - CITE_000555
 - CITE_000557
 - CITE_000556
-description: Details to be added later
+description: 'Let $S = \mathbb Q[\ldots, x_{-1}, x_0, x_1, \ldots]$, $I = ( \{ x_k
+  x_{k + a} x_{k + 2a}: k \in \Bbb Z, a \in \Bbb Z \setminus \{0\} \} )$ an ideal
+  of $S$, and $\sigma$ the $\mathbb Q$-automorphism of $S$ such that $\sigma(x_i)
+  = x_{i + 1}$ for all $i$. Then, $\sigma$ induces a $\mathbb Q$-automorphism of $T
+  = S/I$. The required ring is the skew polynomial ring $R=T[x; \sigma]$.'
 is_commutative: false
 keywords:
 - KWD_000027
