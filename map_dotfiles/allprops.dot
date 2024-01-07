@@ -11,9 +11,11 @@ subgraph cluster_01 {
     "left and right" -> "all these " [color=blue shape=rectangle]
 }
 
-    label=<All ring properties<br/>(© Database of Ring Theory; Last updated 2022-10-16)>
+    label=<All ring properties<br/>(© Database of Ring Theory; Last updated 2024-01-06)>
     URL="https://ringtheory.herokuapp.com/";
     labelloc=top;
+
+    graph [pad="0.5", ranksep="2.000"];
 	"von Neumann regular" -> "top regular" [color=black]
 	commutative -> "polynomial identity" [color=black]
 	semisimple -> Baer [color=black]
