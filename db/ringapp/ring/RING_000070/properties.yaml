@@ -866,6 +866,56 @@ PROP_000097:
   reason_right: 'Logic 150: nilpotent radical ===> T-nilpotent radical on the left
     and right and T-nilpotent radical on the right'
   ring: RING_000070
+PROP_000098:
+  citation_left: []
+  citation_right: []
+  crosstable_pk: 25319
+  has_on_left: false
+  has_on_right: false
+  property: PROP_000098
+  reason_left: 'Logic (rings) 270: \(NOT "simple socle" on the left\) <=== \(NOT "uniform"
+    on the left\) AND \( "essential socle" on the left\).'
+  reason_right: 'Logic (rings) 270: \(NOT "simple socle" on the right\) <=== \(NOT
+    "uniform" on the right\) AND \( "essential socle" on the right\).'
+  ring: RING_000070
+PROP_000099:
+  citation_left: []
+  citation_right: []
+  crosstable_pk: 25320
+  has_on_left: false
+  has_on_right: false
+  property: PROP_000099
+  reason_left: 'Logic (rings) 212: \(NOT "finitely generated socle" on the left\)
+    <=== \(NOT "finitely cogenerated" on the left\) AND \( "essential socle" on the
+    left\).'
+  reason_right: 'Logic (rings) 212: \(NOT "finitely generated socle" on the right\)
+    <=== \(NOT "finitely cogenerated" on the right\) AND \( "essential socle" on the
+    right\).'
+  ring: RING_000070
+PROP_000100:
+  citation_left: []
+  citation_right: []
+  crosstable_pk: 25321
+  has_on_left: true
+  has_on_right: true
+  property: PROP_000100
+  reason_left: 'Logic (rings) 156: \( "nonzero socle" on the left\) <=== \( "essential
+    socle" on the left\).'
+  reason_right: 'Logic (rings) 156: \( "nonzero socle" on the right\) <=== \( "essential
+    socle" on the right\).'
+  ring: RING_000070
+PROP_000101:
+  citation_left: []
+  citation_right: []
+  crosstable_pk: 25322
+  has_on_left: true
+  has_on_right: true
+  property: PROP_000101
+  reason_left: 'Logic (rings) 552: \( "essential socle" on the left\) <=== \( "semi-Artinian"
+    on the left\).'
+  reason_right: 'Logic (rings) 552: \( "essential socle" on the right\) <=== \( "semi-Artinian"
+    on the right\).'
+  ring: RING_000070
 PROP_000103:
   citation_left: []
   citation_right: []
@@ -1175,6 +1225,17 @@ PROP_000147:
     and Noetherian on the right and V ring on the right'
   reason_right: 'Logic 382: PCI ring on the right ===> hereditary on the left and
     right and Noetherian on the right and V ring on the right'
+  ring: RING_000070
+PROP_000149:
+  citation_left: []
+  citation_right: []
+  crosstable_pk: 25317
+  has_on_left: false
+  has_on_right: false
+  property: PROP_000149
+  reason_left: The collection of top rows of matrices in the ring is $\prod_\omega
+    F_2$, which is uncountable.
+  reason_right: symmetry with left side
   ring: RING_000070
 PROP_000150:
   citation_left: []
