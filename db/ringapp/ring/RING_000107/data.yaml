@@ -1,7 +1,8 @@
 citation:
 - CITE_000235
-description: The ring can be described using a quotient of $\prod_{i\in\mathbb N}\mathbb
-  R$ (to be elaborated later)
+description: Let $S=\prod_{i\in \mathbb N}$, and let $T$ be the ideal of sequences
+  of finite support. Select a maximal ideal $M$ of $S$ containing $T$. The hyperreals
+  can be realized as the quotient ring $R=S/T$.
 is_commutative: true
 keywords:
 - KWD_000011
