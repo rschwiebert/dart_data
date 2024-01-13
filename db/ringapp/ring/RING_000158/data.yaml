@@ -1,0 +1,14 @@
+citation:
+- CITE_000556
+description: Let $S=\mathbb Q[\{x_i\mid i\in\mathbb Z\}]$, and $I$ be the ideal generated
+  by $\{x_zx_{z+a}x_{z+2a}\mid z\in\mathbb Z, a\in \mathbb N^{>0}\}$.  The required
+  ring is $R=S/I$, which looks like a polynomial ring in which no monomial contains
+  an arithmetic progression of indices.
+is_commutative: true
+keywords:
+- KWD_000002
+- KWD_000003
+krull_dim: null
+name: Progression free polynomial ring
+notes: null
+optional_template: ''
