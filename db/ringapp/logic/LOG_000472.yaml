@@ -3,6 +3,6 @@ citation:
 - CITE_000509
 concs: ring_deduced("has",0,41)
 hyps: ring_deduced("has",0,158)
-readable: ring is IC (internal cancellation) ===> ring is Dedekind finite
+readable: ring is IC ring ===> ring is Dedekind finite
 symmetric: true
 variety: 0

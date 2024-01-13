@@ -2,5 +2,5 @@ active: true
 citation: []
 concs: module_deduced("has",44)
 hyps: module_deduced("has",33)
-readable: module is strongly indecomposable (endolocal)  ===>  module is clean (endoclean)
+readable: module is strongly indecomposable  ===>  module is clean
 variety: 0

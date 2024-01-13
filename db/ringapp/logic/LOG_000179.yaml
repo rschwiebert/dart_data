@@ -3,6 +3,6 @@ citation:
 - CITE_000028
 concs: ring_deduced("has",0,32)
 hyps: ring_deduced("has",0,35)
-readable: ring is reversible ===> ring is semicommutative  (SI condition, zero-insertive)
+readable: ring is reversible ===> ring is semicommutative
 symmetric: true
 variety: 0

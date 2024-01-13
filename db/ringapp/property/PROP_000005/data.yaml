@@ -3,6 +3,6 @@ citation:
 - CITE_000283
 - CITE_000268
 commutative_only: false
-definition: semiprimitive and Artinian
+definition: 'semiprimitive and Artinian. Also known as: Wedderburn ring'
 name: semisimple
 symmetric: true

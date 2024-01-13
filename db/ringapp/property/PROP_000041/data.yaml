@@ -1,5 +1,6 @@
 citation: []
 commutative_only: false
-definition: xy=1 implies yx=1
+definition: 'For all $x,y\in R$, $xy=1$ implies $yx=1$.  Also known as: directly finite,
+  von Neumann finite'
 name: Dedekind finite
 symmetric: true

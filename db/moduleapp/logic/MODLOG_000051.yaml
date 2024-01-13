@@ -4,5 +4,4 @@ citation:
 concs: module_deduced("has",33)
 hyps: module_deduced("has",1) AND module_deduced("has",18)
 readable: module is Artinian AND module is uniform  ===>  module is strongly indecomposable
-  (endolocal)
 variety: 0

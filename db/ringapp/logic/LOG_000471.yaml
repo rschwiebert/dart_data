@@ -3,7 +3,6 @@ citation:
 - CITE_000508
 concs: ring_deduced("has",0,158)
 hyps: ring_deduced("has",2,157)
-readable: ring is unique generator property on the left ===> ring is IC (internal
-  cancellation)
+readable: ring is UGP ring on the left ===> ring is IC ring
 symmetric: false
 variety: 0

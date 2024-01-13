@@ -1,5 +1,6 @@
 citation: []
 commutative_only: false
-definition: The right ideals of $R$ are linearly ordered
+definition: 'The right ideals of $R$ are linearly ordered. Also known as: right chain
+  ring, right valuation ring'
 name: uniserial ring
 symmetric: false

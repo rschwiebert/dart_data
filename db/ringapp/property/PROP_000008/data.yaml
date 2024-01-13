@@ -1,5 +1,6 @@
 citation: []
 commutative_only: false
-definition: No nonzero zero divisors
+definition: 'No nonzero zero divisors.  Also known as: entire rings (mainly for commutative
+  domains)'
 name: domain
 symmetric: true

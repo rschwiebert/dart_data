@@ -2,6 +2,6 @@ active: true
 citation: []
 concs: module_deduced("has",28)
 hyps: module_deduced("has",54) AND module_deduced("has",1)
-readable: module is semi-Noetherian (Hamsher, max module) AND module is Artinian  ===>  module
-  is finite composition length
+readable: module is semi-Noetherian AND module is Artinian  ===>  module is finite
+  composition length
 variety: 0

@@ -2,5 +2,5 @@ active: true
 citation: []
 concs: module_deduced("has",24)
 hyps: module_deduced("has",27)
-readable: module is reflexive  ===>  module is semi-reflexive (torsionless)
+readable: module is reflexive  ===>  module is semi-reflexive
 variety: 0

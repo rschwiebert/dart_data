@@ -1,4 +1,4 @@
 citation: []
-definition: The intersection of all nonzero submodules of $M$ is nonzero.  (Or, $M$
-  has a simple essential submodule.)
-name: subdirectly irreducible (co-local)
+definition: 'The intersection of all nonzero submodules of $M$ is nonzero.  (Or, $M$
+  has a simple essential submodule.) Also known as: co-local modules'
+name: subdirectly irreducible

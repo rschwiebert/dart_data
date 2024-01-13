@@ -2,6 +2,5 @@ active: true
 citation: []
 concs: module_deduced("has",54)
 hyps: module_deduced("has",57)
-readable: module is strongly semi-Noetherian  ===>  module is semi-Noetherian (Hamsher,
-  max module)
+readable: module is strongly semi-Noetherian  ===>  module is semi-Noetherian
 variety: 0

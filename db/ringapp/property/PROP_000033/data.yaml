@@ -1,5 +1,6 @@
 citation: []
 commutative_only: false
-definition: The set of nilpotent elements in $R$ forms an ideal.
-name: NI (nilpotents form an ideal)
+definition: '"Nilpotents form an Ideal": The set of nilpotent elements in $R$ forms
+  an ideal.'
+name: NI ring
 symmetric: true

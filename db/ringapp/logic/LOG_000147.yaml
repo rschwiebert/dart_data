@@ -2,6 +2,6 @@ active: true
 citation: []
 concs: ring_deduced("has",0,33)
 hyps: ring_deduced("has",0,34)
-readable: ring is 2-primal ===> ring is NI (nilpotents form an ideal)
+readable: ring is 2-primal ===> ring is NI ring
 symmetric: true
 variety: 0

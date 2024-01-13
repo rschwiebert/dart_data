@@ -2,5 +2,5 @@ active: true
 citation: []
 concs: module_deduced("has",18)
 hyps: module_deduced("has",48)
-readable: module is subdirectly irreducible (co-local)  ===>  module is uniform
+readable: module is subdirectly irreducible  ===>  module is uniform
 variety: 0

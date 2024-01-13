@@ -3,6 +3,6 @@ citation:
 - CITE_000030
 concs: ring_deduced("has",0,41)
 hyps: ring_deduced("has",0,33)
-readable: ring is NI (nilpotents form an ideal) ===> ring is Dedekind finite
+readable: ring is NI ring ===> ring is Dedekind finite
 symmetric: true
 variety: 0

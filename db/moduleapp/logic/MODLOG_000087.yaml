@@ -3,5 +3,4 @@ citation: []
 concs: module_deduced(X,33)
 hyps: module_deduced("has",39) AND ring_deduced(X,0,23)
 readable: module is $R_R$ AND ring X local  ===>  module X strongly indecomposable
-  (endolocal)
 variety: 0

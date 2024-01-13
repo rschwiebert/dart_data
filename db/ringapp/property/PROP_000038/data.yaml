@@ -1,5 +1,6 @@
 citation: []
 commutative_only: false
-definition: The only central idempotents are $0$ and $1$
-name: connected
+definition: 'The only central idempotents are $0$ and $1$. Also known as: connected
+  (especially for commutative rings)'
+name: directly irreducible
 symmetric: true

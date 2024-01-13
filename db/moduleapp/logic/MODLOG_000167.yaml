@@ -2,5 +2,5 @@ active: true
 citation: []
 concs: module_deduced("has",55)
 hyps: module_deduced("has",5)
-readable: module is semisimple  ===>  module is semi-Artinian (Loewy)
+readable: module is semisimple  ===>  module is semi-Artinian
 variety: 0

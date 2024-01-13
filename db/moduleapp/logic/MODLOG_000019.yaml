@@ -3,5 +3,5 @@ citation:
 - CITE_000003
 concs: module_deduced("has",24)
 hyps: module_deduced("has",6)
-readable: module is projective  ===>  module is semi-reflexive (torsionless)
+readable: module is projective  ===>  module is semi-reflexive
 variety: 0

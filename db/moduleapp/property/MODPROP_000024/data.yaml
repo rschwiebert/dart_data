@@ -1,4 +1,4 @@
 citation: []
-definition: There exist an injection $M\to \prod_{i\in I} R$ for some number of copies
-  of $R$.
-name: semi-reflexive (torsionless)
+definition: 'There exist an injection $M\to \prod_{i\in I} R$ for some number of copies
+  of $R$. Also known as: torsionless modules'
+name: semi-reflexive

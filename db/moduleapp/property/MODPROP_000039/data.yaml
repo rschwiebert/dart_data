@@ -1,4 +1,4 @@
 citation: []
-definition: Not a real property, but very useful for the logic engine to fill in ring
-  properties that translate to module properties for the right regular module.
+definition: This module is the right regular module over its ring. (The software uses
+  this to deduce properties about the module directly from its ring.)
 name: $R_R$

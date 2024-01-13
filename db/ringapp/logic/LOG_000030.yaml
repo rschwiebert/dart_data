@@ -2,6 +2,6 @@ active: true
 citation: []
 concs: ring_deduced("has",0,38)
 hyps: ring_deduced("has",0,9)
-readable: ring is prime ===> ring is connected
+readable: ring is prime ===> ring is directly irreducible
 symmetric: true
 variety: 0

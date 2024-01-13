@@ -1,5 +1,6 @@
 citation:
 - MODCITE_000030
 - MODCITE_000029
-definition: Every nonzero submodule of $M$ has a maximal submodule.
-name: semi-Noetherian (Hamsher, max module)
+definition: 'Every nonzero submodule of $M$ has a maximal submodule. Also known as:
+  max modules, Hamsher modules'
+name: semi-Noetherian

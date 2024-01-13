@@ -3,6 +3,6 @@ citation:
 - CITE_000002
 concs: module_deduced("has",8)
 hyps: module_deduced("has",24) AND ring_deduced("has",2,71)
-readable: module is semi-reflexive (torsionless) AND ring is semihereditary on the
-  left  ===>  module is flat
+readable: module is semi-reflexive AND ring is semihereditary on the left  ===>  module
+  is flat
 variety: 0

@@ -1,5 +1,6 @@
 citation: []
 commutative_only: false
-definition: $ab=0$ implies $aRb=\{0\}$ for all $a,b\in R$.
-name: semicommutative  (SI condition, zero-insertive)
+definition: '$ab=0$ implies $aRb=\{0\}$ for all $a,b\in R$. Also known as: SI condition,
+  zero-insertive rings.'
+name: semicommutative
 symmetric: true

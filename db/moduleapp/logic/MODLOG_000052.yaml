@@ -3,5 +3,5 @@ citation: []
 concs: module_deduced("has",33)
 hyps: module_deduced("has",7) AND module_deduced("has",31)
 readable: module is injective AND module is indecomposable  ===>  module is strongly
-  indecomposable (endolocal)
+  indecomposable
 variety: 0

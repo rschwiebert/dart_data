@@ -3,6 +3,6 @@ citation:
 - CITE_000031
 concs: ring_deduced("has",0,40) AND ring_deduced("has",0,38)
 hyps: ring_deduced("has",0,37)
-readable: ring is strongly connected <==> ring is Abelian AND ring is connected
+readable: ring is strongly connected <==> ring is Abelian AND ring is directly irreducible
 symmetric: true
 variety: 1

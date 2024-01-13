@@ -3,6 +3,6 @@ citation:
 - CITE_000510
 concs: ring_deduced("has",0,158)
 hyps: ring_deduced("has",0,40)
-readable: ring is Abelian ===> ring is IC (internal cancellation)
+readable: ring is Abelian ===> ring is IC ring
 symmetric: true
 variety: 0

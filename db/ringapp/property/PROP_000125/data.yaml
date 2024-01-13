@@ -1,5 +1,6 @@
 citation: []
 commutative_only: true
-definition: Prime ideals are intersections of maximal ideals
-name: Jacobson (Hilbert)
+definition: 'Prime ideals are intersections of maximal ideals. Also known as: Hilbert
+  rings'
+name: Jacobson
 symmetric: true

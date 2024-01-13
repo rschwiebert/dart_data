@@ -1,6 +1,6 @@
 citation: []
 commutative_only: true
-definition: A commutative ring for which every finitely generated module is a direct
-  sum of cyclic modules.
+definition: '"Finitely Generated are Cyclic": A commutative ring for which every finitely
+  generated module is a direct sum of cyclic modules.'
 name: FGC
 symmetric: true

@@ -3,6 +3,6 @@ citation: []
 concs: ring_deduced("has",0,125)
 hyps: ring_deduced("has",0,1) AND ring_deduced("has",0,128) AND ring_deduced("has",0,50)
 readable: ring is commutative AND ring is rad-nil AND ring is semiregular ===> ring
-  is Jacobson (Hilbert)
+  is Jacobson
 symmetric: true
 variety: 0

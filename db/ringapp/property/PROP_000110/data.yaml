@@ -1,5 +1,6 @@
 citation: []
 commutative_only: false
-definition: Every nonzero right ideal is essential in a direct summand of $R_R$.
+definition: '"Complements are Summands": Every nonzero right ideal is essential in
+  a direct summand of $R_R$.'
 name: CS
 symmetric: false

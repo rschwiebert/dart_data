@@ -3,6 +3,6 @@ citation:
 - CITE_000033
 concs: module_deduced("has",1)
 hyps: module_deduced("has",55) AND module_deduced("has",51)
-readable: module is semi-Artinian (Loewy) AND module is linearly compact  ===>  module
-  is Artinian
+readable: module is semi-Artinian AND module is linearly compact  ===>  module is
+  Artinian
 variety: 0

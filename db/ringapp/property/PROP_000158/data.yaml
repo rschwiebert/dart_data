@@ -1,8 +1,8 @@
 citation:
 - CITE_000507
 commutative_only: false
-definition: If $A\oplus B=R$ and $A'\oplus B'=R$ are two decompositions of $R$ into
-  right ideals, and if $A\cong A'$, then also $B\cong B'$. (This condition turns out
-  to be left-right symmetric.)
-name: IC (internal cancellation)
+definition: '"Internal Cancellation": If $A\oplus B=R$ and $A''\oplus B''=R$ are two
+  decompositions of $R$ into right ideals, and if $A\cong A''$, then also $B\cong
+  B''$. (This condition turns out to be left-right symmetric.)'
+name: IC ring
 symmetric: true

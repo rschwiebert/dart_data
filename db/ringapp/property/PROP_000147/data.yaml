@@ -1,6 +1,7 @@
 citation: []
 commutative_only: false
-definition: (right PCI ring) The proper right cyclic modules of $R$ are injective
-  $R$-modules.
+definition: '(right PCI ring) "Proper Cyclics are Injective": The proper right cyclic
+  modules of $R$ (defined as the quotients not isomorphic to $R_R$) are injective
+  $R$-modules.'
 name: PCI ring
 symmetric: false

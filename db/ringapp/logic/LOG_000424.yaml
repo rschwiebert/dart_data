@@ -3,7 +3,6 @@ citation:
 - CITE_000323
 concs: ring_deduced("has",0,32)
 hyps: ring_deduced("has",0,155) AND ring_deduced("has",0,43)
-readable: ring is Armendariz AND ring is finite ===> ring is semicommutative  (SI
-  condition, zero-insertive)
+readable: ring is Armendariz AND ring is finite ===> ring is semicommutative
 symmetric: true
 variety: 0

@@ -1,4 +1,5 @@
 citation:
 - MODCITE_000024
-definition: Every nonzero quotient of $M$ has a nonzero socle.
-name: semi-Artinian (Loewy)
+definition: 'Every nonzero quotient of $M$ has a nonzero socle. Also known as: Loewy
+  modules'
+name: semi-Artinian
