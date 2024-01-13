@@ -1,0 +1,14 @@
+citation: []
+description: Let $V$ be a $\mathbb Q$ vector space of countably infinite dimension.  The
+  required ring $R$ is the Grassman algebra $\bigwedge (V)$. This can be described
+  also as a quotient $\mathbb Q\langle\{e_i\mid i\in \mathbb N\}\rangle/(\{e_ie_j+e_je_i\mid
+  i\in\mathbb N\})$
+is_commutative: false
+keywords:
+- KWD_000076
+- KWD_000026
+- KWD_000003
+krull_dim: null
+name: Grassmann algebra $\bigwedge (V)$, $\dim(V)=\aleph_0$
+notes: null
+optional_template: ''

@@ -1,0 +1,7 @@
+active: true
+citation: []
+concs: ring_deduced("has",0,45)
+hyps: ring_deduced("has",0,23) AND ring_deduced("has",0,22)
+readable: ring is local AND ring is nil radical ===> ring is strongly $\pi$-regular
+symmetric: true
+variety: 0

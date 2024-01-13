@@ -1,5 +1,8 @@
 citation: []
 commutative_only: false
-definition: Has right T-nilpotent Jacobson radical
+definition: Has right T-nilpotent Jacobson radical.  Recall a nonempty subset $S$
+  of $R$ is right T-nilpotent if, for every sequence $\{r_i\mid i\in\mathbb N\}\subseteq
+  S$, there exists an $n$ such that $r_nr_{n-1}\cdots r_0=0$. (The sequence of products
+  is reversed for left T-nilpotent.)
 name: T-nilpotent radical
 symmetric: false
