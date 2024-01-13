@@ -1,0 +1,11 @@
+DIM_000005:
+  citation: []
+  crosstable_pk: 426
+  dimension_type: DIM_000005
+  left_dimension: '0'
+  reason_left: 'Logic (rings) 481: has weak global dimension 0 <=== ring is von Neumann
+    regular'
+  reason_right: 'Logic (rings) 481: has weak global dimension 0 <=== ring is von Neumann
+    regular'
+  right_dimension: '0'
+  ring: RING_000067

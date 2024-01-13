@@ -64,6 +64,18 @@ PROP_000006:
   reason_left: 'Logic 189: semisimple <==> semilocal and semiprimitive'
   reason_right: 'Logic 189: semisimple <==> semilocal and semiprimitive'
   ring: RING_000041
+PROP_000007:
+  citation_left: []
+  citation_right: []
+  crosstable_pk: 24989
+  has_on_left: false
+  has_on_right: false
+  property: PROP_000007
+  reason_left: 'Logic (rings) 62: \(NOT "Baer" \) <=== \(NOT "Rickart" on the left
+    and right\).'
+  reason_right: 'Logic (rings) 62: \(NOT "Baer" \) <=== \(NOT "Rickart" on the left
+    and right\).'
+  ring: RING_000041
 PROP_000008:
   citation_left: []
   citation_right: []
@@ -677,6 +689,42 @@ PROP_000069:
   reason_left: 'Logic 56: Ore domain on the right <==> Ore ring on the right and domain'
   reason_right: 'Logic 56: Ore domain on the right <==> Ore ring on the right and
     domain'
+  ring: RING_000041
+PROP_000070:
+  citation_left: []
+  citation_right: []
+  crosstable_pk: 24990
+  has_on_left: false
+  has_on_right: false
+  property: PROP_000070
+  reason_left: 'Logic (rings) 58: \(NOT "hereditary" on the left\) <=== \(NOT "semihereditary"
+    on the left\).'
+  reason_right: 'Logic (rings) 58: \(NOT "hereditary" on the right\) <=== \(NOT "semihereditary"
+    on the right\).'
+  ring: RING_000041
+PROP_000071:
+  citation_left: []
+  citation_right: []
+  crosstable_pk: 24991
+  has_on_left: false
+  has_on_right: false
+  property: PROP_000071
+  reason_left: 'Logic (rings) 59: \(NOT "semihereditary" on the left\) <=== \(NOT
+    "Rickart" on the left\).'
+  reason_right: 'Logic (rings) 59: \(NOT "semihereditary" on the right\) <=== \(NOT
+    "Rickart" on the right\).'
+  ring: RING_000041
+PROP_000072:
+  citation_left: []
+  citation_right: []
+  crosstable_pk: 24988
+  has_on_left: false
+  has_on_right: false
+  property: PROP_000072
+  reason_left: left annihilator of $[[0,0,1,0],[0,0,0,0],[0,0,0,0],[0,0,0,1]]$ is
+    nonzero in a nilpotent ideal
+  reason_right: right annihilator of $[[0,0,1,0],[0,0,0,0],[0,0,0,0],[0,0,0,1]]$ is
+    nonzero in a nilpotent ideal
   ring: RING_000041
 PROP_000074:
   citation_left: []

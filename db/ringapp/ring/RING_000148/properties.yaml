@@ -828,9 +828,9 @@ PROP_000089:
   has_on_right: false
   property: PROP_000089
   reason_left: The powers of 2 is known to be an 3-AP free sequence. Let $p_n=\prod_i=0^n
-    x_{2^i}$ and $a_n=x_{2^{n-1}+2^n}$ Then $a_n$ annihilates $p_n$ but not $p_{n-1}$}$
+    x_{2^i}$ and $a_n=x_{3*2^{n-1}}$ Then $a_n$ annihilates $p_n$ but not $p_{n-1}$
   reason_right: The powers of 2 is known to be an 3-AP free sequence. Let $p_n=\prod_i=0^n
-    x_{2^i}$ and $a_n=x_{2^{n-1}+2^n}$ Then $a_n$ annihilates $p_n$ but not $p_{n-1}$}$
+    x_{2^i}$ and $a_n=x_{3*2^{n-1}}$ Then $a_n$ annihilates $p_n$ but not $p_{n-1}$
   ring: RING_000148
 PROP_000090:
   citation_left: []
