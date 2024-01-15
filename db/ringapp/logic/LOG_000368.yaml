@@ -2,6 +2,6 @@ active: true
 citation: []
 concs: ring_deduced("has",0,138)
 hyps: ring_deduced("has",0,8) AND ring_deduced("has",0,139)
-readable: ring is domain AND ring is universally Japanese ===> ring is Japanese (N-2)
+readable: ring is domain AND ring is universally Japanese ===> ring is N-2
 symmetric: true
 variety: 0

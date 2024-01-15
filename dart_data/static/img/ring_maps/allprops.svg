@@ -7,10 +7,10 @@
 <svg width="3992pt" height="2710pt"
  viewBox="0.00 0.00 3992.07 2709.50" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
 <g id="graph0" class="graph" transform="scale(1 1) rotate(0) translate(36 2673.5)">
-<g id="a_graph0"><a xlink:href="https://ringtheory.herokuapp.com/" xlink:title="All ring properties&lt;br/&gt;(© Database of Ring Theory; Last updated 2024&#45;01&#45;06)">
+<g id="a_graph0"><a xlink:href="https://ringtheory.herokuapp.com/" xlink:title="All ring properties&lt;br/&gt;(© Database of Ring Theory; Last updated 2024&#45;01&#45;14)">
 <polygon fill="white" stroke="none" points="-36,36 -36,-2673.5 3956.07,-2673.5 3956.07,36 -36,36"/>
 <text text-anchor="start" x="1909.78" y="-2620.2" font-family="Times,serif" font-size="14.00">All ring properties</text>
-<text text-anchor="start" x="1808.16" y="-2603.7" font-family="Times,serif" font-size="14.00">(© Database of Ring Theory; Last updated 2024&#45;01&#45;06)</text>
+<text text-anchor="start" x="1808.16" y="-2603.7" font-family="Times,serif" font-size="14.00">(© Database of Ring Theory; Last updated 2024&#45;01&#45;14)</text>
 </a>
 </g>
 <g id="clust1" class="cluster">
@@ -99,14 +99,14 @@
 <!-- top regular -->
 <g id="node10" class="node">
 <title>top regular</title>
-<ellipse fill="none" stroke="black" cx="3017.89" cy="-558" rx="51.35" ry="18"/>
-<text text-anchor="middle" x="3017.89" y="-552.95" font-family="Times,serif" font-size="14.00">top regular</text>
+<ellipse fill="none" stroke="black" cx="3015.89" cy="-558" rx="51.35" ry="18"/>
+<text text-anchor="middle" x="3015.89" y="-552.95" font-family="Times,serif" font-size="14.00">top regular</text>
 </g>
 <!-- von Neumann regular&#45;&gt;top regular -->
 <g id="edge5" class="edge">
 <title>von Neumann regular&#45;&gt;top regular</title>
-<path fill="none" stroke="black" d="M2153.38,-1274.07C2296.76,-1265.81 2580.88,-1234.47 2785.89,-1116 2804.68,-1105.14 2800.43,-1091.42 2818.89,-1080 3016.27,-957.87 3181.21,-1121.38 3320.89,-936 3426.4,-795.97 3158.23,-633.57 3055.75,-578.44"/>
-<polygon fill="black" stroke="black" points="3057.56,-574.91 3047.09,-573.3 3054.27,-581.09 3057.56,-574.91"/>
+<path fill="none" stroke="black" d="M2153.38,-1274.07C2296.76,-1265.81 2580.88,-1234.47 2785.89,-1116 2804.68,-1105.14 2800.43,-1091.42 2818.89,-1080 3016.27,-957.87 3181.21,-1121.38 3320.89,-936 3426.67,-795.61 3157,-633.44 3053.96,-578.41"/>
+<polygon fill="black" stroke="black" points="3055.72,-574.85 3045.24,-573.27 3052.45,-581.04 3055.72,-574.85"/>
 </g>
 <!-- semiprimitive -->
 <g id="node18" class="node">
@@ -123,14 +123,14 @@
 <!-- $\pi$&#45;regular -->
 <g id="node34" class="node">
 <title>$\pi$&#45;regular</title>
-<ellipse fill="none" stroke="black" cx="2408.89" cy="-738" rx="56.47" ry="18"/>
-<text text-anchor="middle" x="2408.89" y="-732.95" font-family="Times,serif" font-size="14.00">$pi$&#45;regular</text>
+<ellipse fill="none" stroke="black" cx="2406.89" cy="-738" rx="56.47" ry="18"/>
+<text text-anchor="middle" x="2406.89" y="-732.95" font-family="Times,serif" font-size="14.00">$pi$&#45;regular</text>
 </g>
 <!-- von Neumann regular&#45;&gt;$\pi$&#45;regular -->
 <g id="edge60" class="edge">
 <title>von Neumann regular&#45;&gt;$\pi$&#45;regular</title>
-<path fill="none" stroke="black" d="M2068.79,-1259.7C2088.27,-1204.08 2154.45,-1026.09 2244.89,-900 2284.65,-844.56 2344.47,-791.34 2379.81,-762.12"/>
-<polygon fill="black" stroke="black" points="2381.72,-764.26 2387.24,-755.22 2377.28,-758.85 2381.72,-764.26"/>
+<path fill="none" stroke="black" d="M2068.82,-1259.73C2088.4,-1204.17 2154.84,-1026.37 2244.89,-900 2284.34,-844.63 2343.62,-791.2 2378.47,-761.96"/>
+<polygon fill="black" stroke="black" points="2380.32,-764.14 2385.77,-755.06 2375.85,-758.76 2380.32,-764.14"/>
 </g>
 <!-- semihereditary -->
 <g id="node35" class="node">
@@ -267,8 +267,8 @@
 <!-- semisimple&#45;&gt;max ring -->
 <g id="edge92" class="edge">
 <title>semisimple&#45;&gt;max ring</title>
-<path fill="none" stroke="black" d="M1682.36,-1980.88C1726.64,-1943.12 1843.65,-1848.5 1957.89,-1800 2237.04,-1681.48 2380.92,-1836.15 2624.89,-1656 2748.87,-1564.45 2880.73,-1069.86 2911.97,-946.76"/>
-<polygon fill="black" stroke="black" points="2915.55,-947.89 2914.6,-937.34 2908.76,-946.18 2915.55,-947.89"/>
+<path fill="none" stroke="black" d="M1682.33,-1980.79C1726.53,-1942.86 1843.39,-1847.9 1957.89,-1800 2252.11,-1676.92 2419.68,-1864.65 2660.89,-1656 2775.36,-1556.98 2886.43,-1069.97 2912.94,-947.16"/>
+<polygon fill="black" stroke="black" points="2916.56,-947.95 2915.23,-937.44 2909.72,-946.48 2916.56,-947.95"/>
 </g>
 <!-- unit regular -->
 <g id="node33" class="node">
@@ -423,14 +423,14 @@
 <!-- T&#45;nilpotent radical -->
 <g id="node37" class="node">
 <title>T&#45;nilpotent radical</title>
-<ellipse fill="none" stroke="black" cx="3169.89" cy="-738" rx="79.5" ry="18"/>
-<text text-anchor="middle" x="3169.89" y="-732.95" font-family="Times,serif" font-size="14.00">T&#45;nilpotent radical</text>
+<ellipse fill="none" stroke="black" cx="3167.89" cy="-738" rx="79.5" ry="18"/>
+<text text-anchor="middle" x="3167.89" y="-732.95" font-family="Times,serif" font-size="14.00">T&#45;nilpotent radical</text>
 </g>
 <!-- nilpotent radical&#45;&gt;T&#45;nilpotent radical -->
 <g id="edge145" class="edge">
 <title>nilpotent radical&#45;&gt;T&#45;nilpotent radical</title>
-<path fill="none" stroke="black" d="M2533.33,-904.41C2655.12,-872.76 2973.95,-789.92 3108.53,-754.94"/>
-<polygon fill="black" stroke="black" points="3109.26,-758.11 3118.05,-752.21 3107.5,-751.34 3109.26,-758.11"/>
+<path fill="none" stroke="black" d="M2533.19,-904.41C2654.62,-872.76 2972.52,-789.92 3106.71,-754.94"/>
+<polygon fill="black" stroke="black" points="3107.41,-758.12 3116.2,-752.21 3105.64,-751.34 3107.41,-758.12"/>
 </g>
 <!-- perfect -->
 <g id="node20" class="node">
@@ -447,26 +447,26 @@
 <!-- semilocal -->
 <g id="node22" class="node">
 <title>semilocal</title>
-<ellipse fill="none" stroke="black" cx="2685.89" cy="-738" rx="46.75" ry="18"/>
-<text text-anchor="middle" x="2685.89" y="-732.95" font-family="Times,serif" font-size="14.00">semilocal</text>
+<ellipse fill="none" stroke="black" cx="2683.89" cy="-738" rx="46.75" ry="18"/>
+<text text-anchor="middle" x="2683.89" y="-732.95" font-family="Times,serif" font-size="14.00">semilocal</text>
 </g>
 <!-- perfect&#45;&gt;semilocal -->
 <g id="edge199" class="edge">
 <title>perfect&#45;&gt;semilocal</title>
-<path fill="none" stroke="black" d="M2754.94,-1081.35C2784.89,-1048.25 2846.96,-968.54 2821.89,-900 2800.54,-841.65 2747.67,-789.86 2714.49,-761.61"/>
-<polygon fill="black" stroke="black" points="2717.02,-758.33 2707.1,-754.61 2712.54,-763.71 2717.02,-758.33"/>
+<path fill="none" stroke="black" d="M2754.98,-1081.34C2785,-1048.21 2847.21,-968.45 2821.89,-900 2800.2,-841.36 2746.55,-789.67 2712.9,-761.52"/>
+<polygon fill="black" stroke="black" points="2715.34,-758.18 2705.39,-754.54 2710.91,-763.59 2715.34,-758.18"/>
 </g>
 <!-- perfect&#45;&gt;$\pi$&#45;regular -->
 <g id="edge20" class="edge">
 <title>perfect&#45;&gt;$\pi$&#45;regular</title>
-<path fill="none" stroke="black" d="M2746.33,-1079.8C2758.79,-1043.38 2781.93,-957.16 2745.89,-900 2712.98,-847.81 2542.75,-784.24 2457.56,-755.05"/>
-<polygon fill="black" stroke="black" points="2458.96,-751.49 2448.36,-751.58 2456.7,-758.12 2458.96,-751.49"/>
+<path fill="none" stroke="black" d="M2746.34,-1079.79C2758.82,-1043.36 2782,-957.12 2745.89,-900 2712.76,-847.59 2541.54,-784.13 2455.85,-755.01"/>
+<polygon fill="black" stroke="black" points="2457.18,-751.43 2446.59,-751.55 2454.95,-758.06 2457.18,-751.43"/>
 </g>
 <!-- perfect&#45;&gt;T&#45;nilpotent radical -->
 <g id="edge40" class="edge">
 <title>perfect&#45;&gt;T&#45;nilpotent radical</title>
-<path fill="none" stroke="green" d="M2769.21,-1086.97C2776.29,-1084.62 2783.84,-1082.17 2790.89,-1080 3016,-1010.74 3158.76,-1123.81 3300.89,-936 3347.04,-875.01 3256.72,-798.5 3204.06,-761.33"/>
-<polygon fill="green" stroke="green" points="3206.55,-758.1 3196.33,-755.29 3202.56,-763.86 3206.55,-758.1"/>
+<path fill="none" stroke="green" d="M2769.21,-1086.97C2776.29,-1084.62 2783.84,-1082.17 2790.89,-1080 3016,-1010.74 3158.76,-1123.81 3300.89,-936 3347.26,-874.72 3255.78,-798.35 3202.48,-761.27"/>
+<polygon fill="green" stroke="green" points="3204.87,-757.99 3194.64,-755.24 3200.93,-763.77 3204.87,-757.99"/>
 </g>
 <!-- semiperfect -->
 <g id="node55" class="node">
@@ -483,8 +483,8 @@
 <!-- perfect&#45;&gt;orthogonally finite -->
 <g id="edge76" class="edge">
 <title>perfect&#45;&gt;orthogonally finite</title>
-<path fill="none" stroke="black" d="M2748.97,-1080.08C2766.87,-1044.22 2802.13,-959.01 2767.89,-900 2703.14,-788.43 2621.33,-830.31 2515.89,-756 2495.79,-741.84 2495.98,-730.78 2473.89,-720 2235.26,-603.63 1917.24,-571.35 1764.37,-562.42"/>
-<polygon fill="black" stroke="black" points="1764.84,-558.88 1754.65,-561.81 1764.44,-565.87 1764.84,-558.88"/>
+<path fill="none" stroke="black" d="M2748.99,-1080.08C2766.92,-1044.19 2802.23,-958.95 2767.89,-900 2702.56,-787.87 2620.09,-830.57 2513.89,-756 2493.77,-741.87 2493.98,-730.78 2471.89,-720 2233.86,-603.85 1916.63,-571.47 1764.15,-562.46"/>
+<polygon fill="black" stroke="black" points="1764.64,-558.93 1754.46,-561.85 1764.24,-565.92 1764.64,-558.93"/>
 </g>
 <!-- strongly $\pi$&#45;regular -->
 <g id="node73" class="node">
@@ -525,26 +525,26 @@
 <!-- max ring&#45;&gt;T&#45;nilpotent radical -->
 <g id="edge22" class="edge">
 <title>max ring&#45;&gt;T&#45;nilpotent radical</title>
-<path fill="none" stroke="green" d="M2940.29,-901.82C2984.35,-870.58 3085.44,-798.89 3137.53,-761.94"/>
-<polygon fill="green" stroke="green" points="3139.23,-764.32 3145.37,-755.68 3135.18,-758.61 3139.23,-764.32"/>
+<path fill="none" stroke="green" d="M2940.12,-901.82C2983.83,-870.58 3084.11,-798.89 3135.79,-761.94"/>
+<polygon fill="green" stroke="green" points="3137.45,-764.34 3143.55,-755.68 3133.38,-758.65 3137.45,-764.34"/>
 </g>
 <!-- semilocal&#45;&gt;top regular -->
 <g id="edge12" class="edge">
 <title>semilocal&#45;&gt;top regular</title>
-<path fill="none" stroke="black" d="M2712.49,-722.73C2771.6,-691.05 2913.9,-614.75 2981.31,-578.61"/>
-<polygon fill="black" stroke="black" points="2982.53,-581.39 2989.69,-573.58 2979.22,-575.22 2982.53,-581.39"/>
+<path fill="none" stroke="black" d="M2710.49,-722.73C2769.6,-691.05 2911.9,-614.75 2979.31,-578.61"/>
+<polygon fill="black" stroke="black" points="2980.53,-581.39 2987.69,-573.58 2977.22,-575.22 2980.53,-581.39"/>
 </g>
 <!-- stable range 1 -->
 <g id="node71" class="node">
 <title>stable range 1</title>
-<ellipse fill="none" stroke="black" cx="2087.89" cy="-558" rx="62.61" ry="18"/>
-<text text-anchor="middle" x="2087.89" y="-552.95" font-family="Times,serif" font-size="14.00">stable range 1</text>
+<ellipse fill="none" stroke="black" cx="2086.89" cy="-558" rx="62.61" ry="18"/>
+<text text-anchor="middle" x="2086.89" y="-552.95" font-family="Times,serif" font-size="14.00">stable range 1</text>
 </g>
 <!-- semilocal&#45;&gt;stable range 1 -->
 <g id="edge210" class="edge">
 <title>semilocal&#45;&gt;stable range 1</title>
-<path fill="none" stroke="black" d="M2650.05,-726.09C2643.35,-724.06 2636.41,-721.96 2629.89,-720 2450.69,-666.19 2237.88,-603.26 2140.84,-574.62"/>
-<polygon fill="black" stroke="black" points="2142.01,-571.02 2131.43,-571.54 2140.03,-577.73 2142.01,-571.02"/>
+<path fill="none" stroke="black" d="M2648.05,-726.09C2641.35,-724.06 2634.41,-721.96 2627.89,-720 2449.01,-666.23 2236.59,-603.28 2139.74,-574.62"/>
+<polygon fill="black" stroke="black" points="2140.93,-571.03 2130.34,-571.55 2138.94,-577.74 2140.93,-571.03"/>
 </g>
 <!-- fully semiprime -->
 <g id="node24" class="node">
@@ -663,14 +663,14 @@
 <!-- cohopfian -->
 <g id="node51" class="node">
 <title>cohopfian</title>
-<ellipse fill="none" stroke="black" cx="2572.89" cy="-738" rx="47.77" ry="18"/>
-<text text-anchor="middle" x="2572.89" y="-732.95" font-family="Times,serif" font-size="14.00">cohopfian</text>
+<ellipse fill="none" stroke="black" cx="2570.89" cy="-738" rx="47.77" ry="18"/>
+<text text-anchor="middle" x="2570.89" y="-732.95" font-family="Times,serif" font-size="14.00">cohopfian</text>
 </g>
 <!-- self&#45;injective&#45;&gt;cohopfian -->
 <g id="edge69" class="edge">
 <title>self&#45;injective&#45;&gt;cohopfian</title>
-<path fill="none" stroke="blue" d="M3141.11,-1080.27C3101.2,-1035.21 2992.89,-913.76 2972.89,-900 2912.3,-858.33 2709.11,-785.79 2617.89,-754.31"/>
-<polygon fill="blue" stroke="blue" points="2619.19,-750.71 2608.59,-750.77 2616.91,-757.33 2619.19,-750.71"/>
+<path fill="none" stroke="blue" d="M3141.11,-1080.27C3101.2,-1035.2 2992.9,-913.74 2972.89,-900 2912,-858.2 2707.79,-785.73 2616.11,-754.29"/>
+<polygon fill="blue" stroke="blue" points="2617.36,-750.67 2606.77,-750.75 2615.1,-757.3 2617.36,-750.67"/>
 </g>
 <!-- continuous -->
 <g id="node54" class="node">
@@ -702,53 +702,53 @@
 <path fill="none" stroke="green" d="M3659.3,-899.61C3658.26,-868.77 3656.09,-804.26 3654.83,-767.06"/>
 <polygon fill="green" stroke="green" points="3658.31,-767.34 3654.48,-757.46 3651.31,-767.57 3658.31,-767.34"/>
 </g>
-<!-- semicommutative &#160;(SI condition, zero&#45;insertive) -->
+<!-- semicommutative -->
 <g id="node30" class="node">
-<title>semicommutative &#160;(SI condition, zero&#45;insertive)</title>
-<ellipse fill="none" stroke="black" cx="1185.89" cy="-558" rx="190.56" ry="18"/>
-<text text-anchor="middle" x="1185.89" y="-552.95" font-family="Times,serif" font-size="14.00">semicommutative &#160;(SI condition, zero&#45;insertive)</text>
+<title>semicommutative</title>
+<ellipse fill="none" stroke="black" cx="1158.89" cy="-558" rx="77.97" ry="18"/>
+<text text-anchor="middle" x="1158.89" y="-552.95" font-family="Times,serif" font-size="14.00">semicommutative</text>
 </g>
 <!-- Abelian -->
 <g id="node31" class="node">
 <title>Abelian</title>
-<ellipse fill="none" stroke="black" cx="1074.89" cy="-378" rx="40.09" ry="18"/>
-<text text-anchor="middle" x="1074.89" y="-372.95" font-family="Times,serif" font-size="14.00">Abelian</text>
+<ellipse fill="none" stroke="black" cx="1056.89" cy="-378" rx="40.09" ry="18"/>
+<text text-anchor="middle" x="1056.89" y="-372.95" font-family="Times,serif" font-size="14.00">Abelian</text>
 </g>
-<!-- semicommutative &#160;(SI condition, zero&#45;insertive)&#45;&gt;Abelian -->
+<!-- semicommutative&#45;&gt;Abelian -->
 <g id="edge18" class="edge">
-<title>semicommutative &#160;(SI condition, zero&#45;insertive)&#45;&gt;Abelian</title>
-<path fill="none" stroke="black" d="M1175.04,-539.61C1155.41,-508.13 1113.9,-441.57 1090.96,-404.78"/>
-<polygon fill="black" stroke="black" points="1093.55,-403.31 1085.29,-396.68 1087.61,-407.02 1093.55,-403.31"/>
+<title>semicommutative&#45;&gt;Abelian</title>
+<path fill="none" stroke="black" d="M1149.11,-539.93C1131.16,-508.62 1092.89,-441.83 1071.73,-404.9"/>
+<polygon fill="black" stroke="black" points="1074.5,-403.69 1066.49,-396.76 1068.42,-407.17 1074.5,-403.69"/>
 </g>
 <!-- 2&#45;primal -->
 <g id="node96" class="node">
 <title>2&#45;primal</title>
-<ellipse fill="none" stroke="black" cx="1296.89" cy="-378" rx="43.16" ry="18"/>
-<text text-anchor="middle" x="1296.89" y="-372.95" font-family="Times,serif" font-size="14.00">2&#45;primal</text>
+<ellipse fill="none" stroke="black" cx="1261.89" cy="-378" rx="43.16" ry="18"/>
+<text text-anchor="middle" x="1261.89" y="-372.95" font-family="Times,serif" font-size="14.00">2&#45;primal</text>
 </g>
-<!-- semicommutative &#160;(SI condition, zero&#45;insertive)&#45;&gt;2&#45;primal -->
+<!-- semicommutative&#45;&gt;2&#45;primal -->
 <g id="edge105" class="edge">
-<title>semicommutative &#160;(SI condition, zero&#45;insertive)&#45;&gt;2&#45;primal</title>
-<path fill="none" stroke="black" d="M1196.73,-539.61C1216.31,-508.21 1257.66,-441.9 1280.63,-405.06"/>
-<polygon fill="black" stroke="black" points="1284,-407.28 1286.32,-396.94 1278.06,-403.57 1284,-407.28"/>
+<title>semicommutative&#45;&gt;2&#45;primal</title>
+<path fill="none" stroke="black" d="M1168.76,-539.93C1186.84,-508.7 1225.33,-442.17 1246.74,-405.18"/>
+<polygon fill="black" stroke="black" points="1250.06,-407.42 1252.04,-397.02 1244,-403.92 1250.06,-407.42"/>
 </g>
 <!-- Abelian&#45;&gt;Dedekind finite -->
 <g id="edge100" class="edge">
 <title>Abelian&#45;&gt;Dedekind finite</title>
-<path fill="none" stroke="black" d="M1070.76,-359.84C1062.83,-322.36 1049.93,-232.37 1093.89,-180 1159.68,-101.62 1463.91,-49.05 1603.96,-28.59"/>
-<polygon fill="black" stroke="black" points="1604.17,-31.95 1613.57,-27.05 1603.17,-25.02 1604.17,-31.95"/>
+<path fill="none" stroke="black" d="M1052.72,-359.81C1044.74,-322.29 1031.72,-232.2 1075.89,-180 1144.05,-99.43 1459.02,-47.85 1602.87,-28.1"/>
+<polygon fill="black" stroke="black" points="1603.32,-31.44 1612.76,-26.63 1602.38,-24.5 1603.32,-31.44"/>
 </g>
 <!-- compressible -->
 <g id="node118" class="node">
 <title>compressible</title>
-<ellipse fill="none" stroke="black" cx="1162.89" cy="-198" rx="60.05" ry="18"/>
-<text text-anchor="middle" x="1162.89" y="-192.95" font-family="Times,serif" font-size="14.00">compressible</text>
+<ellipse fill="none" stroke="black" cx="1144.89" cy="-198" rx="60.05" ry="18"/>
+<text text-anchor="middle" x="1144.89" y="-192.95" font-family="Times,serif" font-size="14.00">compressible</text>
 </g>
 <!-- Abelian&#45;&gt;compressible -->
 <g id="edge214" class="edge">
 <title>Abelian&#45;&gt;compressible</title>
-<path fill="none" stroke="black" d="M1083.32,-359.93C1098.66,-328.91 1131.21,-263.07 1149.57,-225.94"/>
-<polygon fill="black" stroke="black" points="1153.05,-227.79 1154.35,-217.28 1146.78,-224.69 1153.05,-227.79"/>
+<path fill="none" stroke="black" d="M1065.32,-359.93C1080.66,-328.91 1113.21,-263.07 1131.57,-225.94"/>
+<polygon fill="black" stroke="black" points="1135.05,-227.79 1136.35,-217.28 1128.78,-224.69 1135.05,-227.79"/>
 </g>
 <!-- strongly regular -->
 <g id="node32" class="node">
@@ -813,50 +813,50 @@
 <!-- unit regular&#45;&gt;cohopfian -->
 <g id="edge149" class="edge">
 <title>unit regular&#45;&gt;cohopfian</title>
-<path fill="none" stroke="black" d="M2135.77,-1440.23C2156.67,-1412.09 2197.66,-1352.88 2217.89,-1296 2277.54,-1128.28 2175.8,-1045.82 2277.89,-900 2337.13,-815.39 2455.5,-770.81 2522.9,-751.35"/>
-<polygon fill="black" stroke="black" points="2523.58,-754.52 2532.26,-748.45 2521.69,-747.78 2523.58,-754.52"/>
+<path fill="none" stroke="black" d="M2135.77,-1440.23C2156.67,-1412.09 2197.66,-1352.88 2217.89,-1296 2277.54,-1128.28 2176,-1045.97 2277.89,-900 2336.7,-815.74 2454.28,-771.03 2521.23,-751.46"/>
+<polygon fill="black" stroke="black" points="2521.86,-754.63 2530.53,-748.53 2519.95,-747.9 2521.86,-754.63"/>
 </g>
 <!-- unit regular&#45;&gt;stable range 1 -->
 <g id="edge49" class="edge">
 <title>unit regular&#45;&gt;stable range 1</title>
-<path fill="none" stroke="black" d="M2130.76,-1439.72C2145.36,-1405.58 2174.24,-1326.98 2163.89,-1260 2151.07,-1177.07 2146.56,-1153.95 2106.89,-1080 2061.89,-996.13 1973.62,-993.59 1990.89,-900 2003.32,-832.63 2026.46,-821.7 2045.89,-756 2063.44,-696.63 2076.8,-625.17 2083.37,-586.73"/>
-<polygon fill="black" stroke="black" points="2086.91,-587.79 2085.12,-577.35 2080.01,-586.63 2086.91,-587.79"/>
+<path fill="none" stroke="black" d="M2130.76,-1439.72C2145.36,-1405.58 2174.24,-1326.98 2163.89,-1260 2151.07,-1177.07 2146.4,-1154.03 2106.89,-1080 2062.18,-996.25 1974.95,-993.41 1991.89,-900 2004.08,-832.74 2026.87,-821.65 2045.89,-756 2063.1,-696.6 2076.11,-625.15 2082.5,-586.72"/>
+<polygon fill="black" stroke="black" points="2086.04,-587.78 2084.2,-577.35 2079.13,-586.65 2086.04,-587.78"/>
 </g>
 <!-- clean -->
 <g id="node74" class="node">
 <title>clean</title>
-<ellipse fill="none" stroke="black" cx="2301.89" cy="-738" rx="30.37" ry="18"/>
-<text text-anchor="middle" x="2301.89" y="-732.95" font-family="Times,serif" font-size="14.00">clean</text>
+<ellipse fill="none" stroke="black" cx="2291.89" cy="-738" rx="30.37" ry="18"/>
+<text text-anchor="middle" x="2291.89" y="-732.95" font-family="Times,serif" font-size="14.00">clean</text>
 </g>
 <!-- unit regular&#45;&gt;clean -->
 <g id="edge139" class="edge">
 <title>unit regular&#45;&gt;clean</title>
-<path fill="none" stroke="black" d="M2133.35,-1440.2C2166.07,-1385.36 2260.56,-1207.75 2196.89,-1080 2144.85,-975.6 1946.28,-1000.27 2005.89,-900 2062.23,-805.21 2196.09,-762.72 2262.76,-746.91"/>
-<polygon fill="black" stroke="black" points="2263.28,-750.15 2272.25,-744.51 2261.72,-743.33 2263.28,-750.15"/>
+<path fill="none" stroke="black" d="M2133.35,-1440.2C2166.07,-1385.36 2260.56,-1207.75 2196.89,-1080 2144.85,-975.6 1947.02,-1000.7 2005.89,-900 2059.85,-807.7 2188.36,-764.21 2253.15,-747.56"/>
+<polygon fill="black" stroke="black" points="2253.86,-750.74 2262.72,-744.94 2252.17,-743.95 2253.86,-750.74"/>
 </g>
 <!-- Zorn -->
 <g id="node60" class="node">
 <title>Zorn</title>
-<ellipse fill="none" stroke="black" cx="2498.89" cy="-558" rx="28.83" ry="18"/>
-<text text-anchor="middle" x="2498.89" y="-552.95" font-family="Times,serif" font-size="14.00">Zorn</text>
+<ellipse fill="none" stroke="black" cx="2497.89" cy="-558" rx="28.83" ry="18"/>
+<text text-anchor="middle" x="2497.89" y="-552.95" font-family="Times,serif" font-size="14.00">Zorn</text>
 </g>
 <!-- $\pi$&#45;regular&#45;&gt;Zorn -->
 <g id="edge176" class="edge">
 <title>$\pi$&#45;regular&#45;&gt;Zorn</title>
-<path fill="none" stroke="black" d="M2417.52,-719.93C2433.32,-688.67 2467,-622.06 2485.7,-585.09"/>
-<polygon fill="black" stroke="black" points="2489.16,-587 2490.55,-576.5 2482.91,-583.84 2489.16,-587"/>
+<path fill="none" stroke="black" d="M2415.61,-719.93C2431.59,-688.67 2465.65,-622.06 2484.55,-585.09"/>
+<polygon fill="black" stroke="black" points="2488.02,-586.99 2489.45,-576.5 2481.78,-583.81 2488.02,-586.99"/>
 </g>
 <!-- exchange -->
 <g id="node91" class="node">
 <title>exchange</title>
-<ellipse fill="none" stroke="black" cx="2405.89" cy="-558" rx="45.72" ry="18"/>
-<text text-anchor="middle" x="2405.89" y="-552.95" font-family="Times,serif" font-size="14.00">exchange</text>
+<ellipse fill="none" stroke="black" cx="2404.89" cy="-558" rx="45.72" ry="18"/>
+<text text-anchor="middle" x="2404.89" y="-552.95" font-family="Times,serif" font-size="14.00">exchange</text>
 </g>
 <!-- $\pi$&#45;regular&#45;&gt;exchange -->
 <g id="edge172" class="edge">
 <title>$\pi$&#45;regular&#45;&gt;exchange</title>
-<path fill="none" stroke="black" d="M2408.59,-719.61C2408.07,-688.77 2406.99,-624.26 2406.36,-587.06"/>
-<polygon fill="black" stroke="black" points="2409.85,-587.4 2406.18,-577.46 2402.85,-587.52 2409.85,-587.4"/>
+<path fill="none" stroke="black" d="M2406.69,-719.61C2406.34,-688.77 2405.62,-624.26 2405.2,-587.06"/>
+<polygon fill="black" stroke="black" points="2408.7,-587.42 2405.08,-577.46 2401.7,-587.5 2408.7,-587.42"/>
 </g>
 <!-- coherent -->
 <g id="node36" class="node">
@@ -879,14 +879,14 @@
 <!-- nil radical -->
 <g id="node61" class="node">
 <title>nil radical</title>
-<ellipse fill="none" stroke="black" cx="2502.89" cy="-378" rx="48.28" ry="18"/>
-<text text-anchor="middle" x="2502.89" y="-372.95" font-family="Times,serif" font-size="14.00">nil radical</text>
+<ellipse fill="none" stroke="black" cx="2500.89" cy="-378" rx="48.28" ry="18"/>
+<text text-anchor="middle" x="2500.89" y="-372.95" font-family="Times,serif" font-size="14.00">nil radical</text>
 </g>
 <!-- T&#45;nilpotent radical&#45;&gt;nil radical -->
 <g id="edge91" class="edge">
 <title>T&#45;nilpotent radical&#45;&gt;nil radical</title>
-<path fill="none" stroke="black" d="M3166.81,-719.57C3159.11,-681.14 3135.32,-588.71 3077.89,-540 2925.25,-410.53 2675.79,-384.77 2562.37,-379.93"/>
-<polygon fill="black" stroke="black" points="2562.63,-376.4 2552.5,-379.52 2562.36,-383.4 2562.63,-376.4"/>
+<path fill="none" stroke="black" d="M3164.81,-719.57C3157.11,-681.14 3133.32,-588.71 3075.89,-540 2923.25,-410.53 2673.79,-384.77 2560.37,-379.93"/>
+<polygon fill="black" stroke="black" points="2560.63,-376.4 2550.5,-379.52 2560.36,-383.4 2560.63,-376.4"/>
 </g>
 <!-- local -->
 <g id="node38" class="node">
@@ -933,8 +933,8 @@
 <!-- top simple Artinian&#45;&gt;semilocal -->
 <g id="edge88" class="edge">
 <title>top simple Artinian&#45;&gt;semilocal</title>
-<path fill="none" stroke="black" d="M1529.68,-905.33C1540.08,-903.46 1550.78,-901.61 1560.89,-900 2034.29,-824.42 2161.45,-857.96 2629.89,-756 2633.47,-755.22 2637.16,-754.32 2640.84,-753.35"/>
-<polygon fill="black" stroke="black" points="2641.47,-756.54 2650.16,-750.49 2639.59,-749.79 2641.47,-756.54"/>
+<path fill="none" stroke="black" d="M1529.68,-905.33C1540.08,-903.46 1550.78,-901.61 1560.89,-900 2033.41,-824.5 2160.33,-857.83 2627.89,-756 2631.47,-755.22 2635.16,-754.32 2638.84,-753.35"/>
+<polygon fill="black" stroke="black" points="2639.47,-756.54 2648.16,-750.49 2637.59,-749.79 2639.47,-756.54"/>
 </g>
 <!-- top simple -->
 <g id="node82" class="node">
@@ -957,8 +957,8 @@
 <!-- Artinian&#45;&gt;$\pi$&#45;regular -->
 <g id="edge24" class="edge">
 <title>Artinian&#45;&gt;$\pi$&#45;regular</title>
-<path fill="none" stroke="black" d="M2675.26,-1439.68C2676.53,-1386.1 2681.29,-1218.36 2693.89,-1080 2701.18,-999.89 2754.38,-968.92 2712.89,-900 2683.74,-851.58 2531.55,-786.76 2454.16,-756.25"/>
-<polygon fill="black" stroke="black" points="2455.8,-752.74 2445.21,-752.36 2453.25,-759.26 2455.8,-752.74"/>
+<path fill="none" stroke="black" d="M2675.26,-1439.68C2676.53,-1386.1 2681.29,-1218.36 2693.89,-1080 2701.18,-999.89 2754.47,-968.86 2712.89,-900 2683.52,-851.37 2530.34,-786.65 2452.46,-756.21"/>
+<polygon fill="black" stroke="black" points="2454.03,-752.68 2443.44,-752.32 2451.5,-759.2 2454.03,-752.68"/>
 </g>
 <!-- Noetherian -->
 <g id="node47" class="node">
@@ -1209,8 +1209,8 @@
 <!-- cohopfian&#45;&gt;Dedekind finite -->
 <g id="edge32" class="edge">
 <title>cohopfian&#45;&gt;Dedekind finite</title>
-<path fill="none" stroke="black" d="M2578.66,-719.78C2602.78,-644.23 2687.66,-338.8 2540.89,-180 2434.86,-65.29 1946.6,-31.13 1753.65,-22.01"/>
-<polygon fill="black" stroke="black" points="1753.9,-18.47 1743.75,-21.51 1753.58,-25.47 1753.9,-18.47"/>
+<path fill="none" stroke="black" d="M2576.65,-719.78C2600.77,-644.24 2685.63,-338.83 2538.89,-180 2433.13,-65.53 1945.98,-31.23 1753.47,-22.04"/>
+<polygon fill="black" stroke="black" points="1753.75,-18.5 1743.6,-21.53 1753.42,-25.5 1753.75,-18.5"/>
 </g>
 <!-- dual -->
 <g id="node53" class="node">
@@ -1263,20 +1263,20 @@
 <!-- semiregular -->
 <g id="node56" class="node">
 <title>semiregular</title>
-<ellipse fill="none" stroke="black" cx="3017.89" cy="-738" rx="54.93" ry="18"/>
-<text text-anchor="middle" x="3017.89" y="-732.95" font-family="Times,serif" font-size="14.00">semiregular</text>
+<ellipse fill="none" stroke="black" cx="3015.89" cy="-738" rx="54.93" ry="18"/>
+<text text-anchor="middle" x="3015.89" y="-732.95" font-family="Times,serif" font-size="14.00">semiregular</text>
 </g>
 <!-- continuous&#45;&gt;semiregular -->
 <g id="edge164" class="edge">
 <title>continuous&#45;&gt;semiregular</title>
-<path fill="none" stroke="black" d="M3065.71,-899.61C3056.46,-868.56 3037.05,-803.37 3026.01,-766.3"/>
-<polygon fill="black" stroke="black" points="3029.22,-765.79 3023.01,-757.2 3022.51,-767.78 3029.22,-765.79"/>
+<path fill="none" stroke="black" d="M3065.51,-899.61C3055.92,-868.56 3035.77,-803.37 3024.32,-766.3"/>
+<polygon fill="black" stroke="black" points="3027.5,-765.72 3021.2,-757.2 3020.81,-767.79 3027.5,-765.72"/>
 </g>
 <!-- continuous&#45;&gt;clean -->
 <g id="edge143" class="edge">
 <title>continuous&#45;&gt;clean</title>
-<path fill="none" stroke="black" d="M3026.89,-908.26C2890.36,-880.98 2475.21,-796.81 2343.89,-756 2341.26,-755.18 2338.56,-754.27 2335.87,-753.31"/>
-<polygon fill="black" stroke="black" points="2337.22,-749.69 2326.62,-749.41 2334.73,-756.24 2337.22,-749.69"/>
+<path fill="none" stroke="black" d="M3026.09,-908.89C2911.32,-887.74 2597.78,-827.52 2341.89,-756 2337.24,-754.7 2332.39,-753.22 2327.62,-751.68"/>
+<polygon fill="black" stroke="black" points="2329,-748.12 2318.41,-748.28 2326.79,-754.76 2329,-748.12"/>
 </g>
 <!-- continuous&#45;&gt;quasi&#45;continuous -->
 <g id="edge80" class="edge">
@@ -1287,56 +1287,56 @@
 <!-- semiperfect&#45;&gt;semilocal -->
 <g id="edge34" class="edge">
 <title>semiperfect&#45;&gt;semilocal</title>
-<path fill="none" stroke="black" d="M2369.41,-902.28C2431.73,-870.13 2579.97,-793.65 2649.15,-757.95"/>
-<polygon fill="black" stroke="black" points="2650.48,-760.69 2657.77,-752.99 2647.27,-754.47 2650.48,-760.69"/>
+<path fill="none" stroke="black" d="M2369.25,-902.28C2431.21,-870.13 2578.59,-793.65 2647.36,-757.95"/>
+<polygon fill="black" stroke="black" points="2648.66,-760.71 2655.92,-752.99 2645.43,-754.49 2648.66,-760.71"/>
 </g>
 <!-- semiperfect&#45;&gt;semiregular -->
 <g id="edge36" class="edge">
 <title>semiperfect&#45;&gt;semiregular</title>
-<path fill="none" stroke="black" d="M2382.2,-906.01C2389.74,-904 2397.55,-901.94 2404.89,-900 2648.79,-835.62 2709.99,-820.38 2953.89,-756 2957.73,-754.99 2961.69,-753.94 2965.68,-752.88"/>
-<polygon fill="black" stroke="black" points="2966.47,-756.03 2975.24,-750.08 2964.67,-749.26 2966.47,-756.03"/>
+<path fill="none" stroke="black" d="M2382.2,-906.01C2389.74,-904.01 2397.55,-901.94 2404.89,-900 2647.93,-835.73 2708.85,-820.27 2951.89,-756 2955.72,-754.99 2959.69,-753.93 2963.68,-752.88"/>
+<polygon fill="black" stroke="black" points="2964.47,-756.03 2973.23,-750.08 2962.67,-749.26 2964.47,-756.03"/>
 </g>
 <!-- semiperfect&#45;&gt;clean -->
 <g id="edge167" class="edge">
 <title>semiperfect&#45;&gt;clean</title>
-<path fill="none" stroke="black" d="M2337.08,-899.61C2330.3,-868.69 2316.11,-803.92 2307.97,-766.77"/>
-<polygon fill="black" stroke="black" points="2311.21,-766.22 2305.66,-757.2 2304.38,-767.72 2311.21,-766.22"/>
+<path fill="none" stroke="black" d="M2336.1,-899.61C2327.59,-868.69 2309.76,-803.92 2299.53,-766.77"/>
+<polygon fill="black" stroke="black" points="2302.65,-765.91 2296.62,-757.2 2295.9,-767.77 2302.65,-765.91"/>
 </g>
 <!-- semiregular&#45;&gt;top regular -->
 <g id="edge86" class="edge">
 <title>semiregular&#45;&gt;top regular</title>
-<path fill="none" stroke="black" d="M3017.89,-719.61C3017.89,-688.77 3017.89,-624.26 3017.89,-587.06"/>
-<polygon fill="black" stroke="black" points="3021.39,-587.46 3017.89,-577.46 3014.39,-587.46 3021.39,-587.46"/>
+<path fill="none" stroke="black" d="M3015.89,-719.61C3015.89,-688.77 3015.89,-624.26 3015.89,-587.06"/>
+<polygon fill="black" stroke="black" points="3019.39,-587.46 3015.89,-577.46 3012.39,-587.46 3019.39,-587.46"/>
 </g>
 <!-- semiregular&#45;&gt;exchange -->
 <g id="edge121" class="edge">
 <title>semiregular&#45;&gt;exchange</title>
-<path fill="none" stroke="black" d="M2977.28,-725.54C2885.24,-699.5 2653.77,-633.68 2460.89,-576 2457.78,-575.07 2454.58,-574.1 2451.35,-573.12"/>
-<polygon fill="black" stroke="black" points="2452.65,-569.56 2442.07,-569.98 2450.61,-576.25 2452.65,-569.56"/>
+<path fill="none" stroke="black" d="M2975.35,-725.53C2883.48,-699.48 2652.43,-633.63 2459.89,-576 2456.78,-575.07 2453.58,-574.1 2450.35,-573.12"/>
+<polygon fill="black" stroke="black" points="2451.65,-569.55 2441.07,-569.98 2449.61,-576.25 2451.65,-569.55"/>
 </g>
 <!-- quasi&#45;Frobenius -->
 <g id="node58" class="node">
 <title>quasi&#45;Frobenius</title>
-<ellipse fill="none" stroke="black" cx="3123.89" cy="-1638" rx="70.29" ry="18"/>
-<text text-anchor="middle" x="3123.89" y="-1632.95" font-family="Times,serif" font-size="14.00">quasi&#45;Frobenius</text>
+<ellipse fill="none" stroke="black" cx="2820.89" cy="-1638" rx="70.29" ry="18"/>
+<text text-anchor="middle" x="2820.89" y="-1632.95" font-family="Times,serif" font-size="14.00">quasi&#45;Frobenius</text>
 </g>
 <!-- Frobenius&#45;&gt;quasi&#45;Frobenius -->
 <g id="edge37" class="edge">
 <title>Frobenius&#45;&gt;quasi&#45;Frobenius</title>
-<path fill="none" stroke="black" d="M2058.36,-1810.02C2228.03,-1782.79 2846.49,-1683.52 3054.84,-1650.08"/>
-<polygon fill="black" stroke="black" points="3055.3,-1653.39 3064.62,-1648.35 3054.19,-1646.48 3055.3,-1653.39"/>
+<path fill="none" stroke="black" d="M2055.41,-1808.05C2186.55,-1779.09 2600.05,-1687.77 2758.37,-1652.81"/>
+<polygon fill="black" stroke="black" points="2758.87,-1656.06 2767.88,-1650.49 2757.36,-1649.22 2758.87,-1656.06"/>
 </g>
 <!-- quasi&#45;Frobenius&#45;&gt;Artinian -->
 <g id="edge71" class="edge">
 <title>quasi&#45;Frobenius&#45;&gt;Artinian</title>
-<path fill="none" stroke="black" d="M3086.76,-1622.28C3003.26,-1589.18 2801.23,-1509.09 2714.99,-1474.9"/>
-<polygon fill="black" stroke="black" points="2716.4,-1471.3 2705.82,-1470.87 2713.83,-1477.81 2716.4,-1471.3"/>
+<path fill="none" stroke="black" d="M2806.89,-1619.93C2780.92,-1588.27 2725.2,-1520.34 2695.13,-1483.68"/>
+<polygon fill="black" stroke="black" points="2697.47,-1482.01 2688.42,-1476.5 2692.05,-1486.45 2697.47,-1482.01"/>
 </g>
 <!-- quasi&#45;Frobenius&#45;&gt;dual -->
 <g id="edge123" class="edge">
 <title>quasi&#45;Frobenius&#45;&gt;dual</title>
-<path fill="none" stroke="black" d="M3143.8,-1620.31C3237.89,-1541.46 3637.56,-1206.54 3741.24,-1119.66"/>
-<polygon fill="black" stroke="black" points="3743.12,-1121.81 3748.53,-1112.7 3738.62,-1116.44 3743.12,-1121.81"/>
+<path fill="none" stroke="black" d="M2852.74,-1621.56C2947.75,-1575.21 3236.84,-1432.07 3466.89,-1296 3569.89,-1235.07 3687.07,-1154.37 3738.85,-1118.09"/>
+<polygon fill="black" stroke="black" points="3740.57,-1120.46 3746.74,-1111.85 3736.54,-1114.73 3740.57,-1120.46"/>
 </g>
 <!-- pseudo&#45;Frobenius -->
 <g id="node68" class="node">
@@ -1347,8 +1347,8 @@
 <!-- quasi&#45;Frobenius&#45;&gt;pseudo&#45;Frobenius -->
 <g id="edge151" class="edge">
 <title>quasi&#45;Frobenius&#45;&gt;pseudo&#45;Frobenius</title>
-<path fill="none" stroke="black" d="M3135.94,-1620.21C3177.16,-1562.8 3312.7,-1373.98 3362.4,-1304.75"/>
-<polygon fill="black" stroke="black" points="3365.57,-1307.33 3368.56,-1297.17 3359.89,-1303.25 3365.57,-1307.33"/>
+<path fill="none" stroke="black" d="M2846.04,-1620.92C2936.02,-1563.4 3242.11,-1367.72 3346.04,-1301.28"/>
+<polygon fill="black" stroke="black" points="3347.62,-1303.78 3354.16,-1295.44 3343.85,-1297.88 3347.62,-1303.78"/>
 </g>
 <!-- orthogonally finite&#45;&gt;Dedekind finite -->
 <g id="edge38" class="edge">
@@ -1359,32 +1359,32 @@
 <!-- Zorn&#45;&gt;nil radical -->
 <g id="edge39" class="edge">
 <title>Zorn&#45;&gt;nil radical</title>
-<path fill="none" stroke="black" d="M2499.28,-539.61C2499.97,-508.77 2501.42,-444.26 2502.26,-407.06"/>
-<polygon fill="black" stroke="black" points="2505.77,-407.54 2502.49,-397.46 2498.77,-407.38 2505.77,-407.54"/>
+<path fill="none" stroke="black" d="M2498.18,-539.61C2498.7,-508.77 2499.79,-444.26 2500.41,-407.06"/>
+<polygon fill="black" stroke="black" points="2503.92,-407.52 2500.59,-397.46 2496.92,-407.4 2503.92,-407.52"/>
 </g>
 <!-- potent -->
 <g id="node85" class="node">
 <title>potent</title>
-<ellipse fill="none" stroke="black" cx="2402.89" cy="-378" rx="33.95" ry="18"/>
-<text text-anchor="middle" x="2402.89" y="-372.95" font-family="Times,serif" font-size="14.00">potent</text>
+<ellipse fill="none" stroke="black" cx="2400.89" cy="-378" rx="33.95" ry="18"/>
+<text text-anchor="middle" x="2400.89" y="-372.95" font-family="Times,serif" font-size="14.00">potent</text>
 </g>
 <!-- Zorn&#45;&gt;potent -->
 <g id="edge70" class="edge">
 <title>Zorn&#45;&gt;potent</title>
-<path fill="none" stroke="black" d="M2490.03,-540.57C2473.35,-509.66 2437.18,-442.59 2417.08,-405.31"/>
-<polygon fill="black" stroke="black" points="2419.69,-403.79 2411.86,-396.65 2413.53,-407.11 2419.69,-403.79"/>
+<path fill="none" stroke="black" d="M2488.94,-540.57C2472.02,-509.52 2435.23,-442.01 2414.97,-404.84"/>
+<polygon fill="black" stroke="black" points="2417.82,-403.75 2409.96,-396.65 2411.67,-407.1 2417.82,-403.75"/>
 </g>
 <!-- lift/rad -->
 <g id="node65" class="node">
 <title>lift/rad</title>
-<ellipse fill="none" stroke="black" cx="2495.89" cy="-198" rx="36" ry="18"/>
-<text text-anchor="middle" x="2495.89" y="-192.95" font-family="Times,serif" font-size="14.00">lift/rad</text>
+<ellipse fill="none" stroke="black" cx="2493.89" cy="-198" rx="36" ry="18"/>
+<text text-anchor="middle" x="2493.89" y="-192.95" font-family="Times,serif" font-size="14.00">lift/rad</text>
 </g>
 <!-- nil radical&#45;&gt;lift/rad -->
 <g id="edge44" class="edge">
 <title>nil radical&#45;&gt;lift/rad</title>
-<path fill="none" stroke="black" d="M2502.2,-359.61C2500.99,-328.77 2498.45,-264.26 2496.99,-227.06"/>
-<polygon fill="black" stroke="black" points="2500.46,-227.32 2496.57,-217.46 2493.47,-227.59 2500.46,-227.32"/>
+<path fill="none" stroke="black" d="M2500.2,-359.61C2498.99,-328.77 2496.45,-264.26 2494.99,-227.06"/>
+<polygon fill="black" stroke="black" points="2498.46,-227.32 2494.57,-217.46 2491.47,-227.59 2498.46,-227.32"/>
 </g>
 <!-- field -->
 <g id="node63" class="node">
@@ -1431,14 +1431,14 @@
 <!-- simple Artinian -->
 <g id="node83" class="node">
 <title>simple Artinian</title>
-<ellipse fill="none" stroke="black" cx="1537.89" cy="-2178" rx="68.75" ry="18"/>
-<text text-anchor="middle" x="1537.89" y="-2172.95" font-family="Times,serif" font-size="14.00">simple Artinian</text>
+<ellipse fill="none" stroke="black" cx="1534.89" cy="-2178" rx="68.75" ry="18"/>
+<text text-anchor="middle" x="1534.89" y="-2172.95" font-family="Times,serif" font-size="14.00">simple Artinian</text>
 </g>
 <!-- division ring&#45;&gt;simple Artinian -->
 <g id="edge111" class="edge">
 <title>division ring&#45;&gt;simple Artinian</title>
-<path fill="none" stroke="black" d="M1332.34,-2340.89C1372.56,-2309.21 1462.05,-2238.73 1508.56,-2202.1"/>
-<polygon fill="black" stroke="black" points="1510.3,-2204.4 1515.99,-2195.46 1505.97,-2198.9 1510.3,-2204.4"/>
+<path fill="none" stroke="black" d="M1332.07,-2340.89C1371.75,-2309.21 1460.06,-2238.73 1505.95,-2202.1"/>
+<polygon fill="black" stroke="black" points="1507.63,-2204.43 1513.27,-2195.46 1503.27,-2198.96 1507.63,-2204.43"/>
 </g>
 <!-- essential socle -->
 <g id="node66" class="node">
@@ -1461,8 +1461,8 @@
 <!-- pseudo&#45;Frobenius&#45;&gt;semilocal -->
 <g id="edge171" class="edge">
 <title>pseudo&#45;Frobenius&#45;&gt;semilocal</title>
-<path fill="none" stroke="black" d="M3371.47,-1259.9C3334.62,-1193.44 3198.8,-953.39 3130.89,-900 3098.14,-874.26 2838.05,-788.28 2731.33,-753.64"/>
-<polygon fill="black" stroke="black" points="2732.49,-750.01 2721.9,-750.26 2730.33,-756.67 2732.49,-750.01"/>
+<path fill="none" stroke="black" d="M3371.48,-1259.9C3334.63,-1193.43 3198.84,-953.34 3130.89,-900 3097.96,-874.15 2836.2,-788.07 2729.21,-753.53"/>
+<polygon fill="black" stroke="black" points="2730.64,-749.99 2720.05,-750.25 2728.5,-756.65 2730.64,-749.99"/>
 </g>
 <!-- pseudo&#45;Frobenius&#45;&gt;self&#45;injective -->
 <g id="edge56" class="edge">
@@ -1524,11 +1524,11 @@
 <path fill="none" stroke="green" d="M2922.81,-1087.93C2736.46,-1064.06 2218.44,-997.12 1787.89,-936 1779.44,-934.8 1770.64,-933.52 1761.85,-932.23"/>
 <polygon fill="green" stroke="green" points="1762.55,-928.65 1752.15,-930.65 1761.53,-935.57 1762.55,-928.65"/>
 </g>
-<!-- duo&#45;&gt;semicommutative &#160;(SI condition, zero&#45;insertive) -->
+<!-- duo&#45;&gt;semicommutative -->
 <g id="edge130" class="edge">
-<title>duo&#45;&gt;semicommutative &#160;(SI condition, zero&#45;insertive)</title>
-<path fill="none" stroke="black" d="M1287.14,-1081.44C1268.62,-1053.68 1231.11,-993.18 1214.89,-936 1179.05,-809.66 1181.51,-650.56 1184.3,-587.05"/>
-<polygon fill="black" stroke="black" points="1187.83,-587.49 1184.82,-577.33 1180.84,-587.15 1187.83,-587.49"/>
+<title>duo&#45;&gt;semicommutative</title>
+<path fill="none" stroke="black" d="M1287.55,-1081.31C1269.67,-1053.37 1233.12,-992.57 1214.89,-936 1193.8,-870.55 1170.04,-662.9 1161.85,-587.07"/>
+<polygon fill="black" stroke="black" points="1165.26,-587.04 1160.71,-577.47 1158.3,-587.79 1165.26,-587.04"/>
 </g>
 <!-- duo&#45;&gt;quasi&#45;duo -->
 <g id="edge202" class="edge">
@@ -1551,8 +1551,8 @@
 <!-- stable range 1&#45;&gt;stably finite -->
 <g id="edge65" class="edge">
 <title>stable range 1&#45;&gt;stably finite</title>
-<path fill="none" stroke="black" d="M2065.26,-540.89C2020.34,-508.91 1919.85,-437.35 1868.85,-401.04"/>
-<polygon fill="black" stroke="black" points="1871.1,-397.64 1860.92,-394.69 1867.04,-403.34 1871.1,-397.64"/>
+<path fill="none" stroke="black" d="M2064.35,-540.89C2019.61,-508.91 1919.52,-437.35 1868.72,-401.04"/>
+<polygon fill="black" stroke="black" points="1871.01,-397.66 1860.84,-394.69 1866.94,-403.35 1871.01,-397.66"/>
 </g>
 <!-- Kasch&#45;&gt;nonzero socle -->
 <g id="edge114" class="edge">
@@ -1563,44 +1563,44 @@
 <!-- strongly $\pi$&#45;regular&#45;&gt;$\pi$&#45;regular -->
 <g id="edge125" class="edge">
 <title>strongly $\pi$&#45;regular&#45;&gt;$\pi$&#45;regular</title>
-<path fill="none" stroke="black" d="M2132.03,-900.57C2187.75,-868.06 2311.97,-795.56 2373.27,-759.78"/>
-<polygon fill="black" stroke="black" points="2374.68,-762.43 2381.55,-754.37 2371.15,-756.39 2374.68,-762.43"/>
+<path fill="none" stroke="black" d="M2131.85,-900.57C2187.2,-868.06 2310.61,-795.56 2371.51,-759.78"/>
+<polygon fill="black" stroke="black" points="2372.88,-762.45 2379.73,-754.37 2369.33,-756.42 2372.88,-762.45"/>
 </g>
 <!-- strongly $\pi$&#45;regular&#45;&gt;cohopfian -->
 <g id="edge178" class="edge">
 <title>strongly $\pi$&#45;regular&#45;&gt;cohopfian</title>
-<path fill="none" stroke="black" d="M2144.28,-901.67C2232.12,-868.33 2439.86,-789.49 2529.96,-755.29"/>
-<polygon fill="black" stroke="black" points="2530.98,-758.27 2539.09,-751.45 2528.5,-751.72 2530.98,-758.27"/>
+<path fill="none" stroke="black" d="M2144.51,-901.52C2232.14,-868.12 2438.21,-789.57 2527.91,-755.38"/>
+<polygon fill="black" stroke="black" points="2528.9,-758.37 2537,-751.53 2526.41,-751.83 2528.9,-758.37"/>
 </g>
 <!-- strongly $\pi$&#45;regular&#45;&gt;stable range 1 -->
 <g id="edge66" class="edge">
 <title>strongly $\pi$&#45;regular&#45;&gt;stable range 1</title>
-<path fill="none" stroke="black" d="M2103.12,-899.73C2100.55,-842.31 2092.29,-657.42 2089.13,-586.79"/>
-<polygon fill="black" stroke="black" points="2092.59,-586.93 2088.65,-577.09 2085.6,-587.24 2092.59,-586.93"/>
+<path fill="none" stroke="black" d="M2103.07,-899.73C2100.34,-842.31 2091.56,-657.42 2088.21,-586.79"/>
+<polygon fill="black" stroke="black" points="2091.67,-586.92 2087.7,-577.09 2084.68,-587.25 2091.67,-586.92"/>
 </g>
 <!-- strongly $\pi$&#45;regular&#45;&gt;clean -->
 <g id="edge52" class="edge">
 <title>strongly $\pi$&#45;regular&#45;&gt;clean</title>
-<path fill="none" stroke="black" d="M2122.87,-899.93C2159.03,-867.42 2237.73,-796.67 2277.64,-760.8"/>
-<polygon fill="black" stroke="black" points="2279.67,-763.78 2284.77,-754.49 2274.99,-758.57 2279.67,-763.78"/>
+<path fill="none" stroke="black" d="M2121.91,-899.93C2156.09,-867.57 2230.29,-797.32 2268.34,-761.29"/>
+<polygon fill="black" stroke="black" points="2270.47,-764.15 2275.32,-754.74 2265.65,-759.07 2270.47,-764.15"/>
 </g>
 <!-- clean&#45;&gt;exchange -->
 <g id="edge93" class="edge">
 <title>clean&#45;&gt;exchange</title>
-<path fill="none" stroke="black" d="M2311.48,-720.57C2329.58,-689.6 2368.87,-622.36 2390.62,-585.12"/>
-<polygon fill="black" stroke="black" points="2393.99,-587.31 2396.01,-576.91 2387.94,-583.77 2393.99,-587.31"/>
+<path fill="none" stroke="black" d="M2302.11,-720.89C2321.66,-690.09 2364.5,-622.62 2388.23,-585.24"/>
+<polygon fill="black" stroke="black" points="2391.7,-587.3 2394.11,-576.98 2385.79,-583.55 2391.7,-587.3"/>
 </g>
 <!-- weakly clean -->
 <g id="node111" class="node">
 <title>weakly clean</title>
-<ellipse fill="none" stroke="black" cx="2282.89" cy="-558" rx="59.54" ry="18"/>
-<text text-anchor="middle" x="2282.89" y="-552.95" font-family="Times,serif" font-size="14.00">weakly clean</text>
+<ellipse fill="none" stroke="black" cx="2281.89" cy="-558" rx="59.54" ry="18"/>
+<text text-anchor="middle" x="2281.89" y="-552.95" font-family="Times,serif" font-size="14.00">weakly clean</text>
 </g>
 <!-- clean&#45;&gt;weakly clean -->
 <g id="edge140" class="edge">
 <title>clean&#45;&gt;weakly clean</title>
-<path fill="none" stroke="black" d="M2300.03,-719.61C2296.74,-688.77 2289.85,-624.26 2285.88,-587.06"/>
-<polygon fill="black" stroke="black" points="2289.29,-587.03 2284.75,-577.46 2282.33,-587.78 2289.29,-587.03"/>
+<path fill="none" stroke="black" d="M2290.91,-719.61C2289.18,-688.77 2285.55,-624.26 2283.46,-587.06"/>
+<polygon fill="black" stroke="black" points="2286.92,-587.25 2282.87,-577.46 2279.93,-587.64 2286.92,-587.25"/>
 </g>
 <!-- semiprimary&#45;&gt;nilpotent radical -->
 <g id="edge126" class="edge">
@@ -1629,20 +1629,20 @@
 <!-- finitely generated socle -->
 <g id="node86" class="node">
 <title>finitely generated socle</title>
-<ellipse fill="none" stroke="black" cx="2847.89" cy="-738" rx="97.41" ry="18"/>
-<text text-anchor="middle" x="2847.89" y="-732.95" font-family="Times,serif" font-size="14.00">finitely generated socle</text>
+<ellipse fill="none" stroke="black" cx="2845.89" cy="-738" rx="97.41" ry="18"/>
+<text text-anchor="middle" x="2845.89" y="-732.95" font-family="Times,serif" font-size="14.00">finitely generated socle</text>
 </g>
 <!-- finite uniform dimension&#45;&gt;finitely generated socle -->
 <g id="edge77" class="edge">
 <title>finite uniform dimension&#45;&gt;finitely generated socle</title>
-<path fill="none" stroke="green" d="M1751.75,-905.42C1988.33,-869.78 2692.66,-763.66 2741.89,-756 2749.55,-754.81 2757.52,-753.55 2765.49,-752.29"/>
-<polygon fill="green" stroke="green" points="2766.02,-755.59 2775.34,-750.57 2764.92,-748.68 2766.02,-755.59"/>
+<path fill="none" stroke="green" d="M1751.79,-905.42C1979.78,-871.06 2642.25,-771.21 2739.89,-756 2747.55,-754.81 2755.52,-753.55 2763.49,-752.29"/>
+<polygon fill="green" stroke="green" points="2764.02,-755.59 2773.34,-750.56 2762.92,-748.68 2764.02,-755.59"/>
 </g>
 <!-- distributive&#45;&gt;Abelian -->
 <g id="edge136" class="edge">
 <title>distributive&#45;&gt;Abelian</title>
-<path fill="none" stroke="black" d="M54.66,-1079.78C59.16,-1043.34 73.81,-957.09 115.89,-900 281.57,-675.19 383.05,-668.7 630.89,-540 769.99,-467.76 948.93,-413.63 1030.65,-390.85"/>
-<polygon fill="black" stroke="black" points="1031.35,-394.01 1040.05,-387.97 1029.48,-387.26 1031.35,-394.01"/>
+<path fill="none" stroke="black" d="M54.72,-1079.52C59.3,-1042.95 74.05,-957.04 115.89,-900 353.7,-575.76 857.22,-428.37 1011.19,-389.72"/>
+<polygon fill="black" stroke="black" points="1011.8,-392.93 1020.67,-387.12 1010.12,-386.13 1011.8,-392.93"/>
 </g>
 <!-- reversible -->
 <g id="node115" class="node">
@@ -1695,20 +1695,20 @@
 <!-- simple Artinian&#45;&gt;semisimple -->
 <g id="edge181" class="edge">
 <title>simple Artinian&#45;&gt;semisimple</title>
-<path fill="none" stroke="black" d="M1549.97,-2159.93C1572.17,-2128.57 1619.57,-2061.6 1645.69,-2024.71"/>
-<polygon fill="black" stroke="black" points="1648.92,-2027.2 1651.84,-2017.02 1643.21,-2023.16 1648.92,-2027.2"/>
+<path fill="none" stroke="black" d="M1547.26,-2159.93C1569.99,-2128.57 1618.52,-2061.6 1645.26,-2024.71"/>
+<polygon fill="black" stroke="black" points="1648.52,-2027.17 1651.56,-2017.02 1642.85,-2023.06 1648.52,-2027.17"/>
 </g>
 <!-- primary -->
 <g id="node84" class="node">
 <title>primary</title>
-<ellipse fill="none" stroke="black" cx="2342.89" cy="-1458" rx="40.6" ry="18"/>
-<text text-anchor="middle" x="2342.89" y="-1452.95" font-family="Times,serif" font-size="14.00">primary</text>
+<ellipse fill="none" stroke="black" cx="2379.89" cy="-1458" rx="40.6" ry="18"/>
+<text text-anchor="middle" x="2379.89" y="-1452.95" font-family="Times,serif" font-size="14.00">primary</text>
 </g>
 <!-- simple Artinian&#45;&gt;primary -->
 <g id="edge68" class="edge">
 <title>simple Artinian&#45;&gt;primary</title>
-<path fill="none" stroke="black" d="M1558.01,-2160.38C1592.84,-2131.5 1666.43,-2069.96 1726.89,-2016 1831.75,-1922.4 1853.93,-1894.61 1957.89,-1800 2091.59,-1678.32 2254.64,-1535.8 2316.97,-1481.53"/>
-<polygon fill="black" stroke="black" points="2318.84,-1483.67 2324.08,-1474.47 2314.24,-1478.39 2318.84,-1483.67"/>
+<path fill="none" stroke="black" d="M1555.37,-2160.43C1590.81,-2131.63 1665.66,-2070.22 1726.89,-2016 1832.11,-1922.81 1851.82,-1892.23 1957.89,-1800 2102.1,-1674.6 2282.79,-1533.78 2351.56,-1480.75"/>
+<polygon fill="black" stroke="black" points="2353.34,-1483.02 2359.13,-1474.15 2349.07,-1477.47 2353.34,-1483.02"/>
 </g>
 <!-- simple -->
 <g id="node101" class="node">
@@ -1719,44 +1719,44 @@
 <!-- simple Artinian&#45;&gt;simple -->
 <g id="edge173" class="edge">
 <title>simple Artinian&#45;&gt;simple</title>
-<path fill="none" stroke="black" d="M1485.72,-2166.08C1353.45,-2135.96 1000.69,-2040.02 791.89,-1836 685.66,-1732.2 632.48,-1554.23 615.3,-1486.37"/>
-<polygon fill="black" stroke="black" points="618.55,-1485.96 612.76,-1477.09 611.76,-1487.64 618.55,-1485.96"/>
+<path fill="none" stroke="black" d="M1482.93,-2166.02C1351.19,-2135.75 999.84,-2039.5 791.89,-1836 685.74,-1732.12 632.52,-1554.19 615.31,-1486.36"/>
+<polygon fill="black" stroke="black" points="618.56,-1485.95 612.76,-1477.09 611.77,-1487.64 618.56,-1485.95"/>
 </g>
 <!-- primary&#45;&gt;top simple Artinian -->
 <g id="edge108" class="edge">
 <title>primary&#45;&gt;top simple Artinian</title>
-<path fill="none" stroke="black" d="M2336.53,-1439.9C2313.38,-1380.11 2227.59,-1178.74 2087.89,-1080 2042.37,-1047.83 1687.4,-967.07 1536.45,-933.74"/>
-<polygon fill="black" stroke="black" points="1537.46,-930.16 1526.94,-931.42 1535.96,-936.99 1537.46,-930.16"/>
+<path fill="none" stroke="black" d="M2371.86,-1439.89C2342.9,-1380.09 2237.5,-1178.69 2087.89,-1080 2041.33,-1049.29 1686.53,-967.61 1536.04,-933.88"/>
+<polygon fill="black" stroke="black" points="1537.08,-930.31 1526.56,-931.54 1535.56,-937.14 1537.08,-930.31"/>
 </g>
 <!-- primary&#45;&gt;Kasch -->
 <g id="edge174" class="edge">
 <title>primary&#45;&gt;Kasch</title>
-<path fill="none" stroke="black" d="M2373.65,-1446.02C2487.5,-1405.18 2895.39,-1257.15 3223.89,-1116 3258.23,-1101.24 3265.25,-1094.05 3299.89,-1080 3483.93,-1005.37 3536.49,-1004.53 3722.89,-936 3725.01,-935.22 3727.18,-934.41 3729.37,-933.58"/>
+<path fill="none" stroke="black" d="M2410.05,-1445.55C2519.97,-1403.66 2909.08,-1254.01 3223.89,-1116 3258.12,-1100.99 3265.25,-1094.05 3299.89,-1080 3483.93,-1005.37 3536.49,-1004.53 3722.89,-936 3725.01,-935.22 3727.18,-934.41 3729.37,-933.58"/>
 <polygon fill="black" stroke="black" points="3730.52,-936.5 3738.59,-929.63 3728,-929.97 3730.52,-936.5"/>
 </g>
 <!-- primary&#45;&gt;semiprimary -->
 <g id="edge152" class="edge">
 <title>primary&#45;&gt;semiprimary</title>
-<path fill="none" stroke="black" d="M2361.56,-1441.82C2399.96,-1410.61 2488,-1339.06 2533.5,-1302.07"/>
-<polygon fill="black" stroke="black" points="2535.45,-1304.18 2541.01,-1295.16 2531.04,-1298.75 2535.45,-1304.18"/>
+<path fill="none" stroke="black" d="M2396.04,-1441.2C2428.04,-1409.91 2499.66,-1339.86 2537.46,-1302.89"/>
+<polygon fill="black" stroke="black" points="2539.28,-1306.03 2543.98,-1296.53 2534.39,-1301.02 2539.28,-1306.03"/>
 </g>
 <!-- potent&#45;&gt;lift/rad -->
 <g id="edge73" class="edge">
 <title>potent&#45;&gt;lift/rad</title>
-<path fill="none" stroke="black" d="M2411.64,-360.25C2427.84,-329.24 2462.63,-262.66 2482.05,-225.48"/>
-<polygon fill="black" stroke="black" points="2485.56,-227.31 2487.09,-216.83 2479.36,-224.07 2485.56,-227.31"/>
+<path fill="none" stroke="black" d="M2409.64,-360.25C2425.84,-329.24 2460.63,-262.66 2480.05,-225.48"/>
+<polygon fill="black" stroke="black" points="2483.56,-227.31 2485.09,-216.83 2477.36,-224.07 2483.56,-227.31"/>
 </g>
 <!-- $I_0$ -->
 <g id="node116" class="node">
 <title>$I_0$</title>
-<ellipse fill="none" stroke="black" cx="2402.89" cy="-198" rx="32.41" ry="18"/>
-<text text-anchor="middle" x="2402.89" y="-192.95" font-family="Times,serif" font-size="14.00">$I_0$</text>
+<ellipse fill="none" stroke="black" cx="2400.89" cy="-198" rx="32.41" ry="18"/>
+<text text-anchor="middle" x="2400.89" y="-192.95" font-family="Times,serif" font-size="14.00">$I_0$</text>
 </g>
 <!-- potent&#45;&gt;$I_0$ -->
 <g id="edge189" class="edge">
 <title>potent&#45;&gt;$I_0$</title>
-<path fill="none" stroke="black" d="M2402.89,-359.61C2402.89,-328.77 2402.89,-264.26 2402.89,-227.06"/>
-<polygon fill="black" stroke="black" points="2406.39,-227.46 2402.89,-217.46 2399.39,-227.46 2406.39,-227.46"/>
+<path fill="none" stroke="black" d="M2400.89,-359.61C2400.89,-328.77 2400.89,-264.26 2400.89,-227.06"/>
+<polygon fill="black" stroke="black" points="2404.39,-227.46 2400.89,-217.46 2397.39,-227.46 2404.39,-227.46"/>
 </g>
 <!-- ACC principal&#45;&gt;orthogonally finite -->
 <g id="edge78" class="edge">
@@ -1779,14 +1779,14 @@
 <!-- strongly connected&#45;&gt;Abelian -->
 <g id="edge213" class="edge">
 <title>strongly connected&#45;&gt;Abelian</title>
-<path fill="none" stroke="black" d="M364.04,-899.64C373.68,-862.55 400.75,-774.51 451.89,-720 625.17,-535.28 921.47,-427.45 1031.81,-392.05"/>
-<polygon fill="black" stroke="black" points="1032.73,-395.11 1041.21,-388.75 1030.62,-388.44 1032.73,-395.11"/>
+<path fill="none" stroke="black" d="M364.09,-899.69C373.84,-862.69 401.09,-774.83 451.89,-720 620,-538.53 907.24,-428.91 1014.68,-392.53"/>
+<polygon fill="black" stroke="black" points="1015.44,-395.63 1023.81,-389.14 1013.21,-389 1015.44,-395.63"/>
 </g>
 <!-- strongly connected&#45;&gt;orthogonally finite -->
 <g id="edge197" class="edge">
 <title>strongly connected&#45;&gt;orthogonally finite</title>
-<path fill="none" stroke="black" d="M366.17,-899.69C381.47,-860.24 424.72,-763.74 495.89,-720 589.2,-662.64 1337.05,-589.82 1590.92,-566.53"/>
-<polygon fill="black" stroke="black" points="1590.91,-569.95 1600.55,-565.55 1590.28,-562.98 1590.91,-569.95"/>
+<path fill="none" stroke="black" d="M366.17,-899.69C381.47,-860.24 424.72,-763.74 495.89,-720 678.86,-607.53 1342.4,-571.55 1585.14,-562"/>
+<polygon fill="black" stroke="black" points="1585.17,-565.46 1595.03,-561.58 1584.9,-558.47 1585.17,-565.46"/>
 </g>
 <!-- strongly connected&#45;&gt;connected -->
 <g id="edge124" class="edge">
@@ -1797,20 +1797,20 @@
 <!-- exchange&#45;&gt;potent -->
 <g id="edge98" class="edge">
 <title>exchange&#45;&gt;potent</title>
-<path fill="none" stroke="black" d="M2405.59,-539.61C2405.07,-508.77 2403.99,-444.26 2403.36,-407.06"/>
-<polygon fill="black" stroke="black" points="2406.85,-407.4 2403.18,-397.46 2399.85,-407.52 2406.85,-407.4"/>
+<path fill="none" stroke="black" d="M2404.5,-539.61C2403.8,-508.77 2402.35,-444.26 2401.52,-407.06"/>
+<polygon fill="black" stroke="black" points="2405,-407.38 2401.28,-397.46 2398,-407.54 2405,-407.38"/>
 </g>
 <!-- finite -->
 <g id="node94" class="node">
 <title>finite</title>
-<ellipse fill="none" stroke="black" cx="2585.89" cy="-1638" rx="30.37" ry="18"/>
-<text text-anchor="middle" x="2585.89" y="-1632.95" font-family="Times,serif" font-size="14.00">finite</text>
+<ellipse fill="none" stroke="black" cx="2621.89" cy="-1638" rx="30.37" ry="18"/>
+<text text-anchor="middle" x="2621.89" y="-1632.95" font-family="Times,serif" font-size="14.00">finite</text>
 </g>
 <!-- finite&#45;&gt;Artinian -->
 <g id="edge141" class="edge">
 <title>finite&#45;&gt;Artinian</title>
-<path fill="none" stroke="black" d="M2594.26,-1620.25C2609.73,-1589.32 2642.89,-1523 2661.5,-1485.77"/>
-<polygon fill="black" stroke="black" points="2665,-1487.6 2666.34,-1477.09 2658.74,-1484.47 2665,-1487.6"/>
+<path fill="none" stroke="black" d="M2626.97,-1619.93C2636.17,-1589.05 2655.64,-1523.63 2666.72,-1486.41"/>
+<polygon fill="black" stroke="black" points="2670.24,-1487.86 2669.74,-1477.28 2663.53,-1485.86 2670.24,-1487.86"/>
 </g>
 <!-- countable -->
 <g id="node95" class="node">
@@ -1821,20 +1821,20 @@
 <!-- finite&#45;&gt;countable -->
 <g id="edge102" class="edge">
 <title>finite&#45;&gt;countable</title>
-<path fill="none" stroke="black" d="M2584.23,-1619.61C2581.28,-1588.77 2575.12,-1524.26 2571.57,-1487.06"/>
-<polygon fill="black" stroke="black" points="2574.99,-1487.08 2570.55,-1477.46 2568.02,-1487.75 2574.99,-1487.08"/>
+<path fill="none" stroke="black" d="M2616.8,-1619.93C2607.61,-1589.05 2588.13,-1523.63 2577.05,-1486.41"/>
+<polygon fill="black" stroke="black" points="2580.24,-1485.86 2574.03,-1477.28 2573.53,-1487.86 2580.24,-1485.86"/>
 </g>
-<!-- NI (nilpotents form an ideal) -->
+<!-- NI ring -->
 <g id="node105" class="node">
-<title>NI (nilpotents form an ideal)</title>
-<ellipse fill="none" stroke="black" cx="1499.89" cy="-198" rx="118.4" ry="18"/>
-<text text-anchor="middle" x="1499.89" y="-192.95" font-family="Times,serif" font-size="14.00">NI (nilpotents form an ideal)</text>
+<title>NI ring</title>
+<ellipse fill="none" stroke="black" cx="1504.89" cy="-198" rx="38.04" ry="18"/>
+<text text-anchor="middle" x="1504.89" y="-192.95" font-family="Times,serif" font-size="14.00">NI ring</text>
 </g>
-<!-- 2&#45;primal&#45;&gt;NI (nilpotents form an ideal) -->
+<!-- 2&#45;primal&#45;&gt;NI ring -->
 <g id="edge192" class="edge">
-<title>2&#45;primal&#45;&gt;NI (nilpotents form an ideal)</title>
-<path fill="none" stroke="black" d="M1314.9,-361.2C1350.49,-330 1430,-260.28 1472.26,-223.23"/>
-<polygon fill="black" stroke="black" points="1474.22,-225.28 1479.43,-216.06 1469.61,-220.02 1474.22,-225.28"/>
+<title>2&#45;primal&#45;&gt;NI ring</title>
+<path fill="none" stroke="black" d="M1282.6,-361.82C1326.04,-330.01 1426.71,-256.27 1476.27,-219.96"/>
+<polygon fill="black" stroke="black" points="1477.91,-222.37 1483.9,-213.64 1473.77,-216.72 1477.91,-222.37"/>
 </g>
 <!-- cogenerator ring&#45;&gt;Kasch -->
 <g id="edge106" class="edge">
@@ -1932,11 +1932,11 @@
 <path fill="none" stroke="black" d="M976.56,-1263.18C912.67,-1230.87 753.72,-1150.49 684.72,-1115.6"/>
 <polygon fill="black" stroke="black" points="686.72,-1112.18 676.21,-1110.8 683.56,-1118.43 686.72,-1112.18"/>
 </g>
-<!-- NI (nilpotents form an ideal)&#45;&gt;Dedekind finite -->
+<!-- NI ring&#45;&gt;Dedekind finite -->
 <g id="edge129" class="edge">
-<title>NI (nilpotents form an ideal)&#45;&gt;Dedekind finite</title>
-<path fill="none" stroke="black" d="M1516.67,-179.93C1547.84,-148.22 1614.8,-80.12 1650.8,-43.5"/>
-<polygon fill="black" stroke="black" points="1652.9,-46.34 1657.41,-36.76 1647.91,-41.43 1652.9,-46.34"/>
+<title>NI ring&#45;&gt;Dedekind finite</title>
+<path fill="none" stroke="black" d="M1519.97,-181.2C1549.66,-150.12 1615.87,-80.8 1651.35,-43.64"/>
+<polygon fill="black" stroke="black" points="1653.47,-46.44 1657.85,-36.79 1648.41,-41.61 1653.47,-46.44"/>
 </g>
 <!-- free ideal ring&#45;&gt;semi free ideal ring -->
 <g id="edge144" class="edge">
@@ -2010,11 +2010,11 @@
 <path fill="none" stroke="black" d="M1451.89,-1979.61C1451.89,-1948.77 1451.89,-1884.26 1451.89,-1847.06"/>
 <polygon fill="black" stroke="black" points="1455.39,-1847.46 1451.89,-1837.46 1448.39,-1847.46 1455.39,-1847.46"/>
 </g>
-<!-- reversible&#45;&gt;semicommutative &#160;(SI condition, zero&#45;insertive) -->
+<!-- reversible&#45;&gt;semicommutative -->
 <g id="edge186" class="edge">
-<title>reversible&#45;&gt;semicommutative &#160;(SI condition, zero&#45;insertive)</title>
-<path fill="none" stroke="black" d="M1127.12,-719.93C1138.4,-689.05 1162.28,-623.63 1175.88,-586.41"/>
-<polygon fill="black" stroke="black" points="1179.44,-587.87 1179.58,-577.28 1172.86,-585.47 1179.44,-587.87"/>
+<title>reversible&#45;&gt;semicommutative</title>
+<path fill="none" stroke="black" d="M1124.6,-719.61C1131.18,-688.77 1144.96,-624.26 1152.9,-587.06"/>
+<polygon fill="black" stroke="black" points="1156.49,-587.97 1155.16,-577.46 1149.65,-586.51 1156.49,-587.97"/>
 </g>
 <!-- reversible&#45;&gt;McCoy -->
 <g id="edge218" class="edge">
@@ -2037,8 +2037,8 @@
 <!-- simple socle&#45;&gt;finitely generated socle -->
 <g id="edge209" class="edge">
 <title>simple socle&#45;&gt;finitely generated socle</title>
-<path fill="none" stroke="green" d="M3203.54,-902.58C3135.12,-871.11 2972.17,-796.16 2892.83,-759.67"/>
-<polygon fill="green" stroke="green" points="2894.67,-756.21 2884.13,-755.21 2891.75,-762.57 2894.67,-756.21"/>
+<path fill="none" stroke="green" d="M3203.38,-902.58C3134.61,-871.11 2970.81,-796.16 2891.07,-759.67"/>
+<polygon fill="green" stroke="green" points="2892.86,-756.19 2882.31,-755.21 2889.94,-762.55 2892.86,-756.19"/>
 </g>
 <!-- Armendariz&#45;&gt;McCoy -->
 <g id="edge216" class="edge">

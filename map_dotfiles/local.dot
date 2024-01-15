@@ -1,5 +1,5 @@
 strict digraph {
-    label=<Local ring properties<br/>(© Database of Ring Theory; Last updated 2022-10-12)>
+    label=<Local ring properties<br/>(© Database of Ring Theory; Last updated 2024-01-14)>
     URL="https://ringtheory.herokuapp.com/";
     labelloc=top;
 	"complete local" -> "Henselian local"

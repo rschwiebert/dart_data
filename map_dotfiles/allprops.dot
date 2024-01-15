@@ -11,7 +11,7 @@ subgraph cluster_01 {
     "left and right" -> "all these " [color=blue shape=rectangle]
 }
 
-    label=<All ring properties<br/>(© Database of Ring Theory; Last updated 2024-01-06)>
+    label=<All ring properties<br/>(© Database of Ring Theory; Last updated 2024-01-14)>
     URL="https://ringtheory.herokuapp.com/";
     labelloc=top;
 
@@ -29,7 +29,7 @@ subgraph cluster_01 {
 	domain -> prime [color=black]
 	"semi free ideal ring" -> domain [color=black]
 	"self-injective" -> "FI-injective" [color=green]
-	"semicommutative  (SI condition, zero-insertive)" -> Abelian [color=black]
+	semicommutative -> Abelian [color=black]
 	"strongly regular" -> "unit regular" [color=black]
 	perfect -> "$\pi$-regular" [color=black]
 	semihereditary -> coherent [color=green]
@@ -117,7 +117,7 @@ subgraph cluster_01 {
 	finite -> countable [color=black]
 	domain -> reduced [color=black]
 	"unit regular" -> "von Neumann regular" [color=black]
-	"semicommutative  (SI condition, zero-insertive)" -> "2-primal" [color=black]
+	semicommutative -> "2-primal" [color=black]
 	"cogenerator ring" -> Kasch [color=green]
 	"V ring" -> "max ring" [color=green]
 	primary -> "top simple Artinian" [color=black]
@@ -141,8 +141,8 @@ subgraph cluster_01 {
 	semiprimary -> "nilpotent radical" [color=black]
 	reduced -> nonsingular [color=black]
 	simple -> primitive [color=black]
-	"NI (nilpotents form an ideal)" -> "Dedekind finite" [color=black]
-	duo -> "semicommutative  (SI condition, zero-insertive)" [color=black]
+	"NI ring" -> "Dedekind finite" [color=black]
+	duo -> semicommutative [color=black]
 	"free ideal ring" -> hereditary [color=green]
 	"strongly regular" -> reduced [color=black]
 	local -> "quasi-duo" [color=black]
@@ -198,13 +198,13 @@ subgraph cluster_01 {
 	"strongly regular" -> distributive [color=black]
 	dual -> "simple-injective" [color=blue]
 	Boolean -> periodic [color=black]
-	reversible -> "semicommutative  (SI condition, zero-insertive)" [color=black]
+	reversible -> semicommutative [color=black]
 	symmetric -> reversible [color=black]
 	"finite uniform dimension" -> "stably finite" [color=black]
 	potent -> "$I_0$" [color=black]
 	commutative -> "Ore ring" [color=black]
 	semisimple -> "principal ideal ring" [color=black]
-	"2-primal" -> "NI (nilpotents form an ideal)" [color=black]
+	"2-primal" -> "NI ring" [color=black]
 	"simple socle" -> "nonzero socle" [color=green]
 	"Ikeda-Nakayama" -> "quasi-continuous" [color=green]
 	"Ore domain" -> "Ikeda-Nakayama" [color=green]

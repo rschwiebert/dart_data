@@ -1,10 +1,10 @@
 strict digraph {
-    label=<Commutative ring properties<br/>(© Database of Ring Theory; Last updated 2024-01-06)>
+    label=<Commutative ring properties<br/>(© Database of Ring Theory; Last updated 2024-01-14)>
     URL="https://ringtheory.herokuapp.com/";
     labelloc=top
 	graph [pad="0.5", ranksep="2.000"];
 	Zorn -> potent
-	"Jacobson (Hilbert)" -> "rad-nil"
+	"Jacobson" -> "rad-nil"
 	"self-injective" -> cohopfian
 	"principal ideal domain" -> "principal ideal ring"
 	Kasch -> "nonzero socle"
@@ -122,15 +122,15 @@ strict digraph {
 	excellent -> "universally catenary"
 	"valuation ring" -> "Ikeda-Nakayama"
 	connected -> "orthogonally finite"
-	"Japanese (N-2)" -> "N-1"
+	"N-2" -> "N-1"
 	field -> "universally Japanese domain"
 	"universally Japanese domain" -> "universally Japanese"
-	"universally Japanese domain" -> "Japanese (N-2)"
+	"universally Japanese domain" -> "N-2"
 	domain -> "Ikeda-Nakayama"
 	"pseudo-Frobenius" -> "cogenerator ring"
 	"principal ideal ring" -> Noetherian
 	"strongly $\pi$-regular" -> semiregular
-	"strongly $\pi$-regular" -> "Jacobson (Hilbert)"
+	"strongly $\pi$-regular" -> "Jacobson"
 	"von Neumann regular" -> exchange
 	primary -> semiprimary
 	dual -> "Ikeda-Nakayama"

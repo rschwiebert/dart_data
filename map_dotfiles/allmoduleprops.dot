@@ -1,5 +1,5 @@
 strict digraph {
-    label=<All module properties<br/>(© Database of Ring Theory; Last updated 2024-01-06)>
+    label=<All module properties<br/>(© Database of Ring Theory; Last updated 2024-01-14)>
     URL="https://ringtheory.herokuapp.com/";
     labelloc=top;
 
@@ -17,8 +17,8 @@ strict digraph {
     "simple" -> "cyclic"
     "uniserial" -> "serial"
     "uniserial" -> "uniform"
-    "reflexive" -> "semi-reflexive (torsionless)"
-    "projective" -> "semi-reflexive (torsionless)"
+    "reflexive" -> "semi-reflexive"
+    "projective" -> "semi-reflexive"
     "simple" -> "finite composition length"
     "finite composition length" -> "Artinian"
     "finite composition length" -> "Noetherian"
@@ -44,10 +44,10 @@ strict digraph {
     "torsion (regular element)" -> "torsion (naive)"
     "semisimple" -> "serial"
     "uniform" -> "indecomposable"
-    "brick" -> "strongly indecomposable (endolocal)"
+    "brick" -> "strongly indecomposable"
     brick -> Hopfian
     brick -> "co-Hopfian"
-    "strongly indecomposable (endolocal)" -> "indecomposable"
+    "strongly indecomposable" -> "indecomposable"
     "simple" -> "brick"
     "flat" -> "torsion-free"
     "finitely cogenerated" -> "finite uniform dimension"
@@ -58,8 +58,8 @@ strict digraph {
     "quasi-continuous" -> "CS"
     "quasi-injective" -> "continuous"
     "injective" -> "quasi-injective"
-    "continuous" -> "clean (endoclean)"
-    "strongly indecomposable (endolocal)" -> "clean (endoclean)"
+    "continuous" -> "clean"
+    "strongly indecomposable" -> "clean"
     "semisimple" -> "quasi-injective"
     "semisimple" -> "quasi-projective"
     "uniserial" -> "hollow"
