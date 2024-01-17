@@ -1,0 +1,13 @@
+citation:
+- CITE_000579
+description: (description to be added later).
+is_commutative: false
+keywords:
+- KWD_000077
+- KWD_000026
+- KWD_000003
+krull_dim: null
+name: Camillo and Nielsen's McCoy ring
+notes: Constructed to provide an example of a ring $R$ that is right McCoy but $R[[X]]$
+  is not right McCoy
+optional_template: ''

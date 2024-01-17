@@ -30,3 +30,21 @@ METAPROP_000006:
   has_metaproperty: true
   metaproperty: METAPROP_000006
   property: PROP_000156
+METAPROP_000012:
+  citation:
+  - 578
+  commutative_only: false
+  crosstable_pk: 298
+  example: null
+  has_metaproperty: true
+  metaproperty: METAPROP_000012
+  property: PROP_000156
+METAPROP_000014:
+  citation:
+  - 579
+  commutative_only: false
+  crosstable_pk: 299
+  example: RING_000163
+  has_metaproperty: false
+  metaproperty: METAPROP_000014
+  property: PROP_000156

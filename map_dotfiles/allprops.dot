@@ -11,7 +11,7 @@ subgraph cluster_01 {
     "left and right" -> "all these " [color=blue shape=rectangle]
 }
 
-    label=<All ring properties<br/>(© Database of Ring Theory; Last updated 2024-01-14)>
+    label=<All ring properties<br/>(© Database of Ring Theory; Last updated 2024-01-15)>
     URL="https://ringtheory.herokuapp.com/";
     labelloc=top;
 
@@ -231,4 +231,5 @@ subgraph cluster_01 {
 	Armendariz -> McCoy [color=black]
 	reduced -> Armendariz [color=black]
 	reversible -> McCoy [color=black]
+    McCoy -> "Dedekind finite" [color=black]
 }
