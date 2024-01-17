@@ -10,7 +10,7 @@ METAPROP_000006:
   citation: []
   commutative_only: false
   crosstable_pk: 290
-  example: RING_000057
-  has_metaproperty: false
+  example: null
+  has_metaproperty: true
   metaproperty: METAPROP_000006
   property: PROP_000067

@@ -1353,6 +1353,18 @@ PROP_000170:
     by submodules
   reason_right: symmetry with left side
   ring: RING_000147
+PROP_000171:
+  citation_left: []
+  citation_right: []
+  crosstable_pk: 25544
+  has_on_left: false
+  has_on_right: false
+  property: PROP_000171
+  reason_left: 'Logic (rings) 522: \(NOT "maximal ring" \) <=== \(NOT "linearly compact"
+    on the left or right\).'
+  reason_right: 'Logic (rings) 522: \(NOT "maximal ring" \) <=== \(NOT "linearly compact"
+    on the left or right\).'
+  ring: RING_000147
 PROP_000172:
   citation_left: []
   citation_right: []

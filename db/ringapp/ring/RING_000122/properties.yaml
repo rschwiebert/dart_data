@@ -959,6 +959,18 @@ PROP_000097:
   reason_right: 'Logic 105: perfect on the right <==> semilocal and T-nilpotent radical
     on the right'
   ring: RING_000122
+PROP_000098:
+  citation_left: []
+  citation_right: []
+  crosstable_pk: 25543
+  has_on_left: true
+  has_on_right: true
+  property: PROP_000098
+  reason_left: 'Logic (rings) 566: \( "simple socle" on the left\) <=== \( "uniform"
+    on the left\) AND \( "nonzero socle" on the left\).'
+  reason_right: 'Logic (rings) 566: \( "simple socle" on the right\) <=== \( "uniform"
+    on the right\) AND \( "nonzero socle" on the right\).'
+  ring: RING_000122
 PROP_000099:
   citation_left: []
   citation_right: []

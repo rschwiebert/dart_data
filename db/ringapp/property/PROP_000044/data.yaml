@@ -1,6 +1,6 @@
 citation:
 - CITE_000250
 commutative_only: false
-definition: If $R^n$ is isomorphic to $R^m$, then $n=m$
+definition: (Invariant Basis Number) If $R^n$ is isomorphic to $R^m$, then $n=m$
 name: IBN
 symmetric: true

@@ -1575,9 +1575,10 @@ PROP_000177:
   citation_right: []
   crosstable_pk: 24423
   has_on_left: false
-  has_on_right: null
+  has_on_right: false
   property: PROP_000177
   reason_left: 'Logic (rings) 559: \(NOT "semi-Artinian" on the left\) <=== \(NOT
     "Artinian" on the left\) AND \( "Noetherian" on the left\).'
-  reason_right: null
+  reason_right: 'Logic (rings) 563: \(NOT "semi-Artinian" on the right\) <=== \(NOT
+    "exchange" \).'
   ring: RING_000022

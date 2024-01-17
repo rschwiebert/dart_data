@@ -521,6 +521,16 @@ PROP_000066:
   reason_right: 'Logic 221: principal ideal ring on the right <==> ACC principal on
     the right and Bezout on the right'
   ring: RING_000105
+PROP_000067:
+  citation_left: []
+  citation_right: []
+  crosstable_pk: 25532
+  has_on_left: true
+  has_on_right: true
+  property: PROP_000067
+  reason_left: It is a direct product of Bezout rings
+  reason_right: symmetry with left side
+  ring: RING_000105
 PROP_000068:
   citation_left: []
   citation_right: []
@@ -792,6 +802,18 @@ PROP_000103:
   reason_left: symmetry with right side
   reason_right: 'Logic 278: finitely cogenerated on the right ===> finite uniform
     dimension on the right'
+  ring: RING_000105
+PROP_000104:
+  citation_left: []
+  citation_right: []
+  crosstable_pk: 25539
+  has_on_left: true
+  has_on_right: true
+  property: PROP_000104
+  reason_left: 'Logic (rings) 227: \( "distributive" on the left\) <=== \( "Bezout"
+    on the left\) AND \( "quasi-duo" on the left\).'
+  reason_right: 'Logic (rings) 227: \( "distributive" on the right\) <=== \( "Bezout"
+    on the right\) AND \( "quasi-duo" on the right\).'
   ring: RING_000105
 PROP_000105:
   citation_left: []
@@ -1203,6 +1225,18 @@ PROP_000158:
   property: PROP_000158
   reason_left: 'Logic 473: Abelian ===> IC (internal cancellation)'
   reason_right: 'Logic 473: Abelian ===> IC (internal cancellation)'
+  ring: RING_000105
+PROP_000159:
+  citation_left: []
+  citation_right: []
+  crosstable_pk: 25538
+  has_on_left: true
+  has_on_right: true
+  property: PROP_000159
+  reason_left: 'Logic (rings) 492: \( "arithmetical" \) <=== \( "commutative" \) AND
+    \( "distributive" on the left or right\).'
+  reason_right: 'Logic (rings) 492: \( "arithmetical" \) <=== \( "commutative" \)
+    AND \( "distributive" on the left or right\).'
   ring: RING_000105
 PROP_000160:
   citation_left: []
