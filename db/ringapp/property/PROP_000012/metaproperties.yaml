@@ -14,3 +14,27 @@ METAPROP_000002:
   has_metaproperty: false
   metaproperty: METAPROP_000002
   property: PROP_000012
+METAPROP_000005:
+  citation: []
+  commutative_only: false
+  crosstable_pk: 310
+  example: null
+  has_metaproperty: true
+  metaproperty: METAPROP_000005
+  property: PROP_000012
+METAPROP_000006:
+  citation: []
+  commutative_only: false
+  crosstable_pk: 314
+  example: null
+  has_metaproperty: true
+  metaproperty: METAPROP_000006
+  property: PROP_000012
+METAPROP_000016:
+  citation: []
+  commutative_only: false
+  crosstable_pk: 302
+  example: null
+  has_metaproperty: true
+  metaproperty: METAPROP_000016
+  property: PROP_000012

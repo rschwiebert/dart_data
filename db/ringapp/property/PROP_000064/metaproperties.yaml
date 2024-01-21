@@ -46,3 +46,11 @@ METAPROP_000009:
   has_metaproperty: true
   metaproperty: METAPROP_000009
   property: PROP_000064
+METAPROP_000016:
+  citation: []
+  commutative_only: false
+  crosstable_pk: 325
+  example: null
+  has_metaproperty: false
+  metaproperty: METAPROP_000016
+  property: PROP_000064

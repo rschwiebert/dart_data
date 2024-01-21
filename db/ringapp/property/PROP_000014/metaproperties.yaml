@@ -14,6 +14,22 @@ METAPROP_000002:
   has_metaproperty: true
   metaproperty: METAPROP_000002
   property: PROP_000014
+METAPROP_000005:
+  citation: []
+  commutative_only: false
+  crosstable_pk: 311
+  example: null
+  has_metaproperty: true
+  metaproperty: METAPROP_000005
+  property: PROP_000014
+METAPROP_000006:
+  citation: []
+  commutative_only: false
+  crosstable_pk: 315
+  example: null
+  has_metaproperty: true
+  metaproperty: METAPROP_000006
+  property: PROP_000014
 METAPROP_000007:
   citation:
   - 126
@@ -48,4 +64,12 @@ METAPROP_000012:
   example: RING_000003
   has_metaproperty: false
   metaproperty: METAPROP_000012
+  property: PROP_000014
+METAPROP_000016:
+  citation: []
+  commutative_only: false
+  crosstable_pk: 300
+  example: null
+  has_metaproperty: true
+  metaproperty: METAPROP_000016
   property: PROP_000014
