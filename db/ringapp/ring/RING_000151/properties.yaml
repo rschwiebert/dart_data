@@ -720,6 +720,16 @@ PROP_000069:
   reason_right: 'Logic (rings) 273: \(NOT "Ore domain" on the right\) <=== \(NOT "domain"
     \).'
   ring: RING_000151
+PROP_000072:
+  citation_left: []
+  citation_right: []
+  crosstable_pk: 25557
+  has_on_left: true
+  has_on_right: true
+  property: PROP_000072
+  reason_left: Subring of a product of domains containing all idempotents
+  reason_right: symmetry with left side
+  ring: RING_000151
 PROP_000073:
   citation_left: []
   citation_right: []

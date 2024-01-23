@@ -1677,6 +1677,16 @@ PROP_000160:
     \) AND \( "local" \) AND \( "Noetherian" on the left or right\) AND \( "normal
     domain" \) AND ring_dim_deduced("1",2,1).'
   ring: RING_000027
+PROP_000161:
+  citation_left: []
+  citation_right: []
+  crosstable_pk: 25549
+  has_on_left: true
+  has_on_right: true
+  property: PROP_000161
+  reason_left: null
+  reason_right: symmetry with left side
+  ring: RING_000027
 PROP_000162:
   citation_left: []
   citation_right: []
