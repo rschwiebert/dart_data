@@ -1,6 +1,7 @@
 citation:
 - CITE_000255
 commutative_only: false
-definition: For any $x$ in $R$, the right annihilator of $x$ is a summand of $R$
+definition: 'For any $x$ in $R$, the right annihilator of $x$ is a summand of $R$.
+  Also known as: principally projective (p.p.) rings.'
 name: Rickart
 symmetric: false

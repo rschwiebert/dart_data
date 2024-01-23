@@ -1685,6 +1685,16 @@ PROP_000160:
   reason_left: null
   reason_right: symmetry with left side
   ring: RING_000137
+PROP_000161:
+  citation_left: []
+  citation_right: []
+  crosstable_pk: 25552
+  has_on_left: false
+  has_on_right: false
+  property: PROP_000161
+  reason_left: null
+  reason_right: symmetry with left side
+  ring: RING_000137
 PROP_000162:
   citation_left: []
   citation_right: []
