@@ -1,3 +1,35 @@
+METAPROP_000003:
+  citation: []
+  commutative_only: false
+  crosstable_pk: 357
+  example: RING_000101
+  has_metaproperty: false
+  metaproperty: METAPROP_000003
+  property: PROP_000145
+METAPROP_000004:
+  citation: []
+  commutative_only: false
+  crosstable_pk: 349
+  example: RING_000027
+  has_metaproperty: false
+  metaproperty: METAPROP_000004
+  property: PROP_000145
+METAPROP_000005:
+  citation: []
+  commutative_only: false
+  crosstable_pk: 405
+  example: RING_000009
+  has_metaproperty: false
+  metaproperty: METAPROP_000005
+  property: PROP_000145
+METAPROP_000006:
+  citation: []
+  commutative_only: false
+  crosstable_pk: 479
+  example: null
+  has_metaproperty: false
+  metaproperty: METAPROP_000006
+  property: PROP_000145
 METAPROP_000009:
   citation:
   - 142
@@ -14,4 +46,12 @@ METAPROP_000012:
   example: RING_000006
   has_metaproperty: false
   metaproperty: METAPROP_000012
+  property: PROP_000145
+METAPROP_000016:
+  citation: []
+  commutative_only: false
+  crosstable_pk: 517
+  example: null
+  has_metaproperty: false
+  metaproperty: METAPROP_000016
   property: PROP_000145

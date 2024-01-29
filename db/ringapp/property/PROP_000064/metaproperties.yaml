@@ -14,6 +14,14 @@ METAPROP_000002:
   has_metaproperty: true
   metaproperty: METAPROP_000002
   property: PROP_000064
+METAPROP_000004:
+  citation: []
+  commutative_only: false
+  crosstable_pk: 420
+  example: null
+  has_metaproperty: true
+  metaproperty: METAPROP_000004
+  property: PROP_000064
 METAPROP_000005:
   citation: []
   commutative_only: false
@@ -26,7 +34,7 @@ METAPROP_000006:
   citation: []
   commutative_only: false
   crosstable_pk: 4
-  example: RING_000052
+  example: RING_000057
   has_metaproperty: false
   metaproperty: METAPROP_000006
   property: PROP_000064
