@@ -6,3 +6,19 @@ METAPROP_000004:
   has_metaproperty: true
   metaproperty: METAPROP_000004
   property: PROP_000150
+METAPROP_000006:
+  citation: []
+  commutative_only: false
+  crosstable_pk: 439
+  example: RING_000057
+  has_metaproperty: false
+  metaproperty: METAPROP_000006
+  property: PROP_000150
+METAPROP_000016:
+  citation: []
+  commutative_only: false
+  crosstable_pk: 519
+  example: null
+  has_metaproperty: false
+  metaproperty: METAPROP_000016
+  property: PROP_000150

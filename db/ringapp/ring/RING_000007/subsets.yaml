@@ -10,7 +10,7 @@ SUBSET_000002:
   crosstable_pk: 187
   reason: null
   ring: RING_000007
-  subset: $k\setminus\{0\}$
+  subset: $\mathbb Q\setminus\{0\}$
   subset_type: SUBSET_000002
 SUBSET_000003:
   citation: []

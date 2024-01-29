@@ -1,9 +1,9 @@
 citation: []
-description: The polynomial ring $k[x]$ over a countably infinite field $k$
+description: The polynomial ring $\mathbb Q[x]$
 is_commutative: true
 keywords:
 - KWD_000002
 krull_dim: '1'
-name: $k[x]$
+name: $\mathbb Q[x]$
 notes: null
 optional_template: ''
