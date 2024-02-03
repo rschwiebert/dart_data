@@ -7,3 +7,4 @@ METAPROP_000012:
   has_metaproperty: true
   metaproperty: METAPROP_000012
   property: PROP_000034
+  relation: null

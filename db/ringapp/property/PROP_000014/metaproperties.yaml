@@ -6,6 +6,7 @@ METAPROP_000001:
   has_metaproperty: true
   metaproperty: METAPROP_000001
   property: PROP_000014
+  relation: null
 METAPROP_000002:
   citation: []
   commutative_only: false
@@ -14,6 +15,7 @@ METAPROP_000002:
   has_metaproperty: true
   metaproperty: METAPROP_000002
   property: PROP_000014
+  relation: null
 METAPROP_000005:
   citation: []
   commutative_only: false
@@ -22,6 +24,7 @@ METAPROP_000005:
   has_metaproperty: true
   metaproperty: METAPROP_000005
   property: PROP_000014
+  relation: null
 METAPROP_000006:
   citation: []
   commutative_only: false
@@ -30,6 +33,7 @@ METAPROP_000006:
   has_metaproperty: true
   metaproperty: METAPROP_000006
   property: PROP_000014
+  relation: null
 METAPROP_000007:
   citation:
   - 126
@@ -39,6 +43,7 @@ METAPROP_000007:
   has_metaproperty: true
   metaproperty: METAPROP_000007
   property: PROP_000014
+  relation: null
 METAPROP_000008:
   citation:
   - 126
@@ -48,6 +53,7 @@ METAPROP_000008:
   has_metaproperty: true
   metaproperty: METAPROP_000008
   property: PROP_000014
+  relation: null
 METAPROP_000010:
   citation:
   - 128
@@ -57,6 +63,7 @@ METAPROP_000010:
   has_metaproperty: true
   metaproperty: METAPROP_000010
   property: PROP_000014
+  relation: null
 METAPROP_000012:
   citation: []
   commutative_only: false
@@ -65,6 +72,7 @@ METAPROP_000012:
   has_metaproperty: false
   metaproperty: METAPROP_000012
   property: PROP_000014
+  relation: null
 METAPROP_000016:
   citation: []
   commutative_only: false
@@ -73,3 +81,4 @@ METAPROP_000016:
   has_metaproperty: true
   metaproperty: METAPROP_000016
   property: PROP_000014
+  relation: null

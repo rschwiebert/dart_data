@@ -323,14 +323,6 @@ MODPROP_000045:
   module: MOD_000003
   property: MODPROP_000045
   reason: The union of proper subgroups is the entire module.
-MODPROP_000046:
-  citation: []
-  crosstable_pk: 455
-  has: true
-  module: MOD_000003
-  property: MODPROP_000046
-  reason: 'Logic (modules) 114: module("has" ''colocal'') <=== module("has" ''essential
-    socle'') AND module("has" ''simple socle'').'
 MODPROP_000047:
   citation: []
   crosstable_pk: 450

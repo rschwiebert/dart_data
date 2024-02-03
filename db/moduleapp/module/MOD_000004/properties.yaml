@@ -325,13 +325,6 @@ MODPROP_000045:
   module: MOD_000004
   property: MODPROP_000045
   reason: 'Logic (modules) 142: module("lacks" ''local'') <=== module("lacks" ''indecomposable'').'
-MODPROP_000046:
-  citation: []
-  crosstable_pk: 421
-  has: false
-  module: MOD_000004
-  property: MODPROP_000046
-  reason: 'Logic (modules) 115: module("lacks" ''colocal'') <=== module("lacks" ''uniform'').'
 MODPROP_000047:
   citation: []
   crosstable_pk: 422

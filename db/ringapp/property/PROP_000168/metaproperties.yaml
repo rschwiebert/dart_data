@@ -6,3 +6,4 @@ METAPROP_000005:
   has_metaproperty: true
   metaproperty: METAPROP_000005
   property: PROP_000168
+  relation: null

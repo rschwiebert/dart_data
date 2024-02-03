@@ -1,7 +1,0 @@
-active: true
-citation: []
-concs: module_deduced("has",54)
-hyps: ring_deduced("has",3,176) AND module_deduced("has",39)
-readable: ring is semi-Noetherian on the right AND module is $R_R$  ===>  module is
-  semi-Noetherian (Hamsher, max module)
-variety: 0

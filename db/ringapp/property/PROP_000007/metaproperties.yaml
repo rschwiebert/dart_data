@@ -6,6 +6,7 @@ METAPROP_000003:
   has_metaproperty: false
   metaproperty: METAPROP_000003
   property: PROP_000007
+  relation: null
 METAPROP_000007:
   citation:
   - 125
@@ -15,6 +16,7 @@ METAPROP_000007:
   has_metaproperty: true
   metaproperty: METAPROP_000007
   property: PROP_000007
+  relation: null
 METAPROP_000008:
   citation:
   - 125
@@ -24,6 +26,7 @@ METAPROP_000008:
   has_metaproperty: true
   metaproperty: METAPROP_000008
   property: PROP_000007
+  relation: null
 METAPROP_000010:
   citation:
   - 127
@@ -33,3 +36,4 @@ METAPROP_000010:
   has_metaproperty: true
   metaproperty: METAPROP_000010
   property: PROP_000007
+  relation: null

@@ -5,6 +5,7 @@ MODMETAPROP_000004:
   has_metaproperty: true
   metaproperty: MODMETAPROP_000004
   property: MODPROP_000061
+  relation: null
 MODMETAPROP_000006:
   citation: []
   crosstable_pk: 10
@@ -12,3 +13,4 @@ MODMETAPROP_000006:
   has_metaproperty: true
   metaproperty: MODMETAPROP_000006
   property: MODPROP_000061
+  relation: null

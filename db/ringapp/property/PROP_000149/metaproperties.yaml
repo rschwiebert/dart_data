@@ -6,6 +6,7 @@ METAPROP_000001:
   has_metaproperty: true
   metaproperty: METAPROP_000001
   property: PROP_000149
+  relation: null
 METAPROP_000002:
   citation: []
   commutative_only: false
@@ -14,6 +15,7 @@ METAPROP_000002:
   has_metaproperty: true
   metaproperty: METAPROP_000002
   property: PROP_000149
+  relation: null
 METAPROP_000003:
   citation: []
   commutative_only: false
@@ -22,6 +24,7 @@ METAPROP_000003:
   has_metaproperty: true
   metaproperty: METAPROP_000003
   property: PROP_000149
+  relation: null
 METAPROP_000004:
   citation: []
   commutative_only: false
@@ -30,6 +33,7 @@ METAPROP_000004:
   has_metaproperty: true
   metaproperty: METAPROP_000004
   property: PROP_000149
+  relation: null
 METAPROP_000005:
   citation: []
   commutative_only: false
@@ -38,6 +42,7 @@ METAPROP_000005:
   has_metaproperty: true
   metaproperty: METAPROP_000005
   property: PROP_000149
+  relation: null
 METAPROP_000006:
   citation: []
   commutative_only: false
@@ -46,6 +51,7 @@ METAPROP_000006:
   has_metaproperty: false
   metaproperty: METAPROP_000006
   property: PROP_000149
+  relation: null
 METAPROP_000007:
   citation: []
   commutative_only: false
@@ -54,6 +60,7 @@ METAPROP_000007:
   has_metaproperty: true
   metaproperty: METAPROP_000007
   property: PROP_000149
+  relation: null
 METAPROP_000008:
   citation: []
   commutative_only: false
@@ -62,6 +69,7 @@ METAPROP_000008:
   has_metaproperty: true
   metaproperty: METAPROP_000008
   property: PROP_000149
+  relation: null
 METAPROP_000009:
   citation: []
   commutative_only: false
@@ -70,6 +78,7 @@ METAPROP_000009:
   has_metaproperty: true
   metaproperty: METAPROP_000009
   property: PROP_000149
+  relation: null
 METAPROP_000010:
   citation: []
   commutative_only: false
@@ -78,6 +87,7 @@ METAPROP_000010:
   has_metaproperty: true
   metaproperty: METAPROP_000010
   property: PROP_000149
+  relation: null
 METAPROP_000012:
   citation: []
   commutative_only: false
@@ -86,6 +96,7 @@ METAPROP_000012:
   has_metaproperty: true
   metaproperty: METAPROP_000012
   property: PROP_000149
+  relation: null
 METAPROP_000016:
   citation: []
   commutative_only: false
@@ -94,3 +105,4 @@ METAPROP_000016:
   has_metaproperty: false
   metaproperty: METAPROP_000016
   property: PROP_000149
+  relation: null

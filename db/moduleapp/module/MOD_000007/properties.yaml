@@ -328,14 +328,6 @@ MODPROP_000045:
   property: MODPROP_000045
   reason: 'Logic (modules) 143: module(X ''local'') <=== ring(X ''local'' ) AND module("has"
     ''$R_R$'').'
-MODPROP_000046:
-  citation: []
-  crosstable_pk: 428
-  has: false
-  module: MOD_000007
-  property: MODPROP_000046
-  reason: 'Logic (modules) 114: module("lacks" ''colocal'') <=== module("lacks" ''essential
-    socle'').'
 MODPROP_000047:
   citation: []
   crosstable_pk: 847

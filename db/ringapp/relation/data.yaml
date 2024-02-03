@@ -1,0 +1,5 @@
+RINGRELATION_000001:
+  first: RING_000006
+  note: ''
+  relation_type: SUBRING_OF
+  second: RING_000101
