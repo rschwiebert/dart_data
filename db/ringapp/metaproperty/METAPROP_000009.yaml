@@ -1,2 +1,4 @@
-definition: ''
+definition: If a commutative ring $R$ has the property, and $S$ is the localization
+  of $R$, then $S$ has the property.
 name: passes to localizations
+relation_type: LOCALIZATION_OF

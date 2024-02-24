@@ -1,3 +1,4 @@
 definition: The direct product of (possibly infinitely many) modules with this property
   inherits the property
 name: stable under products
+relation_type: NONE

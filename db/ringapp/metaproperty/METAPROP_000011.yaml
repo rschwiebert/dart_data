@@ -1,3 +1,4 @@
 definition: A property of a ring $R$ is said to be local if all localizations $R_P$
   at prime ideals have the property implies that $R$ has the property too.
 name: is local
+relation_type: NONE

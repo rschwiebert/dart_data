@@ -1,3 +1,4 @@
 definition: Given an indexed set of rings $R_i$ all sharing the property, the product
   $\prod R_i$ also has the proprerty.
 name: stable under products
+relation_type: NONE

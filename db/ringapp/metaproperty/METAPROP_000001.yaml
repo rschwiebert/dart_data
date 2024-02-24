@@ -1,2 +1,4 @@
-definition: ''
+definition: If the property holds in $R$, then it also holds in every ring Morita
+  equivalent to $R$.
 name: Morita invariant
+relation_type: MORITA_EQ_TO
