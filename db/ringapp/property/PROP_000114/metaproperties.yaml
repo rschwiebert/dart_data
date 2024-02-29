@@ -2,20 +2,20 @@ METAPROP_000003:
   citation: []
   commutative_only: false
   crosstable_pk: 285
-  example: null
+  example: RING_000064
   has_metaproperty: false
   metaproperty: METAPROP_000003
   property: PROP_000114
-  relation: 4
+  relation: null
 METAPROP_000004:
   citation: []
   commutative_only: false
   crosstable_pk: 348
-  example: null
+  example: RING_000001
   has_metaproperty: false
   metaproperty: METAPROP_000004
   property: PROP_000114
-  relation: 3
+  relation: null
 METAPROP_000005:
   citation: []
   commutative_only: false
