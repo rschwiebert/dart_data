@@ -833,3 +833,28 @@ RINGRELATION_000167:
   note: by definition
   relation_type: SUBRING_OF
   second: RING_000012
+RINGRELATION_000168:
+  first: RING_000164
+  note: by definition
+  relation_type: IMAGE_OF
+  second: RING_000139
+RINGRELATION_000169:
+  first: RING_000119
+  note: by definition
+  relation_type: IMAGE_OF
+  second: RING_000165
+RINGRELATION_000170:
+  first: RING_000079
+  note: by definition
+  relation_type: IMAGE_OF
+  second: RING_000166
+RINGRELATION_000171:
+  first: RING_000082
+  note: see Expanded details
+  relation_type: SUBRING_OF
+  second: RING_000081
+RINGRELATION_000172:
+  first: RING_000168
+  note: $(x_i^2-x_i, x_i x_j)$
+  relation_type: IMAGE_OF
+  second: RING_000167
