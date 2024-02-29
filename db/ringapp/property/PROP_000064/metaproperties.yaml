@@ -19,12 +19,12 @@ METAPROP_000002:
 METAPROP_000003:
   citation: []
   commutative_only: false
-  crosstable_pk: 609
+  crosstable_pk: 628
   example: null
   has_metaproperty: false
   metaproperty: METAPROP_000003
   property: PROP_000064
-  relation: 5
+  relation: 164
 METAPROP_000004:
   citation: []
   commutative_only: false

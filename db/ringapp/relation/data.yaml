@@ -4,92 +4,832 @@ RINGRELATION_000001:
   relation_type: SUBRING_OF
   second: RING_000101
 RINGRELATION_000002:
-  first: RING_000053
-  note: ''
-  relation_type: IMAGE_OF
-  second: RING_000001
-RINGRELATION_000003:
-  first: RING_000049
-  note: ''
-  relation_type: IMAGE_OF
-  second: RING_000027
-RINGRELATION_000004:
-  first: RING_000077
-  note: ''
-  relation_type: SUBRING_OF
-  second: RING_000004
-RINGRELATION_000005:
-  first: RING_000036
-  note: ''
-  relation_type: SUBRING_OF
-  second: RING_000007
-RINGRELATION_000006:
-  first: RING_000064
-  note: ''
-  relation_type: SUBRING_OF
-  second: RING_000027
-RINGRELATION_000007:
   first: RING_000001
-  note: ''
+  note: field of fractions
   relation_type: SUBRING_OF
   second: RING_000002
+RINGRELATION_000003:
+  first: RING_000001
+  note: constant terms
+  relation_type: SUBRING_OF
+  second: RING_000006
+RINGRELATION_000004:
+  first: RING_000001
+  note: diagonal inclusion
+  relation_type: SUBRING_OF
+  second: RING_000019
+RINGRELATION_000005:
+  first: RING_000001
+  note: scalars
+  relation_type: SUBRING_OF
+  second: RING_000022
+RINGRELATION_000006:
+  first: RING_000001
+  note: scalars of Dorroh extension. Many elements have additive order 2
+  relation_type: SUBRING_OF
+  second: RING_000026
+RINGRELATION_000007:
+  first: RING_000001
+  note: ideal intersects the base ring trivially
+  relation_type: SUBRING_OF
+  second: RING_000032
 RINGRELATION_000008:
-  first: RING_000002
-  note: ''
+  first: RING_000001
+  note: integers in a number field
   relation_type: SUBRING_OF
-  second: RING_000003
+  second: RING_000033
 RINGRELATION_000009:
-  first: RING_000003
-  note: ''
+  first: RING_000001
+  note: integers in a number field
   relation_type: SUBRING_OF
-  second: RING_000004
+  second: RING_000034
 RINGRELATION_000010:
-  first: RING_000004
-  note: ''
+  first: RING_000001
+  note: by definition
   relation_type: SUBRING_OF
-  second: RING_000005
+  second: RING_000036
 RINGRELATION_000011:
   first: RING_000001
-  note: ''
+  note: scalars of trivial extension
+  relation_type: SUBRING_OF
+  second: RING_000043
+RINGRELATION_000012:
+  first: RING_000001
+  note: base ring of localization
+  relation_type: SUBRING_OF
+  second: RING_000055
+RINGRELATION_000013:
+  first: RING_000001
+  note: scalars of trivial extension
+  relation_type: SUBRING_OF
+  second: RING_000063
+RINGRELATION_000014:
+  first: RING_000001
+  note: by definition
+  relation_type: SUBRING_OF
+  second: RING_000069
+RINGRELATION_000015:
+  first: RING_000001
+  note: torsionless additive group
+  relation_type: SUBRING_OF
+  second: RING_000074
+RINGRELATION_000016:
+  first: RING_000001
+  note: torsionless additive group
+  relation_type: SUBRING_OF
+  second: RING_000075
+RINGRELATION_000017:
+  first: RING_000001
+  note: integers of number field
+  relation_type: SUBRING_OF
+  second: RING_000076
+RINGRELATION_000018:
+  first: RING_000001
+  note: subring of integers of number field
+  relation_type: SUBRING_OF
+  second: RING_000077
+RINGRELATION_000019:
+  first: RING_000001
+  note: torsionless additive group
+  relation_type: SUBRING_OF
+  second: RING_000084
+RINGRELATION_000020:
+  first: RING_000001
+  note: base ring of localization
+  relation_type: SUBRING_OF
+  second: RING_000095
+RINGRELATION_000021:
+  first: RING_000001
+  note: by definition
+  relation_type: SUBRING_OF
+  second: RING_000096
+RINGRELATION_000022:
+  first: RING_000001
+  note: diagonal inclusion
+  relation_type: SUBRING_OF
+  second: RING_000097
+RINGRELATION_000023:
+  first: RING_000001
+  note: torsionless additive group
+  relation_type: SUBRING_OF
+  second: RING_000105
+RINGRELATION_000024:
+  first: RING_000001
+  note: scalars of trivial extension
+  relation_type: SUBRING_OF
+  second: RING_000122
+RINGRELATION_000025:
+  first: RING_000001
+  note: diagonal inclusion
+  relation_type: SUBRING_OF
+  second: RING_000126
+RINGRELATION_000026:
+  first: RING_000001
+  note: torsionless additive group
+  relation_type: SUBRING_OF
+  second: RING_000150
+RINGRELATION_000027:
+  first: RING_000001
+  note: scalars of skew power series
+  relation_type: SUBRING_OF
+  second: RING_000153
+RINGRELATION_000028:
+  first: RING_000001
+  note: diagonal inclusion
+  relation_type: SUBRING_OF
+  second: RING_000154
+RINGRELATION_000029:
+  first: RING_000001
+  note: by definition
+  relation_type: SUBRING_OF
+  second: RING_000160
+RINGRELATION_000030:
+  first: RING_000002
+  note: constant terms
+  relation_type: SUBRING_OF
+  second: RING_000007
+RINGRELATION_000031:
+  first: RING_000002
+  note: prime field
+  relation_type: SUBRING_OF
+  second: RING_000017
+RINGRELATION_000032:
+  first: RING_000002
+  note: prime field
+  relation_type: SUBRING_OF
+  second: RING_000018
+RINGRELATION_000033:
+  first: RING_000002
+  note: diagonal inclusion
+  relation_type: SUBRING_OF
+  second: RING_000020
+RINGRELATION_000034:
+  first: RING_000002
+  note: $\mathbb Q$-algebra
+  relation_type: SUBRING_OF
+  second: RING_000059
+RINGRELATION_000035:
+  first: RING_000002
+  note: prime field
+  relation_type: SUBRING_OF
+  second: RING_000085
+RINGRELATION_000036:
+  first: RING_000002
+  note: base ring of localization
+  relation_type: SUBRING_OF
+  second: RING_000100
+RINGRELATION_000037:
+  first: RING_000002
+  note: prime field
+  relation_type: SUBRING_OF
+  second: RING_000101
+RINGRELATION_000038:
+  first: RING_000002
+  note: base ring of localization
+  relation_type: SUBRING_OF
+  second: RING_000131
+RINGRELATION_000039:
+  first: RING_000002
+  note: prime field
+  relation_type: SUBRING_OF
+  second: RING_000140
+RINGRELATION_000040:
+  first: RING_000002
+  note: prime field
+  relation_type: SUBRING_OF
+  second: RING_000156
+RINGRELATION_000041:
+  first: RING_000002
+  note: $\mathbb Q$-algebra
+  relation_type: SUBRING_OF
+  second: RING_000158
+RINGRELATION_000042:
+  first: RING_000002
+  note: $\mathbb Q$-algebra
+  relation_type: SUBRING_OF
+  second: RING_000159
+RINGRELATION_000043:
+  first: RING_000003
+  note: degree 2 extension
   relation_type: SUBRING_OF
   second: RING_000004
-RINGRELATION_000012:
-  first: RING_000044
-  note: ''
+RINGRELATION_000044:
+  first: RING_000003
+  note: ideal intersects the base ring trivially
   relation_type: SUBRING_OF
-  second: RING_000015
-RINGRELATION_000013:
-  first: RING_000090
-  note: ''
+  second: RING_000049
+RINGRELATION_000045:
+  first: RING_000003
+  note: ideal intersects the base ring trivially
+  relation_type: SUBRING_OF
+  second: RING_000050
+RINGRELATION_000046:
+  first: RING_000003
+  note: ring of real functions
+  relation_type: SUBRING_OF
+  second: RING_000068
+RINGRELATION_000047:
+  first: RING_000003
+  note: polynomial ring
+  relation_type: SUBRING_OF
+  second: RING_000088
+RINGRELATION_000048:
+  first: RING_000003
+  note: ideal intersects the base ring trivially
+  relation_type: SUBRING_OF
+  second: RING_000091
+RINGRELATION_000049:
+  first: RING_000003
+  note: base ring of completion
+  relation_type: SUBRING_OF
+  second: RING_000092
+RINGRELATION_000050:
+  first: RING_000003
+  note: the standard part map
+  relation_type: SUBRING_OF
+  second: RING_000107
+RINGRELATION_000051:
+  first: RING_000003
+  note: ring of real functions
+  relation_type: SUBRING_OF
+  second: RING_000130
+RINGRELATION_000052:
+  first: RING_000003
+  note: ring of real functions
+  relation_type: SUBRING_OF
+  second: RING_000155
+RINGRELATION_000053:
+  first: RING_000004
+  note: maximal commutative subalgebra
+  relation_type: SUBRING_OF
+  second: RING_000005
+RINGRELATION_000054:
+  first: RING_000004
+  note: ring of complex functions
+  relation_type: SUBRING_OF
+  second: RING_000037
+RINGRELATION_000055:
+  first: RING_000004
+  note: diagonal inclusion
+  relation_type: SUBRING_OF
+  second: RING_000087
+RINGRELATION_000056:
+  first: RING_000004
+  note: $\mathbb C$-algebra
+  relation_type: SUBRING_OF
+  second: RING_000136
+RINGRELATION_000057:
+  first: RING_000004
+  note: $\mathbb C$-algebra
+  relation_type: SUBRING_OF
+  second: RING_000144
+RINGRELATION_000058:
+  first: RING_000004
+  note: $\mathbb C$-algebra
+  relation_type: SUBRING_OF
+  second: RING_000145
+RINGRELATION_000059:
+  first: RING_000004
+  note: $\mathbb C$-algebra
+  relation_type: SUBRING_OF
+  second: RING_000147
+RINGRELATION_000060:
+  first: RING_000005
+  note: diagonal inclusion
+  relation_type: SUBRING_OF
+  second: RING_000152
+RINGRELATION_000061:
+  first: RING_000006
+  note: by definition
+  relation_type: SUBRING_OF
+  second: RING_000007
+RINGRELATION_000062:
+  first: RING_000006
+  note: by definition
+  relation_type: SUBRING_OF
+  second: RING_000022
+RINGRELATION_000063:
+  first: RING_000006
+  note: by definition
+  relation_type: SUBRING_OF
+  second: RING_000036
+RINGRELATION_000064:
+  first: RING_000006
+  note: there are transcendental $p$-adic integers
+  relation_type: SUBRING_OF
+  second: RING_000084
+RINGRELATION_000065:
+  first: RING_000006
+  note: there are transcendental $p$-adic integers
+  relation_type: SUBRING_OF
+  second: RING_000105
+RINGRELATION_000066:
+  first: RING_000006
+  note: there are transcendental $p$-adic integers
+  relation_type: SUBRING_OF
+  second: RING_000122
+RINGRELATION_000067:
+  first: RING_000006
+  note: there are transcendental $p$-adic integers
+  relation_type: SUBRING_OF
+  second: RING_000150
+RINGRELATION_000068:
+  first: RING_000007
+  note: there are transcendental reals
+  relation_type: SUBRING_OF
+  second: RING_000003
+RINGRELATION_000069:
+  first: RING_000007
+  note: by definition
+  relation_type: SUBRING_OF
+  second: RING_000061
+RINGRELATION_000070:
+  first: RING_000007
+  note: by definition
+  relation_type: SUBRING_OF
+  second: RING_000100
+RINGRELATION_000071:
+  first: RING_000007
+  note: componentwise inclusion
+  relation_type: SUBRING_OF
+  second: RING_000104
+RINGRELATION_000072:
+  first: RING_000007
+  note: $\mathbb Q[b]$
+  relation_type: SUBRING_OF
+  second: RING_000112
+RINGRELATION_000073:
+  first: RING_000007
+  note: take any nonzero group element
+  relation_type: SUBRING_OF
+  second: RING_000117
+RINGRELATION_000074:
+  first: RING_000007
+  note: $\mathbb Q[y]$
+  relation_type: SUBRING_OF
+  second: RING_000120
+RINGRELATION_000075:
+  first: RING_000007
+  note: $\mathbb Q[x_1^2]$
+  relation_type: SUBRING_OF
+  second: RING_000131
+RINGRELATION_000076:
+  first: RING_000007
+  note: $\mathbb Q[x_0]$
+  relation_type: SUBRING_OF
+  second: RING_000148
+RINGRELATION_000077:
+  first: RING_000007
+  note: there are transcendental $p$-adic numbers
+  relation_type: SUBRING_OF
+  second: RING_000151
+RINGRELATION_000078:
+  first: RING_000007
+  note: $\mathbb Q[x_0]$
+  relation_type: SUBRING_OF
+  second: RING_000158
+RINGRELATION_000079:
+  first: RING_000018
+  note: by definition
+  relation_type: SUBRING_OF
+  second: RING_000123
+RINGRELATION_000080:
+  first: RING_000101
+  note: there are transcendental $p$-adic integers
+  relation_type: SUBRING_OF
+  second: RING_000085
+RINGRELATION_000081:
+  first: RING_000102
+  note: $F_2$-algebra
+  relation_type: SUBRING_OF
+  second: RING_000016
+RINGRELATION_000082:
+  first: RING_000102
+  note: $F_2$-algebra
+  relation_type: SUBRING_OF
+  second: RING_000023
+RINGRELATION_000083:
+  first: RING_000102
+  note: $F_2$-algebra
+  relation_type: SUBRING_OF
+  second: RING_000024
+RINGRELATION_000084:
+  first: RING_000102
+  note: $F_2$-algebra
+  relation_type: SUBRING_OF
+  second: RING_000025
+RINGRELATION_000085:
+  first: RING_000102
+  note: $F_2$-algebra
+  relation_type: SUBRING_OF
+  second: RING_000039
+RINGRELATION_000086:
+  first: RING_000102
+  note: $F_2$-algebra
+  relation_type: SUBRING_OF
+  second: RING_000041
+RINGRELATION_000087:
+  first: RING_000102
+  note: $F_2$-algebra
+  relation_type: SUBRING_OF
+  second: RING_000052
+RINGRELATION_000088:
+  first: RING_000102
+  note: $F_2$-algebra
+  relation_type: SUBRING_OF
+  second: RING_000057
+RINGRELATION_000089:
+  first: RING_000102
+  note: $F_2$-algebra
+  relation_type: SUBRING_OF
+  second: RING_000067
+RINGRELATION_000090:
+  first: RING_000102
+  note: $F_2$-algebra
+  relation_type: SUBRING_OF
+  second: RING_000071
+RINGRELATION_000091:
+  first: RING_000102
+  note: $F_2$-algebra
+  relation_type: SUBRING_OF
+  second: RING_000072
+RINGRELATION_000092:
+  first: RING_000102
+  note: $F_2$-algebra
+  relation_type: SUBRING_OF
+  second: RING_000106
+RINGRELATION_000093:
+  first: RING_000102
+  note: $F_2$-algebra
+  relation_type: SUBRING_OF
+  second: RING_000109
+RINGRELATION_000094:
+  first: RING_000102
+  note: $F_2$-algebra
+  relation_type: SUBRING_OF
+  second: RING_000113
+RINGRELATION_000095:
+  first: RING_000102
+  note: $F_2$-algebra
+  relation_type: SUBRING_OF
+  second: RING_000114
+RINGRELATION_000096:
+  first: RING_000102
+  note: $F_2$-algebra
+  relation_type: SUBRING_OF
+  second: RING_000121
+RINGRELATION_000097:
+  first: RING_000102
+  note: $F_2$-algebra
+  relation_type: SUBRING_OF
+  second: RING_000124
+RINGRELATION_000098:
+  first: RING_000102
+  note: $F_2$-algebra
+  relation_type: SUBRING_OF
+  second: RING_000132
+RINGRELATION_000099:
+  first: RING_000102
+  note: $F_2$-algebra
+  relation_type: SUBRING_OF
+  second: RING_000134
+RINGRELATION_000100:
+  first: RING_000102
+  note: $F_2$-algebra
+  relation_type: SUBRING_OF
+  second: RING_000157
+RINGRELATION_000101:
+  first: RING_000001
+  note: $(x)$
   relation_type: IMAGE_OF
-  second: RING_000098
-RINGRELATION_000014:
-  first: RING_000014
-  note: ''
-  relation_type: SUBRING_OF
-  second: RING_000012
-RINGRELATION_000015:
-  first: RING_000164
-  note: ''
+  second: RING_000036
+RINGRELATION_000102:
+  first: RING_000001
+  note: $(x)$
+  relation_type: IMAGE_OF
+  second: RING_000006
+RINGRELATION_000103:
+  first: RING_000001
+  note: $(x+1 )$
+  relation_type: IMAGE_OF
+  second: RING_000032
+RINGRELATION_000104:
+  first: RING_000001
+  note: $(x,y)$
+  relation_type: IMAGE_OF
+  second: RING_000022
+RINGRELATION_000105:
+  first: RING_000001
+  note: trivial extension
+  relation_type: IMAGE_OF
+  second: RING_000043
+RINGRELATION_000106:
+  first: RING_000001
+  note: trivial extension
+  relation_type: IMAGE_OF
+  second: RING_000063
+RINGRELATION_000107:
+  first: RING_000001
+  note: $V$ is an ideal
+  relation_type: IMAGE_OF
+  second: RING_000096
+RINGRELATION_000108:
+  first: RING_000102
+  note: by definition
+  relation_type: IMAGE_OF
+  second: RING_000001
+RINGRELATION_000109:
+  first: RING_000053
+  note: by definition
+  relation_type: IMAGE_OF
+  second: RING_000001
+RINGRELATION_000110:
+  first: RING_000009
+  note: by definition
+  relation_type: IMAGE_OF
+  second: RING_000001
+RINGRELATION_000111:
+  first: RING_000008
+  note: by definition
+  relation_type: IMAGE_OF
+  second: RING_000001
+RINGRELATION_000112:
+  first: RING_000010
+  note: by definition
+  relation_type: IMAGE_OF
+  second: RING_000001
+RINGRELATION_000113:
+  first: RING_000032
+  note: by definition
+  relation_type: IMAGE_OF
+  second: RING_000006
+RINGRELATION_000114:
+  first: RING_000034
+  note: ideal generated by minimal polynomial
+  relation_type: IMAGE_OF
+  second: RING_000006
+RINGRELATION_000115:
+  first: RING_000077
+  note: ideal generated by minimal polynomial
+  relation_type: IMAGE_OF
+  second: RING_000006
+RINGRELATION_000116:
+  first: RING_000076
+  note: ideal generated by minimal polynomial
+  relation_type: IMAGE_OF
+  second: RING_000006
+RINGRELATION_000117:
+  first: RING_000102
+  note: augmentation
+  relation_type: IMAGE_OF
+  second: RING_000157
+RINGRELATION_000118:
+  first: RING_000102
+  note: augmentation
+  relation_type: IMAGE_OF
+  second: RING_000025
+RINGRELATION_000119:
+  first: RING_000102
+  note: $(x,y)$
+  relation_type: IMAGE_OF
+  second: RING_000023
+RINGRELATION_000120:
+  first: RING_000102
+  note: direct factor
+  relation_type: IMAGE_OF
+  second: RING_000057
+RINGRELATION_000121:
+  first: RING_000102
+  note: 2-adics by maximal ideal
+  relation_type: IMAGE_OF
+  second: RING_000150
+RINGRELATION_000122:
+  first: RING_000102
+  note: the second column
+  relation_type: IMAGE_OF
+  second: RING_000016
+RINGRELATION_000123:
+  first: RING_000102
+  note: $(x,y,z)$
+  relation_type: IMAGE_OF
+  second: RING_000024
+RINGRELATION_000124:
+  first: RING_000102
+  note: $(2)$
+  relation_type: IMAGE_OF
+  second: RING_000029
+RINGRELATION_000125:
+  first: RING_000102
+  note: the first row is an ideal
+  relation_type: IMAGE_OF
+  second: RING_000030
+RINGRELATION_000126:
+  first: RING_000102
+  note: $(2)$ is inert, see MO 137449
+  relation_type: IMAGE_OF
+  second: RING_000034
+RINGRELATION_000127:
+  first: RING_000102
+  note: $(2)$ is ramified (see MO 137449), and $R/(2,1-\sqrt{-5}) \cong Z/(2)$.
+  relation_type: IMAGE_OF
+  second: RING_000077
+RINGRELATION_000128:
+  first: RING_000057
+  note: first row
+  relation_type: IMAGE_OF
+  second: RING_000039
+RINGRELATION_000129:
+  first: RING_000102
+  note: three upper rows
+  relation_type: IMAGE_OF
+  second: RING_000041
+RINGRELATION_000130:
+  first: RING_000102
+  note: right column
+  relation_type: IMAGE_OF
+  second: RING_000046
+RINGRELATION_000131:
+  first: RING_000102
+  note: augmentation
+  relation_type: IMAGE_OF
+  second: RING_000051
+RINGRELATION_000132:
+  first: RING_000102
+  note: the subrng
+  relation_type: IMAGE_OF
+  second: RING_000052
+RINGRELATION_000133:
+  first: RING_000102
+  note: $R/J(R) \cong F_2 \times M_2(F_2)$
+  relation_type: IMAGE_OF
+  second: RING_000072
+RINGRELATION_000134:
+  first: RING_000102
+  note: set all letters to zero
+  relation_type: IMAGE_OF
+  second: RING_000113
+RINGRELATION_000135:
+  first: RING_000102
+  note: set letters to 0
+  relation_type: IMAGE_OF
+  second: RING_000134
+RINGRELATION_000136:
+  first: RING_000102
+  note: $R \cong S[x]/(x^2)$; take $(2, x)$
   relation_type: IMAGE_OF
   second: RING_000139
-RINGRELATION_000016:
-  first: RING_000119
-  note: ''
+RINGRELATION_000137:
+  first: RING_000002
+  note: $(x)$
   relation_type: IMAGE_OF
-  second: RING_000165
-RINGRELATION_000017:
-  first: RING_000079
-  note: ''
+  second: RING_000007
+RINGRELATION_000138:
+  first: RING_000002
+  note: first row
   relation_type: IMAGE_OF
-  second: RING_000166
-RINGRELATION_000018:
-  first: RING_000082
-  note: ''
+  second: RING_000019
+RINGRELATION_000139:
+  first: RING_000002
+  note: second column
+  relation_type: IMAGE_OF
+  second: RING_000020
+RINGRELATION_000140:
+  first: RING_000002
+  note: make letters zero
+  relation_type: IMAGE_OF
+  second: RING_000059
+RINGRELATION_000141:
+  first: RING_000002
+  note: maximal ideal
+  relation_type: IMAGE_OF
+  second: RING_000104
+RINGRELATION_000142:
+  first: RING_000102
+  note: outsize $\Bbb Z_2$ + $(2)$ inside
+  relation_type: IMAGE_OF
+  second: RING_000105
+RINGRELATION_000143:
+  first: RING_000002
+  note: augmentation
+  relation_type: IMAGE_OF
+  second: RING_000117
+RINGRELATION_000144:
+  first: RING_000002
+  note: make letters zero
+  relation_type: IMAGE_OF
+  second: RING_000120
+RINGRELATION_000145:
+  first: RING_000102
+  note: $2B+Q/B$
+  relation_type: IMAGE_OF
+  second: RING_000122
+RINGRELATION_000146:
+  first: RING_000102
+  note: augmentation
+  relation_type: IMAGE_OF
+  second: RING_000124
+RINGRELATION_000147:
+  first: RING_000002
+  note: make letters zero
+  relation_type: IMAGE_OF
+  second: RING_000148
+RINGRELATION_000148:
+  first: RING_000002
+  note: make letters zero
+  relation_type: IMAGE_OF
+  second: RING_000158
+RINGRELATION_000149:
+  first: RING_000002
+  note: make letters zero
+  relation_type: IMAGE_OF
+  second: RING_000159
+RINGRELATION_000150:
+  first: RING_000116
+  note: by definition
+  relation_type: IMAGE_OF
+  second: RING_000098
+RINGRELATION_000151:
+  first: RING_000090
+  note: by definition
+  relation_type: IMAGE_OF
+  second: RING_000098
+RINGRELATION_000152:
+  first: RING_000089
+  note: by definition
+  relation_type: IMAGE_OF
+  second: RING_000098
+RINGRELATION_000153:
+  first: RING_000149
+  note: by definition
+  relation_type: IMAGE_OF
+  second: RING_000027
+RINGRELATION_000154:
+  first: RING_000003
+  note: make letters zero
+  relation_type: IMAGE_OF
+  second: RING_000050
+RINGRELATION_000155:
+  first: RING_000050
+  note: by definition
+  relation_type: IMAGE_OF
+  second: RING_000088
+RINGRELATION_000156:
+  first: RING_000003
+  note: $(x)$
+  relation_type: IMAGE_OF
+  second: RING_000049
+RINGRELATION_000157:
+  first: RING_000049
+  note: by definition
+  relation_type: IMAGE_OF
+  second: RING_000088
+RINGRELATION_000158:
+  first: RING_000091
+  note: by definition
+  relation_type: IMAGE_OF
+  second: RING_000088
+RINGRELATION_000159:
+  first: RING_000049
+  note: $(x-y,y-z)$
+  relation_type: IMAGE_OF
+  second: RING_000050
+RINGRELATION_000160:
+  first: RING_000008
+  note: $(p)$
+  relation_type: IMAGE_OF
+  second: RING_000010
+RINGRELATION_000161:
+  first: RING_000081
+  note: see Expanded details
   relation_type: SUBRING_OF
-  second: RING_000081
-RINGRELATION_000019:
-  first: RING_000168
-  note: ''
-  relation_type: IMAGE_OF
-  second: RING_000167
+  second: RING_000080
+RINGRELATION_000162:
+  first: RING_000082
+  note: see Expanded details
+  relation_type: SUBRING_OF
+  second: RING_000080
+RINGRELATION_000163:
+  first: RING_000077
+  note: algebraic closure
+  relation_type: SUBRING_OF
+  second: RING_000004
+RINGRELATION_000164:
+  first: RING_000036
+  note: by definition
+  relation_type: SUBRING_OF
+  second: RING_000007
+RINGRELATION_000165:
+  first: RING_000064
+  note: by definition
+  relation_type: SUBRING_OF
+  second: RING_000027
+RINGRELATION_000166:
+  first: RING_000044
+  note: by definition
+  relation_type: SUBRING_OF
+  second: RING_000015
+RINGRELATION_000167:
+  first: RING_000014
+  note: by definition
+  relation_type: SUBRING_OF
+  second: RING_000012

@@ -6,16 +6,16 @@ METAPROP_000003:
   has_metaproperty: false
   metaproperty: METAPROP_000003
   property: PROP_000007
-  relation: 12
+  relation: 166
 METAPROP_000004:
   citation: []
   commutative_only: false
-  crosstable_pk: 526
+  crosstable_pk: 599
   example: null
   has_metaproperty: false
   metaproperty: METAPROP_000004
   property: PROP_000007
-  relation: 3
+  relation: 109
 METAPROP_000005:
   citation: []
   commutative_only: false
