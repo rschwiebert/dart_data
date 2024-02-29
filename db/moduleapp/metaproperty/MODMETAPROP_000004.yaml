@@ -1,2 +1,3 @@
 definition: If $M$ has the property, then so does $M/N$ for each submodule $N$.
 name: passes to quotients
+relation_type: IMAGE_OF

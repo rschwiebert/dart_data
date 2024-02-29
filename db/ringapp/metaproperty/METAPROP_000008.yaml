@@ -1,3 +1,4 @@
 definition: If $e$ is an idempotent such that $ReR=R$ (this is the meaning of a full
   idempotent), and $R$ has the property, then $eRe$ has the property.
 name: passes to $eRe$ for any full idempotent $e$
+relation_type: FULL_CORNER_OF

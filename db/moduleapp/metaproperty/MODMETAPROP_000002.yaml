@@ -1,3 +1,4 @@
 definition: The direct sum of (possibly infinitely many) modules with this property
   inherits the property
 name: stable under direct sums
+relation_type: NONE

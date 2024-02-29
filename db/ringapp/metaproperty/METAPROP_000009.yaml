@@ -1,2 +1,4 @@
-definition: ''
+definition: Suppose $R$ is commutative and $M$ is a multiplicative set and $RS^{-1}$
+  is nonzero. Then if $R$ has this property, then so does the localization $RS^{-1}$
 name: passes to localizations
+relation_type: LOCALIZATION_OF

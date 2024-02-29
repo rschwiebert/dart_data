@@ -1,0 +1,449 @@
+PROP_000001:
+  citation_left: []
+  citation_right: []
+  crosstable_pk: 25973
+  has_on_left: true
+  has_on_right: true
+  property: PROP_000001
+  reason_left: null
+  reason_right: symmetry with left side
+  ring: RING_000167
+PROP_000007:
+  citation_left: []
+  citation_right: []
+  crosstable_pk: 25978
+  has_on_left: true
+  has_on_right: true
+  property: PROP_000007
+  reason_left: 'Logic (rings) 66: \( "Baer" \) <=== \( "domain" \).'
+  reason_right: 'Logic (rings) 66: \( "Baer" \) <=== \( "domain" \).'
+  ring: RING_000167
+PROP_000008:
+  citation_left: []
+  citation_right: []
+  crosstable_pk: 25974
+  has_on_left: true
+  has_on_right: true
+  property: PROP_000008
+  reason_left: null
+  reason_right: symmetry with left side
+  ring: RING_000167
+PROP_000009:
+  citation_left: []
+  citation_right: []
+  crosstable_pk: 25979
+  has_on_left: true
+  has_on_right: true
+  property: PROP_000009
+  reason_left: 'Logic (rings) 64: \( "prime" \) <=== \( "domain" \).'
+  reason_right: 'Logic (rings) 64: \( "prime" \) <=== \( "domain" \).'
+  ring: RING_000167
+PROP_000010:
+  citation_left: []
+  citation_right: []
+  crosstable_pk: 25980
+  has_on_left: true
+  has_on_right: true
+  property: PROP_000010
+  reason_left: 'Logic (rings) 65: \( "reduced" \) <=== \( "domain" \).'
+  reason_right: 'Logic (rings) 65: \( "reduced" \) <=== \( "domain" \).'
+  ring: RING_000167
+PROP_000011:
+  citation_left: []
+  citation_right: []
+  crosstable_pk: 25981
+  has_on_left: true
+  has_on_right: true
+  property: PROP_000011
+  reason_left: 'Logic (rings) 29: \( "semiprime" \) <=== \( "prime" \).'
+  reason_right: 'Logic (rings) 29: \( "semiprime" \) <=== \( "prime" \).'
+  ring: RING_000167
+PROP_000032:
+  citation_left: []
+  citation_right: []
+  crosstable_pk: 25982
+  has_on_left: true
+  has_on_right: true
+  property: PROP_000032
+  reason_left: 'Logic (rings) 179: \( "semicommutative" \) <=== \( "reversible" \).'
+  reason_right: 'Logic (rings) 179: \( "semicommutative" \) <=== \( "reversible" \).'
+  ring: RING_000167
+PROP_000033:
+  citation_left: []
+  citation_right: []
+  crosstable_pk: 25983
+  has_on_left: true
+  has_on_right: true
+  property: PROP_000033
+  reason_left: 'Logic (rings) 147: \( "NI ring" \) <=== \( "2-primal" \).'
+  reason_right: 'Logic (rings) 147: \( "NI ring" \) <=== \( "2-primal" \).'
+  ring: RING_000167
+PROP_000034:
+  citation_left: []
+  citation_right: []
+  crosstable_pk: 25984
+  has_on_left: true
+  has_on_right: true
+  property: PROP_000034
+  reason_left: 'Logic (rings) 64: \( "2-primal" \) <=== \( "domain" \).'
+  reason_right: 'Logic (rings) 64: \( "2-primal" \) <=== \( "domain" \).'
+  ring: RING_000167
+PROP_000035:
+  citation_left: []
+  citation_right: []
+  crosstable_pk: 25985
+  has_on_left: true
+  has_on_right: true
+  property: PROP_000035
+  reason_left: 'Logic (rings) 178: \( "reversible" \) <=== \( "symmetric" \).'
+  reason_right: 'Logic (rings) 178: \( "reversible" \) <=== \( "symmetric" \).'
+  ring: RING_000167
+PROP_000036:
+  citation_left: []
+  citation_right: []
+  crosstable_pk: 25986
+  has_on_left: true
+  has_on_right: true
+  property: PROP_000036
+  reason_left: 'Logic (rings) 4: \( "symmetric" \) <=== \( "commutative" \).'
+  reason_right: 'Logic (rings) 4: \( "symmetric" \) <=== \( "commutative" \).'
+  ring: RING_000167
+PROP_000037:
+  citation_left: []
+  citation_right: []
+  crosstable_pk: 25987
+  has_on_left: true
+  has_on_right: true
+  property: PROP_000037
+  reason_left: 'Logic (rings) 462: \( "strongly connected" \) <=== \( "domain" \).'
+  reason_right: 'Logic (rings) 462: \( "strongly connected" \) <=== \( "domain" \).'
+  ring: RING_000167
+PROP_000038:
+  citation_left: []
+  citation_right: []
+  crosstable_pk: 25988
+  has_on_left: true
+  has_on_right: true
+  property: PROP_000038
+  reason_left: 'Logic (rings) 30: \( "directly irreducible" \) <=== \( "prime" \).'
+  reason_right: 'Logic (rings) 30: \( "directly irreducible" \) <=== \( "prime" \).'
+  ring: RING_000167
+PROP_000039:
+  citation_left: []
+  citation_right: []
+  crosstable_pk: 25989
+  has_on_left: true
+  has_on_right: true
+  property: PROP_000039
+  reason_left: 'Logic (rings) 148: \( "orthogonally finite" \) <=== \( "strongly connected"
+    \).'
+  reason_right: 'Logic (rings) 148: \( "orthogonally finite" \) <=== \( "strongly
+    connected" \).'
+  ring: RING_000167
+PROP_000040:
+  citation_left: []
+  citation_right: []
+  crosstable_pk: 25990
+  has_on_left: true
+  has_on_right: true
+  property: PROP_000040
+  reason_left: 'Logic (rings) 3: \( "Abelian" \) <=== \( "commutative" \).'
+  reason_right: 'Logic (rings) 3: \( "Abelian" \) <=== \( "commutative" \).'
+  ring: RING_000167
+PROP_000041:
+  citation_left: []
+  citation_right: []
+  crosstable_pk: 25991
+  has_on_left: true
+  has_on_right: true
+  property: PROP_000041
+  reason_left: 'Logic (rings) 107: \( "Dedekind finite" \) <=== \( "stably finite"
+    \).'
+  reason_right: 'Logic (rings) 107: \( "Dedekind finite" \) <=== \( "stably finite"
+    \).'
+  ring: RING_000167
+PROP_000042:
+  citation_left: []
+  citation_right: []
+  crosstable_pk: 25992
+  has_on_left: true
+  has_on_right: true
+  property: PROP_000042
+  reason_left: 'Logic (rings) 5: \( "stably finite" \) <=== \( "commutative" \).'
+  reason_right: 'Logic (rings) 5: \( "stably finite" \) <=== \( "commutative" \).'
+  ring: RING_000167
+PROP_000044:
+  citation_left: []
+  citation_right: []
+  crosstable_pk: 25993
+  has_on_left: true
+  has_on_right: true
+  property: PROP_000044
+  reason_left: 'Logic (rings) 108: \( "IBN" \) <=== \( "stably finite" \).'
+  reason_right: 'Logic (rings) 108: \( "IBN" \) <=== \( "stably finite" \).'
+  ring: RING_000167
+PROP_000051:
+  citation_left: []
+  citation_right: []
+  crosstable_pk: 25994
+  has_on_left: true
+  has_on_right: true
+  property: PROP_000051
+  reason_left: 'Logic (rings) 209: \( "polynomial identity" \) <=== \( "commutative"
+    \).'
+  reason_right: 'Logic (rings) 209: \( "polynomial identity" \) <=== \( "commutative"
+    \).'
+  ring: RING_000167
+PROP_000069:
+  citation_left: []
+  citation_right: []
+  crosstable_pk: 26000
+  has_on_left: true
+  has_on_right: true
+  property: PROP_000069
+  reason_left: 'Logic (rings) logical AND: ring_deduced("has",2,Y) <=== ring_deduced("has",1,Y).'
+  reason_right: 'Logic (rings) logical AND: ring_deduced("has",3,Y) <=== ring_deduced("has",1,Y).'
+  ring: RING_000167
+PROP_000072:
+  citation_left: []
+  citation_right: []
+  crosstable_pk: 26001
+  has_on_left: true
+  has_on_right: true
+  property: PROP_000072
+  reason_left: 'Logic (rings) 462: \( "Rickart" on the left\) <=== \( "domain" \).'
+  reason_right: 'Logic (rings) 462: \( "Rickart" on the right\) <=== \( "domain" \).'
+  ring: RING_000167
+PROP_000073:
+  citation_left: []
+  citation_right: []
+  crosstable_pk: 26002
+  has_on_left: true
+  has_on_right: true
+  property: PROP_000073
+  reason_left: 'Logic (rings) 61: \( "nonsingular" on the left\) <=== \( "Rickart"
+    on the left\).'
+  reason_right: 'Logic (rings) 61: \( "nonsingular" on the right\) <=== \( "Rickart"
+    on the right\).'
+  ring: RING_000167
+PROP_000084:
+  citation_left: []
+  citation_right: []
+  crosstable_pk: 26003
+  has_on_left: true
+  has_on_right: true
+  property: PROP_000084
+  reason_left: 'Logic (rings) logical AND: ring_deduced("has",2,Y) <=== ring_deduced("has",1,Y).'
+  reason_right: 'Logic (rings) logical AND: ring_deduced("has",3,Y) <=== ring_deduced("has",1,Y).'
+  ring: RING_000167
+PROP_000085:
+  citation_left: []
+  citation_right: []
+  crosstable_pk: 26004
+  has_on_left: true
+  has_on_right: true
+  property: PROP_000085
+  reason_left: 'Logic (rings) 116: \( "finite uniform dimension" on the left\) <===
+    \( "Goldie" on the left\).'
+  reason_right: 'Logic (rings) 116: \( "finite uniform dimension" on the right\) <===
+    \( "Goldie" on the right\).'
+  ring: RING_000167
+PROP_000086:
+  citation_left:
+  - CITE_000583
+  citation_right: []
+  crosstable_pk: 25975
+  has_on_left: true
+  has_on_right: true
+  property: PROP_000086
+  reason_left: null
+  reason_right: symmetry with left side
+  ring: RING_000167
+PROP_000089:
+  citation_left: []
+  citation_right: []
+  crosstable_pk: 26005
+  has_on_left: true
+  has_on_right: true
+  property: PROP_000089
+  reason_left: 'Logic (rings) 116: \( "ACC annihilator" on the left\) <=== \( "Goldie"
+    on the left\).'
+  reason_right: 'Logic (rings) 116: \( "ACC annihilator" on the right\) <=== \( "Goldie"
+    on the right\).'
+  ring: RING_000167
+PROP_000090:
+  citation_left: []
+  citation_right: []
+  crosstable_pk: 26006
+  has_on_left: true
+  has_on_right: true
+  property: PROP_000090
+  reason_left: 'Logic (rings) 120: \( "DCC annihilator" on the left\) <=== \( "ACC
+    annihilator" on the right\).'
+  reason_right: 'Logic (rings) 120: \( "DCC annihilator" on the right\) <=== \( "ACC
+    annihilator" on the left\).'
+  ring: RING_000167
+PROP_000094:
+  citation_left: []
+  citation_right: []
+  crosstable_pk: 26007
+  has_on_left: true
+  has_on_right: true
+  property: PROP_000094
+  reason_left: 'Logic (rings) logical AND: ring_deduced("has",2,Y) <=== ring_deduced("has",1,Y).'
+  reason_right: 'Logic (rings) logical AND: ring_deduced("has",3,Y) <=== ring_deduced("has",1,Y).'
+  ring: RING_000167
+PROP_000096:
+  citation_left: []
+  citation_right: []
+  crosstable_pk: 26008
+  has_on_left: true
+  has_on_right: true
+  property: PROP_000096
+  reason_left: 'Logic (rings) 111: \( "quasi-duo" on the left\) <=== \( "duo" on the
+    left\).'
+  reason_right: 'Logic (rings) 111: \( "quasi-duo" on the right\) <=== \( "duo" on
+    the right\).'
+  ring: RING_000167
+PROP_000099:
+  citation_left: []
+  citation_right: []
+  crosstable_pk: 26009
+  has_on_left: true
+  has_on_right: true
+  property: PROP_000099
+  reason_left: 'Logic (rings) 115: \( "finitely generated socle" on the left\) <===
+    \( "finite uniform dimension" on the left\).'
+  reason_right: 'Logic (rings) 115: \( "finitely generated socle" on the right\) <===
+    \( "finite uniform dimension" on the right\).'
+  ring: RING_000167
+PROP_000105:
+  citation_left: []
+  citation_right: []
+  crosstable_pk: 26010
+  has_on_left: true
+  has_on_right: true
+  property: PROP_000105
+  reason_left: 'Logic (rings) 458: \( "uniform" on the left\) <=== \( "CS" on the
+    left\) AND \( "strongly connected" \).'
+  reason_right: 'Logic (rings) 458: \( "uniform" on the right\) <=== \( "CS" on the
+    right\) AND \( "strongly connected" \).'
+  ring: RING_000167
+PROP_000106:
+  citation_left: []
+  citation_right: []
+  crosstable_pk: 26011
+  has_on_left: true
+  has_on_right: true
+  property: PROP_000106
+  reason_left: 'Logic (rings) 55: \( "Ikeda-Nakayama" on the left\) <=== \( "Ore domain"
+    on the left\).'
+  reason_right: 'Logic (rings) 55: \( "Ikeda-Nakayama" on the right\) <=== \( "Ore
+    domain" on the right\).'
+  ring: RING_000167
+PROP_000109:
+  citation_left: []
+  citation_right: []
+  crosstable_pk: 26012
+  has_on_left: true
+  has_on_right: true
+  property: PROP_000109
+  reason_left: 'Logic (rings) 158: \( "quasi-continuous" on the left\) <=== \( "Ikeda-Nakayama"
+    on the left\).'
+  reason_right: 'Logic (rings) 158: \( "quasi-continuous" on the right\) <=== \( "Ikeda-Nakayama"
+    on the right\).'
+  ring: RING_000167
+PROP_000110:
+  citation_left: []
+  citation_right: []
+  crosstable_pk: 26013
+  has_on_left: true
+  has_on_right: true
+  property: PROP_000110
+  reason_left: 'Logic (rings) 157: \( "CS" on the left\) <=== \( "quasi-continuous"
+    on the left\).'
+  reason_right: 'Logic (rings) 157: \( "CS" on the right\) <=== \( "quasi-continuous"
+    on the right\).'
+  ring: RING_000167
+PROP_000144:
+  citation_left: []
+  citation_right: []
+  crosstable_pk: 25995
+  has_on_left: true
+  has_on_right: true
+  property: PROP_000144
+  reason_left: 'Logic (rings) 370: \( "compressible" \) <=== \( "Abelian" \).'
+  reason_right: 'Logic (rings) 370: \( "compressible" \) <=== \( "Abelian" \).'
+  ring: RING_000167
+PROP_000155:
+  citation_left: []
+  citation_right: []
+  crosstable_pk: 25996
+  has_on_left: true
+  has_on_right: true
+  property: PROP_000155
+  reason_left: 'Logic (rings) 420: \( "Armendariz" \) <=== \( "reduced" \).'
+  reason_right: 'Logic (rings) 420: \( "Armendariz" \) <=== \( "reduced" \).'
+  ring: RING_000167
+PROP_000156:
+  citation_left: []
+  citation_right: []
+  crosstable_pk: 26014
+  has_on_left: true
+  has_on_right: true
+  property: PROP_000156
+  reason_left: 'Logic (rings) 422: \( "McCoy" on the left\) <=== \( "duo" on the left\).'
+  reason_right: 'Logic (rings) 422: \( "McCoy" on the right\) <=== \( "duo" on the
+    right\).'
+  ring: RING_000167
+PROP_000158:
+  citation_left: []
+  citation_right: []
+  crosstable_pk: 25997
+  has_on_left: true
+  has_on_right: true
+  property: PROP_000158
+  reason_left: 'Logic (rings) 473: \( "IC ring" \) <=== \( "Abelian" \).'
+  reason_right: 'Logic (rings) 473: \( "IC ring" \) <=== \( "Abelian" \).'
+  ring: RING_000167
+PROP_000162:
+  citation_left: []
+  citation_right: []
+  crosstable_pk: 25998
+  has_on_left: true
+  has_on_right: true
+  property: PROP_000162
+  reason_left: 'Logic (rings) 496: \( "anti-automorphic" \) <=== \( "involutive" \).'
+  reason_right: 'Logic (rings) 496: \( "anti-automorphic" \) <=== \( "involutive"
+    \).'
+  ring: RING_000167
+PROP_000163:
+  citation_left: []
+  citation_right: []
+  crosstable_pk: 25999
+  has_on_left: true
+  has_on_right: true
+  property: PROP_000163
+  reason_left: 'Logic (rings) 497: \( "involutive" \) <=== \( "commutative" \).'
+  reason_right: 'Logic (rings) 497: \( "involutive" \) <=== \( "commutative" \).'
+  ring: RING_000167
+PROP_000167:
+  citation_left: []
+  citation_right: []
+  crosstable_pk: 25976
+  has_on_left: false
+  has_on_right: false
+  property: PROP_000167
+  reason_left: 'Logic (rings) 539: \(NOT "torch" \) <=== \(NOT "?-ring" \).'
+  reason_right: 'Logic (rings) 539: \(NOT "torch" \) <=== \(NOT "?-ring" \).'
+  ring: RING_000167
+PROP_000175:
+  citation_left: []
+  citation_right: []
+  crosstable_pk: 25977
+  has_on_left: false
+  has_on_right: false
+  property: PROP_000175
+  reason_left: 'Logic (rings) 541: \(NOT "?-ring" \) <=== \( "reduced" \).'
+  reason_right: 'Logic (rings) 541: \(NOT "?-ring" \) <=== \( "reduced" \).'
+  ring: RING_000167

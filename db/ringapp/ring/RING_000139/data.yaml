@@ -1,11 +1,13 @@
 citation:
 - CITE_000527
-description: Let $S=\mathbb Z/8\mathbb Z$.  The ring is the trivial extension ring
-  $R=T(S, S)$.
+description: $R=\mathbb Z[X]/(X^2,8)$.  Or, if $S=\mathbb Z/8\mathbb Z$, it is also
+  the trivial extension ring $R=T(S, S)$;  or also $R=S[X]/(X^2)$
 is_commutative: true
 keywords:
+- KWD_000002
+- KWD_000003
 - KWD_000009
 krull_dim: null
-name: Commutative ring that isn't Armendariz
+name: $\mathbb Z[X]/(X^2,8)$
 notes: null
 optional_template: ''

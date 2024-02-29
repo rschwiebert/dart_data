@@ -1,3 +1,4 @@
 definition: if $R$ has the property and $I$ is an ideal of $R$, then the $I$-adic
   completion of $R$ has the property.
 name: passes to $I$-adic completions
+relation_type: COMPLETION_OF

@@ -1,0 +1,12 @@
+citation: []
+description: The subring of $\prod_{\mathbb N} \mathbb Z$ of elements which are "eventually
+  constant" in the sense that there is some $n$ after which all entries are equal
+  for $N>n$.
+is_commutative: true
+keywords:
+- KWD_000011
+- KWD_000007
+krull_dim: (unknown)
+name: Eventually constant sequences in $\mathbb Z$
+notes: null
+optional_template: ''

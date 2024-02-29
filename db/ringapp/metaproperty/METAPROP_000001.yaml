@@ -1,2 +1,4 @@
-definition: ''
+definition: The property is shared between all rings that are Morita equivalent to
+  this one.
 name: Morita invariant
+relation_type: MORITA_EQ_TO

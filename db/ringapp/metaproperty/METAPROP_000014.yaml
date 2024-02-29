@@ -1,2 +1,3 @@
 definition: If $R$ has the property, then so does $R[[x]]$
 name: passes to power series ring
+relation_type: POWER_SERIES_OF

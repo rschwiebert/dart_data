@@ -1,2 +1,3 @@
 definition: If $M$ has a property, then so does any submodule $N$.
 name: passes to submodules
+relation_type: SUBMOD_OF

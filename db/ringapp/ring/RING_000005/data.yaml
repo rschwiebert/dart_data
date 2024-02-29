@@ -1,12 +1,11 @@
 citation: []
-description: Set of complex matrices $\left[\begin{smallmatrix}a&b\\-\bar b&\bar a\end{smallmatrix}\right]$
-  with positive real determinant, real clifford algebra for real space of signature
-  (-,-)
+description: Set of complex matrices $\left[\begin{smallmatrix}a&b\\-\bar b&\bar a\end{smallmatrix}\right]$,
+  OR the real Clifford algebra for real space of signature (-,-)
 is_commutative: false
 keywords:
 - KWD_000015
 - KWD_000007
 krull_dim: '0'
 name: '$\mathbb H$: Hamilton''s quaternions'
-notes: ''
+notes: null
 optional_template: ''

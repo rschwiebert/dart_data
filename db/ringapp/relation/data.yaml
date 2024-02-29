@@ -3,3 +3,93 @@ RINGRELATION_000001:
   note: ''
   relation_type: SUBRING_OF
   second: RING_000101
+RINGRELATION_000002:
+  first: RING_000053
+  note: ''
+  relation_type: IMAGE_OF
+  second: RING_000001
+RINGRELATION_000003:
+  first: RING_000049
+  note: ''
+  relation_type: IMAGE_OF
+  second: RING_000027
+RINGRELATION_000004:
+  first: RING_000077
+  note: ''
+  relation_type: SUBRING_OF
+  second: RING_000004
+RINGRELATION_000005:
+  first: RING_000036
+  note: ''
+  relation_type: SUBRING_OF
+  second: RING_000007
+RINGRELATION_000006:
+  first: RING_000064
+  note: ''
+  relation_type: SUBRING_OF
+  second: RING_000027
+RINGRELATION_000007:
+  first: RING_000001
+  note: ''
+  relation_type: SUBRING_OF
+  second: RING_000002
+RINGRELATION_000008:
+  first: RING_000002
+  note: ''
+  relation_type: SUBRING_OF
+  second: RING_000003
+RINGRELATION_000009:
+  first: RING_000003
+  note: ''
+  relation_type: SUBRING_OF
+  second: RING_000004
+RINGRELATION_000010:
+  first: RING_000004
+  note: ''
+  relation_type: SUBRING_OF
+  second: RING_000005
+RINGRELATION_000011:
+  first: RING_000001
+  note: ''
+  relation_type: SUBRING_OF
+  second: RING_000004
+RINGRELATION_000012:
+  first: RING_000044
+  note: ''
+  relation_type: SUBRING_OF
+  second: RING_000015
+RINGRELATION_000013:
+  first: RING_000090
+  note: ''
+  relation_type: IMAGE_OF
+  second: RING_000098
+RINGRELATION_000014:
+  first: RING_000014
+  note: ''
+  relation_type: SUBRING_OF
+  second: RING_000012
+RINGRELATION_000015:
+  first: RING_000164
+  note: ''
+  relation_type: IMAGE_OF
+  second: RING_000139
+RINGRELATION_000016:
+  first: RING_000119
+  note: ''
+  relation_type: IMAGE_OF
+  second: RING_000165
+RINGRELATION_000017:
+  first: RING_000079
+  note: ''
+  relation_type: IMAGE_OF
+  second: RING_000166
+RINGRELATION_000018:
+  first: RING_000082
+  note: ''
+  relation_type: SUBRING_OF
+  second: RING_000081
+RINGRELATION_000019:
+  first: RING_000168
+  note: ''
+  relation_type: IMAGE_OF
+  second: RING_000167

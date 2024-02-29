@@ -1,3 +1,4 @@
 definition: (For commutative rings only) any finitely generated algebra over this
   ring shares the same property.
 name: passes to finitely generated algebras over the ring
+relation_type: FG_ALGEBRA_OVER

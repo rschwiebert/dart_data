@@ -14,3 +14,11 @@ MODMETAPROP_000002:
   metaproperty: MODMETAPROP_000002
   property: MODPROP_000024
   relation: null
+MODMETAPROP_000004:
+  citation: []
+  crosstable_pk: 26
+  example: null
+  has_metaproperty: false
+  metaproperty: MODMETAPROP_000004
+  property: MODPROP_000024
+  relation: 1

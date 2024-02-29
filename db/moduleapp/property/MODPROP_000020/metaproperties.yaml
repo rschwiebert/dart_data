@@ -1,0 +1,8 @@
+MODMETAPROP_000005:
+  citation: []
+  crosstable_pk: 35
+  example: null
+  has_metaproperty: false
+  metaproperty: MODMETAPROP_000005
+  property: MODPROP_000020
+  relation: 2

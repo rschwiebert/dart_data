@@ -3,3 +3,8 @@ MODRELATION_000001:
   note: ''
   relation_type: IMAGE_OF
   second: MOD_000016
+MODRELATION_000002:
+  first: MOD_000001
+  note: ''
+  relation_type: SUBMOD_OF
+  second: MOD_000006

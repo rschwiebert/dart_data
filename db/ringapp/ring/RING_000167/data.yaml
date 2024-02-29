@@ -1,0 +1,10 @@
+citation: []
+description: 'The polynomial ring over $\mathbb Z$ in countably many indeterminates:
+  $\mathbb Z[x_0, x_1,x_2,\ldots]$'
+is_commutative: true
+keywords:
+- KWD_000002
+krull_dim: (unknown)
+name: $\mathbb Z[x_0, x_1,x_2,\ldots]$
+notes: null
+optional_template: ''
