@@ -18,3 +18,12 @@ METAPROP_000002:
   metaproperty: METAPROP_000002
   property: PROP_000092
   relation: null
+METAPROP_000003:
+  citation: []
+  commutative_only: false
+  crosstable_pk: 558
+  example: null
+  has_metaproperty: false
+  metaproperty: METAPROP_000003
+  property: PROP_000092
+  relation: null
