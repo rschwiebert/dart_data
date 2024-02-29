@@ -1,0 +1,10 @@
+citation: []
+description: 'The free $\mathbb Q$ algebra on two generators: $\mathbb Q\langle x,
+  y\rangle$'
+is_commutative: false
+keywords:
+- KWD_000026
+krull_dim: (unknown)
+name: $\mathbb Q\langle x, y\rangle$
+notes: null
+optional_template: ''

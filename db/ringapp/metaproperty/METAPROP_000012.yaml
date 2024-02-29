@@ -1,2 +1,3 @@
 definition: If $R$ has the property, then so does $R[x]$
 name: passes to polynomial rings
+relation_type: POLYNOMIAL_RING_OF

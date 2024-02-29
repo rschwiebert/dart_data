@@ -1,6 +1,6 @@
 citation: []
-description: Let $V$ be a countable dimensional right vector space over a countable
-  division ring $D$. $R=End(V_D)$.
+description: Let $V$ be a countable dimensional right vector space over $\mathbb Q$.
+  $R=End(V_\mathbb Q)$.
 is_commutative: false
 keywords:
 - KWD_000023

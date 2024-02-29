@@ -1,2 +1,4 @@
-definition: ''
+definition: If $R$ has the property, then $M_n(R)$ has the property for any $n$\in\mathbb
+  N^{>0}$
 name: passes to matrix rings
+relation_type: MATRIX_RING_OF

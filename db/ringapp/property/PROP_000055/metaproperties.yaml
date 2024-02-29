@@ -2,11 +2,11 @@ METAPROP_000003:
   citation: []
   commutative_only: false
   crosstable_pk: 387
-  example: RING_000004
+  example: null
   has_metaproperty: false
   metaproperty: METAPROP_000003
   property: PROP_000055
-  relation: null
+  relation: 4
 METAPROP_000004:
   citation: []
   commutative_only: false

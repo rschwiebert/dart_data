@@ -33,7 +33,7 @@ METAPROP_000004:
   has_metaproperty: false
   metaproperty: METAPROP_000004
   property: PROP_000037
-  relation: null
+  relation: 16
 METAPROP_000005:
   citation: []
   commutative_only: false

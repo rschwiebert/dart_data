@@ -1,0 +1,10 @@
+citation: []
+description: $R=\mathbb Z[X]/(X^2,4X, 8)$
+is_commutative: true
+keywords:
+- KWD_000002
+- KWD_000003
+krull_dim: (unknown)
+name: $\mathbb Z[X]/(X^2,4X, 8)$
+notes: null
+optional_template: ''

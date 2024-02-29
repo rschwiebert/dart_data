@@ -1,7 +1,7 @@
 citation: []
 description: With real numbers $\mathbb R$, $\mathbb R[x]/(x^2+1)$ OR the set of real
-  matrices of form $\left[\begin{smallmatrix}a&b\\-b&a\end{smallmatrix}\right]$ with
-  determinant greater than $0$. OR the real Clifford algebra for signature (-)
+  matrices of form $\left[\begin{smallmatrix}a&b\\-b&a\end{smallmatrix}\right]$ OR
+  the real Clifford algebra for signature (-)
 is_commutative: true
 keywords:
 - KWD_000015

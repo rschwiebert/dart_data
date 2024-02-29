@@ -1,3 +1,4 @@
 definition: If $R$ has the property, then so does any subring (meaning a subring that
   shares the nonzero multiplicative identity.)
 name: passes to subrings
+relation_type: SUBRING_OF
