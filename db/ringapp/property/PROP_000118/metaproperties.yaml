@@ -1,18 +1,18 @@
 METAPROP_000003:
   citation: []
   commutative_only: false
-  crosstable_pk: 615
+  crosstable_pk: 632
   example: null
   has_metaproperty: false
   metaproperty: METAPROP_000003
   property: PROP_000118
-  relation: 6
+  relation: 165
 METAPROP_000004:
   citation: []
   commutative_only: false
-  crosstable_pk: 540
+  crosstable_pk: 613
   example: null
   has_metaproperty: false
   metaproperty: METAPROP_000004
   property: PROP_000118
-  relation: 3
+  relation: 109
