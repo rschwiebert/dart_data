@@ -15,7 +15,7 @@ METAPROP_000004:
   has_metaproperty: false
   metaproperty: METAPROP_000004
   property: PROP_000008
-  relation: 169
+  relation: 109
 METAPROP_000005:
   citation: []
   commutative_only: false

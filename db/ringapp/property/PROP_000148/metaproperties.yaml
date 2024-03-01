@@ -6,7 +6,7 @@ METAPROP_000003:
   has_metaproperty: false
   metaproperty: METAPROP_000003
   property: PROP_000148
-  relation: null
+  relation: 2
 METAPROP_000004:
   citation:
   - 218

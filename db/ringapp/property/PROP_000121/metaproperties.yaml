@@ -6,7 +6,7 @@ METAPROP_000003:
   has_metaproperty: false
   metaproperty: METAPROP_000003
   property: PROP_000121
-  relation: null
+  relation: 164
 METAPROP_000004:
   citation: []
   commutative_only: false
@@ -15,7 +15,7 @@ METAPROP_000004:
   has_metaproperty: false
   metaproperty: METAPROP_000004
   property: PROP_000121
-  relation: 168
+  relation: 150
 METAPROP_000006:
   citation: []
   commutative_only: false
