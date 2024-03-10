@@ -1518,6 +1518,16 @@ PROP_000161:
   reason_right: 'Logic (rings) 495: \(NOT "complete discrete valuation ring" \) <===
     \(NOT "discrete valuation ring" \).'
   ring: RING_000016
+PROP_000163:
+  citation_left: []
+  citation_right: []
+  crosstable_pk: 26174
+  has_on_left: true
+  has_on_right: true
+  property: PROP_000163
+  reason_left: mirror across antidiagonal
+  reason_right: symmetry with left side
+  ring: RING_000016
 PROP_000164:
   citation_left: []
   citation_right: []

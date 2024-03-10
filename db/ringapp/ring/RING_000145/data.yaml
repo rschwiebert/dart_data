@@ -1,6 +1,6 @@
 citation:
 - CITE_000553
-description: Let $D$ be <a href="/rings/ring/144">ring 144</a>, and Q be its field
+description: Let $S$ be <a href="/rings/ring/144">ring 144</a>, and Q be its field
   of fractions, and let $M$ be a maximal ideal of $S$. The ring is the trivial extension
   $T(S, Q/S_{M})$
 is_commutative: true

@@ -78,6 +78,40 @@ PROP_000009:
   reason_right: 'Logic (rings) 182: \(NOT "prime" \) <=== \(NOT "Ore domain" on the
     left and right\) AND \( "commutative" \).'
   ring: RING_000168
+PROP_000012:
+  citation_left: []
+  citation_right: []
+  crosstable_pk: 26166
+  has_on_left: false
+  has_on_right: false
+  property: PROP_000012
+  reason_left: 'Logic (rings) 171: \(NOT "strongly regular" \) <=== \(NOT "von Neumann
+    regular" \).'
+  reason_right: 'Logic (rings) 171: \(NOT "strongly regular" \) <=== \(NOT "von Neumann
+    regular" \).'
+  ring: RING_000168
+PROP_000013:
+  citation_left: []
+  citation_right: []
+  crosstable_pk: 26167
+  has_on_left: false
+  has_on_right: false
+  property: PROP_000013
+  reason_left: 'Logic (rings) 47: \(NOT "unit regular" \) <=== \(NOT "von Neumann
+    regular" \).'
+  reason_right: 'Logic (rings) 47: \(NOT "unit regular" \) <=== \(NOT "von Neumann
+    regular" \).'
+  ring: RING_000168
+PROP_000014:
+  citation_left: []
+  citation_right: []
+  crosstable_pk: 26102
+  has_on_left: false
+  has_on_right: false
+  property: PROP_000014
+  reason_left: Has a non VNR ring as a quotient (namely $\mathbb Z$)
+  reason_right: symmetry with left side
+  ring: RING_000168
 PROP_000015:
   citation_left: []
   citation_right: []
@@ -89,6 +123,18 @@ PROP_000015:
     \).'
   reason_right: 'Logic (rings) 142: \(NOT "semi free ideal ring" \) <=== \(NOT "domain"
     \).'
+  ring: RING_000168
+PROP_000016:
+  citation_left: []
+  citation_right: []
+  crosstable_pk: 26168
+  has_on_left: false
+  has_on_right: false
+  property: PROP_000016
+  reason_left: 'Logic (rings) 173: \(NOT "fully semiprime" \) <=== \(NOT "von Neumann
+    regular" \) AND \( "commutative" \).'
+  reason_right: 'Logic (rings) 173: \(NOT "fully semiprime" \) <=== \(NOT "von Neumann
+    regular" \) AND \( "commutative" \).'
   ring: RING_000168
 PROP_000017:
   citation_left: []
@@ -425,6 +471,18 @@ PROP_000074:
   property: PROP_000074
   reason_left: 'Logic (rings) logical OR: ring_deduced("lacks",2,Y) <=== ring_deduced("lacks",4,Y).'
   reason_right: 'Logic (rings) logical OR: ring_deduced("lacks",3,Y) <=== ring_deduced("lacks",4,Y).'
+  ring: RING_000168
+PROP_000075:
+  citation_left: []
+  citation_right: []
+  crosstable_pk: 26171
+  has_on_left: false
+  has_on_right: false
+  property: PROP_000075
+  reason_left: 'Logic (rings) logical AND: ring_deduced("lacks",2,Y) <=== \( "commutative"
+    \) AND ring_deduced("lacks",1,Y).'
+  reason_right: 'Logic (rings) logical AND: ring_deduced("lacks",3,Y) <=== \( "commutative"
+    \) AND ring_deduced("lacks",1,Y).'
   ring: RING_000168
 PROP_000076:
   citation_left: []
@@ -810,6 +868,28 @@ PROP_000147:
     on the left\).'
   reason_right: 'Logic (rings) 382: \(NOT "PCI ring" on the right\) <=== \(NOT "Noetherian"
     on the right\).'
+  ring: RING_000168
+PROP_000151:
+  citation_left: []
+  citation_right: []
+  crosstable_pk: 26169
+  has_on_left: false
+  has_on_right: false
+  property: PROP_000151
+  reason_left: 'Logic (rings) 400: \(NOT "periodic" \) <=== \(NOT "strongly regular"
+    \).'
+  reason_right: 'Logic (rings) 400: \(NOT "periodic" \) <=== \(NOT "strongly regular"
+    \).'
+  ring: RING_000168
+PROP_000152:
+  citation_left: []
+  citation_right: []
+  crosstable_pk: 26170
+  has_on_left: false
+  has_on_right: false
+  property: PROP_000152
+  reason_left: 'Logic (rings) 399: \(NOT "Boolean" \) <=== \(NOT "periodic" \).'
+  reason_right: 'Logic (rings) 399: \(NOT "Boolean" \) <=== \(NOT "periodic" \).'
   ring: RING_000168
 PROP_000153:
   citation_left: []
