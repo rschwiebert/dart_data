@@ -93,3 +93,28 @@ RINGRELATION_000019:
   note: ''
   relation_type: IMAGE_OF
   second: RING_000167
+RINGRELATION_000020:
+  first: RING_000170
+  note: ''
+  relation_type: FULL_CORNER_OF
+  second: RING_000072
+RINGRELATION_000021:
+  first: RING_000170
+  note: ''
+  relation_type: CORNER_OF
+  second: RING_000072
+RINGRELATION_000022:
+  first: RING_000170
+  note: ''
+  relation_type: MORITA_EQ_TO
+  second: RING_000072
+RINGRELATION_000024:
+  first: RING_000171
+  note: ''
+  relation_type: MORITA_EQ_TO
+  second: RING_000172
+RINGRELATION_000025:
+  first: RING_000072
+  note: ''
+  relation_type: MORITA_EQ_TO
+  second: RING_000170
