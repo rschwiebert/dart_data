@@ -1,0 +1,15 @@
+citation:
+- CITE_000588
+description: Take $S=R_{72}$ and the idempotent $e=E_{11}+E_{33}+E_{44}+E_{55}$. This
+  turns out to be a full idempotent, and the required ring is the corner ring $R=eSe$.  In
+  other words, $R=\begin{bmatrix}a&p&0&0 \\ 0&r&0&0 \\ 0&0&r&s \\ 0&0&0&a\end{bmatrix}$
+  for $a,p,r,s\in F_2$.
+is_commutative: false
+keywords:
+- KWD_000078
+- KWD_000015
+- KWD_000007
+krull_dim: (unknown)
+name: Basic ring of Nakayama's QF ring
+notes: null
+optional_template: ''

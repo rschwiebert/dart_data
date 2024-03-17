@@ -1,0 +1,12 @@
+citation:
+- CITE_000589
+- CITE_000591
+description: (to be added)  The ring $R$ has the property that there exists a f.g.
+  projective $R$ module $M$ and a module $N$ such that in the monoid of isomorphism
+  classes of $R$ modules, $[M]+[N]=[R]=[R]+[R]$.
+is_commutative: false
+keywords: []
+krull_dim: (unknown)
+name: Bergman's ring without IBN
+notes: null
+optional_template: ''
