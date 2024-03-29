@@ -272,6 +272,17 @@ PROP_000026:
   reason_left: 'Logic (rings) 152: \( "lift/rad" \) <=== \( "nil radical" \).'
   reason_right: 'Logic (rings) 152: \( "lift/rad" \) <=== \( "nil radical" \).'
   ring: RING_000103
+PROP_000027:
+  citation_left: []
+  citation_right: []
+  crosstable_pk: 26467
+  has_on_left: false
+  has_on_right: false
+  property: PROP_000027
+  reason_left: With $(0, 1)^2 + (1 - (0,2)) = 1$, $(0, 1) + y (1 - (0,2))$ cannot
+    be a unit.
+  reason_right: symmetry with left side
+  ring: RING_000103
 PROP_000028:
   citation_left: []
   citation_right: []
