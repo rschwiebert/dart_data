@@ -1,10 +1,10 @@
 citation:
 - CITE_000132
-description: Let $k$ be a field. Let $K$ be the field of rational functions for $k[t,
-  x_{ij}\mid i,j=1,\ldots,4]$. Define $X_{pq}=(x_{p+i,q+j})_{i,j=1,2}$ for $p,q=0,2$.
-  The ring $k[t]\langle X_{pq}\mid p,q=0,2 \rangle$ is a domain, and its ring of fractions
+description: Let $K$ be the field of rational functions for $\mathbb Q[t, x_{ij}\mid
+  i,j=1,\ldots,4]$. Define $X_{pq}=(x_{p+i,q+j})_{i,j=1,2}$ for $p,q=0,2$. The ring
+  $\mathbb Q[t]\langle X_{pq}\mid p,q=0,2 \rangle$ is a domain, and its ring of fractions
   $D$ is a division ring. Then $X=(X_{pq})\in M_4(K)$, and we can compute $X^{-1}\begin{bmatrix}I&0\\0&0\end{bmatrix}X=\begin{bmatrix}E_{00}&E_{02}\\E_{20}&E_{22}\end{bmatrix}$
-  where $E_{pq}\in M_2(D)$. The ring $R$ is $k\langle E_{pq}, tE_{pq}\mid p,q=0,2\rangle\subseteq
+  where $E_{pq}\in D$. The ring $R$ is $\mathbb Q\langle E_{pq}, tE_{pq}\mid p,q=0,2\rangle\subseteq
   D$.  ($M_2(R)$ is not compressible, although $R$ is.)
 is_commutative: false
 keywords:

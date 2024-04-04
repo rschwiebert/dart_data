@@ -1,3 +1,13 @@
+PROP_000001:
+  citation_left: []
+  citation_right: []
+  crosstable_pk: 26468
+  has_on_left: false
+  has_on_right: false
+  property: PROP_000001
+  reason_left: null
+  reason_right: symmetry with left side
+  ring: RING_000086
 PROP_000002:
   citation_left: []
   citation_right: []
@@ -253,6 +263,18 @@ PROP_000041:
   reason_left: 'Logic 151: orthogonally finite ===> Dedekind finite'
   reason_right: 'Logic 151: orthogonally finite ===> Dedekind finite'
   ring: RING_000086
+PROP_000042:
+  citation_left: []
+  citation_right: []
+  crosstable_pk: 26487
+  has_on_left: true
+  has_on_right: true
+  property: PROP_000042
+  reason_left: 'Logic (rings) 113: \( "stably finite" \) <=== \( "finite uniform dimension"
+    on the left or right\).'
+  reason_right: 'Logic (rings) 113: \( "stably finite" \) <=== \( "finite uniform
+    dimension" on the left or right\).'
+  ring: RING_000086
 PROP_000043:
   citation_left: []
   citation_right: []
@@ -283,6 +305,16 @@ PROP_000045:
   reason_left: 'Logic 124: strongly $\pi$-regular ===> cohopfian on the left and right'
   reason_right: 'Logic 124: strongly $\pi$-regular ===> cohopfian on the left and
     right'
+  ring: RING_000086
+PROP_000051:
+  citation_left: []
+  citation_right: []
+  crosstable_pk: 26483
+  has_on_left: true
+  has_on_right: true
+  property: PROP_000051
+  reason_left: Subring of a matrix ring over a field
+  reason_right: symmetry with left side
   ring: RING_000086
 PROP_000054:
   citation_left: []
@@ -384,6 +416,18 @@ PROP_000063:
   reason_left: 'Logic 214: simple Artinian <==> Artinian on the right and prime'
   reason_right: 'Logic 214: simple Artinian <==> Artinian on the right and prime'
   ring: RING_000086
+PROP_000069:
+  citation_left: []
+  citation_right: []
+  crosstable_pk: 26486
+  has_on_left: true
+  has_on_right: true
+  property: PROP_000069
+  reason_left: $R\subseteq k[t]\langle X_{p,q} \rangle$, the latter is Ore, and $R$
+    is dense in its division ring of fractions
+  reason_right: $R\subseteq k[t]\langle X_{p,q} \rangle$, the latter is Ore, and $R$
+    is dense in its division ring of fractions
+  ring: RING_000086
 PROP_000072:
   citation_left: []
   citation_right: []
@@ -457,6 +501,30 @@ PROP_000083:
   reason_left: 'Logic 237: division ring <==> cohopfian on the right and domain'
   reason_right: 'Logic 237: division ring <==> cohopfian on the right and domain'
   ring: RING_000086
+PROP_000085:
+  citation_left: []
+  citation_right: []
+  crosstable_pk: 26489
+  has_on_left: true
+  has_on_right: true
+  property: PROP_000085
+  reason_left: 'Logic (rings) 273: \( "finite uniform dimension" on the left\) <===
+    \( "Ore domain" on the left\).'
+  reason_right: 'Logic (rings) 273: \( "finite uniform dimension" on the right\) <===
+    \( "Ore domain" on the right\).'
+  ring: RING_000086
+PROP_000086:
+  citation_left: []
+  citation_right: []
+  crosstable_pk: 26490
+  has_on_left: true
+  has_on_right: true
+  property: PROP_000086
+  reason_left: 'Logic (rings) 57: \( "Goldie" on the left\) <=== \( "Ore domain" on
+    the left\).'
+  reason_right: 'Logic (rings) 57: \( "Goldie" on the right\) <=== \( "Ore domain"
+    on the right\).'
+  ring: RING_000086
 PROP_000089:
   citation_left: []
   citation_right: []
@@ -496,6 +564,18 @@ PROP_000092:
   property: PROP_000092
   reason_left: 'Logic 468: continuous on the right and domain <==> division ring'
   reason_right: 'Logic 468: continuous on the right and domain <==> division ring'
+  ring: RING_000086
+PROP_000094:
+  citation_left: []
+  citation_right: []
+  crosstable_pk: 26491
+  has_on_left: true
+  has_on_right: true
+  property: PROP_000094
+  reason_left: 'Logic (rings) 56: \( "Ore ring" on the left\) <=== \( "Ore domain"
+    on the left\).'
+  reason_right: 'Logic (rings) 56: \( "Ore ring" on the right\) <=== \( "Ore domain"
+    on the right\).'
   ring: RING_000086
 PROP_000095:
   citation_left: []
@@ -577,6 +657,30 @@ PROP_000103:
   reason_right: 'Logic 212: finitely cogenerated on the right <==> essential socle
     on the right and finitely generated socle on the right'
   ring: RING_000086
+PROP_000105:
+  citation_left: []
+  citation_right: []
+  crosstable_pk: 26492
+  has_on_left: true
+  has_on_right: true
+  property: PROP_000105
+  reason_left: 'Logic (rings) 458: \( "uniform" on the left\) <=== \( "CS" on the
+    left\) AND \( "strongly connected" \).'
+  reason_right: 'Logic (rings) 458: \( "uniform" on the right\) <=== \( "CS" on the
+    right\) AND \( "strongly connected" \).'
+  ring: RING_000086
+PROP_000106:
+  citation_left: []
+  citation_right: []
+  crosstable_pk: 26493
+  has_on_left: true
+  has_on_right: true
+  property: PROP_000106
+  reason_left: 'Logic (rings) 55: \( "Ikeda-Nakayama" on the left\) <=== \( "Ore domain"
+    on the left\).'
+  reason_right: 'Logic (rings) 55: \( "Ikeda-Nakayama" on the right\) <=== \( "Ore
+    domain" on the right\).'
+  ring: RING_000086
 PROP_000107:
   citation_left: []
   citation_right: []
@@ -599,6 +703,90 @@ PROP_000108:
   reason_right: 'Logic 160: FI-injective on the right ===> principally injective on
     the right'
   ring: RING_000086
+PROP_000109:
+  citation_left: []
+  citation_right: []
+  crosstable_pk: 26494
+  has_on_left: true
+  has_on_right: true
+  property: PROP_000109
+  reason_left: 'Logic (rings) 158: \( "quasi-continuous" on the left\) <=== \( "Ikeda-Nakayama"
+    on the left\).'
+  reason_right: 'Logic (rings) 158: \( "quasi-continuous" on the right\) <=== \( "Ikeda-Nakayama"
+    on the right\).'
+  ring: RING_000086
+PROP_000110:
+  citation_left: []
+  citation_right: []
+  crosstable_pk: 26495
+  has_on_left: true
+  has_on_right: true
+  property: PROP_000110
+  reason_left: 'Logic (rings) 157: \( "CS" on the left\) <=== \( "quasi-continuous"
+    on the left\).'
+  reason_right: 'Logic (rings) 157: \( "CS" on the right\) <=== \( "quasi-continuous"
+    on the right\).'
+  ring: RING_000086
+PROP_000111:
+  citation_left: []
+  citation_right: []
+  crosstable_pk: 26469
+  has_on_left: false
+  has_on_right: false
+  property: PROP_000111
+  reason_left: 'Logic (rings) 267: \(NOT "Dedekind domain" \) <=== \(NOT "commutative"
+    \).'
+  reason_right: 'Logic (rings) 267: \(NOT "Dedekind domain" \) <=== \(NOT "commutative"
+    \).'
+  ring: RING_000086
+PROP_000114:
+  citation_left: []
+  citation_right: []
+  crosstable_pk: 26470
+  has_on_left: false
+  has_on_right: false
+  property: PROP_000114
+  reason_left: 'Logic (rings) 394: \(NOT "unique factorization domain" \) <=== \(NOT
+    "Krull domain" \).'
+  reason_right: 'Logic (rings) 394: \(NOT "unique factorization domain" \) <=== \(NOT
+    "Krull domain" \).'
+  ring: RING_000086
+PROP_000115:
+  citation_left: []
+  citation_right: []
+  crosstable_pk: 26471
+  has_on_left: false
+  has_on_right: false
+  property: PROP_000115
+  reason_left: 'Logic (rings) 316: \(NOT "regular local" \) <=== \(NOT "unique factorization
+    domain" \).'
+  reason_right: 'Logic (rings) 316: \(NOT "regular local" \) <=== \(NOT "unique factorization
+    domain" \).'
+  ring: RING_000086
+PROP_000122:
+  citation_left: []
+  citation_right: []
+  crosstable_pk: 26472
+  has_on_left: false
+  has_on_right: false
+  property: PROP_000122
+  reason_left: 'Logic (rings) 283: \(NOT "Mori domain" \) <=== \(NOT "commutative"
+    \).'
+  reason_right: 'Logic (rings) 283: \(NOT "Mori domain" \) <=== \(NOT "commutative"
+    \).'
+  ring: RING_000086
+PROP_000130:
+  citation_left: []
+  citation_right: []
+  crosstable_pk: 26473
+  has_on_left: false
+  has_on_right: false
+  property: PROP_000130
+  reason_left: 'Logic (rings) 286: \(NOT "Krull domain" \) <=== \(NOT "Mori domain"
+    \).'
+  reason_right: 'Logic (rings) 286: \(NOT "Krull domain" \) <=== \(NOT "Mori domain"
+    \).'
+  ring: RING_000086
 PROP_000144:
   citation_left: []
   citation_right: []
@@ -608,6 +796,28 @@ PROP_000144:
   property: PROP_000144
   reason_left: 'Logic 370: Abelian ===> compressible'
   reason_right: 'Logic 370: Abelian ===> compressible'
+  ring: RING_000086
+PROP_000145:
+  citation_left: []
+  citation_right: []
+  crosstable_pk: 26474
+  has_on_left: false
+  has_on_right: false
+  property: PROP_000145
+  reason_left: 'Logic (rings) 372: \(NOT "Goldman domain" \) <=== \(NOT "commutative"
+    \).'
+  reason_right: 'Logic (rings) 372: \(NOT "Goldman domain" \) <=== \(NOT "commutative"
+    \).'
+  ring: RING_000086
+PROP_000149:
+  citation_left: []
+  citation_right: []
+  crosstable_pk: 26485
+  has_on_left: true
+  has_on_right: true
+  property: PROP_000149
+  reason_left: null
+  reason_right: symmetry with left side
   ring: RING_000086
 PROP_000151:
   citation_left: []
@@ -659,6 +869,88 @@ PROP_000158:
   reason_left: 'Logic 473: Abelian ===> IC (internal cancellation)'
   reason_right: 'Logic 473: Abelian ===> IC (internal cancellation)'
   ring: RING_000086
+PROP_000159:
+  citation_left: []
+  citation_right: []
+  crosstable_pk: 26475
+  has_on_left: false
+  has_on_right: false
+  property: PROP_000159
+  reason_left: 'Logic (rings) 492: \(NOT "arithmetical" \) <=== \(NOT "commutative"
+    \).'
+  reason_right: 'Logic (rings) 492: \(NOT "arithmetical" \) <=== \(NOT "commutative"
+    \).'
+  ring: RING_000086
+PROP_000160:
+  citation_left: []
+  citation_right: []
+  crosstable_pk: 26476
+  has_on_left: false
+  has_on_right: false
+  property: PROP_000160
+  reason_left: 'Logic (rings) 523: \(NOT "discrete valuation ring" \) <=== \(NOT "valuation
+    domain" \).'
+  reason_right: 'Logic (rings) 523: \(NOT "discrete valuation ring" \) <=== \(NOT
+    "valuation domain" \).'
+  ring: RING_000086
+PROP_000161:
+  citation_left: []
+  citation_right: []
+  crosstable_pk: 26477
+  has_on_left: false
+  has_on_right: false
+  property: PROP_000161
+  reason_left: 'Logic (rings) 495: \(NOT "complete discrete valuation ring" \) <===
+    \(NOT "discrete valuation ring" \).'
+  reason_right: 'Logic (rings) 495: \(NOT "complete discrete valuation ring" \) <===
+    \(NOT "discrete valuation ring" \).'
+  ring: RING_000086
+PROP_000162:
+  citation_left: []
+  citation_right: []
+  crosstable_pk: 26488
+  has_on_left: true
+  has_on_right: true
+  property: PROP_000162
+  reason_left: 'Logic (rings) 496: \( "anti-automorphic" \) <=== \( "involutive" \).'
+  reason_right: 'Logic (rings) 496: \( "anti-automorphic" \) <=== \( "involutive"
+    \).'
+  ring: RING_000086
+PROP_000163:
+  citation_left:
+  - CITE_000593
+  citation_right: []
+  crosstable_pk: 26484
+  has_on_left: true
+  has_on_right: true
+  property: PROP_000163
+  reason_left: null
+  reason_right: symmetry with left side
+  ring: RING_000086
+PROP_000164:
+  citation_left: []
+  citation_right: []
+  crosstable_pk: 26478
+  has_on_left: false
+  has_on_right: false
+  property: PROP_000164
+  reason_left: 'Logic (rings) 531: \(NOT "maximal valuation ring" \) <=== \(NOT "maximal
+    ring" \).'
+  reason_right: 'Logic (rings) 531: \(NOT "maximal valuation ring" \) <=== \(NOT "maximal
+    ring" \).'
+  ring: RING_000086
+PROP_000165:
+  citation_left: []
+  citation_right: []
+  crosstable_pk: 26479
+  has_on_left: false
+  has_on_right: false
+  property: PROP_000165
+  reason_left: 'Logic (rings) 532: \(NOT "almost maximal valuation ring" \) <=== \(NOT
+    "valuation ring" \).'
+  reason_right: 'Logic (rings) 532: \(NOT "almost maximal valuation ring" \) <===
+    \(NOT "valuation ring" \).'
+  ring: RING_000086
 PROP_000167:
   citation_left: []
   citation_right: []
@@ -668,6 +960,42 @@ PROP_000167:
   property: PROP_000167
   reason_left: 'Logic (rings) 534: \(NOT "torch" \) <=== \( "reduced" \).'
   reason_right: 'Logic (rings) 534: \(NOT "torch" \) <=== \( "reduced" \).'
+  ring: RING_000086
+PROP_000171:
+  citation_left: []
+  citation_right: []
+  crosstable_pk: 26480
+  has_on_left: false
+  has_on_right: false
+  property: PROP_000171
+  reason_left: 'Logic (rings) 522: \(NOT "maximal ring" \) <=== \(NOT "commutative"
+    \).'
+  reason_right: 'Logic (rings) 522: \(NOT "maximal ring" \) <=== \(NOT "commutative"
+    \).'
+  ring: RING_000086
+PROP_000172:
+  citation_left: []
+  citation_right: []
+  crosstable_pk: 26481
+  has_on_left: false
+  has_on_right: false
+  property: PROP_000172
+  reason_left: 'Logic (rings) 527: \(NOT "valuation domain" \) <=== \(NOT "valuation
+    ring" \).'
+  reason_right: 'Logic (rings) 527: \(NOT "valuation domain" \) <=== \(NOT "valuation
+    ring" \).'
+  ring: RING_000086
+PROP_000173:
+  citation_left: []
+  citation_right: []
+  crosstable_pk: 26482
+  has_on_left: false
+  has_on_right: false
+  property: PROP_000173
+  reason_left: 'Logic (rings) 528: \(NOT "valuation ring" \) <=== \(NOT "commutative"
+    \).'
+  reason_right: 'Logic (rings) 528: \(NOT "valuation ring" \) <=== \(NOT "commutative"
+    \).'
   ring: RING_000086
 PROP_000175:
   citation_left: []
