@@ -118,3 +118,13 @@ RINGRELATION_000025:
   note: ''
   relation_type: MORITA_EQ_TO
   second: RING_000170
+RINGRELATION_000026:
+  first: RING_000052
+  note: ''
+  relation_type: SUBRING_OF
+  second: RING_000057
+RINGRELATION_000027:
+  first: RING_000006
+  note: ''
+  relation_type: SUBRING_OF
+  second: RING_000036

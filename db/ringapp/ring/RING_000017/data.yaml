@@ -1,9 +1,9 @@
 citation: []
-description: Quadratic closure of the rational numbers [2] inside the real numbers
-  [3]. Characterized by ruler-and-compass construction
+description: Quadratic closure of the rational numbers $R_2$ inside the real numbers
+  $R_3$. Characterized by ruler-and-compass construction
 is_commutative: true
 keywords: []
 krull_dim: '0'
 name: Field of constructible numbers
-notes: ''
+notes: null
 optional_template: ''

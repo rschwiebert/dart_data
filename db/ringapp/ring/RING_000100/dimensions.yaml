@@ -12,10 +12,10 @@ DIM_000003:
   citation: []
   crosstable_pk: 312
   dimension_type: DIM_000003
-  left_dimension: $\alpeh_0$
+  left_dimension: $\aleph_0$
   reason_left: null
   reason_right: null
-  right_dimension: $\alpeh_0$
+  right_dimension: $\aleph_0$
   ring: RING_000100
 DIM_000004:
   citation:
