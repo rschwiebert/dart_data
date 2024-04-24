@@ -260,6 +260,17 @@ PROP_000032:
   reason_left: 'Logic 180: semicommutative  (SI condition, zero-insertive) ===> Abelian'
   reason_right: 'Logic 180: semicommutative  (SI condition, zero-insertive) ===> Abelian'
   ring: RING_000082
+PROP_000033:
+  citation_left: []
+  citation_right: []
+  crosstable_pk: 26848
+  has_on_left: false
+  has_on_right: false
+  property: PROP_000033
+  reason_left: 'relationlogic.dl: ring=82 lacks property=33 because ring=173 lacks
+    property=33 and is SUBRING_OF ring=82'
+  reason_right: symmetry with left side
+  ring: RING_000082
 PROP_000034:
   citation_left: []
   citation_right: []
@@ -299,6 +310,17 @@ PROP_000037:
   property: PROP_000037
   reason_left: 'Logic 149: strongly connected <==> Abelian and connected'
   reason_right: 'Logic 149: strongly connected <==> Abelian and connected'
+  ring: RING_000082
+PROP_000039:
+  citation_left: []
+  citation_right: []
+  crosstable_pk: 26782
+  has_on_left: false
+  has_on_right: false
+  property: PROP_000039
+  reason_left: 'relationlogic.dl: ring=82 lacks property=39 because ring=173 lacks
+    property=39 and is SUBRING_OF ring=82'
+  reason_right: symmetry with left side
   ring: RING_000082
 PROP_000040:
   citation_left: []
@@ -409,6 +431,17 @@ PROP_000050:
   property: PROP_000050
   reason_left: 'Logic 132: semiregular <==> lift/rad and top regular'
   reason_right: 'Logic 132: semiregular <==> lift/rad and top regular'
+  ring: RING_000082
+PROP_000051:
+  citation_left: []
+  citation_right: []
+  crosstable_pk: 26618
+  has_on_left: false
+  has_on_right: false
+  property: PROP_000051
+  reason_left: 'relationlogic.dl: ring=82 lacks property=51 because ring=44 lacks
+    property=51 and is SUBRING_OF ring=82'
+  reason_right: symmetry with left side
   ring: RING_000082
 PROP_000054:
   citation_left: []
@@ -1185,6 +1218,17 @@ PROP_000154:
     right'
   reason_right: 'Logic 414: valuation domain on the right ===> Bezout domain on the
     right'
+  ring: RING_000082
+PROP_000155:
+  citation_left: []
+  citation_right: []
+  crosstable_pk: 26619
+  has_on_left: false
+  has_on_right: false
+  property: PROP_000155
+  reason_left: 'relationlogic.dl: ring=82 lacks property=155 because ring=44 lacks
+    property=155 and is SUBRING_OF ring=82'
+  reason_right: symmetry with left side
   ring: RING_000082
 PROP_000158:
   citation_left:

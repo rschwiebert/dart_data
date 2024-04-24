@@ -1,13 +1,13 @@
 citation: []
-description: The Henselization of $\Bbb Z_{(p)}$ is isomorphic to the subring of its
-  completion (the p-adic integers $\Bbb Z_{p}$)  whose elements are roots of separable
-  polynomials with coefficients in $\Bbb Z_{(p)}$.
+description: The Henselization of $\Bbb Z_{(2)}$ is isomorphic to the subring of its
+  completion (the 2-adic integers $\Bbb Z_{2}$)  whose elements are roots of separable
+  polynomials with coefficients in $\Bbb Z_{(2)}$.
 is_commutative: true
 keywords:
 - KWD_000034
 - KWD_000032
 - KWD_000007
 krull_dim: (unknown)
-name: Henselization of $\Bbb Z_{(p)}$
+name: Henselization of $\Bbb Z_{(2)}$
 notes: null
 optional_template: ''

@@ -538,6 +538,17 @@ PROP_000050:
   reason_left: 'Logic (rings) 102: \( "semiregular" \) <=== \( "semiperfect" \).'
   reason_right: 'Logic (rings) 102: \( "semiregular" \) <=== \( "semiperfect" \).'
   ring: RING_000156
+PROP_000051:
+  citation_left: []
+  citation_right: []
+  crosstable_pk: 26914
+  has_on_left: true
+  has_on_right: true
+  property: PROP_000051
+  reason_left: 'relationlogic.dl: ring=156 has property=51 because it is SUBRING_OF
+    ring=12 which has property=51'
+  reason_right: symmetry with left side
+  ring: RING_000156
 PROP_000052:
   citation_left: []
   citation_right: []
@@ -1374,6 +1385,17 @@ PROP_000148:
   property: PROP_000148
   reason_left: 'Logic (rings) logical AND: ring_deduced("has",2,Y) <=== ring_deduced("has",1,Y).'
   reason_right: 'Logic (rings) logical AND: ring_deduced("has",3,Y) <=== ring_deduced("has",1,Y).'
+  ring: RING_000156
+PROP_000149:
+  citation_left: []
+  citation_right: []
+  crosstable_pk: 26915
+  has_on_left: true
+  has_on_right: true
+  property: PROP_000149
+  reason_left: 'relationlogic.dl: ring=156 has property=149 because it is SUBRING_OF
+    ring=12 which has property=149'
+  reason_right: symmetry with left side
   ring: RING_000156
 PROP_000151:
   citation_left: []

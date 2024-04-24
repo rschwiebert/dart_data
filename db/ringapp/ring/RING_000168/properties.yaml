@@ -869,6 +869,17 @@ PROP_000147:
   reason_right: 'Logic (rings) 382: \(NOT "PCI ring" on the right\) <=== \(NOT "Noetherian"
     on the right\).'
   ring: RING_000168
+PROP_000149:
+  citation_left: []
+  citation_right: []
+  crosstable_pk: 26506
+  has_on_left: true
+  has_on_right: true
+  property: PROP_000149
+  reason_left: 'relationlogic.dl: ring=168 has property=149 because it is IMAGE_OF
+    ring=167 which has property=149'
+  reason_right: symmetry with left side
+  ring: RING_000168
 PROP_000151:
   citation_left: []
   citation_right: []
