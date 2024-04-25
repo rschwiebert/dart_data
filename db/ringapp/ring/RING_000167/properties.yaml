@@ -598,6 +598,17 @@ PROP_000075:
   reason_right: 'Logic (rings) logical AND: ring_deduced("lacks",3,Y) <=== \( "commutative"
     \) AND ring_deduced("lacks",1,Y).'
   ring: RING_000167
+PROP_000076:
+  citation_left: []
+  citation_right: []
+  crosstable_pk: 26505
+  has_on_left: false
+  has_on_right: false
+  property: PROP_000076
+  reason_left: 'relationlogic.dl: ring=167 lacks property=76 on the left because ring=168
+    lacks property=76 on the left and is IMAGE_OF ring=167'
+  reason_right: symmetry with left side
+  ring: RING_000167
 PROP_000078:
   citation_left: []
   citation_right: []
@@ -1070,6 +1081,17 @@ PROP_000147:
     on the left\).'
   reason_right: 'Logic (rings) 382: \(NOT "PCI ring" on the right\) <=== \(NOT "Noetherian"
     on the right\).'
+  ring: RING_000167
+PROP_000149:
+  citation_left: []
+  citation_right: []
+  crosstable_pk: 26504
+  has_on_left: true
+  has_on_right: true
+  property: PROP_000149
+  reason_left: 'relationlogic.dl: ring=167 has property=149 because it is SUBRING_OF
+    ring=166 which has property=149'
+  reason_right: symmetry with left side
   ring: RING_000167
 PROP_000151:
   citation_left: []

@@ -1,0 +1,11 @@
+citation: []
+description: The ring of infinite, upper triangular matrices over $\mathbb Q$ indexed
+  by $\omega$.
+is_commutative: false
+keywords:
+- KWD_000008
+- KWD_000007
+krull_dim: (unknown)
+name: $T_\omega(\mathbb Q)$
+notes: null
+optional_template: ''

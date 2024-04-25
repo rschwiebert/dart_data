@@ -1,6 +1,5 @@
 citation: []
-description: $k\langle x,y\rangle /(xy - yx - 1)$ where $k$ is a countably infinite
-  field of characteristic $0$.
+description: $\mathbb Q\langle x,y\rangle /(xy - yx - 1)$
 is_commutative: false
 keywords:
 - KWD_000026

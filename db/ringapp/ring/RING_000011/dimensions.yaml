@@ -20,10 +20,10 @@ DIM_000003:
   citation: []
   crosstable_pk: 81
   dimension_type: DIM_000003
-  left_dimension: $q^{n^2}$
+  left_dimension: $2^{n^2}$
   reason_left: null
   reason_right: null
-  right_dimension: $q^{n^2}$
+  right_dimension: $2^{n^2}$
   ring: RING_000011
 DIM_000004:
   citation: []

@@ -1,0 +1,99 @@
+PROP_000001:
+  citation_left: []
+  citation_right: []
+  crosstable_pk: 26903
+  has_on_left: false
+  has_on_right: false
+  property: PROP_000001
+  reason_left: 'relationlogic.dl: ring=176 lacks property=1 because ring=44 lacks
+    property=1 and is SUBRING_OF ring=176'
+  reason_right: symmetry with left side
+  ring: RING_000176
+PROP_000008:
+  citation_left: []
+  citation_right: []
+  crosstable_pk: 26904
+  has_on_left: false
+  has_on_right: false
+  property: PROP_000008
+  reason_left: 'relationlogic.dl: ring=176 lacks property=8 because ring=44 lacks
+    property=8 and is SUBRING_OF ring=176'
+  reason_right: symmetry with left side
+  ring: RING_000176
+PROP_000010:
+  citation_left: []
+  citation_right: []
+  crosstable_pk: 26905
+  has_on_left: false
+  has_on_right: false
+  property: PROP_000010
+  reason_left: 'relationlogic.dl: ring=176 lacks property=10 because ring=44 lacks
+    property=10 and is SUBRING_OF ring=176'
+  reason_right: symmetry with left side
+  ring: RING_000176
+PROP_000036:
+  citation_left: []
+  citation_right: []
+  crosstable_pk: 26906
+  has_on_left: false
+  has_on_right: false
+  property: PROP_000036
+  reason_left: 'relationlogic.dl: ring=176 lacks property=36 because ring=44 lacks
+    property=36 and is SUBRING_OF ring=176'
+  reason_right: symmetry with left side
+  ring: RING_000176
+PROP_000043:
+  citation_left: []
+  citation_right: []
+  crosstable_pk: 26907
+  has_on_left: false
+  has_on_right: false
+  property: PROP_000043
+  reason_left: 'relationlogic.dl: ring=176 lacks property=43 because ring=44 lacks
+    property=43 and is SUBRING_OF ring=176'
+  reason_right: symmetry with left side
+  ring: RING_000176
+PROP_000051:
+  citation_left: []
+  citation_right: []
+  crosstable_pk: 26908
+  has_on_left: false
+  has_on_right: false
+  property: PROP_000051
+  reason_left: 'relationlogic.dl: ring=176 lacks property=51 because ring=44 lacks
+    property=51 and is SUBRING_OF ring=176'
+  reason_right: symmetry with left side
+  ring: RING_000176
+PROP_000151:
+  citation_left: []
+  citation_right: []
+  crosstable_pk: 26909
+  has_on_left: false
+  has_on_right: false
+  property: PROP_000151
+  reason_left: 'relationlogic.dl: ring=176 lacks property=151 because ring=44 lacks
+    property=151 and is SUBRING_OF ring=176'
+  reason_right: symmetry with left side
+  ring: RING_000176
+PROP_000152:
+  citation_left: []
+  citation_right: []
+  crosstable_pk: 26910
+  has_on_left: false
+  has_on_right: false
+  property: PROP_000152
+  reason_left: 'relationlogic.dl: ring=176 lacks property=152 because ring=44 lacks
+    property=152 and is SUBRING_OF ring=176'
+  reason_right: symmetry with left side
+  ring: RING_000176
+PROP_000155:
+  citation_left: []
+  citation_right: []
+  crosstable_pk: 26911
+  has_on_left: false
+  has_on_right: false
+  property: PROP_000155
+  reason_left: 'relationlogic.dl: ring=176 lacks property=155 because ring=44 lacks
+    property=155 and is SUBRING_OF ring=176'
+  reason_right: symmetry with left side
+  ring: RING_000176
