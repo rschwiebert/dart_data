@@ -1,10 +1,10 @@
 citation: []
-description: Let $S$ be the ring of linear transformations of a countable dimensional
-  vector space over a field. This is known to have exactly one nontrivial ideal $M$.
-  The ring is $S/M$
+description: Let $T=R_{15}$ be the ring of linear transformations of a countable dimensional
+  vector space over $\mathbb Q$. This is known to have exactly one nontrivial ideal
+  $S$. The required ring is $R=T/S$
 is_commutative: false
 keywords: []
 krull_dim: null
 name: Simple, non-Artinian, von Neumann regular ring
-notes: ''
+notes: null
 optional_template: ''

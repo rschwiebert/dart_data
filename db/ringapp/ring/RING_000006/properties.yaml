@@ -1536,6 +1536,17 @@ PROP_000147:
   reason_right: 'Logic 382: PCI ring on the right ===> hereditary on the left and
     right and Noetherian on the right and V ring on the right'
   ring: RING_000006
+PROP_000148:
+  citation_left: []
+  citation_right: []
+  crosstable_pk: 26990
+  has_on_left: false
+  has_on_right: false
+  property: PROP_000148
+  reason_left: 'relationlogic.dl: ring=6 lacks property=148 on the left because ring=34
+    lacks property=148 on the left and is IMAGE_OF ring=6'
+  reason_right: symmetry with left side
+  ring: RING_000006
 PROP_000149:
   citation_left: []
   citation_right: []

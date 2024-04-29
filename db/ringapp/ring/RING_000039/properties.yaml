@@ -410,6 +410,18 @@ PROP_000040:
   reason_left: $\begin{bmatrix}1&1\\0&0\end{bmatrix}$ is a noncentral idempotent
   reason_right: symmetry with left side
   ring: RING_000039
+PROP_000041:
+  citation_left: []
+  citation_right: []
+  crosstable_pk: 27004
+  has_on_left: true
+  has_on_right: true
+  property: PROP_000041
+  reason_left: 'Logic (rings) 107: \( "Dedekind finite" \) <=== \( "stably finite"
+    \).'
+  reason_right: 'Logic (rings) 107: \( "Dedekind finite" \) <=== \( "stably finite"
+    \).'
+  ring: RING_000039
 PROP_000042:
   citation_left: []
   citation_right: []
@@ -511,6 +523,28 @@ PROP_000051:
   reason_left: Satisfies the identity $X^4-X^2$ (because it is built from a boolean
     ring)
   reason_right: symmetry with left side
+  ring: RING_000039
+PROP_000052:
+  citation_left: []
+  citation_right: []
+  crosstable_pk: 27005
+  has_on_left: true
+  has_on_right: true
+  property: PROP_000052
+  reason_left: 'Logic (rings) 122: \( "clean" \) <=== \( "strongly $\pi$-regular"
+    \).'
+  reason_right: 'Logic (rings) 122: \( "clean" \) <=== \( "strongly $\pi$-regular"
+    \).'
+  ring: RING_000039
+PROP_000053:
+  citation_left: []
+  citation_right: []
+  crosstable_pk: 27006
+  has_on_left: true
+  has_on_right: true
+  property: PROP_000053
+  reason_left: 'Logic (rings) 133: \( "weakly clean" \) <=== \( "clean" \).'
+  reason_right: 'Logic (rings) 133: \( "weakly clean" \) <=== \( "clean" \).'
   ring: RING_000039
 PROP_000054:
   citation_left: []

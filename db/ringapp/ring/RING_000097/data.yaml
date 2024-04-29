@@ -1,9 +1,11 @@
 citation:
 - CITE_000212
-description: "Let $\\mathbb Z_{(p)}$ be the localization of the integers at a prime\
-  \ $p$, and $\\mathbb Z_{p^\\infty}$ be the Pr\xFCfer $p$ group, and $\\mathbb Z_p=End(\\\
-  mathbb Z_{p^\\infty})$ be the $p$-adic integers.  Then $R$ is the ring $\\begin{bmatrix}\\\
-  mathbb Z_{(p)}& \\mathbb Z_{p^\\infty}\\\\0&\\mathbb Z_p \\end{bmatrix}$"
+description: "Let $\\mathbb Z_{(2)}$ be the localization of the integers at $(2)$\
+  \ (<a href=\"/rings/ring/69/\">$R_{69}$</a>), and $\\mathbb Z_{2^\\infty}$ be the\
+  \ Pr\xFCfer $2$ group, and $\\mathbb Z_2=End(\\mathbb Z_{2^\\infty})$ (<a href=\"\
+  /modules/module/17/\">$M_{17}$</a>) be the $2$-adic integers (<a href=\"/rings/ring/84/\"\
+  >$R_{84}$</a>).  Then $R$ is the ring $\\begin{bmatrix}\\mathbb Z_{(2)}& \\mathbb\
+  \ Z_{2^\\infty}\\\\0&\\mathbb Z_2 \\end{bmatrix}$"
 is_commutative: false
 keywords:
 - KWD_000032
@@ -11,6 +13,7 @@ keywords:
 - KWD_000004
 krull_dim: (unknown)
 name: Puninski's triangular serial ring
-notes: Krull dimension $1$, (probably Rentschler-Michler Krull dimension) The radical
-  is the union of the singular ideals. It is its own classical quotient ring.
+notes: Puninski used any prime $p$, not just $2$.  Krull dimension $1$, (probably
+  Rentschler-Michler Krull dimension) The radical is the union of the singular ideals.
+  It is its own classical quotient ring.
 optional_template: ''

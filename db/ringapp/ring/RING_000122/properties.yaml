@@ -1395,6 +1395,17 @@ PROP_000148:
   reason_left: symmetry with right side
   reason_right: 'Logic 389: perfect on the right <==> max ring on the right and semilocal'
   ring: RING_000122
+PROP_000149:
+  citation_left: []
+  citation_right: []
+  crosstable_pk: 26947
+  has_on_left: false
+  has_on_right: false
+  property: PROP_000149
+  reason_left: 'relationlogic.dl: ring=122 lacks property=149 because ring=84 lacks
+    property=149 and is IMAGE_OF ring=122'
+  reason_right: symmetry with left side
+  ring: RING_000122
 PROP_000151:
   citation_left: []
   citation_right: []

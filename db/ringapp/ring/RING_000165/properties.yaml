@@ -151,6 +151,28 @@ PROP_000014:
   reason_right: 'Logic (rings) 192: \(NOT "von Neumann regular" \) <=== \(NOT "division
     ring" \) AND \( "strongly connected" \).'
   ring: RING_000165
+PROP_000016:
+  citation_left: []
+  citation_right: []
+  crosstable_pk: 26956
+  has_on_left: false
+  has_on_right: false
+  property: PROP_000016
+  reason_left: 'relationlogic.dl: ring=165 lacks property=16 because ring=7 lacks
+    property=16 and is IMAGE_OF ring=165'
+  reason_right: symmetry with left side
+  ring: RING_000165
+PROP_000017:
+  citation_left: []
+  citation_right: []
+  crosstable_pk: 26957
+  has_on_left: false
+  has_on_right: false
+  property: PROP_000017
+  reason_left: 'relationlogic.dl: ring=165 lacks property=17 because ring=7 lacks
+    property=17 and is IMAGE_OF ring=165'
+  reason_right: symmetry with left side
+  ring: RING_000165
 PROP_000018:
   citation_left: []
   citation_right: []
@@ -267,6 +289,18 @@ PROP_000028:
     and right\).'
   reason_right: 'Logic (rings) 255: \(NOT "primary" \) <=== \(NOT "Kasch" on the left
     and right\).'
+  ring: RING_000165
+PROP_000029:
+  citation_left: []
+  citation_right: []
+  crosstable_pk: 26960
+  has_on_left: false
+  has_on_right: false
+  property: PROP_000029
+  reason_left: 'Logic (rings) 206: \(NOT "top simple" \) <=== \(NOT "simple" \) AND
+    \( "semiprimitive" \).'
+  reason_right: 'Logic (rings) 206: \(NOT "top simple" \) <=== \(NOT "simple" \) AND
+    \( "semiprimitive" \).'
   ring: RING_000165
 PROP_000030:
   citation_left: []
@@ -682,6 +716,18 @@ PROP_000073:
     on the left\).'
   reason_right: 'Logic (rings) 61: \( "nonsingular" on the right\) <=== \( "Rickart"
     on the right\).'
+  ring: RING_000165
+PROP_000075:
+  citation_left: []
+  citation_right: []
+  crosstable_pk: 26958
+  has_on_left: false
+  has_on_right: false
+  property: PROP_000075
+  reason_left: 'relationlogic.dl: ring=165 lacks property=75 on the left because ring=7
+    lacks property=75 on the left and is IMAGE_OF ring=165'
+  reason_right: 'relationlogic.dl: ring=165 lacks property=75 on the right because
+    ring=7 lacks property=75 on the right and is IMAGE_OF ring=165'
   ring: RING_000165
 PROP_000076:
   citation_left: []
@@ -1171,6 +1217,18 @@ PROP_000147:
     on the left\).'
   reason_right: 'Logic (rings) 382: \(NOT "PCI ring" on the right\) <=== \(NOT "Noetherian"
     on the right\).'
+  ring: RING_000165
+PROP_000148:
+  citation_left: []
+  citation_right: []
+  crosstable_pk: 26959
+  has_on_left: false
+  has_on_right: false
+  property: PROP_000148
+  reason_left: 'relationlogic.dl: ring=165 lacks property=148 on the left because
+    ring=7 lacks property=148 on the left and is IMAGE_OF ring=165'
+  reason_right: 'relationlogic.dl: ring=165 lacks property=148 on the right because
+    ring=7 lacks property=148 on the right and is IMAGE_OF ring=165'
   ring: RING_000165
 PROP_000149:
   citation_left: []

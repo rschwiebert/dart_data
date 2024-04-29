@@ -1498,6 +1498,17 @@ PROP_000161:
   reason_right: 'Logic (rings) 495: \(NOT "complete discrete valuation ring" \) <===
     \(NOT "discrete valuation ring" \).'
   ring: RING_000029
+PROP_000162:
+  citation_left: []
+  citation_right: []
+  crosstable_pk: 27003
+  has_on_left: true
+  has_on_right: true
+  property: PROP_000162
+  reason_left: 'Logic (rings) 496: \( "anti-automorphic" \) <=== \( "involutive" \).'
+  reason_right: 'Logic (rings) 496: \( "anti-automorphic" \) <=== \( "involutive"
+    \).'
+  ring: RING_000029
 PROP_000163:
   citation_left: []
   citation_right: []

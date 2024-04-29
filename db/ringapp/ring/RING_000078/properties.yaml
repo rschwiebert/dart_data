@@ -132,6 +132,17 @@ PROP_000015:
   reason_left: 'Logic 142: semi free ideal ring ===> domain'
   reason_right: 'Logic 142: semi free ideal ring ===> domain'
   ring: RING_000078
+PROP_000017:
+  citation_left: []
+  citation_right: []
+  crosstable_pk: 26945
+  has_on_left: false
+  has_on_right: false
+  property: PROP_000017
+  reason_left: 'relationlogic.dl: ring=78 lacks property=17 because ring=57 lacks
+    property=17 and is IMAGE_OF ring=78'
+  reason_right: symmetry with left side
+  ring: RING_000078
 PROP_000018:
   citation_left: []
   citation_right: []
@@ -1087,6 +1098,17 @@ PROP_000147:
     and Noetherian on the right and V ring on the right'
   reason_right: 'Logic 382: PCI ring on the right ===> hereditary on the left and
     right and Noetherian on the right and V ring on the right'
+  ring: RING_000078
+PROP_000149:
+  citation_left: []
+  citation_right: []
+  crosstable_pk: 26946
+  has_on_left: false
+  has_on_right: false
+  property: PROP_000149
+  reason_left: 'relationlogic.dl: ring=78 lacks property=149 because ring=57 lacks
+    property=149 and is IMAGE_OF ring=78'
+  reason_right: symmetry with left side
   ring: RING_000078
 PROP_000150:
   citation_left: []
