@@ -1,10 +1,10 @@
 citation: []
-description: For a countably infinite field $k$, the quotient polynomial ring $k[x^{1/2},x^{1/4},x^{1/8},...]/(x)$
+description: The quotient polynomial ring $\mathbb Q[x^{1/2},x^{1/4},x^{1/8},...]/(x)$
 is_commutative: true
 keywords:
 - KWD_000002
 - KWD_000003
 krull_dim: '0'
-name: $k[x^{1/2},x^{1/4},x^{1/8},...]/(x)$
+name: $\mathbb Q[x^{1/2},x^{1/4},x^{1/8},...]/(x)$
 notes: Local with an idempotent, nil maximal ideal.
 optional_template: ''

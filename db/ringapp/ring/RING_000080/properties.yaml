@@ -396,6 +396,17 @@ PROP_000043:
   reason_left: 'Logic 109: finite ===> Artinian on the left and right'
   reason_right: 'Logic 109: finite ===> Artinian on the left and right'
   ring: RING_000080
+PROP_000044:
+  citation_left: []
+  citation_right: []
+  crosstable_pk: 27152
+  has_on_left: false
+  has_on_right: false
+  property: PROP_000044
+  reason_left: 'relationlogic.dl: ring=80 lacks property=44 because ring=174 lacks
+    property=44 and is SUBRING_OF ring=80'
+  reason_right: symmetry with left side
+  ring: RING_000080
 PROP_000045:
   citation_left: []
   citation_right: []

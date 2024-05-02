@@ -1,10 +1,10 @@
 citation: []
-description: For a countably infinite field $k$, the quotient ring $k[x,y,z]/(xz,yz)$.
+description: The quotient ring $\mathbb Q[x,y,z]/(xz,yz)$.
 is_commutative: true
 keywords:
 - KWD_000002
 - KWD_000003
 krull_dim: (unknown)
-name: $k[x,y,z]/(xz,yz)$
+name: $\mathbb Q[x,y,z]/(xz,yz)$
 notes: null
 optional_template: ''

@@ -593,3 +593,113 @@ RINGRELATION_000119:
   note: ''
   relation_type: IMAGE_OF
   second: RING_000151
+RINGRELATION_000120:
+  first: RING_000066
+  note: ''
+  relation_type: SUBRING_OF
+  second: RING_000174
+RINGRELATION_000121:
+  first: RING_000061
+  note: ''
+  relation_type: SUBRING_OF
+  second: RING_000174
+RINGRELATION_000122:
+  first: RING_000101
+  note: ''
+  relation_type: SUBRING_OF
+  second: RING_000174
+RINGRELATION_000123:
+  first: RING_000098
+  note: ''
+  relation_type: SUBRING_OF
+  second: RING_000174
+RINGRELATION_000124:
+  first: RING_000012
+  note: ''
+  relation_type: SUBRING_OF
+  second: RING_000174
+RINGRELATION_000125:
+  first: RING_000018
+  note: ''
+  relation_type: SUBRING_OF
+  second: RING_000174
+RINGRELATION_000126:
+  first: RING_000020
+  note: ''
+  relation_type: SUBRING_OF
+  second: RING_000174
+RINGRELATION_000127:
+  first: RING_000117
+  note: ''
+  relation_type: SUBRING_OF
+  second: RING_000174
+RINGRELATION_000128:
+  first: RING_000116
+  note: ''
+  relation_type: SUBRING_OF
+  second: RING_000174
+RINGRELATION_000129:
+  first: RING_000090
+  note: ''
+  relation_type: SUBRING_OF
+  second: RING_000174
+RINGRELATION_000130:
+  first: RING_000089
+  note: ''
+  relation_type: SUBRING_OF
+  second: RING_000174
+RINGRELATION_000131:
+  first: RING_000065
+  note: ''
+  relation_type: SUBRING_OF
+  second: RING_000174
+RINGRELATION_000132:
+  first: RING_000047
+  note: ''
+  relation_type: SUBRING_OF
+  second: RING_000174
+RINGRELATION_000133:
+  first: RING_000086
+  note: ''
+  relation_type: SUBRING_OF
+  second: RING_000174
+RINGRELATION_000134:
+  first: RING_000060
+  note: ''
+  relation_type: SUBRING_OF
+  second: RING_000174
+RINGRELATION_000135:
+  first: RING_000103
+  note: ''
+  relation_type: SUBRING_OF
+  second: RING_000174
+RINGRELATION_000136:
+  first: RING_000100
+  note: ''
+  relation_type: SUBRING_OF
+  second: RING_000174
+RINGRELATION_000137:
+  first: RING_000062
+  note: ''
+  relation_type: SUBRING_OF
+  second: RING_000174
+RINGRELATION_000138:
+  first: RING_000094
+  note: ''
+  relation_type: SUBRING_OF
+  second: RING_000174
+RINGRELATION_000139:
+  first: RING_000035
+  note: ''
+  relation_type: SUBRING_OF
+  second: RING_000174
+RINGRELATION_000140:
+  first: RING_000033
+  note: ''
+  relation_type: SUBRING_OF
+  second: RING_000018
+RINGRELATION_000141:
+  first: RING_000007
+  note: ''
+  relation_type: SUBRING_OF
+  second: RING_000176
