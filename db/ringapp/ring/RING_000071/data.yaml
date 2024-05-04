@@ -7,7 +7,6 @@ is_commutative: true
 keywords:
 - KWD_000003
 krull_dim: '0'
-name: $\mathbb F_2[x_1, x_2, x_3\ldots ]/(\{x_i^3\mid i\in \mathbb N\}\cup\{x_ix_j|i\neq
-  j\}\cup\{x_i^2-m\mid i\in \mathbb N\})$
+name: Quasi-continuous ring that is not Ikeda-Nakayama
 notes: null
 optional_template: ''

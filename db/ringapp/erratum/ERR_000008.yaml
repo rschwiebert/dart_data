@@ -1,0 +1,6 @@
+corrected_location:
+- CITE_000031
+description: Example 16 is claimed to be local, but this is clearly not so. It has
+  a quotient isomorphic to $\mathbb Z$ which is not local.
+error_location: CITE_000584
+example: null

@@ -1,11 +1,11 @@
 citation: []
-description: Let $Q$ be a commutative, non-Artinian, self-injective von Neumann regular
-  ring. Let $M$ be a maximal left ideal which is essential in $Q$. Let $S=Q/M$, and
-  $D=End_Q(S)$. The ring is $R=\begin{bmatrix}Q&S\\0&D\end{bmatrix}$
+description: 'Let $Q$ be a commutative, non-Artinian, self-injective von Neumann regular
+  ring: we choose $Q=R_{57}$. Let $M$ be a maximal ideal which is essential as a submodule
+  of $Q$. Let $S=Q/M$, and $D=End_Q(S)$. The ring is $R=\begin{bmatrix}Q&S\\0&D\end{bmatrix}$'
 is_commutative: false
 keywords:
 - KWD_000004
 krull_dim: null
 name: Page's left-not-right FPF ring
-notes: Right singular ideal is the subset of upper-triangular matrices.
+notes: Left singular ideal is the subset of strictly upper triangular matrices.
 optional_template: ''

@@ -1,8 +1,8 @@
 citation:
 - MODCITE_000023
-description: $\bigoplus_{i=0}^\infty k$ as a right module over the opposite ring of
-  <a href="/rings/ring/93">$R_{93}$</a>
-name: $\bigoplus_{i=0}^\infty k$
+description: $\bigoplus_{i=0}^\infty  \mathbb Q$ as a right module over the opposite
+  ring of <a href="/rings/ring/93">$R_{93}$</a>
+name: $\bigoplus_{i=0}^\infty \mathbb Q$
 notes: null
 opposite_ring: true
 ring: 93

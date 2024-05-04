@@ -1,6 +1,7 @@
 citation: []
-description: The right regular module of $\mathbb Z_p$ over itself.
-name: '$p$-adic integers: $\mathbb Z_p$'
+description: The right regular module of $\mathbb Z_2$ (<a href="/rings/ring/84/">$R_{84}$</a>)
+  over itself.
+name: '$2$-adic integers: $\mathbb Z_2$'
 notes: null
 opposite_ring: false
 ring: 84

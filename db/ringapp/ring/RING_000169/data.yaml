@@ -1,0 +1,11 @@
+citation:
+- CITE_000587
+description: (to be elaborated later)
+is_commutative: true
+keywords:
+- KWD_000002
+- KWD_000003
+krull_dim: (unknown)
+name: Kerr's Goldie ring with non-Goldie matrix ring
+notes: $M_2(R)$ does not satisfy ACC annihilator on either side.
+optional_template: ''

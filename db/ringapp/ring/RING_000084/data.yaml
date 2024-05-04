@@ -1,10 +1,9 @@
 citation: []
-description: The inverse limit of the rings $\mathbb Z/p^n$ where $p\in\mathbb Z$
-  is a fixed prime.
+description: The inverse limit of the rings $\mathbb Z/2^n$.
 is_commutative: true
 keywords:
 - KWD_000031
 krull_dim: (unknown)
-name: '$p$-adic integers: $\mathbb Z_p$'
+name: '$2$-adic integers: $\mathbb Z_2$'
 notes: null
 optional_template: ''

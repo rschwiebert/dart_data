@@ -1,6 +1,7 @@
 citation: []
 description: Let $V$ be a countable dimensional right vector space over $\mathbb Q$.
-  $R=End(V_\mathbb Q)$.
+  $R=End(V_\mathbb Q)$, written on the left. In other words, the column-finite infinite
+  matrices indexed by $\mathbb N$ over $\mathbb Q$.
 is_commutative: false
 keywords:
 - KWD_000023

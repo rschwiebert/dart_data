@@ -25,6 +25,15 @@ METAPROP_000003:
   metaproperty: METAPROP_000003
   property: PROP_000014
   relation: 1
+METAPROP_000004:
+  citation: []
+  commutative_only: false
+  crosstable_pk: 749
+  example: null
+  has_metaproperty: true
+  metaproperty: METAPROP_000004
+  property: PROP_000014
+  relation: null
 METAPROP_000005:
   citation: []
   commutative_only: false

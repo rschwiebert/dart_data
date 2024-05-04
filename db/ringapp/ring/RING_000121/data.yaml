@@ -10,6 +10,6 @@ keywords:
 - KWD_000003
 - KWD_000033
 krull_dim: (unknown)
-name: Simple, connected, Noetherian ring with zero divisors
+name: Simple, Noetherian ring with zero divisors and trivial idempotents
 notes: null
 optional_template: ''

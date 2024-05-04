@@ -6,3 +6,10 @@ SUBSET_000005:
   ring: RING_000078
   subset: $\{0\}$
   subset_type: SUBSET_000005
+SUBSET_000006:
+  citation: []
+  crosstable_pk: 797
+  reason: null
+  ring: RING_000078
+  subset: $\begin{bmatrix}0&S\\0&0\end{bmatrix}$
+  subset_type: SUBSET_000006

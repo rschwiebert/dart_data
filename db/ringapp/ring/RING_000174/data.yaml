@@ -1,0 +1,12 @@
+citation: []
+description: The collection of row-and-column finite matrices over $\mathbb Q$ indexed
+  by $\omega$. That is, each column and each row only has finitely many nonzero entries
+  in it.
+is_commutative: false
+keywords:
+- KWD_000008
+- KWD_000007
+krull_dim: (unknown)
+name: $RCFM_\omega(\mathbb Q)$
+notes: null
+optional_template: ''

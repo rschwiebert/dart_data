@@ -1,0 +1,20 @@
+DIM_000001:
+  citation: []
+  crosstable_pk: 429
+  dimension_type: DIM_000001
+  left_dimension: '0'
+  reason_left: 'Logic (rings) 544: has Krull dimension (classical) 0 <=== ring is
+    Artinian on the left or right'
+  reason_right: 'Logic (rings) 544: has Krull dimension (classical) 0 <=== ring is
+    Artinian on the left or right'
+  right_dimension: '0'
+  ring: RING_000170
+DIM_000003:
+  citation: []
+  crosstable_pk: 431
+  dimension_type: DIM_000003
+  left_dimension: '16'
+  reason_left: null
+  reason_right: null
+  right_dimension: '16'
+  ring: RING_000170

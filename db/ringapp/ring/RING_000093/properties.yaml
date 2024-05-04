@@ -243,6 +243,17 @@ PROP_000032:
   reason_left: 'Logic 180: semicommutative  (SI condition, zero-insertive) ===> Abelian'
   reason_right: 'Logic 180: semicommutative  (SI condition, zero-insertive) ===> Abelian'
   ring: RING_000093
+PROP_000033:
+  citation_left: []
+  citation_right: []
+  crosstable_pk: 26849
+  has_on_left: false
+  has_on_right: false
+  property: PROP_000033
+  reason_left: 'relationlogic.dl: ring=93 lacks property=33 because ring=173 lacks
+    property=33 and is SUBRING_OF ring=93'
+  reason_right: symmetry with left side
+  ring: RING_000093
 PROP_000034:
   citation_left: []
   citation_right: []

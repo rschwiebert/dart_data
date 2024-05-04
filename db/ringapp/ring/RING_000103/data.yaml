@@ -1,7 +1,9 @@
 citation:
 - CITE_000233
-description: The construction (to be elaborated later) is of a semigroup ring $R=k[M]$
-  for a special monoid $M$.
+description: Let $L$ be the commutative semigroup with underlying set $\Bbb Q\times
+  \Bbb N^{>0}$, where $(x,m)(y,n) = (x,m)$ when $x < y$, and $(x, m+n)$ if $x=y$.
+  Adjoin a neutral element to $L$ and denote the resulting monoid by $M$. Then the
+  ring is $R = \Bbb Q[M]$.
 is_commutative: true
 keywords:
 - KWD_000010

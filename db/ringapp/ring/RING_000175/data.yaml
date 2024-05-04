@@ -1,0 +1,10 @@
+citation: []
+description: $R=\mathbb Q[x,x^{-1}]$, or in other words, $\mathbb Q[x]$ localized
+  at the set of powers of $x$
+is_commutative: true
+keywords:
+- KWD_000014
+krull_dim: (unknown)
+name: '$\mathbb Q[x,x^{-1}]$: Laurent polynomials'
+notes: null
+optional_template: ''

@@ -130,6 +130,28 @@ PROP_000015:
   reason_left: 'Logic 142: semi free ideal ring ===> domain'
   reason_right: 'Logic 142: semi free ideal ring ===> domain'
   ring: RING_000112
+PROP_000016:
+  citation_left: []
+  citation_right: []
+  crosstable_pk: 26952
+  has_on_left: false
+  has_on_right: false
+  property: PROP_000016
+  reason_left: 'relationlogic.dl: ring=112 lacks property=16 because ring=7 lacks
+    property=16 and is IMAGE_OF ring=112'
+  reason_right: symmetry with left side
+  ring: RING_000112
+PROP_000017:
+  citation_left: []
+  citation_right: []
+  crosstable_pk: 26953
+  has_on_left: false
+  has_on_right: false
+  property: PROP_000017
+  reason_left: 'relationlogic.dl: ring=112 lacks property=17 because ring=7 lacks
+    property=17 and is IMAGE_OF ring=112'
+  reason_right: symmetry with left side
+  ring: RING_000112
 PROP_000018:
   citation_left: []
   citation_right: []
@@ -564,6 +586,18 @@ PROP_000072:
   reason_left: 'Logic 462: Rickart on the right and strongly connected <==> domain'
   reason_right: 'Logic 462: Rickart on the right and strongly connected <==> domain'
   ring: RING_000112
+PROP_000075:
+  citation_left: []
+  citation_right: []
+  crosstable_pk: 26954
+  has_on_left: false
+  has_on_right: false
+  property: PROP_000075
+  reason_left: 'relationlogic.dl: ring=112 lacks property=75 on the left because ring=7
+    lacks property=75 on the left and is IMAGE_OF ring=112'
+  reason_right: 'relationlogic.dl: ring=112 lacks property=75 on the right because
+    ring=7 lacks property=75 on the right and is IMAGE_OF ring=112'
+  ring: RING_000112
 PROP_000076:
   citation_left: []
   citation_right: []
@@ -922,6 +956,18 @@ PROP_000147:
     V ring on the right and hereditary on the left and right'
   reason_right: 'Logic 382: PCI ring on the right ===> Noetherian on the right and
     V ring on the right and hereditary on the left and right'
+  ring: RING_000112
+PROP_000148:
+  citation_left: []
+  citation_right: []
+  crosstable_pk: 26955
+  has_on_left: false
+  has_on_right: false
+  property: PROP_000148
+  reason_left: 'relationlogic.dl: ring=112 lacks property=148 on the left because
+    ring=7 lacks property=148 on the left and is IMAGE_OF ring=112'
+  reason_right: 'relationlogic.dl: ring=112 lacks property=148 on the right because
+    ring=7 lacks property=148 on the right and is IMAGE_OF ring=112'
   ring: RING_000112
 PROP_000149:
   citation_left: []

@@ -11,19 +11,19 @@ DIM_000002:
   citation: []
   crosstable_pk: 226
   dimension_type: DIM_000002
-  left_dimension: '3'
+  left_dimension: $n(n+1)/2$
   reason_left: null
   reason_right: null
-  right_dimension: '3'
+  right_dimension: $n(n+1)/2$
   ring: RING_000016
 DIM_000003:
   citation: []
   crosstable_pk: 85
   dimension_type: DIM_000003
-  left_dimension: '8'
+  left_dimension: $2^{n(n+1)/2}$
   reason_left: null
   reason_right: null
-  right_dimension: '8'
+  right_dimension: $2^{n(n+1)/2}$
   ring: RING_000016
 DIM_000004:
   citation: []

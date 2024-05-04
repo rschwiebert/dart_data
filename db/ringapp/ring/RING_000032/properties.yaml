@@ -1199,6 +1199,17 @@ PROP_000130:
   reason_left: 'Logic 286: Krull domain ===> Mori domain'
   reason_right: 'Logic 286: Krull domain ===> Mori domain'
   ring: RING_000032
+PROP_000131:
+  citation_left: []
+  citation_right: []
+  crosstable_pk: 26992
+  has_on_left: true
+  has_on_right: true
+  property: PROP_000131
+  reason_left: 'relationlogic.dl: ring=32 has property=131 because it is IMAGE_OF
+    ring=6 which has property=131'
+  reason_right: symmetry with left side
+  ring: RING_000032
 PROP_000137:
   citation_left: []
   citation_right: []

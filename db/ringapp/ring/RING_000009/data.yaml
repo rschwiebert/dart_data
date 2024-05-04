@@ -1,10 +1,10 @@
 citation: []
-description: Quotient ring of the integers (1) by an ideal $(n)$ where $n$ is a squarefree
-  number divisible by two primes.
+description: Quotient ring of the integers $\mathbb Z$ by an ideal $(n)$ where $n$
+  is a squarefree number divisible by two primes.
 is_commutative: true
 keywords:
 - KWD_000003
 krull_dim: '0'
 name: $\mathbb Z/(n)$, $n$ squarefree and not prime.
-notes: ''
+notes: null
 optional_template: ''

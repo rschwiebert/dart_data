@@ -636,12 +636,24 @@ PROP_000066:
   citation_left: []
   citation_right: []
   crosstable_pk: 5606
-  has_on_left: null
+  has_on_left: false
   has_on_right: false
   property: PROP_000066
-  reason_left: null
+  reason_left: 'relationlogic.dl: ring=22 lacks property=66 on the left because ring=6
+    lacks property=66 on the left and is IMAGE_OF ring=22'
   reason_right: 'Logic 49: principal ideal ring on the right <==> Bezout on the right
     and Noetherian on the right'
+  ring: RING_000022
+PROP_000067:
+  citation_left: []
+  citation_right: []
+  crosstable_pk: 27002
+  has_on_left: false
+  has_on_right: null
+  property: PROP_000067
+  reason_left: 'Logic (rings) 49: \(NOT "Bezout" on the left\) <=== \(NOT "principal
+    ideal ring" on the left\) AND \( "Noetherian" on the left\).'
+  reason_right: null
   ring: RING_000022
 PROP_000068:
   citation_left: []
@@ -953,11 +965,12 @@ PROP_000104:
   citation_right: []
   crosstable_pk: 5637
   has_on_left: false
-  has_on_right: null
+  has_on_right: false
   property: PROP_000104
   reason_left: 'Logic 224: distributive on the right and nonsingular on the right
     ===> reduced'
-  reason_right: null
+  reason_right: 'relationlogic.dl: ring=22 lacks property=104 on the right because
+    ring=6 lacks property=104 on the right and is IMAGE_OF ring=22'
   ring: RING_000022
 PROP_000105:
   citation_left: []
@@ -1300,6 +1313,18 @@ PROP_000147:
     and Noetherian on the right and V ring on the right'
   reason_right: 'Logic 382: PCI ring on the right ===> hereditary on the left and
     right and Noetherian on the right and V ring on the right'
+  ring: RING_000022
+PROP_000148:
+  citation_left: []
+  citation_right: []
+  crosstable_pk: 26991
+  has_on_left: false
+  has_on_right: false
+  property: PROP_000148
+  reason_left: 'relationlogic.dl: ring=22 lacks property=148 on the left because ring=6
+    lacks property=148 on the left and is IMAGE_OF ring=22'
+  reason_right: 'relationlogic.dl: ring=22 lacks property=148 on the right because
+    ring=6 lacks property=148 on the right and is IMAGE_OF ring=22'
   ring: RING_000022
 PROP_000149:
   citation_left: []

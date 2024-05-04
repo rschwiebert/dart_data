@@ -1,7 +1,25 @@
+METAPROP_000001:
+  citation: []
+  commutative_only: false
+  crosstable_pk: 681
+  example: null
+  has_metaproperty: true
+  metaproperty: METAPROP_000001
+  property: PROP_000070
+  relation: null
+METAPROP_000002:
+  citation: []
+  commutative_only: false
+  crosstable_pk: 693
+  example: null
+  has_metaproperty: true
+  metaproperty: METAPROP_000002
+  property: PROP_000070
+  relation: null
 METAPROP_000003:
   citation: []
   commutative_only: false
-  crosstable_pk: 549
+  crosstable_pk: 571
   example: null
   has_metaproperty: false
   metaproperty: METAPROP_000003
@@ -10,9 +28,18 @@ METAPROP_000003:
 METAPROP_000004:
   citation: []
   commutative_only: false
-  crosstable_pk: 607
+  crosstable_pk: 534
   example: null
   has_metaproperty: false
   metaproperty: METAPROP_000004
   property: PROP_000070
-  relation: 109
+  relation: 3
+METAPROP_000008:
+  citation: []
+  commutative_only: false
+  crosstable_pk: 701
+  example: null
+  has_metaproperty: true
+  metaproperty: METAPROP_000008
+  property: PROP_000070
+  relation: null

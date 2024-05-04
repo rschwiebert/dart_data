@@ -60,6 +60,18 @@ PROP_000006:
   reason_left: 'Logic 189: semisimple <==> semilocal and semiprimitive'
   reason_right: 'Logic 189: semisimple <==> semilocal and semiprimitive'
   ring: RING_000125
+PROP_000007:
+  citation_left: []
+  citation_right: []
+  crosstable_pk: 26920
+  has_on_left: false
+  has_on_right: false
+  property: PROP_000007
+  reason_left: 'Logic (rings) 62: \(NOT "Baer" \) <=== \(NOT "Rickart" on the left
+    and right\).'
+  reason_right: 'Logic (rings) 62: \(NOT "Baer" \) <=== \(NOT "Rickart" on the left
+    and right\).'
+  ring: RING_000125
 PROP_000008:
   citation_left: []
   citation_right: []
@@ -198,6 +210,17 @@ PROP_000022:
   reason_left: 'Logic 153: T-nilpotent radical on the left or right ===> nil radical'
   reason_right: 'Logic 153: T-nilpotent radical on the left or right ===> nil radical'
   ring: RING_000125
+PROP_000023:
+  citation_left: []
+  citation_right: []
+  crosstable_pk: 26917
+  has_on_left: true
+  has_on_right: true
+  property: PROP_000023
+  reason_left: 'relationlogic.dl: ring=125 has property=23 because it is IMAGE_OF
+    ring=44 which has property=23'
+  reason_right: symmetry with left side
+  ring: RING_000125
 PROP_000024:
   citation_left: []
   citation_right: []
@@ -250,6 +273,28 @@ PROP_000028:
   reason_left: 'Logic 175: primary <==> semiprimary and top simple'
   reason_right: 'Logic 175: primary <==> semiprimary and top simple'
   ring: RING_000125
+PROP_000029:
+  citation_left: []
+  citation_right: []
+  crosstable_pk: 26926
+  has_on_left: true
+  has_on_right: true
+  property: PROP_000029
+  reason_left: 'Logic (rings) 205: \( "top simple" \) <=== \( "top simple Artinian"
+    \).'
+  reason_right: 'Logic (rings) 205: \( "top simple" \) <=== \( "top simple Artinian"
+    \).'
+  ring: RING_000125
+PROP_000030:
+  citation_left: []
+  citation_right: []
+  crosstable_pk: 26927
+  has_on_left: true
+  has_on_right: true
+  property: PROP_000030
+  reason_left: 'Logic (rings) 95: \( "top simple Artinian" \) <=== \( "local" \).'
+  reason_right: 'Logic (rings) 95: \( "top simple Artinian" \) <=== \( "local" \).'
+  ring: RING_000125
 PROP_000031:
   citation_left: []
   citation_right: []
@@ -259,6 +304,40 @@ PROP_000031:
   property: PROP_000031
   reason_left: 'Logic 100: semilocal ===> top regular'
   reason_right: 'Logic 100: semilocal ===> top regular'
+  ring: RING_000125
+PROP_000033:
+  citation_left: []
+  citation_right: []
+  crosstable_pk: 26928
+  has_on_left: true
+  has_on_right: true
+  property: PROP_000033
+  reason_left: 'Logic (rings) 568: \( "NI ring" \) <=== \( "local" \) AND \( "nil
+    radical" \).'
+  reason_right: 'Logic (rings) 568: \( "NI ring" \) <=== \( "local" \) AND \( "nil
+    radical" \).'
+  ring: RING_000125
+PROP_000037:
+  citation_left: []
+  citation_right: []
+  crosstable_pk: 26929
+  has_on_left: true
+  has_on_right: true
+  property: PROP_000037
+  reason_left: 'Logic (rings) 380: \( "strongly connected" \) <=== \( "local" \).'
+  reason_right: 'Logic (rings) 380: \( "strongly connected" \) <=== \( "local" \).'
+  ring: RING_000125
+PROP_000038:
+  citation_left: []
+  citation_right: []
+  crosstable_pk: 26930
+  has_on_left: true
+  has_on_right: true
+  property: PROP_000038
+  reason_left: 'Logic (rings) 149: \( "directly irreducible" \) <=== \( "strongly
+    connected" \).'
+  reason_right: 'Logic (rings) 149: \( "directly irreducible" \) <=== \( "strongly
+    connected" \).'
   ring: RING_000125
 PROP_000039:
   citation_left: []
@@ -271,6 +350,16 @@ PROP_000039:
     finite and $\pi$-regular'
   reason_right: 'Logic 390: perfect on the right <==> max ring on the right and orthogonally
     finite and $\pi$-regular'
+  ring: RING_000125
+PROP_000040:
+  citation_left: []
+  citation_right: []
+  crosstable_pk: 26931
+  has_on_left: true
+  has_on_right: true
+  property: PROP_000040
+  reason_left: 'Logic (rings) 149: \( "Abelian" \) <=== \( "strongly connected" \).'
+  reason_right: 'Logic (rings) 149: \( "Abelian" \) <=== \( "strongly connected" \).'
   ring: RING_000125
 PROP_000041:
   citation_left: []
@@ -533,11 +622,12 @@ PROP_000067:
   citation_right: []
   crosstable_pk: 16661
   has_on_left: false
-  has_on_right: null
+  has_on_right: false
   property: PROP_000067
   reason_left: 'Logic 221: principal ideal ring on the right <==> ACC principal on
     the right and Bezout on the right'
-  reason_right: null
+  reason_right: 'Logic (rings) 227: \(NOT "Bezout" on the right\) <=== \(NOT "distributive"
+    on the right\) AND \( "quasi-duo" on the right\).'
   ring: RING_000125
 PROP_000068:
   citation_left: []
@@ -562,6 +652,42 @@ PROP_000069:
     dimension on the right'
   reason_right: 'Logic 273: Ore domain on the right <==> domain and finite uniform
     dimension on the right'
+  ring: RING_000125
+PROP_000070:
+  citation_left: []
+  citation_right: []
+  crosstable_pk: 26921
+  has_on_left: false
+  has_on_right: false
+  property: PROP_000070
+  reason_left: 'Logic (rings) 58: \(NOT "hereditary" on the left\) <=== \(NOT "semihereditary"
+    on the left\).'
+  reason_right: 'Logic (rings) 58: \(NOT "hereditary" on the right\) <=== \(NOT "semihereditary"
+    on the right\).'
+  ring: RING_000125
+PROP_000071:
+  citation_left: []
+  citation_right: []
+  crosstable_pk: 26922
+  has_on_left: false
+  has_on_right: false
+  property: PROP_000071
+  reason_left: 'Logic (rings) 59: \(NOT "semihereditary" on the left\) <=== \(NOT
+    "Rickart" on the left\).'
+  reason_right: 'Logic (rings) 59: \(NOT "semihereditary" on the right\) <=== \(NOT
+    "Rickart" on the right\).'
+  ring: RING_000125
+PROP_000072:
+  citation_left: []
+  citation_right: []
+  crosstable_pk: 26923
+  has_on_left: false
+  has_on_right: false
+  property: PROP_000072
+  reason_left: 'Logic (rings) 462: \(NOT "Rickart" on the left\) <=== \(NOT "domain"
+    \) AND \( "strongly connected" \).'
+  reason_right: 'Logic (rings) 462: \(NOT "Rickart" on the right\) <=== \(NOT "domain"
+    \) AND \( "strongly connected" \).'
   ring: RING_000125
 PROP_000074:
   citation_left: []
@@ -592,6 +718,18 @@ PROP_000076:
   property: PROP_000076
   reason_left: 'Logic 74: uniserial ring on the right ===> distributive on the right'
   reason_right: 'Logic 74: uniserial ring on the right ===> distributive on the right'
+  ring: RING_000125
+PROP_000077:
+  citation_left: []
+  citation_right: []
+  crosstable_pk: 26924
+  has_on_left: false
+  has_on_right: false
+  property: PROP_000077
+  reason_left: 'Logic (rings) 71: \(NOT "serial" on the left\) <=== \(NOT "uniserial
+    ring" on the left\) AND \( "local" \).'
+  reason_right: 'Logic (rings) 71: \(NOT "serial" on the right\) <=== \(NOT "uniserial
+    ring" on the right\) AND \( "local" \).'
   ring: RING_000125
 PROP_000078:
   citation_left: []
@@ -627,6 +765,17 @@ PROP_000080:
   property: PROP_000080
   reason_left: 'Logic 91: self-injective on the right ===> FI-injective on the right'
   reason_right: It's countable but not Artinian
+  ring: RING_000125
+PROP_000081:
+  citation_left: []
+  citation_right: []
+  crosstable_pk: 26933
+  has_on_left: true
+  has_on_right: null
+  property: PROP_000081
+  reason_left: 'Logic (rings) 252: \( "Kasch" on the left\) <=== \( "local" \) AND
+    \( "nonzero socle" on the left\).'
+  reason_right: null
   ring: RING_000125
 PROP_000082:
   citation_left:
@@ -685,6 +834,18 @@ PROP_000094:
   reason_right: 'Logic (rings) 478: \( "Ore ring" on the right\) <=== \( "cohopfian"
     on the right\).'
   ring: RING_000125
+PROP_000096:
+  citation_left: []
+  citation_right: []
+  crosstable_pk: 26918
+  has_on_left: true
+  has_on_right: true
+  property: PROP_000096
+  reason_left: 'relationlogic.dl: ring=125 has property=96 on the left because it
+    is IMAGE_OF ring=44 which has property=96'
+  reason_right: 'relationlogic.dl: ring=125 has property=96 on the right because it
+    is IMAGE_OF ring=44 which has property=96'
+  ring: RING_000125
 PROP_000097:
   citation_left: []
   citation_right: []
@@ -717,6 +878,18 @@ PROP_000101:
   property: PROP_000101
   reason_left: 'Logic 163: perfect on the right ===> essential socle on the left'
   reason_right: null
+  ring: RING_000125
+PROP_000102:
+  citation_left: []
+  citation_right: []
+  crosstable_pk: 26925
+  has_on_left: false
+  has_on_right: false
+  property: PROP_000102
+  reason_left: 'Logic (rings) 247: \(NOT "cogenerator ring" on the left\) <=== \(NOT
+    "self-injective" on the left\) AND \( "strongly connected" \).'
+  reason_right: 'Logic (rings) 87: \(NOT "cogenerator ring" on the right\) <=== \(NOT
+    "pseudo-Frobenius" on the right\) AND \( "Kasch" on the left\).'
   ring: RING_000125
 PROP_000104:
   citation_left: []
@@ -969,6 +1142,16 @@ PROP_000140:
   reason_right: 'Logic 348: Nagata <==> Noetherian on the left and right and universally
     Japanese'
   ring: RING_000125
+PROP_000144:
+  citation_left: []
+  citation_right: []
+  crosstable_pk: 26932
+  has_on_left: true
+  has_on_right: true
+  property: PROP_000144
+  reason_left: 'Logic (rings) 370: \( "compressible" \) <=== \( "Abelian" \).'
+  reason_right: 'Logic (rings) 370: \( "compressible" \) <=== \( "Abelian" \).'
+  ring: RING_000125
 PROP_000145:
   citation_left: []
   citation_right: []
@@ -1010,6 +1193,17 @@ PROP_000148:
   property: PROP_000148
   reason_left: 'Logic 389: perfect on the right <==> max ring on the right and semilocal'
   reason_right: 'Logic 389: perfect on the right <==> max ring on the right and semilocal'
+  ring: RING_000125
+PROP_000149:
+  citation_left: []
+  citation_right: []
+  crosstable_pk: 26919
+  has_on_left: true
+  has_on_right: true
+  property: PROP_000149
+  reason_left: 'relationlogic.dl: ring=125 has property=149 because it is IMAGE_OF
+    ring=44 which has property=149'
+  reason_right: symmetry with left side
   ring: RING_000125
 PROP_000151:
   citation_left: []

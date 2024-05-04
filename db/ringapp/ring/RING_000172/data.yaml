@@ -1,0 +1,11 @@
+citation:
+- CITE_000591
+description: Using $M$ from the construction of <a href="/rings/ring/171">$S=R_{171}$</a>,
+  the required ring is  $R=\mathrm{End}(M_S\oplus S_S)$.
+is_commutative: false
+keywords:
+- KWD_000023
+krull_dim: (unknown)
+name: Bergman's ring with IBN
+notes: null
+optional_template: ''
