@@ -703,3 +703,48 @@ RINGRELATION_000141:
   note: ''
   relation_type: SUBRING_OF
   second: RING_000176
+RINGRELATION_000142:
+  first: RING_000064
+  note: Identify the elements as certain upper triangular Toeplitz matrices
+  relation_type: SUBRING_OF
+  second: RING_000176
+RINGRELATION_000143:
+  first: RING_000095
+  note: ''
+  relation_type: SUBRING_OF
+  second: RING_000177
+RINGRELATION_000144:
+  first: RING_000177
+  note: ''
+  relation_type: SUBRING_OF
+  second: RING_000104
+RINGRELATION_000145:
+  first: RING_000177
+  note: The subset of diagonal matrices
+  relation_type: SUBRING_OF
+  second: RING_000176
+RINGRELATION_000146:
+  first: RING_000177
+  note: Subset of diagonal matrices
+  relation_type: SUBRING_OF
+  second: RING_000174
+RINGRELATION_000147:
+  first: RING_000096
+  note: ''
+  relation_type: SUBRING_OF
+  second: RING_000095
+RINGRELATION_000148:
+  first: RING_000168
+  note: ''
+  relation_type: SUBRING_OF
+  second: RING_000096
+RINGRELATION_000149:
+  first: RING_000177
+  note: Quotient by the ideal of the strictly upper triangular matrices
+  relation_type: IMAGE_OF
+  second: RING_000176
+RINGRELATION_000150:
+  first: RING_000177
+  note: ''
+  relation_type: IMAGE_OF
+  second: RING_000104

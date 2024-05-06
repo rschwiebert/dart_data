@@ -1,0 +1,9 @@
+citation: []
+description: The product ring of countably many copies of $\mathbb Q$
+is_commutative: true
+keywords:
+- KWD_000011
+krull_dim: (unknown)
+name: $\prod_{i=0}^\infty \mathbb Q$
+notes: null
+optional_template: ''

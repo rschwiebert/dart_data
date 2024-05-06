@@ -46,8 +46,11 @@ digraph G {
   77 -> 6;
   167 -> 166;
   34 -> 6;
+  85 -> 151; // 2-adic field quotient of adeles of Q?
   32 -> 6;
+  177 -> 176;
 
+  177 -> 104;
 
   // PROPOSED
   1 -> 36;
@@ -60,7 +63,6 @@ digraph G {
   7 -> 98;
   2 -> 173;
   3 -> 151; // reals quotient of adeles of Q?
-  85 -> 151; // 2-adic field quotient of adeles of Q?
   102 -> 25;
   102 -> 157;
   102 -> 23;
@@ -106,7 +108,6 @@ digraph G {
 
   121 -> "F_2<x0,x1,...,xn>";//specialize 121 to F_2
   2 -> 143;
-  "\Prod Q" -> 176;
   102 -> 46;
   1 -> 96;
   2 -> 96;
