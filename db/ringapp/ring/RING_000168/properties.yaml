@@ -78,6 +78,27 @@ PROP_000009:
   reason_right: 'Logic (rings) 182: \(NOT "prime" \) <=== \(NOT "Ore domain" on the
     left and right\) AND \( "commutative" \).'
   ring: RING_000168
+PROP_000010:
+  citation_left: []
+  citation_right: []
+  crosstable_pk: 27306
+  has_on_left: true
+  has_on_right: true
+  property: PROP_000010
+  reason_left: 'relationlogic.dl: ring=168 has property=10 because it is SUBRING_OF
+    ring=95 which has property=10'
+  reason_right: symmetry with left side
+  ring: RING_000168
+PROP_000011:
+  citation_left: []
+  citation_right: []
+  crosstable_pk: 27346
+  has_on_left: true
+  has_on_right: true
+  property: PROP_000011
+  reason_left: 'Logic (rings) 42: \( "semiprime" \) <=== \( "reduced" \).'
+  reason_right: 'Logic (rings) 42: \( "semiprime" \) <=== \( "reduced" \).'
+  ring: RING_000168
 PROP_000012:
   citation_left: []
   citation_right: []
@@ -462,6 +483,16 @@ PROP_000069:
   reason_right: 'Logic (rings) 273: \(NOT "Ore domain" on the right\) <=== \(NOT "finite
     uniform dimension" on the right\).'
   ring: RING_000168
+PROP_000073:
+  citation_left: []
+  citation_right: []
+  crosstable_pk: 27347
+  has_on_left: true
+  has_on_right: true
+  property: PROP_000073
+  reason_left: 'Logic (rings) logical AND: ring_deduced("has",2,Y) <=== ring_deduced("has",1,Y).'
+  reason_right: 'Logic (rings) logical AND: ring_deduced("has",3,Y) <=== ring_deduced("has",1,Y).'
+  ring: RING_000168
 PROP_000074:
   citation_left: []
   citation_right: []
@@ -507,6 +538,18 @@ PROP_000078:
     "finitely cogenerated" on the left\).'
   reason_right: 'Logic (rings) 83: \(NOT "pseudo-Frobenius" on the right\) <=== \(NOT
     "finitely cogenerated" on the right\).'
+  ring: RING_000168
+PROP_000080:
+  citation_left: []
+  citation_right: []
+  crosstable_pk: 27345
+  has_on_left: false
+  has_on_right: false
+  property: PROP_000080
+  reason_left: 'Logic (rings) 276: \(NOT "self-injective" on the left\) <=== \(NOT
+    "strongly regular" \) AND \( "reduced" \).'
+  reason_right: 'Logic (rings) 276: \(NOT "self-injective" on the right\) <=== \(NOT
+    "strongly regular" \) AND \( "reduced" \).'
   ring: RING_000168
 PROP_000084:
   citation_left: []
@@ -926,6 +969,17 @@ PROP_000154:
   reason_right: 'Logic (rings) 425: \(NOT "uniserial domain" on the right\) <=== \(NOT
     "uniserial ring" on the right\).'
   ring: RING_000168
+PROP_000155:
+  citation_left: []
+  citation_right: []
+  crosstable_pk: 27307
+  has_on_left: true
+  has_on_right: true
+  property: PROP_000155
+  reason_left: 'relationlogic.dl: ring=168 has property=155 because it is SUBRING_OF
+    ring=95 which has property=155'
+  reason_right: symmetry with left side
+  ring: RING_000168
 PROP_000156:
   citation_left: []
   citation_right: []
@@ -1109,4 +1163,14 @@ PROP_000173:
     ring" on the left or right\).'
   reason_right: 'Logic (rings) 525: \(NOT "valuation ring" \) <=== \(NOT "uniserial
     ring" on the left or right\).'
+  ring: RING_000168
+PROP_000175:
+  citation_left: []
+  citation_right: []
+  crosstable_pk: 27344
+  has_on_left: false
+  has_on_right: false
+  property: PROP_000175
+  reason_left: 'Logic (rings) 541: \(NOT "?-ring" \) <=== \( "reduced" \).'
+  reason_right: 'Logic (rings) 541: \(NOT "?-ring" \) <=== \( "reduced" \).'
   ring: RING_000168

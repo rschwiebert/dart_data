@@ -1,0 +1,22 @@
+DIM_000001:
+  citation: []
+  crosstable_pk: 434
+  dimension_type: DIM_000001
+  left_dimension: '0'
+  reason_left: 'Logic (rings) 548: has Krull dimension (classical) 0 <=== ring is
+    $\pi$-regular AND ring is commutative'
+  reason_right: 'Logic (rings) 548: has Krull dimension (classical) 0 <=== ring is
+    $\pi$-regular AND ring is commutative'
+  right_dimension: '0'
+  ring: RING_000177
+DIM_000005:
+  citation: []
+  crosstable_pk: 435
+  dimension_type: DIM_000005
+  left_dimension: '0'
+  reason_left: 'Logic (rings) 481: has weak global dimension 0 <=== ring is von Neumann
+    regular'
+  reason_right: 'Logic (rings) 481: has weak global dimension 0 <=== ring is von Neumann
+    regular'
+  right_dimension: '0'
+  ring: RING_000177

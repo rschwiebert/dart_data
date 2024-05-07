@@ -141,7 +141,10 @@ digraph G {
   100 -> 174;
   35 -> 174;
   33 -> 18;
-  7-> 176;
+//   7 -> 176;
+  64 -> 176;
+  177 -> 104;
+  95 -> 177;
 
 
   // Proposed
@@ -202,8 +205,7 @@ digraph G {
 
 
   87 -> "T_n(H)";
-  95 -> "\Prod Q";
-  "\Prod Q" -> 104;
+
   // 130 embeds in the product ring C^[0,1]
 
   // not sure if 69 -> 160 when specialized to p=2
@@ -212,5 +214,11 @@ digraph G {
     // 81 -> 80;  ????? Don't recall this one: not sure where it came from
 
 
+  177 -> 176;
+  177 -> 174;
+//   168 -> 177;
+//   168 -> 95;
+  96 -> 95;
+  168 -> 96;
 
 }

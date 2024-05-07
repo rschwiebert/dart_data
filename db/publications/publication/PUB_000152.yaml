@@ -11,12 +11,12 @@ isbn: ''
 journal: Journal of the London Mathematical Society
 keywords: ''
 lists: []
-month: 0
+month: null
 note: ''
 number: 1
 pages: ''
 pdf: ''
-publisher: Narnia
+publisher: Oxford University Press
 thumbnail: ''
 title: Hereditary group rings
 type: PUBTYPE_000001
