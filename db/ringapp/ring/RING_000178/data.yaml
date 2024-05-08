@@ -1,0 +1,11 @@
+citation:
+- CITE_000605
+- CITE_000604
+description: See the <a href="expanded-details">expanded details page</a>.
+is_commutative: true
+keywords:
+- KWD_000073
+krull_dim: (unknown)
+name: 2-truncated Witt vectors over $\Bbb F_2((t))$
+notes: null
+optional_template: ''
