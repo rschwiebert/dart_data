@@ -1,11 +1,16 @@
 citation:
 - CITE_000554
-description: See the <a href="expanded-details">expanded details page</a>.  It is
-  given as an example of a torch ring that is not a split null extension.
+description: 'Let $W = $ <a href="/rings/ring/178/">$R_{178}$</a>. The field $F$ contains
+  two maximal (linearly compact) valuation domains $V_1$ and $V_2$ with fields of
+  fractions equal to $F$ and $V_1 + V_2 = F$. Let $S = V_1 \cap V_2$, and $M_i$ be
+  the maximal ideals of $V_i$.  Set $T = \{ (x,y) \in W: x \in S\}$ and $I = \{ (0,y)
+  \in W: y \in M_1\}$; then $I$ is an ideal of $T$. The ring is $T/I$.'
 is_commutative: true
 keywords:
+- KWD_000003
 - KWD_000073
+- KWD_000007
 krull_dim: null
 name: Facchini's torch ring
-notes: Has characteristic $p^2$.
+notes: It is given as an example of a torch ring that is not a split null extension.
 optional_template: ''
