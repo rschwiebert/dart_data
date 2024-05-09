@@ -748,3 +748,13 @@ RINGRELATION_000150:
   note: ''
   relation_type: IMAGE_OF
   second: RING_000104
+RINGRELATION_000151:
+  first: RING_000128
+  note: ''
+  relation_type: SUBRING_OF
+  second: RING_000084
+RINGRELATION_000152:
+  first: RING_000128
+  note: ''
+  relation_type: IMAGE_OF
+  second: RING_000167

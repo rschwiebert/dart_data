@@ -1119,6 +1119,17 @@ PROP_000136:
   reason_right: 'Logic (rings) 357: \(NOT "excellent" \) <=== \(NOT "quasi-excellent"
     \).'
   ring: RING_000166
+PROP_000139:
+  citation_left: []
+  citation_right: []
+  crosstable_pk: 27581
+  has_on_left: false
+  has_on_right: false
+  property: PROP_000139
+  reason_left: 'relationlogic.dl: ring=166 lacks property=139 because ring=128 lacks
+    property=139 and is IMAGE_OF ring=166'
+  reason_right: symmetry with left side
+  ring: RING_000166
 PROP_000140:
   citation_left: []
   citation_right: []
