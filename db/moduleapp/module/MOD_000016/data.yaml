@@ -1,8 +1,8 @@
 citation: []
-description: "$M=\\bigoplus_{i\\in\\mathbb N} \\mathbb Z$, the countably infinite\
-  \ direct sum of copies of $\\mathbb Z$ as a $\\mathbb Z$ module.   (The Pr\xFCfer\
-  \ p-groups are non-semi-noetherian quotients of this group.)"
-name: $\bigoplus_{i\in\mathbb N} \mathbb Z$
+description: "$M=\\bigoplus_{i=1}^\\infty \\mathbb Z$, the countably infinite direct\
+  \ sum of copies of $\\mathbb Z$ as a $\\mathbb Z$ module.   (The Pr\xFCfer p-groups\
+  \ are non-semi-noetherian quotients of this group.)"
+name: $\bigoplus_{i=1}^\infty \mathbb Z$
 notes: null
 opposite_ring: false
 ring: 1

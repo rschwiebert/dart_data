@@ -310,3 +310,17 @@ MODPROP_000057:
   property: MODPROP_000057
   reason: 'Logic (modules) 164: module("lacks" ''strongly semi-Noetherian'') <===
     module("lacks" ''Bass module'').'
+MODPROP_000058:
+  citation: []
+  crosstable_pk: 1159
+  has: false
+  module: MOD_000014
+  property: MODPROP_000058
+  reason: $\mathbb Q\times \{0\}$ is a nonzero summand, therefore not superfluous.
+MODPROP_000059:
+  citation: []
+  crosstable_pk: 1158
+  has: false
+  module: MOD_000014
+  property: MODPROP_000059
+  reason: Radical is $\mathbb Q\times \{0\}$

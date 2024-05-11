@@ -1,0 +1,6 @@
+citation: []
+description: Direct sum of countably many copies of $\mathbb Z_{(2)}=$<a href="/rings/ring/69/">$R_{69}$</a>
+name: $\bigoplus_{i=1}^\infty \mathbb Z_{(2)}$
+notes: null
+opposite_ring: false
+ring: 69

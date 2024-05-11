@@ -372,3 +372,25 @@ MODPROP_000057:
   module: MOD_000016
   property: MODPROP_000057
   reason: $\mathbb Z_{p^\infty}$ is a quotient, and is not semi-Noetherian
+MODPROP_000058:
+  citation: []
+  crosstable_pk: 1161
+  has: true
+  module: MOD_000016
+  property: MODPROP_000058
+  reason: Because it is Jacobson semisimple
+MODPROP_000059:
+  citation: []
+  crosstable_pk: 1157
+  has: true
+  module: MOD_000016
+  property: MODPROP_000059
+  reason: null
+MODPROP_000062:
+  citation: []
+  crosstable_pk: 1160
+  has: false
+  module: MOD_000016
+  property: MODPROP_000062
+  reason: 'Logic (modules) 189: module("lacks" ''top semisimple'') <=== module("lacks"
+    ''semisimple'') AND module("has" ''Jacobson semisimple'').'

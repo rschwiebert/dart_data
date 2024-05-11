@@ -1,7 +1,7 @@
 citation: []
-description: $ \mathbb Q^n$ as a right $M_n( \mathbb Q$ module, using the natural
-  matrix multiplication action. ($k>1$)
-name: $ \mathbb Q^n$
+description: $\mathbb Q^n$ as a right $M_n( \mathbb Q$ module, using the natural matrix
+  multiplication action. ($k>1$)
+name: $\mathbb Q^n$
 notes: null
 opposite_ring: false
 ring: 12
