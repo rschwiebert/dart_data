@@ -1,5 +1,5 @@
 strict digraph {
-    label=<Commutative ring properties<br/>(© Database of Ring Theory; Last updated 2024-01-14)>
+    label=<Commutative ring properties<br/>(© Database of Ring Theory; Last updated 2024-05-11)>
     URL="https://ringtheory.herokuapp.com/";
     labelloc=top
 	graph [pad="0.5", ranksep="2.000"];
@@ -201,7 +201,6 @@ strict digraph {
 	continuous -> semiregular
 	Goldie -> "finite uniform dimension"
 	Artinian -> semiprimary
-	"J-1" -> "J-0"
 	field -> "valuation ring"
 	semiprimary -> "nilpotent radical"
 	"Dedekind domain" -> "Krull domain"
