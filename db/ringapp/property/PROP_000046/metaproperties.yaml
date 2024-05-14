@@ -16,3 +16,21 @@ METAPROP_000004:
   metaproperty: METAPROP_000004
   property: PROP_000046
   relation: null
+METAPROP_000006:
+  citation: []
+  commutative_only: false
+  crosstable_pk: 752
+  example: RING_000179
+  has_metaproperty: false
+  metaproperty: METAPROP_000006
+  property: PROP_000046
+  relation: null
+METAPROP_000016:
+  citation: []
+  commutative_only: false
+  crosstable_pk: 761
+  example: null
+  has_metaproperty: false
+  metaproperty: METAPROP_000016
+  property: PROP_000046
+  relation: null

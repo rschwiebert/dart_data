@@ -1,0 +1,9 @@
+citation: []
+description: The direct product ring $\prod_{i=1}^\infty \mathbb Z/(2^i)$
+is_commutative: true
+keywords:
+- KWD_000011
+krull_dim: (unknown)
+name: $\prod_{i=1}^\infty \mathbb Z/(2^i)$
+notes: null
+optional_template: ''
