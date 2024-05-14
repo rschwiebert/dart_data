@@ -122,6 +122,17 @@ PROP_000025:
     property=25 and is MORITA_EQ_TO ring=172'
   reason_right: symmetry with left side
   ring: RING_000172
+PROP_000027:
+  citation_left: []
+  citation_right: []
+  crosstable_pk: 27779
+  has_on_left: false
+  has_on_right: false
+  property: PROP_000027
+  reason_left: 'relationlogic.dl: ring=172 lacks property=27 because ring=171 lacks
+    property=27 and is MORITA_EQ_TO ring=172'
+  reason_right: symmetry with left side
+  ring: RING_000172
 PROP_000028:
   citation_left: []
   citation_right: []

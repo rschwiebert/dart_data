@@ -1,0 +1,14 @@
+SUBSET_000007:
+  citation: []
+  crosstable_pk: 826
+  reason: null
+  ring: RING_000179
+  subset: $\oplus_{i=1}^\infty (2^{i-1})/(2^i)$
+  subset_type: SUBSET_000007
+SUBSET_000008:
+  citation: []
+  crosstable_pk: 827
+  reason: null
+  ring: RING_000179
+  subset: $\oplus_{i=1}^\infty (2^{i-1})/(2^i)$
+  subset_type: SUBSET_000008
