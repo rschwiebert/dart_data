@@ -2,7 +2,7 @@ citation:
 - CITE_000458
 description: Let $L$ be an irreducible continuous geometry in case $\infty$ (i.e.
   fails the DCC) as constructed in von Neumann's Examples of Continuous Geometries.  The
-  ring resulting from von Neumann's coorditanization theorem is the required ring.
+  ring resulting from von Neumann's coordinatization theorem is the required ring.
 is_commutative: false
 keywords: []
 krull_dim: (unknown)
