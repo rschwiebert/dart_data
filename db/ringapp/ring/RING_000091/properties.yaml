@@ -1453,16 +1453,6 @@ PROP_000141:
   reason_left: 'Logic 354: J-2 ===> J-1'
   reason_right: 'Logic 354: J-2 ===> J-1'
   ring: RING_000091
-PROP_000142:
-  citation_left: []
-  citation_right: []
-  crosstable_pk: 18249
-  has_on_left: true
-  has_on_right: true
-  property: PROP_000142
-  reason_left: 'Logic 355: J-1 ===> J-0'
-  reason_right: 'Logic 355: J-1 ===> J-0'
-  ring: RING_000091
 PROP_000143:
   citation_left: []
   citation_right: []
