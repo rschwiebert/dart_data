@@ -1,0 +1,33 @@
+DIM_000001:
+  citation: []
+  crosstable_pk: 437
+  dimension_type: DIM_000001
+  left_dimension: '0'
+  reason_left: 'Logic (rings) 544: has Krull dimension (classical) 0 <=== ring is
+    Artinian on the left or right'
+  reason_right: 'Logic (rings) 544: has Krull dimension (classical) 0 <=== ring is
+    Artinian on the left or right'
+  right_dimension: '0'
+  ring: RING_000180
+DIM_000004:
+  citation: []
+  crosstable_pk: 439
+  dimension_type: DIM_000004
+  left_dimension: '0'
+  reason_left: 'Logic (rings) 480: has global dimension 0 on the left <=== ring is
+    semisimple'
+  reason_right: 'Logic (rings) 480: has global dimension 0 on the right <=== ring
+    is semisimple'
+  right_dimension: '0'
+  ring: RING_000180
+DIM_000005:
+  citation: []
+  crosstable_pk: 438
+  dimension_type: DIM_000005
+  left_dimension: '0'
+  reason_left: 'Logic (rings) 481: has weak global dimension 0 <=== ring is von Neumann
+    regular'
+  reason_right: 'Logic (rings) 481: has weak global dimension 0 <=== ring is von Neumann
+    regular'
+  right_dimension: '0'
+  ring: RING_000180

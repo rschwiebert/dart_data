@@ -190,6 +190,16 @@ PROP_000017:
   reason_left: 'Logic (rings) 144: \(NOT "fully prime" \) <=== \(NOT "prime" \).'
   reason_right: 'Logic (rings) 144: \(NOT "fully prime" \) <=== \(NOT "prime" \).'
   ring: RING_000157
+PROP_000018:
+  citation_left: []
+  citation_right: []
+  crosstable_pk: 27780
+  has_on_left: true
+  has_on_right: true
+  property: PROP_000018
+  reason_left: Every group ring using a field and finite group is Frobenius
+  reason_right: symmetry with left side
+  ring: RING_000157
 PROP_000019:
   citation_left: []
   citation_right: []
@@ -689,6 +699,30 @@ PROP_000065:
     \(NOT "domain" \).'
   reason_right: 'Logic (rings) 50: \(NOT "principal ideal domain" on the right\) <===
     \(NOT "domain" \).'
+  ring: RING_000157
+PROP_000066:
+  citation_left:
+  - CITE_000610
+  citation_right:
+  - CITE_000610
+  crosstable_pk: 27782
+  has_on_left: false
+  has_on_right: false
+  property: PROP_000066
+  reason_left: null
+  reason_right: null
+  ring: RING_000157
+PROP_000067:
+  citation_left: []
+  citation_right: []
+  crosstable_pk: 27785
+  has_on_left: false
+  has_on_right: false
+  property: PROP_000067
+  reason_left: 'Logic (rings) 49: \(NOT "Bezout" on the left\) <=== \(NOT "principal
+    ideal ring" on the left\) AND \( "Noetherian" on the left\).'
+  reason_right: 'Logic (rings) 49: \(NOT "Bezout" on the right\) <=== \(NOT "principal
+    ideal ring" on the right\) AND \( "Noetherian" on the right\).'
   ring: RING_000157
 PROP_000068:
   citation_left: []
@@ -1349,6 +1383,17 @@ PROP_000143:
   reason_left: 'Logic (rings) 367: \(NOT "complete local" \) <=== \(NOT "local" \).'
   reason_right: 'Logic (rings) 367: \(NOT "complete local" \) <=== \(NOT "local" \).'
   ring: RING_000157
+PROP_000144:
+  citation_left:
+  - CITE_000609
+  citation_right: []
+  crosstable_pk: 27781
+  has_on_left: false
+  has_on_right: false
+  property: PROP_000144
+  reason_left: null
+  reason_right: symmetry with left side
+  ring: RING_000157
 PROP_000145:
   citation_left: []
   citation_right: []
@@ -1596,6 +1641,18 @@ PROP_000167:
   property: PROP_000167
   reason_left: 'Logic (rings) 539: \(NOT "torch" \) <=== \(NOT "?-ring" \).'
   reason_right: 'Logic (rings) 539: \(NOT "torch" \) <=== \(NOT "?-ring" \).'
+  ring: RING_000157
+PROP_000168:
+  citation_left: []
+  citation_right: []
+  crosstable_pk: 27784
+  has_on_left: false
+  has_on_right: false
+  property: PROP_000168
+  reason_left: 'Logic (rings) 538: \(NOT "FGC" \) <=== \(NOT "principal ideal ring"
+    on the left and right\) AND \( "countable" \).'
+  reason_right: 'Logic (rings) 538: \(NOT "FGC" \) <=== \(NOT "principal ideal ring"
+    on the left and right\) AND \( "countable" \).'
   ring: RING_000157
 PROP_000169:
   citation_left: []

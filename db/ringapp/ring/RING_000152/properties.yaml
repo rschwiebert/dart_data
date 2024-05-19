@@ -541,6 +541,16 @@ PROP_000050:
   reason_left: 'Logic (rings) 102: \( "semiregular" \) <=== \( "semiperfect" \).'
   reason_right: 'Logic (rings) 102: \( "semiregular" \) <=== \( "semiperfect" \).'
   ring: RING_000152
+PROP_000051:
+  citation_left: []
+  citation_right: []
+  crosstable_pk: 27783
+  has_on_left: true
+  has_on_right: true
+  property: PROP_000051
+  reason_left: Subring of $M_4(\mathbb R)$ which satisfies a standard identity
+  reason_right: symmetry with left side
+  ring: RING_000152
 PROP_000052:
   citation_left: []
   citation_right: []
