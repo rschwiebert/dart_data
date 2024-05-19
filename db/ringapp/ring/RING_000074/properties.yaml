@@ -333,6 +333,17 @@ PROP_000046:
   reason_right: 'Logic 241: Artinian on the right <==> $\pi$-regular and Noetherian
     on the right'
   ring: RING_000074
+PROP_000051:
+  citation_left: []
+  citation_right: []
+  crosstable_pk: 27788
+  has_on_left: true
+  has_on_right: true
+  property: PROP_000051
+  reason_left: 'relationlogic.dl: ring=74 has property=51 because it is SUBRING_OF
+    ring=5 which has property=51'
+  reason_right: symmetry with left side
+  ring: RING_000074
 PROP_000054:
   citation_left: []
   citation_right: []
@@ -1048,6 +1059,27 @@ PROP_000161:
     \(NOT "discrete valuation ring" \).'
   reason_right: 'Logic (rings) 495: \(NOT "complete discrete valuation ring" \) <===
     \(NOT "discrete valuation ring" \).'
+  ring: RING_000074
+PROP_000162:
+  citation_left: []
+  citation_right: []
+  crosstable_pk: 27936
+  has_on_left: true
+  has_on_right: true
+  property: PROP_000162
+  reason_left: 'Logic (rings) 496: \( "anti-automorphic" \) <=== \( "involutive" \).'
+  reason_right: 'Logic (rings) 496: \( "anti-automorphic" \) <=== \( "involutive"
+    \).'
+  ring: RING_000074
+PROP_000163:
+  citation_left: []
+  citation_right: []
+  crosstable_pk: 27934
+  has_on_left: true
+  has_on_right: true
+  property: PROP_000163
+  reason_left: Regular quaternion conjugation
+  reason_right: symmetry with left side
   ring: RING_000074
 PROP_000164:
   citation_left: []

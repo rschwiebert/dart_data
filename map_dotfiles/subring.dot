@@ -35,7 +35,7 @@ digraph G {
   153; //Puninski's 2-dimensional uniserial domain
   167; //Z[x0,x1,x2,...]
   170; // Basic ring of nakayama's QF ring
-  "Rat(H)"; // placeholder for rational quaternions
+  180; // placeholder for rational quaternions
   "Q[i]";
   "Q[[x]]";
   "Q((x))";
@@ -149,6 +149,8 @@ digraph G {
   177 -> 176;
   128 -> 84;
   95 -> 177;
+  74 ->180;
+  180 -> 5;
 
 
   // Proposed
@@ -184,11 +186,10 @@ digraph G {
   102 -> 157;
 
 //   34 -> 4;
-  74 ->"Rat(H)";
-  "Rat(H)" -> 5;
-  "Q[i]" -> "Rat(H)";
+
+  "Q[i]" -> 180;
   76 -> "Q[i]";
-  "Rat(H)"; // placeholder for rational quaternions
+  180; // placeholder for rational quaternions
   "Q[i]" -> 4;
   "Q((x))" -> 80;
   64 -> "Q[[x]]"; // Right?
