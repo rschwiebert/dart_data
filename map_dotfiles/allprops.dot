@@ -232,4 +232,5 @@ subgraph cluster_01 {
 	reduced -> Armendariz [color=black]
 	reversible -> McCoy [color=black]
     McCoy -> "Dedekind finite" [color=black]
+	simple -> nonsingular [color=blue]
 }
