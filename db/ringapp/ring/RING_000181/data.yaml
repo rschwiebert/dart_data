@@ -1,0 +1,13 @@
+citation:
+- CITE_000611
+description: The direct limit of rings $T_{2^n}(\Bbb Q)$ where the maps between these
+  rings are given by $A\mapsto \begin{bmatrix}A&0\\0&A\end{bmatrix}$
+is_commutative: false
+keywords:
+- KWD_000077
+- KWD_000008
+- KWD_000015
+krull_dim: (unknown)
+name: $\varinjlim  T_{2^n}(\Bbb Q)$
+notes: null
+optional_template: ''

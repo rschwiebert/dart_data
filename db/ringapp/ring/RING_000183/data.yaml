@@ -1,0 +1,13 @@
+citation:
+- CITE_000615
+description: The direct limit of the matrix rings in the family $M_{2^n}(\mathbb Q)$
+  where the rings embed in each other as $A\mapsto \begin{bmatrix}A&0\\0&A\end{bmatrix}$
+is_commutative: false
+keywords:
+- KWD_000077
+- KWD_000008
+- KWD_000015
+krull_dim: (unknown)
+name: $\varinjlim M_{2^n}(\mathbb Q)$
+notes: null
+optional_template: ''

@@ -1,0 +1,7 @@
+active: true
+citation: []
+concs: ring_deduced("has",1,73)
+hyps: ring_deduced("has",0,3)
+readable: ring is simple ===> ring is nonsingular on the left and right
+symmetric: true
+variety: 0

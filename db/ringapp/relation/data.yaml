@@ -773,3 +773,28 @@ RINGRELATION_000155:
   note: ''
   relation_type: SUBRING_OF
   second: RING_000005
+RINGRELATION_000156:
+  first: RING_000181
+  note: ''
+  relation_type: SUBRING_OF
+  second: RING_000176
+RINGRELATION_000157:
+  first: RING_000181
+  note: ''
+  relation_type: SUBRING_OF
+  second: RING_000183
+RINGRELATION_000158:
+  first: RING_000182
+  note: The subset of diagonal matrices
+  relation_type: SUBRING_OF
+  second: RING_000181
+RINGRELATION_000159:
+  first: RING_000182
+  note: Isomorphic to the quotient by the Jacobson radical.
+  relation_type: IMAGE_OF
+  second: RING_000181
+RINGRELATION_000160:
+  first: RING_000183
+  note: ''
+  relation_type: SUBRING_OF
+  second: RING_000174
