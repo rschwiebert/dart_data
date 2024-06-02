@@ -1,0 +1,8 @@
+active: true
+citation:
+- CITE_000044
+concs: module_deduced("has",45) AND module_deduced("has",10)
+hyps: module_deduced("has",3) AND module_deduced("has",25)
+readable: module is finitely generated AND module is uniserial  ===>  module is local
+  AND module is cyclic
+variety: 0

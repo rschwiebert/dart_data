@@ -104,6 +104,14 @@ MODPROP_000016:
   property: MODPROP_000016
   reason: 'Logic (modules) 14: module("lacks" ''finitely presented'') <=== module("lacks"
     ''finitely generated'').'
+MODPROP_000017:
+  citation: []
+  crosstable_pk: 1220
+  has: false
+  module: MOD_000021
+  property: MODPROP_000017
+  reason: 'Logic (modules) 196: module("lacks" ''distributive'') <=== module("lacks"
+    ''uniserial'') AND ring("has" ''local'' ).'
 MODPROP_000018:
   citation: []
   crosstable_pk: 1179
@@ -297,3 +305,11 @@ MODPROP_000059:
   module: MOD_000021
   property: MODPROP_000059
   reason: It's radical is not superfluous, and therefore not trivial
+MODPROP_000063:
+  citation: []
+  crosstable_pk: 1221
+  has: false
+  module: MOD_000021
+  property: MODPROP_000063
+  reason: 'Logic (modules) 195: module("lacks" ''Bezout'') <=== module("lacks" ''uniserial'')
+    AND ring("has" ''local'' ).'

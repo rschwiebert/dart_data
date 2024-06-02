@@ -1,0 +1,6 @@
+active: true
+citation: []
+concs: module_deduced("has",17)
+hyps: module_deduced("has",25)
+readable: module is uniserial  ===>  module is distributive
+variety: 0

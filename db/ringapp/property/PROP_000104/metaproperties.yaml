@@ -35,3 +35,13 @@ METAPROP_000006:
   metaproperty: METAPROP_000006
   property: PROP_000104
   relation: null
+METAPROP_000016:
+  citation:
+  - 618
+  commutative_only: false
+  crosstable_pk: 780
+  example: null
+  has_metaproperty: true
+  metaproperty: METAPROP_000016
+  property: PROP_000104
+  relation: null

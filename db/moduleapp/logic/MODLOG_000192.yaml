@@ -1,0 +1,6 @@
+active: true
+citation: []
+concs: module_deduced("has",63)
+hyps: ring_deduced("has",3,67) AND module_deduced("has",39)
+readable: ring is Bezout on the right AND module is $R_R$  ===>  module is Bezout
+variety: 0

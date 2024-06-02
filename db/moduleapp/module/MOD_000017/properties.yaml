@@ -468,3 +468,10 @@ MODPROP_000062:
   property: MODPROP_000062
   reason: 'Logic (modules) 186: module("has" ''top semisimple'') <=== module("has"
     ''linearly compact'').'
+MODPROP_000063:
+  citation: []
+  crosstable_pk: 1216
+  has: true
+  module: MOD_000017
+  property: MODPROP_000063
+  reason: 'Logic (modules) 191: module("has" ''Bezout'') <=== module("has" ''uniserial'').'

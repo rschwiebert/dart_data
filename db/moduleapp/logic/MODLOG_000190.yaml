@@ -1,0 +1,7 @@
+active: true
+citation:
+- CITE_000041
+concs: module_deduced("has",3)
+hyps: module_deduced("has",45)
+readable: module is local  ===>  module is finitely generated
+variety: 0

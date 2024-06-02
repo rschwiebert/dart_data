@@ -1,0 +1,7 @@
+active: true
+citation:
+- CITE_000043
+concs: module_deduced("has",63)
+hyps: module_deduced("has",25)
+readable: module is uniserial  ===>  module is Bezout
+variety: 0

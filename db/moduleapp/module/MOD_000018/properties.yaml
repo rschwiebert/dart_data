@@ -398,3 +398,10 @@ MODPROP_000058:
   property: MODPROP_000058
   reason: 'Logic (modules) 179: module("has" ''superfluous Jacobson radical'') <===
     module("has" ''Bass module'').'
+MODPROP_000063:
+  citation: []
+  crosstable_pk: 1217
+  has: true
+  module: MOD_000018
+  property: MODPROP_000063
+  reason: 'Logic (modules) 191: module("has" ''Bezout'') <=== module("has" ''uniserial'').'

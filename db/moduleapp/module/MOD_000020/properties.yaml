@@ -113,6 +113,13 @@ MODPROP_000016:
   property: MODPROP_000016
   reason: 'Logic (modules) 7: module("has" ''finitely presented'') <=== module("has"
     ''coherent'').'
+MODPROP_000017:
+  citation: []
+  crosstable_pk: 1218
+  has: true
+  module: MOD_000020
+  property: MODPROP_000017
+  reason: 'Logic (modules) 194: module("has" ''distributive'') <=== module("has" ''uniserial'').'
 MODPROP_000018:
   citation: []
   crosstable_pk: 1060
@@ -428,3 +435,10 @@ MODPROP_000062:
   property: MODPROP_000062
   reason: 'Logic (modules) 186: module("has" ''top semisimple'') <=== module("has"
     ''linearly compact'').'
+MODPROP_000063:
+  citation: []
+  crosstable_pk: 1219
+  has: true
+  module: MOD_000020
+  property: MODPROP_000063
+  reason: 'Logic (modules) 191: module("has" ''Bezout'') <=== module("has" ''uniserial'').'

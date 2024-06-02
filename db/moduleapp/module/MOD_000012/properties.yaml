@@ -112,6 +112,13 @@ MODPROP_000016:
   module: MOD_000012
   property: MODPROP_000016
   reason: $xR\to R\to R/xR=M$ witnesses $M$ is finitely presented
+MODPROP_000017:
+  citation: []
+  crosstable_pk: 1212
+  has: true
+  module: MOD_000012
+  property: MODPROP_000017
+  reason: 'Logic (modules) 194: module("has" ''distributive'') <=== module("has" ''uniserial'').'
 MODPROP_000018:
   citation: []
   crosstable_pk: 488
@@ -271,3 +278,10 @@ MODPROP_000058:
   property: MODPROP_000058
   reason: 'Logic (modules) 179: module("has" ''superfluous Jacobson radical'') <===
     module("has" ''Bass module'').'
+MODPROP_000063:
+  citation: []
+  crosstable_pk: 1213
+  has: true
+  module: MOD_000012
+  property: MODPROP_000063
+  reason: 'Logic (modules) 191: module("has" ''Bezout'') <=== module("has" ''uniserial'').'
