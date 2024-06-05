@@ -2,7 +2,7 @@ citation:
 - CITE_000100
 - CITE_000101
 - CITE_000102
-description: See the expanded details page for the construction.
+description: See the <a href="expanded-details">expanded details page</a>.
 is_commutative: false
 keywords:
 - KWD_000023
