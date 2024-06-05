@@ -1,0 +1,20 @@
+{% extends 'base.html' %}
+
+{% block title %}Šter's counterexample showing "clean" is not Morita invariant{% endblock %}
+
+{% block content %}
+
+<div class="container">
+  <div class="col-md-8 content">
+    <h1>Šter's counterexample showing "clean" is not Morita invariant</h1>
+
+    <p>Let $[F':F]=n$ be a field extension, $S \supset S'$ the full $F$- and $F'$-linear rings of the countable-dimensional $F'$-vector space $V$, and their ideals $I \supset I'$ of transformations with finite-dimensional range. Then the sum $T = S' + I$ is a subring in $S$.</p>
+
+<p>The idempotent $e = E_{11}$ of $S'$ is primitive in $S'$ and is a sum of $n$ primitive orthogonal idempotents $e_1, \ldots, e_n$ in $S$ and $T$. Let $C$ be the corner ring $(e_n + 1 - e) T (e_n + 1 - e)$. Then the ring $R_{83}$ is defined as the set of all countable-sized column-finite matrices $M$ over $C$ with the following property: there exists an integer $N = N(M)$ such that the row $M_{N,\ast} = [m_{N1}, m_{N2},\ldots]$ has all $m_{Ni} \in F = F1 \subset C$, and all the next rows are shifts of $M_{N,\ast}$, namely, $M_{N + k, \ast} = [0, \ldots, 0, m_{N1}, m_{N2},\ldots]$ ($k$ zeros) for every positive integer $k$.
+</p>
+
+
+  </div>
+</div>
+
+{% endblock %}
