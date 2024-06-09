@@ -7,6 +7,16 @@ METAPROP_000001:
   metaproperty: METAPROP_000001
   property: PROP_000044
   relation: 24
+METAPROP_000002:
+  citation:
+  - 622
+  commutative_only: false
+  crosstable_pk: 794
+  example: null
+  has_metaproperty: true
+  metaproperty: METAPROP_000002
+  property: PROP_000044
+  relation: null
 METAPROP_000003:
   citation: []
   commutative_only: false
@@ -43,6 +53,24 @@ METAPROP_000006:
   metaproperty: METAPROP_000006
   property: PROP_000044
   relation: null
+METAPROP_000007:
+  citation: []
+  commutative_only: false
+  crosstable_pk: 805
+  example: null
+  has_metaproperty: false
+  metaproperty: METAPROP_000007
+  property: PROP_000044
+  relation: null
+METAPROP_000008:
+  citation: []
+  commutative_only: false
+  crosstable_pk: 806
+  example: null
+  has_metaproperty: false
+  metaproperty: METAPROP_000008
+  property: PROP_000044
+  relation: null
 METAPROP_000010:
   citation: []
   commutative_only: false
@@ -50,5 +78,25 @@ METAPROP_000010:
   example: null
   has_metaproperty: true
   metaproperty: METAPROP_000010
+  property: PROP_000044
+  relation: null
+METAPROP_000012:
+  citation:
+  - 623
+  commutative_only: false
+  crosstable_pk: 795
+  example: null
+  has_metaproperty: true
+  metaproperty: METAPROP_000012
+  property: PROP_000044
+  relation: null
+METAPROP_000014:
+  citation:
+  - 624
+  commutative_only: false
+  crosstable_pk: 796
+  example: null
+  has_metaproperty: true
+  metaproperty: METAPROP_000014
   property: PROP_000044
   relation: null
