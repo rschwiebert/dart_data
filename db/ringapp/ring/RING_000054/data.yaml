@@ -1,8 +1,7 @@
 citation:
 - CITE_000086
-description: Let $D=k[[x]]$ for a countably infinite field $k$ and let $Q$ be the
-  field of fractions of $D$. Set $V=Q/D$. The ring is the trivial extension $T(D,
-  V)$
+description: Let $D=\mathbb Q[[x]]$ and let $Q$ be the field of fractions of $D$.
+  Set $V=Q/D$. The ring is the trivial extension $T(D, V)$
 is_commutative: true
 keywords:
 - KWD_000012

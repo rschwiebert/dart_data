@@ -1,0 +1,9 @@
+citation: []
+description: The power series ring $\mathbb Q[[X]]$ over the rationals
+is_commutative: true
+keywords:
+- KWD_000012
+krull_dim: (unknown)
+name: $\mathbb Q[[X]]$
+notes: null
+optional_template: ''

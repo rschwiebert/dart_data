@@ -37,7 +37,7 @@ digraph G {
   170; // Basic ring of nakayama's QF ring
   180; // placeholder for rational quaternions
   "Q[i]";
-  "Q[[x]]";
+  184; // "Q[[X]]"
   "Q((x))";
   176; //infinite upper triangular rational matrices
   174; //row-and-column finite infinite rational matrices
@@ -151,6 +151,13 @@ digraph G {
   95 -> 177;
   74 ->180;
   180 -> 5;
+  181 -> 183;
+  181 -> 176;
+  183 -> 174;
+  182 -> 181;
+  64 -> 184;
+  184 -> 27;
+  184 -> 54;//specialize 54 to Q
 
 
   // Proposed
@@ -189,24 +196,21 @@ digraph G {
 
   "Q[i]" -> 180;
   76 -> "Q[i]";
-  180; // placeholder for rational quaternions
+  180; // rational quaternions
   "Q[i]" -> 4;
   "Q((x))" -> 80;
-  64 -> "Q[[x]]"; // Right?
-//   7 -> "Q[[x]]";
-  "Q[[x]]" -> "Q((x))";
+//   7 -> 184;
+  184 -> "Q((x))";
 //   2 -> 70;  // 70 looks suspiciously like it might contain Q((x)) as in O'meara's description
   101 -> "Q((x))";
   123 -> "C[[x]]";
   27 -> "C[[x]]";
-  "Q[[x]]" -> 27;
   // Specialize 10 to Z/(4) and then make it a subring of 29?
   4 -> "C[x]" -> 37;
   "R[x]" -> "C[x]";
   "R[x]" -> 27;
   3 -> "R[x]";
 
-  "Q[[x]]" -> 54;//specialize 54 to Q
 
 
   87 -> "T_n(H)";

@@ -1,0 +1,8 @@
+active: true
+citation: []
+concs: ring_deduced("has",3,107)
+hyps: ring_deduced("lacks",3,100)
+readable: ring is not nonzero socle on the right ===> ring is simple-injective on
+  the right
+symmetric: false
+variety: 0

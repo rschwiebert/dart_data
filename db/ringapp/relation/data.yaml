@@ -798,3 +798,33 @@ RINGRELATION_000160:
   note: ''
   relation_type: SUBRING_OF
   second: RING_000174
+RINGRELATION_000161:
+  first: RING_000069
+  note: ''
+  relation_type: LOCALIZATION_OF
+  second: RING_000001
+RINGRELATION_000162:
+  first: RING_000064
+  note: ''
+  relation_type: SUBRING_OF
+  second: RING_000184
+RINGRELATION_000163:
+  first: RING_000184
+  note: ''
+  relation_type: SUBRING_OF
+  second: RING_000027
+RINGRELATION_000164:
+  first: RING_000184
+  note: ''
+  relation_type: SUBRING_OF
+  second: RING_000054
+RINGRELATION_000165:
+  first: RING_000184
+  note: ''
+  relation_type: IMAGE_OF
+  second: RING_000054
+RINGRELATION_000166:
+  first: RING_000184
+  note: ''
+  relation_type: POWER_SERIES_OF
+  second: RING_000002

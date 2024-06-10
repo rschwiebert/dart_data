@@ -382,6 +382,17 @@ PROP_000038:
   reason_left: 'Logic 149: strongly connected <==> Abelian and connected'
   reason_right: 'Logic 149: strongly connected <==> Abelian and connected'
   ring: RING_000096
+PROP_000039:
+  citation_left: []
+  citation_right: []
+  crosstable_pk: 28578
+  has_on_left: false
+  has_on_right: false
+  property: PROP_000039
+  reason_left: 'relationlogic.dl: ring=96 lacks property=39 because ring=168 lacks
+    property=39 and is SUBRING_OF ring=96'
+  reason_right: symmetry with left side
+  ring: RING_000096
 PROP_000040:
   citation_left: []
   citation_right: []
@@ -795,6 +806,28 @@ PROP_000086:
   reason_left: symmetry with right side
   reason_right: 'Logic 253: finite uniform dimension on the right and nonsingular
     on the right and semiprime <==> Goldie on the right and semiprime'
+  ring: RING_000096
+PROP_000089:
+  citation_left: []
+  citation_right: []
+  crosstable_pk: 28579
+  has_on_left: false
+  has_on_right: false
+  property: PROP_000089
+  reason_left: 'relationlogic.dl: ring=96 lacks property=89 on the left because ring=168
+    lacks property=89 on the left and is SUBRING_OF ring=96'
+  reason_right: symmetry with left side
+  ring: RING_000096
+PROP_000090:
+  citation_left: []
+  citation_right: []
+  crosstable_pk: 28580
+  has_on_left: false
+  has_on_right: false
+  property: PROP_000090
+  reason_left: 'relationlogic.dl: ring=96 lacks property=90 on the left because ring=168
+    lacks property=90 on the left and is SUBRING_OF ring=96'
+  reason_right: symmetry with left side
   ring: RING_000096
 PROP_000091:
   citation_left: []
