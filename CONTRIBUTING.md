@@ -3,6 +3,15 @@
 You'll need to [log into the website](https://ringtheory.herokuapp.com/accounts/login/) or 
 [join GitHub](https://www.github.com/join/) to contribute.
 
+To orient yourself, look for the README.md files and [docs/db_organization.md](docs/db_organization.md) 
+for further explanation on how the data are organized. 
+If you are looking for a particular item that needs info corrected/improved, then simply grepping the repository may be 
+the fastest way to find it.
+
+One tip if you're looking to add new entries: if you want to do it via the pull request option, then some experience 
+setting up and running a Python application is necessary.  After setting up, you'd use the Django admin web UI to make 
+additions. ([See this for some details](docs/admin_developers.md>).)  If this is not something you want to do, just do the "Open an Issue" option.
+
 ### Open an Issue
 
 The easiest way to suggest improvements is to [open an Issue](https://github.com/rschwiebert/dart_data/issues).
