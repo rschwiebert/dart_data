@@ -1,6 +1,6 @@
 citation: []
-description: The direct limit of the system using the maps $\mathbb Q^n\to \mathbb
-  Q^{2^n}$ given by $(v_0,\ldots v_n)\mapsto (v_1,\ldots v_n,v_1,\ldots v_n)$.
+description: The direct limit of the system using the maps $\mathbb Q^{2^n}\to \mathbb
+  Q^{2^{n+1}}$ given by $(v_1,\ldots v_n)\mapsto (v_1,\ldots v_n,v_1,\ldots v_n)$.
 is_commutative: true
 keywords:
 - KWD_000077
