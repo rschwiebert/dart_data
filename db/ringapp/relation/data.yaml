@@ -828,3 +828,8 @@ RINGRELATION_000166:
   note: ''
   relation_type: POWER_SERIES_OF
   second: RING_000002
+RINGRELATION_000167:
+  first: RING_000007
+  note: ''
+  relation_type: POLYNOMIAL_RING_OF
+  second: RING_000002

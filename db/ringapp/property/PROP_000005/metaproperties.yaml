@@ -70,6 +70,15 @@ METAPROP_000010:
   metaproperty: METAPROP_000010
   property: PROP_000005
   relation: null
+METAPROP_000012:
+  citation: []
+  commutative_only: false
+  crosstable_pk: 808
+  example: null
+  has_metaproperty: false
+  metaproperty: METAPROP_000012
+  property: PROP_000005
+  relation: 167
 METAPROP_000016:
   citation: []
   commutative_only: false
