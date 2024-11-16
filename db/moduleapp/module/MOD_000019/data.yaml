@@ -1,7 +1,7 @@
 citation: []
 description: The right regular module of the ring of upper triangular matrices over
   the field of two elements.
-name: $T_2(F_2)$
+name: $T_n(F_2)$
 notes: null
 opposite_ring: false
 ring: 16

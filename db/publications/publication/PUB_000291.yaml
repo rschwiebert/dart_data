@@ -1,5 +1,5 @@
 abstract: ''
-authors: J. Dieudonn\'e and A. Grothendieck
+authors: "J. Dieudonn\xE9 and A. Grothendieck"
 book_title: ''
 citekey: dieudonne1967criteres
 code: ''
@@ -18,8 +18,8 @@ pages: 305-324
 pdf: ''
 publisher: Academic Press
 thumbnail: ''
-title: "Crit{\xE8}res diff{\\'e}rentiels de r{\\'e}gularit{\\'e} pour les localis{\\\
-  'e}s des alg{\xE8}bres analytiques"
+title: "Crit\xE8res diff\xE9rentiels de r\xE9gularit\xE9 pour les localis\xE9s des\
+  \ alg\xE8bres analytiques"
 type: PUBTYPE_000001
 url: ''
 volume: 5
