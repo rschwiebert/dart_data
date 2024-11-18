@@ -1,0 +1,15 @@
+citation:
+- CITE_000632
+description: Let $R=\mathbb Q[a,b,c]$ and $I=(a^2-a+bc)\lhd R$. The required ring
+  is the subring of $\mathbb Q(a,b,c)$ with elements having numerators in $R$,  and
+  denominators in $1+I$.
+is_commutative: true
+keywords:
+- KWD_000005
+- KWD_000002
+- KWD_000024
+- KWD_000007
+krull_dim: (unknown)
+name: Base ring for $R_{187}$
+notes: null
+optional_template: ''

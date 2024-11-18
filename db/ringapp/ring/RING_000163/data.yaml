@@ -6,7 +6,7 @@ keywords:
 - KWD_000077
 - KWD_000026
 - KWD_000003
-krull_dim: null
+krull_dim: (unknown)
 name: Camillo and Nielsen's McCoy ring
 notes: Constructed to provide an example of a ring $R$ that is right McCoy but $R[[X]]$
   is not right McCoy
