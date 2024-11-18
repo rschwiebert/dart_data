@@ -833,3 +833,8 @@ RINGRELATION_000167:
   note: ''
   relation_type: POLYNOMIAL_RING_OF
   second: RING_000002
+RINGRELATION_000168:
+  first: RING_000187
+  note: ''
+  relation_type: MATRIX_RING_OF
+  second: RING_000186
