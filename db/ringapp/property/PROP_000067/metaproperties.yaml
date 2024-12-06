@@ -21,8 +21,8 @@ METAPROP_000004:
   citation: []
   commutative_only: false
   crosstable_pk: 334
-  example: RING_000001
-  has_metaproperty: false
+  example: null
+  has_metaproperty: true
   metaproperty: METAPROP_000004
   property: PROP_000067
   relation: null

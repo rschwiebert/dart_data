@@ -1,5 +1,5 @@
 strict digraph {
-    label=<Commutative ring properties<br/>(© Database of Ring Theory; Last updated 2024-05-11)>
+    label=<Commutative ring properties<br/>(© Database of Ring Theory; Last updated 2024-12-04)>
     URL="https://ringtheory.herokuapp.com/";
     labelloc=top
 	graph [pad="0.5", ranksep="2.000"];
@@ -176,7 +176,6 @@ strict digraph {
 	"Noetherian complete local" -> "complete local"
 	"Noetherian complete local" -> excellent
 	finite -> countable
-	Artinian -> coherent
 	uniform -> "finite uniform dimension"
 	"quadratically closed field" -> "Pythagorean field"
 	semisimple -> "von Neumann regular"
