@@ -686,6 +686,18 @@ PROP_000066:
   reason_right: 'Logic (rings) 49: \(NOT "principal ideal ring" on the right\) <===
     \(NOT "Noetherian" on the right\).'
   ring: RING_000166
+PROP_000067:
+  citation_left: []
+  citation_right: []
+  crosstable_pk: 29553
+  has_on_left: false
+  has_on_right: false
+  property: PROP_000067
+  reason_left: 'relationlogic.dl: ring=166 lacks property=67 on the left because ring=6
+    lacks property=67 on the left and is IMAGE_OF ring=166'
+  reason_right: 'relationlogic.dl: ring=166 lacks property=67 on the right because
+    ring=6 lacks property=67 on the right and is IMAGE_OF ring=166'
+  ring: RING_000166
 PROP_000072:
   citation_left: []
   citation_right: []

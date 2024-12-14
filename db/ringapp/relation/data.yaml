@@ -838,3 +838,18 @@ RINGRELATION_000168:
   note: ''
   relation_type: MATRIX_RING_OF
   second: RING_000186
+RINGRELATION_000169:
+  first: RING_000191
+  note: ''
+  relation_type: MATRIX_RING_OF
+  second: RING_000190
+RINGRELATION_000170:
+  first: RING_000191
+  note: ''
+  relation_type: MORITA_EQ_TO
+  second: RING_000190
+RINGRELATION_000171:
+  first: RING_000187
+  note: ''
+  relation_type: MORITA_EQ_TO
+  second: RING_000186

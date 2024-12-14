@@ -649,11 +649,12 @@ PROP_000067:
   citation_right: []
   crosstable_pk: 27002
   has_on_left: false
-  has_on_right: null
+  has_on_right: false
   property: PROP_000067
   reason_left: 'Logic (rings) 49: \(NOT "Bezout" on the left\) <=== \(NOT "principal
     ideal ring" on the left\) AND \( "Noetherian" on the left\).'
-  reason_right: null
+  reason_right: 'relationlogic.dl: ring=22 lacks property=67 on the right because
+    ring=6 lacks property=67 on the right and is IMAGE_OF ring=22'
   ring: RING_000022
 PROP_000068:
   citation_left: []

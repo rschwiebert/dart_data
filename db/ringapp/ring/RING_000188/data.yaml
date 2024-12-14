@@ -1,0 +1,10 @@
+citation: []
+description: A group algebra using the field $\mathbb Q$ and a group to be described
+  on the details page.
+is_commutative: false
+keywords:
+- KWD_000021
+krull_dim: (unknown)
+name: Domanov's prime, nonprimitive, von Neumann regular ring
+notes: null
+optional_template: ''

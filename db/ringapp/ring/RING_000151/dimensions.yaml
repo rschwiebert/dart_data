@@ -1,0 +1,10 @@
+DIM_000001:
+  citation:
+  - CITE_000633
+  crosstable_pk: 451
+  dimension_type: DIM_000001
+  left_dimension: $\infty$
+  reason_left: null
+  reason_right: null
+  right_dimension: $\infty$
+  ring: RING_000151
