@@ -1,0 +1,10 @@
+alias: When a Leavitt path algebra is von Neumann regular
+categories:
+- THMCAT_000003
+citation:
+- CITE_000638
+commutative_only: false
+link: null
+statement: "For any field $K$ and graph $E$, TFAE: 1) the Leavitt path algebra $L_K(E)$\
+  \ is von Neumann regular; 2) $L_K(E)$ is strongly \u03C0-regular; 3) $E$ is an acyclic\
+  \ graph."

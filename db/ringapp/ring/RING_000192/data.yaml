@@ -1,0 +1,9 @@
+citation: []
+description: Take the free algebra on two generators $X,Y$ over $\mathbb Q$,  and
+  the required ring is the $I$-adic completion of the free algebra by the ideal $I=(X,Y)$
+is_commutative: false
+keywords: []
+krull_dim: (unknown)
+name: Magnus algebra on two generators over $\mathbb Q$
+notes: null
+optional_template: ''
