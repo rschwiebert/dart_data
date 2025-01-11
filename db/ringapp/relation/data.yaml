@@ -853,3 +853,8 @@ RINGRELATION_000171:
   note: ''
   relation_type: MORITA_EQ_TO
   second: RING_000186
+RINGRELATION_000172:
+  first: RING_000165
+  note: ''
+  relation_type: SUBRING_OF
+  second: RING_000192

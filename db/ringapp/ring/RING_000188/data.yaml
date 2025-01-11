@@ -1,4 +1,5 @@
-citation: []
+citation:
+- CITE_000634
 description: A group algebra using the field $\mathbb Q$ and a group to be described
   on the details page.
 is_commutative: false
