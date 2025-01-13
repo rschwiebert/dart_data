@@ -5,6 +5,36 @@ SUBSET_000001:
   ring: RING_000073
   subset: $\{0\}$
   subset_type: SUBSET_000001
+SUBSET_000003:
+  citation: []
+  crosstable_pk: 891
+  reason: 'Logic (rings) ?: has Nilpotents $\{0\}$ <=== ring is reduced'
+  ring: RING_000073
+  subset: $\{0\}$
+  subset_type: SUBSET_000003
+SUBSET_000004:
+  citation: []
+  crosstable_pk: 895
+  reason: 'Logic (rings) ?: has Idempotents $\{0,1\}$ <=== ring is strongly connected'
+  ring: RING_000073
+  subset: $\{0,1\}$
+  subset_type: SUBSET_000004
+SUBSET_000005:
+  citation: []
+  crosstable_pk: 892
+  reason: 'Logic (rings) ?: has Right singular ideal $\{0\}$ <=== ring is nonsingular
+    on the right'
+  ring: RING_000073
+  subset: $\{0\}$
+  subset_type: SUBSET_000005
+SUBSET_000006:
+  citation: []
+  crosstable_pk: 893
+  reason: 'Logic (rings) ?: has Left singular ideal $\{0\}$ <=== ring is nonsingular
+    on the left'
+  ring: RING_000073
+  subset: $\{0\}$
+  subset_type: SUBSET_000006
 SUBSET_000007:
   citation: []
   crosstable_pk: 620
@@ -21,3 +51,10 @@ SUBSET_000008:
   ring: RING_000073
   subset: $\{0\}$
   subset_type: SUBSET_000008
+SUBSET_000009:
+  citation: []
+  crosstable_pk: 894
+  reason: 'Logic (rings) ?: has Zero divisors $\{0\}$ <=== ring is domain'
+  ring: RING_000073
+  subset: $\{0\}$
+  subset_type: SUBSET_000009
