@@ -858,3 +858,8 @@ RINGRELATION_000172:
   note: ''
   relation_type: SUBRING_OF
   second: RING_000192
+RINGRELATION_000173:
+  first: RING_000193
+  note: ''
+  relation_type: SUBRING_OF
+  second: RING_000007

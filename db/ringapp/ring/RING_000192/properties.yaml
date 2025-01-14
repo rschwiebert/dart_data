@@ -517,6 +517,17 @@ PROP_000050:
   reason_left: 'Logic (rings) 102: \( "semiregular" \) <=== \( "semiperfect" \).'
   reason_right: 'Logic (rings) 102: \( "semiregular" \) <=== \( "semiperfect" \).'
   ring: RING_000192
+PROP_000051:
+  citation_left: []
+  citation_right: []
+  crosstable_pk: 29819
+  has_on_left: false
+  has_on_right: false
+  property: PROP_000051
+  reason_left: 'relationlogic.dl: ring=192 lacks property=51 because ring=165 lacks
+    property=51 and is SUBRING_OF ring=192'
+  reason_right: symmetry with left side
+  ring: RING_000192
 PROP_000052:
   citation_left: []
   citation_right: []
