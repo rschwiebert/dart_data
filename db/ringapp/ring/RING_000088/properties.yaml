@@ -1203,13 +1203,13 @@ PROP_000124:
   ring: RING_000088
 PROP_000125:
   citation_left:
-  - CITE_000136
+  - CITE_000649
   citation_right: []
   crosstable_pk: 10521
-  has_on_left: false
-  has_on_right: false
+  has_on_left: true
+  has_on_right: true
   property: PROP_000125
-  reason_left: It has a homomorphic image that isn't Hilbert
+  reason_left: Jacobson since $|\mathbb R|> \aleph_0$
   reason_right: symmetry with left side
   ring: RING_000088
 PROP_000126:
