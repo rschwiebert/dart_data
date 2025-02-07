@@ -1452,6 +1452,17 @@ PROP_000141:
   reason_left: 'Logic 354: J-2 ===> J-1'
   reason_right: 'Logic 354: J-2 ===> J-1'
   ring: RING_000077
+PROP_000142:
+  citation_left: []
+  citation_right: []
+  crosstable_pk: 30080
+  has_on_left: true
+  has_on_right: true
+  property: PROP_000142
+  reason_left: 'Logic (rings) 355: \( "J-0" \) <=== \( "J-1" \) AND \( "reduced" \).'
+  reason_right: 'Logic (rings) 355: \( "J-0" \) <=== \( "J-1" \) AND \( "reduced"
+    \).'
+  ring: RING_000077
 PROP_000143:
   citation_left: []
   citation_right: []
@@ -1582,6 +1593,16 @@ PROP_000156:
   property: PROP_000156
   reason_left: 'Logic 418: reversible ===> McCoy on the left and right'
   reason_right: symmetry with left side
+  ring: RING_000077
+PROP_000157:
+  citation_left: []
+  citation_right: []
+  crosstable_pk: 30081
+  has_on_left: true
+  has_on_right: true
+  property: PROP_000157
+  reason_left: 'Logic (rings) logical AND: ring_deduced("has",2,Y) <=== ring_deduced("has",1,Y).'
+  reason_right: 'Logic (rings) logical AND: ring_deduced("has",3,Y) <=== ring_deduced("has",1,Y).'
   ring: RING_000077
 PROP_000158:
   citation_left: []

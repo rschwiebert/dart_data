@@ -1053,6 +1053,17 @@ PROP_000105:
   reason_right: 'Logic (rings) 458: \(NOT "uniform" on the right\) <=== \(NOT "strongly
     connected" \).'
   ring: RING_000176
+PROP_000107:
+  citation_left: []
+  citation_right: []
+  crosstable_pk: 30171
+  has_on_left: null
+  has_on_right: true
+  property: PROP_000107
+  reason_left: null
+  reason_right: 'Logic (rings) 575: \( "simple-injective" on the right\) <=== \(NOT
+    "nonzero socle" on the right\).'
+  ring: RING_000176
 PROP_000108:
   citation_left: []
   citation_right: []

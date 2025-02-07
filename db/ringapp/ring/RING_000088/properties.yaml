@@ -48,6 +48,18 @@ PROP_000005:
   reason_left: 'Logic 22: semisimple ===> principal ideal ring on the left and right'
   reason_right: 'Logic 22: semisimple ===> principal ideal ring on the left and right'
   ring: RING_000088
+PROP_000006:
+  citation_left: []
+  citation_right: []
+  crosstable_pk: 30090
+  has_on_left: true
+  has_on_right: true
+  property: PROP_000006
+  reason_left: 'Logic (rings) 561: \( "semiprimitive" \) <=== \( "reduced" \) AND
+    \( "nil radical" \).'
+  reason_right: 'Logic (rings) 561: \( "semiprimitive" \) <=== \( "reduced" \) AND
+    \( "nil radical" \).'
+  ring: RING_000088
 PROP_000007:
   citation_left: []
   citation_right: []
@@ -197,6 +209,30 @@ PROP_000020:
   reason_right: 'Logic 257: commutative and semiprimary ===> Kasch on the left and
     right'
   ring: RING_000088
+PROP_000021:
+  citation_left: []
+  citation_right: []
+  crosstable_pk: 30091
+  has_on_left: true
+  has_on_right: true
+  property: PROP_000021
+  reason_left: 'Logic (rings) 261: \( "nilpotent radical" \) <=== \( "semiprimitive"
+    \).'
+  reason_right: 'Logic (rings) 261: \( "nilpotent radical" \) <=== \( "semiprimitive"
+    \).'
+  ring: RING_000088
+PROP_000022:
+  citation_left: []
+  citation_right: []
+  crosstable_pk: 30092
+  has_on_left: true
+  has_on_right: true
+  property: PROP_000022
+  reason_left: 'Logic (rings) 413: \( "nil radical" \) <=== \( "commutative" \) AND
+    \( "rad-nil" \).'
+  reason_right: 'Logic (rings) 413: \( "nil radical" \) <=== \( "commutative" \) AND
+    \( "rad-nil" \).'
+  ring: RING_000088
 PROP_000023:
   citation_left: []
   citation_right: []
@@ -207,6 +243,18 @@ PROP_000023:
   reason_left: 'Logic 96: local ===> semiperfect'
   reason_right: 'Logic 96: local ===> semiperfect'
   ring: RING_000088
+PROP_000024:
+  citation_left: []
+  citation_right: []
+  crosstable_pk: 30088
+  has_on_left: false
+  has_on_right: false
+  property: PROP_000024
+  reason_left: 'Logic (rings) 103: \(NOT "semilocal" \) <=== \(NOT "semiperfect" \)
+    AND \( "lift/rad" \).'
+  reason_right: 'Logic (rings) 103: \(NOT "semilocal" \) <=== \(NOT "semiperfect"
+    \) AND \( "lift/rad" \).'
+  ring: RING_000088
 PROP_000025:
   citation_left: []
   citation_right: []
@@ -216,6 +264,16 @@ PROP_000025:
   property: PROP_000025
   reason_left: 'Logic 101: semiperfect ===> clean'
   reason_right: 'Logic 101: semiperfect ===> clean'
+  ring: RING_000088
+PROP_000026:
+  citation_left: []
+  citation_right: []
+  crosstable_pk: 30093
+  has_on_left: true
+  has_on_right: true
+  property: PROP_000026
+  reason_left: 'Logic (rings) 152: \( "lift/rad" \) <=== \( "nil radical" \).'
+  reason_right: 'Logic (rings) 152: \( "lift/rad" \) <=== \( "nil radical" \).'
   ring: RING_000088
 PROP_000028:
   citation_left: []
@@ -246,6 +304,18 @@ PROP_000030:
   property: PROP_000030
   reason_left: 'Logic 205: top simple Artinian ===> top simple'
   reason_right: 'Logic 205: top simple Artinian ===> top simple'
+  ring: RING_000088
+PROP_000031:
+  citation_left: []
+  citation_right: []
+  crosstable_pk: 30089
+  has_on_left: false
+  has_on_right: false
+  property: PROP_000031
+  reason_left: 'Logic (rings) 35: \(NOT "top regular" \) <=== \(NOT "von Neumann regular"
+    \) AND \( "semiprimitive" \).'
+  reason_right: 'Logic (rings) 35: \(NOT "top regular" \) <=== \(NOT "von Neumann
+    regular" \) AND \( "semiprimitive" \).'
   ring: RING_000088
 PROP_000032:
   citation_left: []
@@ -913,6 +983,17 @@ PROP_000096:
   reason_left: symmetry with right side
   reason_right: 'Logic 111: duo on the right ===> quasi-duo on the right'
   ring: RING_000088
+PROP_000097:
+  citation_left: []
+  citation_right: []
+  crosstable_pk: 30095
+  has_on_left: true
+  has_on_right: true
+  property: PROP_000097
+  reason_left: 'Logic (rings) logical AND: ring_deduced("has",2,Y) <=== ring_deduced("has",1,Y).'
+  reason_right: 'Logic (rings) 150: \( "T-nilpotent radical" on the right\) <=== \(
+    "nilpotent radical" \).'
+  ring: RING_000088
 PROP_000098:
   citation_left: []
   citation_right: []
@@ -1234,6 +1315,18 @@ PROP_000127:
   reason_left: 'Logic 319: Schreier domain ===> normal domain'
   reason_right: 'Logic 319: Schreier domain ===> normal domain'
   ring: RING_000088
+PROP_000128:
+  citation_left: []
+  citation_right: []
+  crosstable_pk: 30094
+  has_on_left: true
+  has_on_right: true
+  property: PROP_000128
+  reason_left: 'Logic (rings) 325: \( "rad-nil" \) <=== \( "2-primal" \) AND \( "Jacobson"
+    \).'
+  reason_right: 'Logic (rings) 325: \( "rad-nil" \) <=== \( "2-primal" \) AND \( "Jacobson"
+    \).'
+  ring: RING_000088
 PROP_000129:
   citation_left: []
   citation_right: []
@@ -1459,6 +1552,16 @@ PROP_000156:
   property: PROP_000156
   reason_left: 'Logic 418: reversible ===> McCoy on the left and right'
   reason_right: symmetry with left side
+  ring: RING_000088
+PROP_000157:
+  citation_left: []
+  citation_right: []
+  crosstable_pk: 30096
+  has_on_left: true
+  has_on_right: true
+  property: PROP_000157
+  reason_left: 'Logic (rings) logical AND: ring_deduced("has",2,Y) <=== ring_deduced("has",1,Y).'
+  reason_right: 'Logic (rings) logical AND: ring_deduced("has",3,Y) <=== ring_deduced("has",1,Y).'
   ring: RING_000088
 PROP_000158:
   citation_left: []

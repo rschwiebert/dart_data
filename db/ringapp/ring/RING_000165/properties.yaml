@@ -985,6 +985,18 @@ PROP_000104:
   reason_right: 'relationlogic.dl: ring=165 lacks property=104 on the right because
     ring=119 lacks property=104 on the right and is IMAGE_OF ring=165'
   ring: RING_000165
+PROP_000107:
+  citation_left: []
+  citation_right: []
+  crosstable_pk: 30160
+  has_on_left: true
+  has_on_right: true
+  property: PROP_000107
+  reason_left: 'Logic (rings) 575: \( "simple-injective" on the left\) <=== \(NOT
+    "nonzero socle" on the left\).'
+  reason_right: 'Logic (rings) 575: \( "simple-injective" on the right\) <=== \(NOT
+    "nonzero socle" on the right\).'
+  ring: RING_000165
 PROP_000108:
   citation_left: []
   citation_right: []
@@ -1311,6 +1323,16 @@ PROP_000156:
   has_on_left: true
   has_on_right: true
   property: PROP_000156
+  reason_left: 'Logic (rings) logical AND: ring_deduced("has",2,Y) <=== ring_deduced("has",1,Y).'
+  reason_right: 'Logic (rings) logical AND: ring_deduced("has",3,Y) <=== ring_deduced("has",1,Y).'
+  ring: RING_000165
+PROP_000157:
+  citation_left: []
+  citation_right: []
+  crosstable_pk: 30161
+  has_on_left: true
+  has_on_right: true
+  property: PROP_000157
   reason_left: 'Logic (rings) logical AND: ring_deduced("has",2,Y) <=== ring_deduced("has",1,Y).'
   reason_right: 'Logic (rings) logical AND: ring_deduced("has",3,Y) <=== ring_deduced("has",1,Y).'
   ring: RING_000165

@@ -313,6 +313,18 @@ PROP_000032:
   reason_left: 'Logic 195: semicommutative  (SI condition, zero-insertive) ===> 2-primal'
   reason_right: 'Logic 195: semicommutative  (SI condition, zero-insertive) ===> 2-primal'
   ring: RING_000121
+PROP_000033:
+  citation_left: []
+  citation_right: []
+  crosstable_pk: 30118
+  has_on_left: false
+  has_on_right: false
+  property: PROP_000033
+  reason_left: 'Logic (rings) 573: \(NOT "NI ring" \) <=== \( "simple" \) AND \(NOT
+    "reduced" \).'
+  reason_right: 'Logic (rings) 573: \(NOT "NI ring" \) <=== \( "simple" \) AND \(NOT
+    "reduced" \).'
+  ring: RING_000121
 PROP_000034:
   citation_left: []
   citation_right: []
@@ -754,6 +766,18 @@ PROP_000080:
   reason_right: 'Logic 77: quasi-Frobenius <==> Noetherian on the right and self-injective
     on the right'
   ring: RING_000121
+PROP_000081:
+  citation_left: []
+  citation_right: []
+  crosstable_pk: 30119
+  has_on_left: false
+  has_on_right: false
+  property: PROP_000081
+  reason_left: 'Logic (rings) 92: \(NOT "Kasch" on the left\) <=== \(NOT "nonzero
+    socle" on the left\).'
+  reason_right: 'Logic (rings) 92: \(NOT "Kasch" on the right\) <=== \(NOT "nonzero
+    socle" on the right\).'
+  ring: RING_000121
 PROP_000082:
   citation_left: []
   citation_right: []
@@ -914,6 +938,18 @@ PROP_000097:
   reason_right: 'Logic 150: nilpotent radical ===> T-nilpotent radical on the left
     and right and T-nilpotent radical on the right'
   ring: RING_000121
+PROP_000098:
+  citation_left: []
+  citation_right: []
+  crosstable_pk: 30120
+  has_on_left: false
+  has_on_right: false
+  property: PROP_000098
+  reason_left: 'Logic (rings) 154: \(NOT "simple socle" on the left\) <=== \(NOT "nonzero
+    socle" on the left\).'
+  reason_right: 'Logic (rings) 154: \(NOT "simple socle" on the right\) <=== \(NOT
+    "nonzero socle" on the right\).'
+  ring: RING_000121
 PROP_000099:
   citation_left: []
   citation_right: []
@@ -925,6 +961,18 @@ PROP_000099:
     socle on the right'
   reason_right: 'Logic 115: finite uniform dimension on the right ===> finitely generated
     socle on the right'
+  ring: RING_000121
+PROP_000100:
+  citation_left: []
+  citation_right: []
+  crosstable_pk: 30121
+  has_on_left: false
+  has_on_right: false
+  property: PROP_000100
+  reason_left: 'Logic (rings) 572: \(NOT "nonzero socle" on the left\) <=== \( "simple"
+    \) AND \(NOT "semisimple" \).'
+  reason_right: 'Logic (rings) 572: \(NOT "nonzero socle" on the right\) <=== \( "simple"
+    \) AND \(NOT "semisimple" \).'
   ring: RING_000121
 PROP_000101:
   citation_left: []
@@ -972,6 +1020,18 @@ PROP_000104:
     <==> distributive on the right and reduced'
   reason_right: 'Logic 224: distributive on the right and nonsingular on the right
     <==> distributive on the right and reduced'
+  ring: RING_000121
+PROP_000107:
+  citation_left: []
+  citation_right: []
+  crosstable_pk: 30122
+  has_on_left: true
+  has_on_right: true
+  property: PROP_000107
+  reason_left: 'Logic (rings) 575: \( "simple-injective" on the left\) <=== \(NOT
+    "nonzero socle" on the left\).'
+  reason_right: 'Logic (rings) 575: \( "simple-injective" on the right\) <=== \(NOT
+    "nonzero socle" on the right\).'
   ring: RING_000121
 PROP_000108:
   citation_left: []

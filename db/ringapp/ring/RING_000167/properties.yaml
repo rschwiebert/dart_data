@@ -1063,6 +1063,18 @@ PROP_000106:
   reason_right: 'Logic (rings) 55: \( "Ikeda-Nakayama" on the right\) <=== \( "Ore
     domain" on the right\).'
   ring: RING_000167
+PROP_000107:
+  citation_left: []
+  citation_right: []
+  crosstable_pk: 30165
+  has_on_left: true
+  has_on_right: true
+  property: PROP_000107
+  reason_left: 'Logic (rings) 575: \( "simple-injective" on the left\) <=== \(NOT
+    "nonzero socle" on the left\).'
+  reason_right: 'Logic (rings) 575: \( "simple-injective" on the right\) <=== \(NOT
+    "nonzero socle" on the right\).'
+  ring: RING_000167
 PROP_000108:
   citation_left: []
   citation_right: []
@@ -1393,6 +1405,16 @@ PROP_000156:
   reason_left: 'Logic (rings) 422: \( "McCoy" on the left\) <=== \( "duo" on the left\).'
   reason_right: 'Logic (rings) 422: \( "McCoy" on the right\) <=== \( "duo" on the
     right\).'
+  ring: RING_000167
+PROP_000157:
+  citation_left: []
+  citation_right: []
+  crosstable_pk: 30166
+  has_on_left: true
+  has_on_right: true
+  property: PROP_000157
+  reason_left: 'Logic (rings) logical AND: ring_deduced("has",2,Y) <=== ring_deduced("has",1,Y).'
+  reason_right: 'Logic (rings) logical AND: ring_deduced("has",3,Y) <=== ring_deduced("has",1,Y).'
   ring: RING_000167
 PROP_000158:
   citation_left: []

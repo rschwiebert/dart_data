@@ -1,5 +1,6 @@
 active: true
-citation: []
+citation:
+- CITE_000650
 concs: ring_deduced("has",0,27)
 hyps: ring_deduced("has",0,45)
 readable: ring is strongly $\pi$-regular ===> ring is stable range 1

@@ -1060,6 +1060,17 @@ PROP_000106:
     right'
   reason_right: null
   ring: RING_000019
+PROP_000107:
+  citation_left: []
+  citation_right: []
+  crosstable_pk: 30053
+  has_on_left: true
+  has_on_right: null
+  property: PROP_000107
+  reason_left: 'Logic (rings) 575: \( "simple-injective" on the left\) <=== \(NOT
+    "nonzero socle" on the left\).'
+  reason_right: null
+  ring: RING_000019
 PROP_000108:
   citation_left: []
   citation_right: []

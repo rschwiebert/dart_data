@@ -1172,6 +1172,16 @@ PROP_000154:
   reason_right: 'Logic 414: valuation domain on the right ===> Bezout domain on the
     right'
   ring: RING_000026
+PROP_000155:
+  citation_left: []
+  citation_right: []
+  crosstable_pk: 30055
+  has_on_left: false
+  has_on_right: false
+  property: PROP_000155
+  reason_left: 'Logic (rings) 576: \(NOT "Armendariz" \) <=== \(NOT "Abelian" \).'
+  reason_right: 'Logic (rings) 576: \(NOT "Armendariz" \) <=== \(NOT "Abelian" \).'
+  ring: RING_000026
 PROP_000159:
   citation_left: []
   citation_right: []

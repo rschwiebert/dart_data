@@ -1004,6 +1004,17 @@ PROP_000104:
   reason_right: 'Logic 226: distributive on the left or right and perfect on the left
     or right ===> semiprimary'
   ring: RING_000044
+PROP_000107:
+  citation_left: []
+  citation_right: []
+  crosstable_pk: 30063
+  has_on_left: null
+  has_on_right: true
+  property: PROP_000107
+  reason_left: null
+  reason_right: 'Logic (rings) 575: \( "simple-injective" on the right\) <=== \(NOT
+    "nonzero socle" on the right\).'
+  ring: RING_000044
 PROP_000111:
   citation_left: []
   citation_right: []

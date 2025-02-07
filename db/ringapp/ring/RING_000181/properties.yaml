@@ -1009,6 +1009,18 @@ PROP_000105:
   reason_right: 'Logic (rings) 458: \(NOT "uniform" on the right\) <=== \(NOT "strongly
     connected" \).'
   ring: RING_000181
+PROP_000107:
+  citation_left: []
+  citation_right: []
+  crosstable_pk: 30173
+  has_on_left: true
+  has_on_right: true
+  property: PROP_000107
+  reason_left: 'Logic (rings) 575: \( "simple-injective" on the left\) <=== \(NOT
+    "nonzero socle" on the left\).'
+  reason_right: 'Logic (rings) 575: \( "simple-injective" on the right\) <=== \(NOT
+    "nonzero socle" on the right\).'
+  ring: RING_000181
 PROP_000111:
   citation_left: []
   citation_right: []
@@ -1402,6 +1414,16 @@ PROP_000154:
     "domain" \).'
   reason_right: 'Logic (rings) 425: \(NOT "uniserial domain" on the right\) <=== \(NOT
     "domain" \).'
+  ring: RING_000181
+PROP_000155:
+  citation_left: []
+  citation_right: []
+  crosstable_pk: 30172
+  has_on_left: false
+  has_on_right: false
+  property: PROP_000155
+  reason_left: 'Logic (rings) 576: \(NOT "Armendariz" \) <=== \(NOT "Abelian" \).'
+  reason_right: 'Logic (rings) 576: \(NOT "Armendariz" \) <=== \(NOT "Abelian" \).'
   ring: RING_000181
 PROP_000157:
   citation_left: []

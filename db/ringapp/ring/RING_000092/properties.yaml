@@ -1350,6 +1350,16 @@ PROP_000156:
   reason_left: 'Logic 418: reversible ===> McCoy on the left and right'
   reason_right: symmetry with left side
   ring: RING_000092
+PROP_000157:
+  citation_left: []
+  citation_right: []
+  crosstable_pk: 30100
+  has_on_left: true
+  has_on_right: true
+  property: PROP_000157
+  reason_left: 'Logic (rings) logical AND: ring_deduced("has",2,Y) <=== ring_deduced("has",1,Y).'
+  reason_right: 'Logic (rings) logical AND: ring_deduced("has",3,Y) <=== ring_deduced("has",1,Y).'
+  ring: RING_000092
 PROP_000158:
   citation_left: []
   citation_right: []

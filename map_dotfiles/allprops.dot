@@ -11,7 +11,7 @@ subgraph cluster_01 {
     "left and right" -> "all these " [color=blue shape=rectangle]
 }
 
-    label=<All ring properties<br/>(© Database of Ring Theory; Last updated 2024-10-10)>
+    label=<All ring properties<br/>(© Database of Ring Theory; Last updated 2025-02-07)>
     URL="https://ringtheory.herokuapp.com/";
     labelloc=top;
 
@@ -112,7 +112,8 @@ subgraph cluster_01 {
 	"pseudo-Frobenius" -> "finitely pseudo-Frobenius" [color=green]
 	exchange -> potent [color=black]
 	semisimple -> Frobenius [color=black]
-	Abelian -> "Dedekind finite" [color=black]
+	Abelian -> "IC ring" [color=black]
+	"IC ring" -> "Dedekind finite" [color=black]
 	"von Neumann regular" -> "principally injective" [color=black]
 	finite -> countable [color=black]
 	domain -> reduced [color=black]
@@ -222,6 +223,7 @@ subgraph cluster_01 {
 	"PCI ring" -> hereditary [color=black]
 	hereditary -> semihereditary [color=green]
 	"simple socle" -> "finitely generated socle" [color=green]
+	"division ring" -> "simple socle" [color=black]
 	semilocal -> "stable range 1" [color=black]
 	semisimple -> "unit regular" [color=black]
 	primitive -> semiprimitive [color=black]
@@ -234,4 +236,8 @@ subgraph cluster_01 {
     McCoy -> "Dedekind finite" [color=black]
 	simple -> nonsingular [color=blue]
     Armendariz -> Abelian [color=black]
+    "UGP ring" -> "IC ring" [color=black]
+    domain -> "UGP ring" [color=black]
+    local -> "UGP ring" [color=black]
+    "stable range 1" -> "UGP ring" [color=black]
 }

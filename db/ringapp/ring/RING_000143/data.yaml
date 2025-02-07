@@ -1,8 +1,8 @@
 citation:
 - CITE_000545
-description: Let $A$ be <a href="/rings/ring/142/">$R_{142}$</a> constructed using
-  $\mathbb Q$.  $A$ has a left ideal $L$ with projective dimension $1$.  The desired
-  ring is the triangular ring $R=\begin{bmatrix}A & A/L \\ 0 &\mathbb Q\end{bmatrix}$
+description: Let $A$ be <a href="/rings/ring/142/">$R_{142}$</a>.  $A$ has a left
+  ideal $L$ with projective dimension $1$.  The desired ring is the triangular ring
+  $R=\begin{bmatrix}A & A/L \\ 0 &\mathbb Q\end{bmatrix}$
 is_commutative: false
 keywords:
 - KWD_000004
