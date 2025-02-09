@@ -874,6 +874,17 @@ PROP_000147:
   reason_right: 'Logic (rings) 382: \(NOT "PCI ring" on the right\) <=== \(NOT "hereditary"
     on the left and right\).'
   ring: RING_000143
+PROP_000149:
+  citation_left: []
+  citation_right: []
+  crosstable_pk: 30352
+  has_on_left: false
+  has_on_right: false
+  property: PROP_000149
+  reason_left: 'relationlogic.dl: ring=143 lacks property=149 because ring=142 lacks
+    property=149 and is IMAGE_OF ring=143'
+  reason_right: symmetry with left side
+  ring: RING_000143
 PROP_000150:
   citation_left: []
   citation_right: []

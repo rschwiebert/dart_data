@@ -1,6 +1,7 @@
 citation: []
 commutative_only: false
-definition: There exists an element of $\mathbb Z\langle x_1,\ldots x_n\rangle$ for
-  which any set of $n$ ring elements satisfies the polynomials
+definition: There exists an element $P$ of $\mathbb Z\langle x_1,\ldots x_n\rangle$
+  which has at least one coefficient $1$ and for which any set of $n$ ring elements
+  $\{r_1,\ldots,r_n\}$ satisfies $P(r_1,\ldots,\r_n)=0$.
 name: polynomial identity
 symmetric: true
