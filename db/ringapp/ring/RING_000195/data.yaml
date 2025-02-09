@@ -1,0 +1,13 @@
+citation:
+- CITE_000654
+- CITE_000655
+description: $R = \begin{bmatrix}\Bbb Z & \Bbb Z/(2) & \Bbb Z & \Bbb Z/(2) \\ 0 &
+  \Bbb Z/(2) & 0 & \Bbb Z/(2) \\ 0 & 0 & \Bbb Z & 0 \\ 0 & 0 & 0 & \Bbb Z/(2) \end{bmatrix}$
+is_commutative: false
+keywords:
+- KWD_000015
+- KWD_000004
+krull_dim: (unknown)
+name: Small's Noetherian, non-Ore ring
+notes: null
+optional_template: ''

@@ -1056,6 +1056,17 @@ PROP_000124:
   reason_left: 'Logic (rings) 293: \(NOT "atomic domain" \) <=== \(NOT "domain" \).'
   reason_right: 'Logic (rings) 293: \(NOT "atomic domain" \) <=== \(NOT "domain" \).'
   ring: RING_000147
+PROP_000125:
+  citation_left: []
+  citation_right: []
+  crosstable_pk: 30353
+  has_on_left: false
+  has_on_right: false
+  property: PROP_000125
+  reason_left: 'relationlogic.dl: ring=147 lacks property=125 because ring=144 lacks
+    property=125 and is IMAGE_OF ring=147'
+  reason_right: symmetry with left side
+  ring: RING_000147
 PROP_000126:
   citation_left: []
   citation_right: []

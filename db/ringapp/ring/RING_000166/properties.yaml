@@ -1095,6 +1095,17 @@ PROP_000122:
   reason_right: 'Logic (rings) 283: \(NOT "Mori domain" \) <=== \(NOT "commutative"
     \).'
   ring: RING_000166
+PROP_000125:
+  citation_left: []
+  citation_right: []
+  crosstable_pk: 30354
+  has_on_left: false
+  has_on_right: false
+  property: PROP_000125
+  reason_left: 'relationlogic.dl: ring=166 lacks property=125 because ring=128 lacks
+    property=125 and is IMAGE_OF ring=166'
+  reason_right: symmetry with left side
+  ring: RING_000166
 PROP_000129:
   citation_left: []
   citation_right: []

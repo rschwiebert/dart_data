@@ -1,0 +1,37 @@
+SUBSET_000001:
+  citation: []
+  crosstable_pk: 921
+  reason: null
+  ring: RING_000195
+  subset: Subset of strictly upper triangular matrices
+  subset_type: SUBSET_000001
+SUBSET_000003:
+  citation: []
+  crosstable_pk: 922
+  reason: null
+  ring: RING_000195
+  subset: Subset of strictly upper triangular matrices
+  subset_type: SUBSET_000003
+SUBSET_000007:
+  citation: []
+  crosstable_pk: 924
+  reason: null
+  ring: RING_000195
+  subset: $ \begin{bmatrix}0 & 0 & 0 & \Bbb Z/(2) \\ 0 & 0 & 0 & \Bbb Z/(2) \\ 0 &
+    0 & 0  & 0 \\ 0 & 0 & 0 & \Bbb Z/(2) \end{bmatrix}$
+  subset_type: SUBSET_000007
+SUBSET_000008:
+  citation: []
+  crosstable_pk: 925
+  reason: null
+  ring: RING_000195
+  subset: $\begin{bmatrix}0 & \Bbb Z/(2) & 0 & \Bbb Z/(2) \\ 0 & 0 & 0 & 0 \\ 0 &
+    0 & 0 & 0 \\ 0 & 0 & 0 & 0 \end{bmatrix}$
+  subset_type: SUBSET_000008
+SUBSET_000011:
+  citation: []
+  crosstable_pk: 923
+  reason: null
+  ring: RING_000195
+  subset: Subset of strictly upper triangular matrices
+  subset_type: SUBSET_000011
