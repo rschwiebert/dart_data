@@ -278,6 +278,16 @@ PROP_000026:
   reason_left: 'Logic (rings) 152: \( "lift/rad" \) <=== \( "nil radical" \).'
   reason_right: 'Logic (rings) 152: \( "lift/rad" \) <=== \( "nil radical" \).'
   ring: RING_000165
+PROP_000027:
+  citation_left: []
+  citation_right: []
+  crosstable_pk: 30647
+  has_on_left: false
+  has_on_right: false
+  property: PROP_000027
+  reason_left: Use $X=1+x, A=1-x, B=x^2$
+  reason_right: symmetry with left side
+  ring: RING_000165
 PROP_000028:
   citation_left: []
   citation_right: []

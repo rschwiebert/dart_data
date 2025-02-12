@@ -873,3 +873,33 @@ RINGRELATION_000175:
   note: ''
   relation_type: IMAGE_OF
   second: RING_000195
+RINGRELATION_000177:
+  first: RING_000165
+  note: ''
+  relation_type: IMAGE_OF
+  second: RING_000196
+RINGRELATION_000178:
+  first: RING_000197
+  note: ''
+  relation_type: MATRIX_RING_OF
+  second: RING_000196
+RINGRELATION_000179:
+  first: RING_000012
+  note: ''
+  relation_type: MATRIX_RING_OF
+  second: RING_000002
+RINGRELATION_000180:
+  first: RING_000196
+  note: ''
+  relation_type: CORNER_OF
+  second: RING_000197
+RINGRELATION_000181:
+  first: RING_000190
+  note: ''
+  relation_type: CORNER_OF
+  second: RING_000191
+RINGRELATION_000182:
+  first: RING_000186
+  note: ''
+  relation_type: CORNER_OF
+  second: RING_000187
