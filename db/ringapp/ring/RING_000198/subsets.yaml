@@ -1,0 +1,60 @@
+SUBSET_000001:
+  citation: []
+  crosstable_pk: 934
+  reason: 'Logic (rings) ?: has Jacobson radical $\{0\}$ <=== ring is semiprimitive'
+  ring: RING_000198
+  subset: $\{0\}$
+  subset_type: SUBSET_000001
+SUBSET_000003:
+  citation: []
+  crosstable_pk: 927
+  reason: 'Logic (rings) ?: has Nilpotents $\{0\}$ <=== ring is reduced'
+  ring: RING_000198
+  subset: $\{0\}$
+  subset_type: SUBSET_000003
+SUBSET_000004:
+  citation: []
+  crosstable_pk: 933
+  reason: 'Logic (rings) ?: has Idempotents $\{0,1\}$ <=== ring is strongly connected'
+  ring: RING_000198
+  subset: $\{0,1\}$
+  subset_type: SUBSET_000004
+SUBSET_000005:
+  citation: []
+  crosstable_pk: 928
+  reason: 'Logic (rings) ?: has Right singular ideal $\{0\}$ <=== ring is nonsingular
+    on the right'
+  ring: RING_000198
+  subset: $\{0\}$
+  subset_type: SUBSET_000005
+SUBSET_000006:
+  citation: []
+  crosstable_pk: 929
+  reason: 'Logic (rings) ?: has Left singular ideal $\{0\}$ <=== ring is nonsingular
+    on the left'
+  ring: RING_000198
+  subset: $\{0\}$
+  subset_type: SUBSET_000006
+SUBSET_000007:
+  citation: []
+  crosstable_pk: 930
+  reason: 'Logic (rings) ?: has Right socle $\{0\}$ <=== ring is not nonzero socle
+    on the right'
+  ring: RING_000198
+  subset: $\{0\}$
+  subset_type: SUBSET_000007
+SUBSET_000008:
+  citation: []
+  crosstable_pk: 931
+  reason: 'Logic (rings) ?: has Left socle $\{0\}$ <=== ring is not nonzero socle
+    on the left'
+  ring: RING_000198
+  subset: $\{0\}$
+  subset_type: SUBSET_000008
+SUBSET_000009:
+  citation: []
+  crosstable_pk: 932
+  reason: 'Logic (rings) ?: has Zero divisors $\{0\}$ <=== ring is domain'
+  ring: RING_000198
+  subset: $\{0\}$
+  subset_type: SUBSET_000009

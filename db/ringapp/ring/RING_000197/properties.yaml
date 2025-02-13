@@ -235,6 +235,17 @@ PROP_000023:
   reason_right: 'Logic (rings) 380: \(NOT "local" \) <=== \(NOT "strongly connected"
     \).'
   ring: RING_000197
+PROP_000024:
+  citation_left: []
+  citation_right: []
+  crosstable_pk: 30886
+  has_on_left: false
+  has_on_right: false
+  property: PROP_000024
+  reason_left: 'relationlogic.dl: ring=197 lacks property=24 because ring=196 lacks
+    property=24 and is MORITA_EQ_TO ring=197'
+  reason_right: symmetry with left side
+  ring: RING_000197
 PROP_000025:
   citation_left: []
   citation_right: []
@@ -397,6 +408,17 @@ PROP_000048:
     property=48 and is CORNER_OF ring=197'
   reason_right: symmetry with left side
   ring: RING_000197
+PROP_000050:
+  citation_left: []
+  citation_right: []
+  crosstable_pk: 30887
+  has_on_left: false
+  has_on_right: false
+  property: PROP_000050
+  reason_left: 'relationlogic.dl: ring=197 lacks property=50 because ring=196 lacks
+    property=50 and is MORITA_EQ_TO ring=197'
+  reason_right: symmetry with left side
+  ring: RING_000197
 PROP_000053:
   citation_left: []
   citation_right: []
@@ -522,6 +544,18 @@ PROP_000063:
   reason_left: 'Logic (rings) logical OR: ring_deduced("lacks",2,Y) <=== ring_deduced("lacks",4,Y).'
   reason_right: 'Logic (rings) logical OR: ring_deduced("lacks",3,Y) <=== ring_deduced("lacks",4,Y).'
   ring: RING_000197
+PROP_000064:
+  citation_left: []
+  citation_right: []
+  crosstable_pk: 30888
+  has_on_left: false
+  has_on_right: false
+  property: PROP_000064
+  reason_left: 'relationlogic.dl: ring=197 lacks property=64 on the left because ring=196
+    lacks property=64 on the left and is MORITA_EQ_TO ring=197'
+  reason_right: 'relationlogic.dl: ring=197 lacks property=64 on the right because
+    ring=196 lacks property=64 on the right and is MORITA_EQ_TO ring=197'
+  ring: RING_000197
 PROP_000065:
   citation_left: []
   citation_right: []
@@ -558,6 +592,30 @@ PROP_000069:
   reason_right: 'Logic (rings) 56: \(NOT "Ore domain" on the right\) <=== \(NOT "Ore
     ring" on the right\).'
   ring: RING_000197
+PROP_000070:
+  citation_left: []
+  citation_right: []
+  crosstable_pk: 30889
+  has_on_left: false
+  has_on_right: false
+  property: PROP_000070
+  reason_left: 'relationlogic.dl: ring=197 lacks property=70 on the left because ring=196
+    lacks property=70 on the left and is MORITA_EQ_TO ring=197'
+  reason_right: 'relationlogic.dl: ring=197 lacks property=70 on the right because
+    ring=196 lacks property=70 on the right and is MORITA_EQ_TO ring=197'
+  ring: RING_000197
+PROP_000071:
+  citation_left: []
+  citation_right: []
+  crosstable_pk: 30890
+  has_on_left: false
+  has_on_right: false
+  property: PROP_000071
+  reason_left: 'relationlogic.dl: ring=197 lacks property=71 on the left because ring=196
+    lacks property=71 on the left and is MORITA_EQ_TO ring=197'
+  reason_right: 'relationlogic.dl: ring=197 lacks property=71 on the right because
+    ring=196 lacks property=71 on the right and is MORITA_EQ_TO ring=197'
+  ring: RING_000197
 PROP_000074:
   citation_left: []
   citation_right: []
@@ -589,6 +647,18 @@ PROP_000076:
     "local" \).'
   reason_right: 'Logic (rings) 414: \(NOT "uniserial ring" on the right\) <=== \(NOT
     "local" \).'
+  ring: RING_000197
+PROP_000080:
+  citation_left: []
+  citation_right: []
+  crosstable_pk: 30891
+  has_on_left: false
+  has_on_right: false
+  property: PROP_000080
+  reason_left: 'relationlogic.dl: ring=197 lacks property=80 on the left because ring=196
+    lacks property=80 on the left and is MORITA_EQ_TO ring=197'
+  reason_right: 'relationlogic.dl: ring=197 lacks property=80 on the right because
+    ring=196 lacks property=80 on the right and is MORITA_EQ_TO ring=197'
   ring: RING_000197
 PROP_000082:
   citation_left: []

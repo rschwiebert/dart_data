@@ -1,0 +1,11 @@
+citation:
+- CITE_000660
+description: The ring of $2\times 2$ matrices over the ring $\mathbb H[X]$.
+is_commutative: false
+keywords:
+- KWD_000015
+- KWD_000002
+krull_dim: (unknown)
+name: $M_2(\mathbb H[X])$
+notes: null
+optional_template: ''

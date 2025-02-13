@@ -1,0 +1,12 @@
+citation:
+- CITE_000661
+description: $M_3(S)$ where $S=$<a href="/rings/ring/202">$R_{202}$</a>
+is_commutative: false
+keywords:
+- KWD_000015
+- KWD_000002
+- KWD_000003
+krull_dim: (unknown)
+name: Non-IC matrix ring over an IC ring
+notes: null
+optional_template: ''
