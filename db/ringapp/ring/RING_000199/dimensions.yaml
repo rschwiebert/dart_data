@@ -1,0 +1,11 @@
+DIM_000004:
+  citation: []
+  crosstable_pk: 458
+  dimension_type: DIM_000004
+  left_dimension: '1'
+  reason_left: 'Logic (rings) 479: has global dimension 1 on the left <=== ring is
+    hereditary on the left AND ring is not semisimple'
+  reason_right: 'Logic (rings) 479: has global dimension 1 on the right <=== ring
+    is hereditary on the right AND ring is not semisimple'
+  right_dimension: '1'
+  ring: RING_000199

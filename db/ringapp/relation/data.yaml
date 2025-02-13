@@ -903,3 +903,88 @@ RINGRELATION_000182:
   note: ''
   relation_type: CORNER_OF
   second: RING_000187
+RINGRELATION_000183:
+  first: RING_000007
+  note: ''
+  relation_type: SUBRING_OF
+  second: RING_000198
+RINGRELATION_000184:
+  first: RING_000005
+  note: ''
+  relation_type: SUBRING_OF
+  second: RING_000198
+RINGRELATION_000185:
+  first: RING_000005
+  note: ''
+  relation_type: IMAGE_OF
+  second: RING_000198
+RINGRELATION_000186:
+  first: RING_000198
+  note: ''
+  relation_type: POLYNOMIAL_RING_OF
+  second: RING_000005
+RINGRELATION_000187:
+  first: RING_000199
+  note: ''
+  relation_type: MATRIX_RING_OF
+  second: RING_000198
+RINGRELATION_000188:
+  first: RING_000198
+  note: ''
+  relation_type: CORNER_OF
+  second: RING_000199
+RINGRELATION_000189:
+  first: RING_000198
+  note: ''
+  relation_type: SUBRING_OF
+  second: RING_000199
+RINGRELATION_000190:
+  first: RING_000199
+  note: ''
+  relation_type: MORITA_EQ_TO
+  second: RING_000198
+RINGRELATION_000191:
+  first: RING_000197
+  note: ''
+  relation_type: MORITA_EQ_TO
+  second: RING_000196
+RINGRELATION_000192:
+  first: RING_000199
+  note: ''
+  relation_type: SUBRING_OF
+  second: RING_000201
+RINGRELATION_000193:
+  first: RING_000201
+  note: ''
+  relation_type: POLYNOMIAL_RING_OF
+  second: RING_000199
+RINGRELATION_000194:
+  first: RING_000202
+  note: ''
+  relation_type: IMAGE_OF
+  second: RING_000088
+RINGRELATION_000195:
+  first: RING_000091
+  note: ''
+  relation_type: IMAGE_OF
+  second: RING_000202
+RINGRELATION_000196:
+  first: RING_000203
+  note: ''
+  relation_type: MATRIX_RING_OF
+  second: RING_000202
+RINGRELATION_000197:
+  first: RING_000202
+  note: ''
+  relation_type: CORNER_OF
+  second: RING_000203
+RINGRELATION_000198:
+  first: RING_000202
+  note: ''
+  relation_type: SUBRING_OF
+  second: RING_000203
+RINGRELATION_000199:
+  first: RING_000203
+  note: ''
+  relation_type: MORITA_EQ_TO
+  second: RING_000202

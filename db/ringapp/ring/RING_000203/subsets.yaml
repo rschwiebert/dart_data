@@ -1,0 +1,39 @@
+SUBSET_000001:
+  citation: []
+  crosstable_pk: 948
+  reason: 'Logic (rings) ?: has Jacobson radical $\{0\}$ <=== ring is semiprimitive'
+  ring: RING_000203
+  subset: $\{0\}$
+  subset_type: SUBSET_000001
+SUBSET_000005:
+  citation: []
+  crosstable_pk: 949
+  reason: 'Logic (rings) ?: has Right singular ideal $\{0\}$ <=== ring is nonsingular
+    on the right'
+  ring: RING_000203
+  subset: $\{0\}$
+  subset_type: SUBSET_000005
+SUBSET_000006:
+  citation: []
+  crosstable_pk: 950
+  reason: 'Logic (rings) ?: has Left singular ideal $\{0\}$ <=== ring is nonsingular
+    on the left'
+  ring: RING_000203
+  subset: $\{0\}$
+  subset_type: SUBSET_000006
+SUBSET_000007:
+  citation: []
+  crosstable_pk: 951
+  reason: 'Logic (rings) ?: has Right socle $\{0\}$ <=== ring is not nonzero socle
+    on the right'
+  ring: RING_000203
+  subset: $\{0\}$
+  subset_type: SUBSET_000007
+SUBSET_000008:
+  citation: []
+  crosstable_pk: 952
+  reason: 'Logic (rings) ?: has Left socle $\{0\}$ <=== ring is not nonzero socle
+    on the left'
+  ring: RING_000203
+  subset: $\{0\}$
+  subset_type: SUBSET_000008

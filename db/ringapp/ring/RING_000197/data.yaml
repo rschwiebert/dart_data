@@ -1,8 +1,8 @@
 citation: []
 description: $R=M_2(S)$ where $S=$<a href="/rings/ring/196">$R_{196}$</a>
-is_commutative: null
+is_commutative: false
 keywords: []
-krull_dim: null
+krull_dim: (unknown)
 name: Non-Ore matrix ring over an Ore base ring
 notes: null
 optional_template: ''

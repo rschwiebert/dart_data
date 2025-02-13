@@ -1,0 +1,12 @@
+citation:
+- CITE_000661
+description: $\mathbb R[X,Y,Z]/(X^2+Y^2+Z^2-1)$, a.k.a. the coordinate ring for the
+  real 2-sphere
+is_commutative: true
+keywords:
+- KWD_000002
+- KWD_000003
+krull_dim: (unknown)
+name: $\mathbb R[X,Y,Z]/(X^2+Y^2+Z^2-1)$
+notes: null
+optional_template: ''

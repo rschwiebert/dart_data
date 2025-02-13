@@ -1,0 +1,11 @@
+citation:
+- CITE_000660
+description: The ring is $S[Y]$ where $S=$<a href="/rings/ring/199">$R_{199}$</a>
+is_commutative: false
+keywords:
+- KWD_000015
+- KWD_000002
+krull_dim: null
+name: Non-IC polynomial ring over an IC ring
+notes: null
+optional_template: ''
