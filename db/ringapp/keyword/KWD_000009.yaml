@@ -1,4 +1,4 @@
 description: 'Given a commutative ring $R$ and an $R$ module $M$, the underlying set
   is $R\times M$. Addition: $(r,m)+(r'',m'')=(r+r'', m+m'')$. Multiplication: $(r,m)(r'',m'')=(rr'',
-  rm''+r''m)$'
+  rm''+mr'')$'
 name: trivial extension

@@ -10,6 +10,7 @@ description: 'Let $S = \mathbb Q[\ldots, x_{-1}, x_0, x_1, \ldots]$, $I = ( \{ x
   skew polynomial ring $R=T[x; \sigma]$.'
 is_commutative: false
 keywords:
+- KWD_000074
 - KWD_000027
 krull_dim: null
 name: Ram's Ore extension ring

@@ -1,4 +1,4 @@
 description: 'Given a commutative ring $R$ and a (possibly nonunital) ring $S$ which
   is an $R$ module, the underlying set is $R\times S$. Addition: $(r,s)+(r'',s'')=(r+r'',
-  s+s'')$. Multiplication: $(r,s)(r'',s'')=(rr'', rs''+r''s+ss'')$'
+  s+s'')$. Multiplication: $(r,s)(r'',s'')=(rr'', rs''+sr''+ss'')$'
 name: Dorroh extension

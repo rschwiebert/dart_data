@@ -9,8 +9,8 @@ description: Let $X$ be an infinite set and let $M$ be the monoid with zero give
   derivation.
 is_commutative: false
 keywords:
-- KWD_000069
 - KWD_000068
+- KWD_000069
 krull_dim: null
 name: Leavitt path algebra of an infinite bouquet of circles
 notes: null
