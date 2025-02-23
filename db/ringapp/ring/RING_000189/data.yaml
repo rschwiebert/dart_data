@@ -1,7 +1,11 @@
 citation:
 - CITE_000636
-description: A member of the family of either Theorem 6.8 or of 6.9 will do (need
-  to pick.)
+description: 'Let $X$ be an uncountable set (specifically, we take a set of cardinality
+  continuum) and $F(X)$ be the collection of all nonempty finite subsets of $X$. Construct
+  the directed graph $G$ whose vertex set is $F(X)$, and there is an edge from $s_1$
+  to $s_2$ if and only if $s_1 \subsetneq s_2$. Take $L(G)$ to be the (non-unital)
+  Leavitt path $\Bbb Q$-algebra on $G$. The ring is the Dorroh extension of $L(G)$
+  as a $\Bbb Q$-algebra:   $D(\mathbb Q, L(G))$'
 is_commutative: false
 keywords:
 - KWD_000020
