@@ -439,6 +439,27 @@ PROP_000050:
   reason_right: 'Logic (rings) 132: \( "semiregular" \) <=== \( "lift/rad" \) AND
     \( "top regular" \).'
   ring: RING_000188
+PROP_000052:
+  citation_left:
+  - CITE_000665
+  citation_right: []
+  crosstable_pk: 31461
+  has_on_left: true
+  has_on_right: true
+  property: PROP_000052
+  reason_left: null
+  reason_right: symmetry with left side
+  ring: RING_000188
+PROP_000053:
+  citation_left: []
+  citation_right: []
+  crosstable_pk: 31462
+  has_on_left: true
+  has_on_right: true
+  property: PROP_000053
+  reason_left: 'Logic (rings) 133: \( "weakly clean" \) <=== \( "clean" \).'
+  reason_right: 'Logic (rings) 133: \( "weakly clean" \) <=== \( "clean" \).'
+  ring: RING_000188
 PROP_000054:
   citation_left: []
   citation_right: []
@@ -625,6 +646,20 @@ PROP_000069:
   reason_right: 'Logic (rings) 273: \(NOT "Ore domain" on the right\) <=== \(NOT "domain"
     \).'
   ring: RING_000188
+PROP_000070:
+  citation_left:
+  - CITE_000666
+  citation_right:
+  - CITE_000666
+  crosstable_pk: 31463
+  has_on_left: false
+  has_on_right: false
+  property: PROP_000070
+  reason_left: Does not satisfy any of the criteria in Dicks' theorem on hereditary
+    group rings
+  reason_right: Does not satisfy any of the criteria in Dicks' theorem on hereditary
+    group rings
+  ring: RING_000188
 PROP_000071:
   citation_left: []
   citation_right: []
@@ -703,6 +738,16 @@ PROP_000078:
     "Kasch" on the left\).'
   reason_right: 'Logic (rings) 84: \(NOT "pseudo-Frobenius" on the right\) <=== \(NOT
     "Kasch" on the right\).'
+  ring: RING_000188
+PROP_000080:
+  citation_left: []
+  citation_right: []
+  crosstable_pk: 31460
+  has_on_left: false
+  has_on_right: false
+  property: PROP_000080
+  reason_left: To be self-injective it would be necessary for the group to be finite.
+  reason_right: To be self-injective it would be necessary for the group to be finite.
   ring: RING_000188
 PROP_000081:
   citation_left: []

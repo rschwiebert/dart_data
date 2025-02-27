@@ -1,11 +1,18 @@
 citation:
 - CITE_000634
-description: A group algebra using the field $\mathbb Q$ and a group to be described
-  on the details page.
+description: 'Consider the binary representations of nonnegative integers. Let $\sigma_i$:
+  $\Bbb N \to \Bbb N$ be the mapping that changes the $i$-th bit in the representations.
+  The set $\{\sigma_i: i = 0, 1, \ldots\}$ generates a countable Abelian group $H$.
+  Take a set $\Lambda$ of cardinality larger than continuum and form the direct sum
+  $A = \bigoplus\limits_{i \in \Bbb N, \,\lambda \in \Lambda} A_{i\lambda}$, where
+  $A_{i\lambda} = \langle a_{i\lambda}\rangle$ are cyclic groups of order $2$. For
+  each $h \in H$, the map $a_{i\lambda} \mapsto a_{h(i) \lambda}$ extends to an automorphism
+  $\varphi_h$ of the group $A$. The ring is $\Bbb QG$, where $G$ is the semidirect
+  product $A \rtimes H$.'
 is_commutative: false
 keywords:
 - KWD_000021
 krull_dim: (unknown)
 name: Domanov's prime, nonprimitive, von Neumann regular ring
-notes: null
+notes: $G$ here is a locally finite solvable group of derived length 2
 optional_template: ''
