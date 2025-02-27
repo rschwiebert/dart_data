@@ -1,0 +1,11 @@
+alias: Dunwoody's theorem on projectivity of the augmentation ideal
+categories:
+- THMCAT_000004
+citation:
+- CITE_000668
+- CITE_000667
+commutative_only: false
+link: null
+statement: If the augmentation ideal of $R[G]$ is projective then $G$ is the fundamental
+  group of some connected graph of finite groups having no $R$-torsion. (First proven
+  for commutative rings, but indeed true in general.)

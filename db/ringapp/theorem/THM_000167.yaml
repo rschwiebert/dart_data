@@ -1,0 +1,10 @@
+alias: When a group ring is linearly compact or algebraically compact
+categories:
+- THMCAT_000003
+citation:
+- CITE_000669
+commutative_only: false
+link: null
+statement: A group ring $R[G]$ is right linearly compact (resp. right algebraically
+  compact) if and only if $R$ is right linearly compact (resp right algebraically
+  compact) and $|G|$ is finite.
