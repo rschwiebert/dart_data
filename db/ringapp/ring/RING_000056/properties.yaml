@@ -52,6 +52,18 @@ PROP_000005:
   reason_right: 'Logic 272: semisimple <==> hereditary on the right and self-injective
     on the right'
   ring: RING_000056
+PROP_000006:
+  citation_left: []
+  citation_right: []
+  crosstable_pk: 31654
+  has_on_left: false
+  has_on_right: false
+  property: PROP_000006
+  reason_left: 'Logic (rings) 261: \(NOT "semiprimitive" \) <=== \(NOT "semiprime"
+    \).'
+  reason_right: 'Logic (rings) 261: \(NOT "semiprimitive" \) <=== \(NOT "semiprime"
+    \).'
+  ring: RING_000056
 PROP_000008:
   citation_left: []
   citation_right: []
@@ -64,6 +76,16 @@ PROP_000008:
   reason_right: 'Logic 279: division ring <==> domain and nonzero socle on the left
     or right'
   ring: RING_000056
+PROP_000009:
+  citation_left: []
+  citation_right: []
+  crosstable_pk: 31655
+  has_on_left: false
+  has_on_right: false
+  property: PROP_000009
+  reason_left: 'Logic (rings) 29: \(NOT "prime" \) <=== \(NOT "semiprime" \).'
+  reason_right: 'Logic (rings) 29: \(NOT "prime" \) <=== \(NOT "semiprime" \).'
+  ring: RING_000056
 PROP_000010:
   citation_left: []
   citation_right: []
@@ -72,6 +94,16 @@ PROP_000010:
   has_on_right: false
   property: PROP_000010
   reason_left: The trivial extension always has a nilpotent ideal.
+  reason_right: symmetry with left side
+  ring: RING_000056
+PROP_000011:
+  citation_left: []
+  citation_right: []
+  crosstable_pk: 31653
+  has_on_left: false
+  has_on_right: false
+  property: PROP_000011
+  reason_left: In the trivial extension, the module part is a nonzero nilpotent ideal
   reason_right: symmetry with left side
   ring: RING_000056
 PROP_000012:
@@ -115,6 +147,28 @@ PROP_000015:
   property: PROP_000015
   reason_left: 'Logic 142: semi free ideal ring ===> domain'
   reason_right: 'Logic 142: semi free ideal ring ===> domain'
+  ring: RING_000056
+PROP_000016:
+  citation_left: []
+  citation_right: []
+  crosstable_pk: 31656
+  has_on_left: false
+  has_on_right: false
+  property: PROP_000016
+  reason_left: 'Logic (rings) 143: \(NOT "fully semiprime" \) <=== \(NOT "semiprime"
+    \).'
+  reason_right: 'Logic (rings) 143: \(NOT "fully semiprime" \) <=== \(NOT "semiprime"
+    \).'
+  ring: RING_000056
+PROP_000017:
+  citation_left: []
+  citation_right: []
+  crosstable_pk: 31657
+  has_on_left: false
+  has_on_right: false
+  property: PROP_000017
+  reason_left: 'Logic (rings) 144: \(NOT "fully prime" \) <=== \(NOT "prime" \).'
+  reason_right: 'Logic (rings) 144: \(NOT "fully prime" \) <=== \(NOT "prime" \).'
   ring: RING_000056
 PROP_000018:
   citation_left: []
@@ -389,6 +443,26 @@ PROP_000069:
   reason_left: 'Logic 56: Ore domain on the right <==> Ore ring on the right and domain'
   reason_right: 'Logic 56: Ore domain on the right <==> Ore ring on the right and
     domain'
+  ring: RING_000056
+PROP_000074:
+  citation_left: []
+  citation_right: []
+  crosstable_pk: 31658
+  has_on_left: false
+  has_on_right: false
+  property: PROP_000074
+  reason_left: 'Logic (rings) logical OR: ring_deduced("lacks",2,Y) <=== ring_deduced("lacks",4,Y).'
+  reason_right: 'Logic (rings) logical OR: ring_deduced("lacks",3,Y) <=== ring_deduced("lacks",4,Y).'
+  ring: RING_000056
+PROP_000075:
+  citation_left: []
+  citation_right: []
+  crosstable_pk: 31659
+  has_on_left: false
+  has_on_right: false
+  property: PROP_000075
+  reason_left: 'Logic (rings) logical OR: ring_deduced("lacks",2,Y) <=== ring_deduced("lacks",4,Y).'
+  reason_right: 'Logic (rings) logical OR: ring_deduced("lacks",3,Y) <=== ring_deduced("lacks",4,Y).'
   ring: RING_000056
 PROP_000078:
   citation_left: []
@@ -865,11 +939,12 @@ PROP_000147:
   citation_right: []
   crosstable_pk: 19166
   has_on_left: false
-  has_on_right: null
+  has_on_right: false
   property: PROP_000147
   reason_left: 'Logic (rings) 382: \(NOT "PCI ring" on the left\) <=== \(NOT "Noetherian"
     on the left\).'
-  reason_right: null
+  reason_right: 'Logic (rings) 382: \(NOT "PCI ring" on the right\) <=== \(NOT "V
+    ring" on the right\).'
   ring: RING_000056
 PROP_000151:
   citation_left: []

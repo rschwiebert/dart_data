@@ -2,9 +2,9 @@ citation:
 - CITE_000461
 description: For a sequence of non-negative integers $\{n_i\}$ such that $n_0 = 0$
   and $n_r \ge 2 n_{r-1} + 2$, take a transcendental element $z_0 \in \Bbb Z_2$ of
-  form $z_0 = \sum\limits_{r = 0}^\infty a_r 2^{n_r}$, where $a_r \in \{1, \ldots,
-  2-1\}$. Set $z_{r + 1} = (z_r - a_r) / 2^{n_r}$. The ring is $\Bbb Z[2 (z_0 - a_0),
-  \{(z_i - a_i)^2 | i = 0, 1, \ldots\}] \subset \Bbb Z_2$.
+  form $z_0 = \sum\limits_{r = 0}^\infty  2^{n_r}$. Set $z_{r + 1} = (z_r - 1) / (2^{n_{r+1}
+  - \sum_{i=0}^r n_r})$. The ring is $\Bbb Z[2 (z_0 - 1), \{(z_i - 1)^2 | i = 0, 1,
+  \ldots\}] \subset \Bbb Z_2$.
 is_commutative: true
 keywords:
 - KWD_000012
