@@ -1,10 +1,11 @@
 citation:
+- CITE_000664
 - CITE_000637
 description: $M_2(R_{190})$  using the base ring <a href="/rings/ring/190">$R_{190}$</a>
 is_commutative: false
 keywords:
 - KWD_000015
 krull_dim: (unknown)
-name: "Non \u03C0-regular matrix ring over a \u03C0-regular ring"
+name: "Non strongly \u03C0-regular matrix ring over a strongly \u03C0-regular ring"
 notes: null
 optional_template: ''
