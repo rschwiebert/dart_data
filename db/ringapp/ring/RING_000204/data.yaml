@@ -1,0 +1,10 @@
+citation:
+- CITE_000587
+description: The matrix ring $M_2(R_{169})$ over the ring <a href="/rings/ring/169">$R_{169}$</a>
+is_commutative: false
+keywords:
+- KWD_000015
+krull_dim: (unknown)
+name: Kerr's non-Goldie matrix ring
+notes: null
+optional_template: ''

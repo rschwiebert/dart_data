@@ -993,3 +993,23 @@ RINGRELATION_000200:
   note: ''
   relation_type: MORITA_EQ_TO
   second: RING_000002
+RINGRELATION_000201:
+  first: RING_000204
+  note: ''
+  relation_type: MATRIX_RING_OF
+  second: RING_000169
+RINGRELATION_000202:
+  first: RING_000169
+  note: ''
+  relation_type: CORNER_OF
+  second: RING_000204
+RINGRELATION_000203:
+  first: RING_000169
+  note: ''
+  relation_type: SUBRING_OF
+  second: RING_000204
+RINGRELATION_000204:
+  first: RING_000204
+  note: ''
+  relation_type: MORITA_EQ_TO
+  second: RING_000169
