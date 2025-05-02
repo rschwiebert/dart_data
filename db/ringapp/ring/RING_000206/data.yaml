@@ -1,0 +1,9 @@
+citation: []
+description: The Kronecker algebra is $\Gamma_2(\mathbb Z)$ is the triangular ring
+  $\begin{bmatrix}\mathbb Z & \mathbb Z\times \mathbb Z\\ 0&\mathbb Z\end{bmatrix}$
+is_commutative: false
+keywords: []
+krull_dim: (unknown)
+name: Kronecker algebra $\Gamma_2(\mathbb Z)$
+notes: Every ring is the endomorphism ring of some module over this ring.
+optional_template: ''

@@ -1013,3 +1013,8 @@ RINGRELATION_000204:
   note: ''
   relation_type: MORITA_EQ_TO
   second: RING_000169
+RINGRELATION_000205:
+  first: RING_000001
+  note: ''
+  relation_type: IMAGE_OF
+  second: RING_000206
