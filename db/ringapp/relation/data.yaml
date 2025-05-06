@@ -1018,3 +1018,8 @@ RINGRELATION_000205:
   note: ''
   relation_type: IMAGE_OF
   second: RING_000206
+RINGRELATION_000206:
+  first: RING_000030
+  note: ''
+  relation_type: IMAGE_OF
+  second: RING_000206
