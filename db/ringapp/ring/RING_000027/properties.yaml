@@ -1871,3 +1871,15 @@ PROP_000177:
   reason_right: 'Logic (rings) 552: \(NOT "semi-Artinian" on the right\) <=== \(NOT
     "essential socle" on the right\).'
   ring: RING_000027
+PROP_000178:
+  citation_left: []
+  citation_right: []
+  crosstable_pk: 32385
+  has_on_left: false
+  has_on_right: false
+  property: PROP_000178
+  reason_left: 'Logic (rings) 590: \(NOT "subdirectly irreducible" \) <=== \(NOT "field"
+    \) AND \( "commutative" \) AND \( "domain" \).'
+  reason_right: 'Logic (rings) 590: \(NOT "subdirectly irreducible" \) <=== \(NOT
+    "field" \) AND \( "commutative" \) AND \( "domain" \).'
+  ring: RING_000027

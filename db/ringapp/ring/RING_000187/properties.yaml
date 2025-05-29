@@ -264,6 +264,18 @@ PROP_000028:
   reason_right: 'Logic (rings) 176: \(NOT "primary" \) <=== \(NOT "nilpotent radical"
     \).'
   ring: RING_000187
+PROP_000030:
+  citation_left: []
+  citation_right: []
+  crosstable_pk: 32489
+  has_on_left: false
+  has_on_right: false
+  property: PROP_000030
+  reason_left: 'Logic (rings) 262: \(NOT "top simple Artinian" \) <=== \(NOT "semilocal"
+    \).'
+  reason_right: 'Logic (rings) 262: \(NOT "top simple Artinian" \) <=== \(NOT "semilocal"
+    \).'
+  ring: RING_000187
 PROP_000032:
   citation_left: []
   citation_right: []

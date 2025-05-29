@@ -1886,3 +1886,15 @@ PROP_000177:
   reason_right: 'Logic (rings) 551: \( "semi-Artinian" on the right\) <=== \( "perfect"
     on the left\).'
   ring: RING_000008
+PROP_000178:
+  citation_left: []
+  citation_right: []
+  crosstable_pk: 32375
+  has_on_left: true
+  has_on_right: true
+  property: PROP_000178
+  reason_left: 'Logic (rings) 580: \( "subdirectly irreducible" \) <=== \( "simple"
+    \).'
+  reason_right: 'Logic (rings) 580: \( "subdirectly irreducible" \) <=== \( "simple"
+    \).'
+  ring: RING_000008

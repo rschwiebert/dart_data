@@ -1749,3 +1749,15 @@ PROP_000177:
   reason_right: 'Logic (rings) 552: \(NOT "semi-Artinian" on the right\) <=== \(NOT
     "essential socle" on the right\).'
   ring: RING_000183
+PROP_000178:
+  citation_left: []
+  citation_right: []
+  crosstable_pk: 32486
+  has_on_left: true
+  has_on_right: true
+  property: PROP_000178
+  reason_left: 'Logic (rings) 580: \( "subdirectly irreducible" \) <=== \( "simple"
+    \).'
+  reason_right: 'Logic (rings) 580: \( "subdirectly irreducible" \) <=== \( "simple"
+    \).'
+  ring: RING_000183

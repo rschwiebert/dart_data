@@ -1531,3 +1531,15 @@ PROP_000175:
   reason_left: 'Logic (rings) 542: \(NOT "?-ring" \) <=== \(NOT "arithmetical" \).'
   reason_right: 'Logic (rings) 542: \(NOT "?-ring" \) <=== \(NOT "arithmetical" \).'
   ring: RING_000039
+PROP_000178:
+  citation_left: []
+  citation_right: []
+  crosstable_pk: 32393
+  has_on_left: false
+  has_on_right: false
+  property: PROP_000178
+  reason_left: 'Logic (rings) 579: \(NOT "subdirectly irreducible" \) <=== \(NOT "directly
+    irreducible" \).'
+  reason_right: 'Logic (rings) 579: \(NOT "subdirectly irreducible" \) <=== \(NOT
+    "directly irreducible" \).'
+  ring: RING_000039

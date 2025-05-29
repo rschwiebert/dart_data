@@ -1,4 +1,5 @@
-citation: []
+citation:
+- CITE_000677
 description: The Kronecker algebra is $\Gamma_2(\mathbb Z)$ is the triangular ring
   $\begin{bmatrix}\mathbb Z & \mathbb Z\times \mathbb Z\\ 0&\mathbb Z\end{bmatrix}$
 is_commutative: false

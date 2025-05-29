@@ -1,0 +1,8 @@
+active: true
+citation:
+- CITE_000683
+concs: ring_deduced("has",0,8)
+hyps: ring_deduced("has",0,178) AND ring_deduced("has",0,10)
+readable: ring is subdirectly irreducible AND ring is reduced ===> ring is domain
+symmetric: true
+variety: 0

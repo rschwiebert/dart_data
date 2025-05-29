@@ -1593,3 +1593,15 @@ PROP_000177:
   reason_right: 'Logic (rings) 555: \(NOT "semi-Artinian" on the right\) <=== \(NOT
     "T-nilpotent radical" on the left\).'
   ring: RING_000122
+PROP_000178:
+  citation_left: []
+  citation_right: []
+  crosstable_pk: 32447
+  has_on_left: true
+  has_on_right: true
+  property: PROP_000178
+  reason_left: 'Logic (rings) 581: \( "subdirectly irreducible" \) <=== \( "essential
+    socle" on the left\) AND \( "simple socle" on the left\).'
+  reason_right: 'Logic (rings) 581: \( "subdirectly irreducible" \) <=== \( "essential
+    socle" on the left\) AND \( "simple socle" on the left\).'
+  ring: RING_000122

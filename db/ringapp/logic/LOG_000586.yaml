@@ -1,0 +1,8 @@
+active: true
+citation:
+- CITE_000680
+concs: ring_deduced("has",0,178)
+hyps: ring_deduced("has",0,23) AND ring_deduced("has",0,19)
+readable: ring is local AND ring is quasi-Frobenius ===> ring is subdirectly irreducible
+symmetric: true
+variety: 0

@@ -1,0 +1,8 @@
+active: true
+citation: []
+concs: ring_deduced("has",1,74)
+hyps: ring_deduced("has",0,178) AND ring_deduced("has",0,6)
+readable: ring is subdirectly irreducible AND ring is semiprimitive ===> ring is primitive
+  on the left and right
+symmetric: true
+variety: 0

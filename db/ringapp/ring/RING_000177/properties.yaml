@@ -1708,3 +1708,15 @@ PROP_000176:
   reason_right: 'Logic (rings) 558: \( "semi-Noetherian" on the right\) <=== \( "max
     ring" on the right\).'
   ring: RING_000177
+PROP_000178:
+  citation_left: []
+  citation_right: []
+  crosstable_pk: 32481
+  has_on_left: false
+  has_on_right: false
+  property: PROP_000178
+  reason_left: 'Logic (rings) 579: \(NOT "subdirectly irreducible" \) <=== \(NOT "directly
+    irreducible" \).'
+  reason_right: 'Logic (rings) 579: \(NOT "subdirectly irreducible" \) <=== \(NOT
+    "directly irreducible" \).'
+  ring: RING_000177

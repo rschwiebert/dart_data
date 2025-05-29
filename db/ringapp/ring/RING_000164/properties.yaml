@@ -1922,3 +1922,17 @@ PROP_000177:
   reason_right: 'Logic (rings) 551: \( "semi-Artinian" on the right\) <=== \( "perfect"
     on the left\).'
   ring: RING_000164
+PROP_000178:
+  citation_left: []
+  citation_right: []
+  crosstable_pk: 32474
+  has_on_left: false
+  has_on_right: false
+  property: PROP_000178
+  reason_left: 'Logic (rings) 585: \(NOT "subdirectly irreducible" \) <=== \(NOT "simple
+    socle" on the left and right\) AND \( "commutative" \) AND \( "Artinian" on the
+    left or right\).'
+  reason_right: 'Logic (rings) 585: \(NOT "subdirectly irreducible" \) <=== \(NOT
+    "simple socle" on the left and right\) AND \( "commutative" \) AND \( "Artinian"
+    on the left or right\).'
+  ring: RING_000164

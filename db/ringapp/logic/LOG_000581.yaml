@@ -1,0 +1,8 @@
+active: true
+citation: []
+concs: ring_deduced("has",0,178)
+hyps: ring_deduced("has",2,101) AND ring_deduced("has",2,98)
+readable: ring is essential socle on the left AND ring is simple socle on the left
+  ===> ring is subdirectly irreducible
+symmetric: false
+variety: 0
