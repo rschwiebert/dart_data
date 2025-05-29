@@ -825,9 +825,12 @@ PROP_000080:
   has_on_left: false
   has_on_right: false
   property: PROP_000080
-  reason_left: symmetry with right side
-  reason_right: N.C. Norton, Generalizations of the theory of quasi-Frobenius rings
-    p  113
+  reason_left: 'Logic (rings) 587: \(NOT "self-injective" \) <=== \(NOT "cogenerator
+    ring" on the left and right\) AND \( "commutative" \) AND \( "subdirectly irreducible"
+    \).'
+  reason_right: 'Logic (rings) 587: \(NOT "self-injective" \) <=== \(NOT "cogenerator
+    ring" on the left and right\) AND \( "commutative" \) AND \( "subdirectly irreducible"
+    \).'
   ring: RING_000051
 PROP_000081:
   citation_left: []
@@ -1792,4 +1795,16 @@ PROP_000177:
     "T-nilpotent radical" on the right\).'
   reason_right: 'Logic (rings) 555: \(NOT "semi-Artinian" on the right\) <=== \(NOT
     "T-nilpotent radical" on the left\).'
+  ring: RING_000051
+PROP_000178:
+  citation_left: []
+  citation_right: []
+  crosstable_pk: 32399
+  has_on_left: true
+  has_on_right: true
+  property: PROP_000178
+  reason_left: 'Logic (rings) 581: \( "subdirectly irreducible" \) <=== \( "essential
+    socle" on the left\) AND \( "simple socle" on the left\).'
+  reason_right: 'Logic (rings) 581: \( "subdirectly irreducible" \) <=== \( "essential
+    socle" on the left\) AND \( "simple socle" on the left\).'
   ring: RING_000051

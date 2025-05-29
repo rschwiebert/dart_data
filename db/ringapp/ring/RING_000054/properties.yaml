@@ -820,8 +820,12 @@ PROP_000080:
   has_on_left: false
   has_on_right: false
   property: PROP_000080
-  reason_left: Quasi-Frobenius rings p 133
-  reason_right: symmetry with left side
+  reason_left: 'Logic (rings) 587: \(NOT "self-injective" \) <=== \(NOT "cogenerator
+    ring" on the left and right\) AND \( "commutative" \) AND \( "subdirectly irreducible"
+    \).'
+  reason_right: 'Logic (rings) 587: \(NOT "self-injective" \) <=== \(NOT "cogenerator
+    ring" on the left and right\) AND \( "commutative" \) AND \( "subdirectly irreducible"
+    \).'
   ring: RING_000054
 PROP_000081:
   citation_left: []
@@ -1682,4 +1686,16 @@ PROP_000177:
     "T-nilpotent radical" on the right\).'
   reason_right: 'Logic (rings) 555: \(NOT "semi-Artinian" on the right\) <=== \(NOT
     "T-nilpotent radical" on the left\).'
+  ring: RING_000054
+PROP_000178:
+  citation_left: []
+  citation_right: []
+  crosstable_pk: 32402
+  has_on_left: true
+  has_on_right: true
+  property: PROP_000178
+  reason_left: 'Logic (rings) 581: \( "subdirectly irreducible" \) <=== \( "essential
+    socle" on the left\) AND \( "simple socle" on the left\).'
+  reason_right: 'Logic (rings) 581: \( "subdirectly irreducible" \) <=== \( "essential
+    socle" on the left\) AND \( "simple socle" on the left\).'
   ring: RING_000054

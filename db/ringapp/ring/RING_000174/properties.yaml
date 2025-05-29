@@ -1563,3 +1563,15 @@ PROP_000175:
   reason_left: 'Logic (rings) 542: \(NOT "?-ring" \) <=== \(NOT "arithmetical" \).'
   reason_right: 'Logic (rings) 542: \(NOT "?-ring" \) <=== \(NOT "arithmetical" \).'
   ring: RING_000174
+PROP_000178:
+  citation_left: []
+  citation_right: []
+  crosstable_pk: 32479
+  has_on_left: true
+  has_on_right: true
+  property: PROP_000178
+  reason_left: 'Logic (rings) 588: \( "subdirectly irreducible" \) <=== \( "prime"
+    \) AND \( "nonzero socle" on the left\).'
+  reason_right: 'Logic (rings) 588: \( "subdirectly irreducible" \) <=== \( "prime"
+    \) AND \( "nonzero socle" on the left\).'
+  ring: RING_000174
