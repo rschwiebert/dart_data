@@ -3,6 +3,6 @@ citation: []
 concs: ring_deduced("has",3,83)
 hyps: ring_deduced("has",0,41) AND ring_deduced("has",3,95)
 readable: ring is Dedekind finite AND ring is principally injective on the right ===>
-  ring is cohopfian on the right
+  ring is co-Hopfian on the right
 symmetric: false
 variety: 0

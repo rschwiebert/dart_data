@@ -2,5 +2,5 @@ active: true
 citation: []
 concs: module_deduced("has",34)
 hyps: ring_deduced("has",2,83)
-readable: ring is cohopfian on the left  ===>  module is torsion-free
+readable: ring is co-Hopfian on the left  ===>  module is torsion-free
 variety: 0

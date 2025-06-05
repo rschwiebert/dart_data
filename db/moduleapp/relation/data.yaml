@@ -8,3 +8,8 @@ MODRELATION_000002:
   note: ''
   relation_type: SUBMOD_OF
   second: MOD_000006
+MODRELATION_000003:
+  first: MOD_000003
+  note: ''
+  relation_type: SUBMOD_OF
+  second: MOD_000022

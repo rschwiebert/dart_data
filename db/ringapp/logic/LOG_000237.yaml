@@ -3,6 +3,6 @@ citation:
 - CITE_000031
 concs: ring_deduced("has",3,83) AND ring_deduced("has",0,8)
 hyps: ring_deduced("has",0,2)
-readable: ring is division ring <==> ring is cohopfian on the right AND ring is domain
+readable: ring is division ring <==> ring is co-Hopfian on the right AND ring is domain
 symmetric: false
 variety: 1

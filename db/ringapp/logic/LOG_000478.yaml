@@ -2,6 +2,6 @@ active: true
 citation: []
 concs: ring_deduced("has",3,94)
 hyps: ring_deduced("has",3,83)
-readable: ring is cohopfian on the right ===> ring is Ore ring on the right
+readable: ring is co-Hopfian on the right ===> ring is Ore ring on the right
 symmetric: false
 variety: 0

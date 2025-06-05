@@ -2,7 +2,7 @@ active: true
 citation: []
 concs: ring_deduced("has",1,83)
 hyps: ring_deduced("has",1,80)
-readable: ring is self-injective on the left and right ===> ring is cohopfian on the
-  left and right
+readable: ring is self-injective on the left and right ===> ring is co-Hopfian on
+  the left and right
 symmetric: true
 variety: 0

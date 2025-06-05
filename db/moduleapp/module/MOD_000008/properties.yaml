@@ -78,6 +78,14 @@ MODPROP_000011:
   module: MOD_000008
   property: MODPROP_000011
   reason: Regular module of a Dedekind finite ring is Hopfian
+MODPROP_000012:
+  citation: []
+  crosstable_pk: 1249
+  has: false
+  module: MOD_000008
+  property: MODPROP_000012
+  reason: 'Logic (modules) 80: module(X ''coHopfian'') <=== module("has" ''$R_R$'')
+    AND ring(X ''coHopfian'' on the right).'
 MODPROP_000013:
   citation: []
   crosstable_pk: 172
