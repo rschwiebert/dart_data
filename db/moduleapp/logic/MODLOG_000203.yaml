@@ -1,0 +1,6 @@
+active: true
+citation: []
+concs: module_deduced("has",64)
+hyps: module_deduced("has",31)
+readable: module is indecomposable  ===>  module is Dedekind finite
+variety: 0

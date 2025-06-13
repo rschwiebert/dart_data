@@ -455,3 +455,19 @@ MODPROP_000063:
   module: MOD_000003
   property: MODPROP_000063
   reason: 'Logic (modules) 191: module("has" ''Bezout'') <=== module("has" ''uniserial'').'
+MODPROP_000064:
+  citation: []
+  crosstable_pk: 1348
+  has: true
+  module: MOD_000003
+  property: MODPROP_000064
+  reason: 'Logic (modules) 203: module("has" ''Dedekind finite'') <=== module("has"
+    ''indecomposable'').'
+MODPROP_000065:
+  citation: []
+  crosstable_pk: 1331
+  has: true
+  module: MOD_000003
+  property: MODPROP_000065
+  reason: 'Logic (modules) 201: module("has" ''divisible (regular element)'') <===
+    module("has" ''principally injective'').'

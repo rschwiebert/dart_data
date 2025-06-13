@@ -313,3 +313,11 @@ MODPROP_000063:
   property: MODPROP_000063
   reason: 'Logic (modules) 195: module("lacks" ''Bezout'') <=== module("lacks" ''uniserial'')
     AND ring("has" ''local'' ).'
+MODPROP_000064:
+  citation: []
+  crosstable_pk: 1329
+  has: false
+  module: MOD_000021
+  property: MODPROP_000064
+  reason: 'Logic (modules) 198: module("lacks" ''Dedekind finite'') <=== module("lacks"
+    ''Hopfian'') AND module("has" ''projective'').'

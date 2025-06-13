@@ -408,3 +408,11 @@ MODPROP_000058:
   property: MODPROP_000058
   reason: 'Logic (modules) 179: module("has" ''superfluous Jacobson radical'') <===
     module("has" ''Bass module'').'
+MODPROP_000064:
+  citation: []
+  crosstable_pk: 1314
+  has: true
+  module: MOD_000007
+  property: MODPROP_000064
+  reason: 'Logic (modules) 197: module("has" ''Dedekind finite'') <=== module("has"
+    ''Hopfian'').'

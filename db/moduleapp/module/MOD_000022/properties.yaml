@@ -78,6 +78,14 @@ MODPROP_000011:
   module: MOD_000022
   property: MODPROP_000011
   reason: $x\mapsto 3x$ is onto, but it is not injective.
+MODPROP_000012:
+  citation: []
+  crosstable_pk: 1306
+  has: true
+  module: MOD_000022
+  property: MODPROP_000012
+  reason: "An injection restricts to isomorphisms on the Pr\xFCfer $p$ subgroups,\
+    \ so the image of the injection covers their sum"
 MODPROP_000013:
   citation: []
   crosstable_pk: 1269
@@ -421,3 +429,19 @@ MODPROP_000063:
   module: MOD_000022
   property: MODPROP_000063
   reason: null
+MODPROP_000064:
+  citation: []
+  crosstable_pk: 1350
+  has: true
+  module: MOD_000022
+  property: MODPROP_000064
+  reason: It's endomorphism ring, the profinite completion of the integers, is Dedekind
+    finite.
+MODPROP_000065:
+  citation: []
+  crosstable_pk: 1335
+  has: true
+  module: MOD_000022
+  property: MODPROP_000065
+  reason: 'Logic (modules) 201: module("has" ''divisible (regular element)'') <===
+    module("has" ''principally injective'').'

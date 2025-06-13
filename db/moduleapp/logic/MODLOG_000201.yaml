@@ -1,0 +1,6 @@
+active: true
+citation: []
+concs: module_deduced("has",65)
+hyps: module_deduced("has",20)
+readable: module is principally injective  ===>  module is divisible (regular element)
+variety: 0

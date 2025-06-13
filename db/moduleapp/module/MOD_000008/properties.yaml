@@ -416,3 +416,11 @@ MODPROP_000063:
   property: MODPROP_000063
   reason: 'Logic (modules) 192: module("has" ''Bezout'') <=== ring("has" ''Bezout''
     on the right) AND module("has" ''$R_R$'').'
+MODPROP_000064:
+  citation: []
+  crosstable_pk: 1315
+  has: true
+  module: MOD_000008
+  property: MODPROP_000064
+  reason: 'Logic (modules) 197: module("has" ''Dedekind finite'') <=== module("has"
+    ''Hopfian'').'

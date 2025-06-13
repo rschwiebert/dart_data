@@ -1,0 +1,8 @@
+citation: []
+description: 'The abelian group $\mathbb R/\mathbb Z$. It has several other identities:
+  the subgroup of $\mathbb C^\times$ of elements modulus $1$; or $U(1)$; or $SO(2)$;
+  or $\mathbb R\oplus \mathbb Q/\mathbb Z$.'
+name: '$\mathbb R/\mathbb Z$: the circle group'
+notes: null
+opposite_ring: false
+ring: 1

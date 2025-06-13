@@ -1,0 +1,7 @@
+active: true
+citation:
+- CITE_000047
+concs: module_deduced("has",64)
+hyps: module_deduced("has",11)
+readable: module is Hopfian  ===>  module is Dedekind finite
+variety: 0

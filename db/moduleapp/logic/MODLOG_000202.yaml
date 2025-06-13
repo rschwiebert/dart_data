@@ -1,0 +1,6 @@
+active: true
+citation: []
+concs: module_deduced("has",64)
+hyps: module_deduced("has",39) AND ring_deduced("has",0,41)
+readable: module is $R_R$ AND ring is Dedekind finite  ===>  module is Dedekind finite
+variety: 0

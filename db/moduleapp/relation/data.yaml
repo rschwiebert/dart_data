@@ -13,3 +13,13 @@ MODRELATION_000003:
   note: ''
   relation_type: SUBMOD_OF
   second: MOD_000022
+MODRELATION_000004:
+  first: MOD_000022
+  note: ''
+  relation_type: SUBMOD_OF
+  second: MOD_000023
+MODRELATION_000005:
+  first: MOD_000022
+  note: ''
+  relation_type: IMAGE_OF
+  second: MOD_000006

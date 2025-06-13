@@ -1,0 +1,6 @@
+active: true
+citation: []
+concs: module_deduced("has",13)
+hyps: module_deduced("has",48)
+readable: module is subdirectly irreducible  ===>  module is finitely cogenerated
+variety: 0

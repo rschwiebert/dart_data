@@ -149,6 +149,13 @@ MODPROP_000020:
   property: MODPROP_000020
   reason: 'Logic (modules) 66: module("lacks" ''principally injective'') <=== module("lacks"
     ''injective'') AND ring("has" ''principal ideal ring'' on the right).'
+MODPROP_000021:
+  citation: []
+  crosstable_pk: 1355
+  has: false
+  module: MOD_000011
+  property: MODPROP_000021
+  reason: Annihilated by the ideal $(x)/(x^2)$
 MODPROP_000022:
   citation: []
   crosstable_pk: 400
@@ -452,3 +459,20 @@ MODPROP_000063:
   module: MOD_000011
   property: MODPROP_000063
   reason: 'Logic (modules) 191: module("has" ''Bezout'') <=== module("has" ''uniserial'').'
+MODPROP_000064:
+  citation: []
+  crosstable_pk: 1320
+  has: true
+  module: MOD_000011
+  property: MODPROP_000064
+  reason: 'Logic (modules) 197: module("has" ''Dedekind finite'') <=== module("has"
+    ''Hopfian'').'
+MODPROP_000065:
+  citation: []
+  crosstable_pk: 1321
+  has: true
+  module: MOD_000011
+  property: MODPROP_000065
+  reason: 'Logic (modules) 199: module("has" ''divisible (regular element)'') <===
+    ring("has" ''commutative'' ) AND module("has" ''co-Hopfian'') AND module("has"
+    ''torsion-free'').'

@@ -72,6 +72,22 @@ MODPROP_000010:
   property: MODPROP_000010
   reason: 'Logic (modules) 9: module("lacks" ''cyclic'') <=== module("lacks" ''finitely
     generated'').'
+MODPROP_000011:
+  citation: []
+  crosstable_pk: 1345
+  has: false
+  module: MOD_000016
+  property: MODPROP_000011
+  reason: 'Logic (modules) 197: module("lacks" ''Hopfian'') <=== module("lacks" ''Dedekind
+    finite'').'
+MODPROP_000012:
+  citation: []
+  crosstable_pk: 1346
+  has: false
+  module: MOD_000016
+  property: MODPROP_000012
+  reason: 'Logic (modules) 29: module("lacks" ''co-Hopfian'') <=== module("lacks"
+    ''Hopfian'') AND module("has" ''projective'').'
 MODPROP_000013:
   citation: []
   crosstable_pk: 794
@@ -394,3 +410,10 @@ MODPROP_000062:
   property: MODPROP_000062
   reason: 'Logic (modules) 189: module("lacks" ''top semisimple'') <=== module("lacks"
     ''semisimple'') AND module("has" ''Jacobson semisimple'').'
+MODPROP_000064:
+  citation: []
+  crosstable_pk: 1344
+  has: false
+  module: MOD_000016
+  property: MODPROP_000064
+  reason: Obviously $M\cong \mathbb Z\oplus M$

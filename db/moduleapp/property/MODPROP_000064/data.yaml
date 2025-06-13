@@ -1,0 +1,5 @@
+citation:
+- MODCITE_000047
+definition: $M$ is Dedekind finite if $M\cong M\oplus N$ implies $N=\{0\}$.  Equivalently,
+  $End(M_R)$ is a Dedekind finite ring.
+name: Dedekind finite

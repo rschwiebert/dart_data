@@ -1,3 +1,4 @@
-citation: []
+citation:
+- MODCITE_000046
 definition: Every surjective endomorphism of $M_R$ is invertible
 name: Hopfian

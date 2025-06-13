@@ -1,5 +1,7 @@
 citation: []
-description: The quotient group of $\mathbb Q/\mathbb Z$.
+description: "The quotient group $\\mathbb Q/\\mathbb Z$.  Also isomorphic to the\
+  \ sum of the Pr\xFCfer $p$ groups $\\oplus_p Z(p^\\infty)$ as $p$ ranges over all\
+  \ primes in $\\mathbb N$"
 name: $\mathbb Q/\mathbb Z$
 notes: null
 opposite_ring: false

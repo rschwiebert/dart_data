@@ -1,0 +1,7 @@
+active: true
+citation:
+- CITE_000047
+concs: module_deduced("has",11)
+hyps: module_deduced("has",6) AND module_deduced("has",64)
+readable: module is projective AND module is Dedekind finite  ===>  module is Hopfian
+variety: 0

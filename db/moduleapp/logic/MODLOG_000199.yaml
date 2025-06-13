@@ -1,0 +1,8 @@
+active: true
+citation:
+- CITE_000046
+concs: module_deduced("has",65)
+hyps: ring_deduced("has",0,1) AND module_deduced("has",12) AND module_deduced("has",34)
+readable: ring is commutative AND module is co-Hopfian AND module is torsion-free  ===>  module
+  is divisible (regular element)
+variety: 0

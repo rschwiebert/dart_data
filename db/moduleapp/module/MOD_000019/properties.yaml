@@ -456,3 +456,11 @@ MODPROP_000062:
   property: MODPROP_000062
   reason: 'Logic (modules) 186: module("has" ''top semisimple'') <=== module("has"
     ''linearly compact'').'
+MODPROP_000064:
+  citation: []
+  crosstable_pk: 1326
+  has: true
+  module: MOD_000019
+  property: MODPROP_000064
+  reason: 'Logic (modules) 197: module("has" ''Dedekind finite'') <=== module("has"
+    ''Hopfian'').'

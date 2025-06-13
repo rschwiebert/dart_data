@@ -103,6 +103,13 @@ MODPROP_000020:
   property: MODPROP_000020
   reason: 'Logic (modules) 38: module("has" ''principally injective'') <=== ring("has"
     ''von Neumann regular'' ).'
+MODPROP_000021:
+  citation: []
+  crosstable_pk: 1353
+  has: true
+  module: MOD_000015
+  property: MODPROP_000021
+  reason: null
 MODPROP_000024:
   citation: []
   crosstable_pk: 1044
@@ -328,3 +335,18 @@ MODPROP_000059:
   property: MODPROP_000059
   reason: 'Logic (modules) 181: module("has" ''Jacobson semisimple'') <=== module("has"
     ''semisimple'').'
+MODPROP_000063:
+  citation: []
+  crosstable_pk: 1351
+  has: true
+  module: MOD_000015
+  property: MODPROP_000063
+  reason: Is a submodule of its ring, which is strongly regular (hence Bezout)
+MODPROP_000065:
+  citation: []
+  crosstable_pk: 1334
+  has: true
+  module: MOD_000015
+  property: MODPROP_000065
+  reason: 'Logic (modules) 201: module("has" ''divisible (regular element)'') <===
+    module("has" ''principally injective'').'

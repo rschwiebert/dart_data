@@ -1,3 +1,4 @@
-citation: []
+citation:
+- MODCITE_000046
 definition: Every injective endomorphism of $M_R$ is invertible.
 name: co-Hopfian

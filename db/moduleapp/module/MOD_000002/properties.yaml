@@ -148,6 +148,13 @@ MODPROP_000020:
   property: MODPROP_000020
   reason: 'Logic (modules) 5: module(has ''principally injective'') <=== module(has
     ''injective'').'
+MODPROP_000021:
+  citation: []
+  crosstable_pk: 1354
+  has: true
+  module: MOD_000002
+  property: MODPROP_000021
+  reason: null
 MODPROP_000022:
   citation: []
   crosstable_pk: 446
@@ -441,3 +448,19 @@ MODPROP_000063:
   module: MOD_000002
   property: MODPROP_000063
   reason: 'Logic (modules) 191: module("has" ''Bezout'') <=== module("has" ''uniserial'').'
+MODPROP_000064:
+  citation: []
+  crosstable_pk: 1308
+  has: true
+  module: MOD_000002
+  property: MODPROP_000064
+  reason: 'Logic (modules) 197: module("has" ''Dedekind finite'') <=== module("has"
+    ''Hopfian'').'
+MODPROP_000065:
+  citation: []
+  crosstable_pk: 1330
+  has: true
+  module: MOD_000002
+  property: MODPROP_000065
+  reason: 'Logic (modules) 201: module("has" ''divisible (regular element)'') <===
+    module("has" ''principally injective'').'

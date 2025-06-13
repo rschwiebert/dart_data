@@ -1,0 +1,280 @@
+MODPROP_000002:
+  citation: []
+  crosstable_pk: 1337
+  has: false
+  module: MOD_000023
+  property: MODPROP_000002
+  reason: 'Logic (modules) 26: module("lacks" ''Noetherian'') <=== module("lacks"
+    ''Hopfian'').'
+MODPROP_000003:
+  citation: []
+  crosstable_pk: 1338
+  has: false
+  module: MOD_000023
+  property: MODPROP_000003
+  reason: 'Logic (modules) 22: module("lacks" ''finitely generated'') <=== module("lacks"
+    ''Noetherian'') AND ring("has" ''Noetherian'' on the right).'
+MODPROP_000004:
+  citation: []
+  crosstable_pk: 1290
+  has: false
+  module: MOD_000023
+  property: MODPROP_000004
+  reason: 'Logic (modules) 44: module("lacks" ''simple'') <=== module("lacks" ''indecomposable'').'
+MODPROP_000006:
+  citation: []
+  crosstable_pk: 1291
+  has: false
+  module: MOD_000023
+  property: MODPROP_000006
+  reason: 'Logic (modules) 4: module("lacks" ''projective'') <=== module("lacks" ''flat'').'
+MODPROP_000007:
+  citation: []
+  crosstable_pk: 1281
+  has: true
+  module: MOD_000023
+  property: MODPROP_000007
+  reason: Direct sum of injective groups (which is injective since $\mathbb Z$ is
+    noetherian)
+MODPROP_000008:
+  citation: []
+  crosstable_pk: 1292
+  has: false
+  module: MOD_000023
+  property: MODPROP_000008
+  reason: 'Logic (modules) 54: module("lacks" ''flat'') <=== module("lacks" ''torsion-free'').'
+MODPROP_000009:
+  citation: []
+  crosstable_pk: 1293
+  has: false
+  module: MOD_000023
+  property: MODPROP_000009
+  reason: 'Logic (modules) 3: module("lacks" ''free'') <=== module("lacks" ''projective'').'
+MODPROP_000010:
+  citation: []
+  crosstable_pk: 1339
+  has: false
+  module: MOD_000023
+  property: MODPROP_000010
+  reason: 'Logic (modules) 9: module("lacks" ''cyclic'') <=== module("lacks" ''finitely
+    generated'').'
+MODPROP_000011:
+  citation: []
+  crosstable_pk: 1340
+  has: false
+  module: MOD_000023
+  property: MODPROP_000011
+  reason: 'Logic (modules) 200: module("lacks" ''Hopfian'') <=== module("lacks" ''torsion-free'')
+    AND ring("has" ''commutative'' ) AND module("has" ''divisible (regular element)'').'
+MODPROP_000014:
+  citation: []
+  crosstable_pk: 1341
+  has: false
+  module: MOD_000023
+  property: MODPROP_000014
+  reason: 'Logic (modules) 7: module("lacks" ''coherent'') <=== module("lacks" ''finitely
+    presented'').'
+MODPROP_000016:
+  citation: []
+  crosstable_pk: 1342
+  has: false
+  module: MOD_000023
+  property: MODPROP_000016
+  reason: 'Logic (modules) 14: module("lacks" ''finitely presented'') <=== module("lacks"
+    ''finitely generated'').'
+MODPROP_000018:
+  citation: []
+  crosstable_pk: 1294
+  has: false
+  module: MOD_000023
+  property: MODPROP_000018
+  reason: 'Logic (modules) 46: module("lacks" ''uniform'') <=== module("lacks" ''indecomposable'').'
+MODPROP_000019:
+  citation: []
+  crosstable_pk: 1295
+  has: false
+  module: MOD_000023
+  property: MODPROP_000019
+  reason: 'Logic (modules) 151: module("lacks" ''hollow'') <=== module("lacks" ''indecomposable'').'
+MODPROP_000020:
+  citation: []
+  crosstable_pk: 1283
+  has: true
+  module: MOD_000023
+  property: MODPROP_000020
+  reason: 'Logic (modules) 5: module("has" ''principally injective'') <=== module("has"
+    ''injective'').'
+MODPROP_000021:
+  citation: []
+  crosstable_pk: 1356
+  has: true
+  module: MOD_000023
+  property: MODPROP_000021
+  reason: null
+MODPROP_000024:
+  citation: []
+  crosstable_pk: 1296
+  has: false
+  module: MOD_000023
+  property: MODPROP_000024
+  reason: 'Logic (modules) 135: module("lacks" ''semi-reflexive'') <=== module("lacks"
+    ''torsion-free'') AND ring("has" ''domain'' ).'
+MODPROP_000025:
+  citation: []
+  crosstable_pk: 1297
+  has: false
+  module: MOD_000023
+  property: MODPROP_000025
+  reason: 'Logic (modules) 45: module("lacks" ''uniserial'') <=== module("lacks" ''indecomposable'').'
+MODPROP_000027:
+  citation: []
+  crosstable_pk: 1298
+  has: false
+  module: MOD_000023
+  property: MODPROP_000027
+  reason: 'Logic (modules) 17: module("lacks" ''reflexive'') <=== module("lacks" ''semi-reflexive'').'
+MODPROP_000028:
+  citation: []
+  crosstable_pk: 1343
+  has: false
+  module: MOD_000023
+  property: MODPROP_000028
+  reason: 'Logic (modules) 20: module("lacks" ''finite composition length'') <===
+    module("lacks" ''Noetherian'').'
+MODPROP_000029:
+  citation: []
+  crosstable_pk: 1299
+  has: false
+  module: MOD_000023
+  property: MODPROP_000029
+  reason: 'Logic (modules) 47: module("lacks" ''torsion (naive)'') <=== module("lacks"
+    ''torsion (regular element)'') AND ring("has" ''domain'' ).'
+MODPROP_000030:
+  citation: []
+  crosstable_pk: 1279
+  has: false
+  module: MOD_000023
+  property: MODPROP_000030
+  reason: It contains copies of $\mathbb Q$
+MODPROP_000031:
+  citation: []
+  crosstable_pk: 1282
+  has: false
+  module: MOD_000023
+  property: MODPROP_000031
+  reason: Decomposes as $\mathbb R\times \mathbb Q/\mathbb Z$.
+MODPROP_000032:
+  citation: []
+  crosstable_pk: 1300
+  has: false
+  module: MOD_000023
+  property: MODPROP_000032
+  reason: 'Logic (modules) 48: module("lacks" ''brick'') <=== module("lacks" ''strongly
+    indecomposable'').'
+MODPROP_000033:
+  citation: []
+  crosstable_pk: 1301
+  has: false
+  module: MOD_000023
+  property: MODPROP_000033
+  reason: 'Logic (modules) 49: module("lacks" ''strongly indecomposable'') <=== module("lacks"
+    ''indecomposable'').'
+MODPROP_000034:
+  citation: []
+  crosstable_pk: 1280
+  has: false
+  module: MOD_000023
+  property: MODPROP_000034
+  reason: has $\mathbb Q/\mathbb Z$ as a nontrivial torsion subgroup
+MODPROP_000038:
+  citation: []
+  crosstable_pk: 1284
+  has: true
+  module: MOD_000023
+  property: MODPROP_000038
+  reason: 'Logic (modules) 68: module("has" ''divisible (naive)'') <=== ring("has"
+    ''domain'' ) AND module("has" ''principally injective'').'
+MODPROP_000039:
+  citation: []
+  crosstable_pk: 1302
+  has: false
+  module: MOD_000023
+  property: MODPROP_000039
+  reason: 'Logic (modules) 108: module("lacks" ''$R_R$'') <=== module("has" ''quasi-injective'')
+    AND ring("lacks" ''self-injective'' on the right).'
+MODPROP_000040:
+  citation: []
+  crosstable_pk: 1285
+  has: true
+  module: MOD_000023
+  property: MODPROP_000040
+  reason: 'Logic (modules) 101: module("has" ''continuous'') <=== module("has" ''quasi-injective'').'
+MODPROP_000041:
+  citation: []
+  crosstable_pk: 1286
+  has: true
+  module: MOD_000023
+  property: MODPROP_000041
+  reason: 'Logic (modules) 99: module("has" ''quasi-continuous'') <=== module("has"
+    ''continuous'').'
+MODPROP_000042:
+  citation: []
+  crosstable_pk: 1287
+  has: true
+  module: MOD_000023
+  property: MODPROP_000042
+  reason: 'Logic (modules) 100: module("has" ''CS'') <=== module("has" ''quasi-continuous'').'
+MODPROP_000043:
+  citation: []
+  crosstable_pk: 1288
+  has: true
+  module: MOD_000023
+  property: MODPROP_000043
+  reason: 'Logic (modules) 102: module("has" ''quasi-injective'') <=== module("has"
+    ''injective'').'
+MODPROP_000044:
+  citation: []
+  crosstable_pk: 1289
+  has: true
+  module: MOD_000023
+  property: MODPROP_000044
+  reason: 'Logic (modules) 103: module("has" ''clean'') <=== module("has" ''continuous'').'
+MODPROP_000045:
+  citation: []
+  crosstable_pk: 1303
+  has: false
+  module: MOD_000023
+  property: MODPROP_000045
+  reason: 'Logic (modules) 144: module("lacks" ''local'') <=== module("lacks" ''hollow'').'
+MODPROP_000048:
+  citation: []
+  crosstable_pk: 1304
+  has: false
+  module: MOD_000023
+  property: MODPROP_000048
+  reason: 'Logic (modules) 115: module("lacks" ''subdirectly irreducible'') <=== module("lacks"
+    ''uniform'').'
+MODPROP_000050:
+  citation: []
+  crosstable_pk: 1305
+  has: false
+  module: MOD_000023
+  property: MODPROP_000050
+  reason: 'Logic (modules) 123: module("lacks" ''has a projective cover'') <=== module("lacks"
+    ''projective'') AND ring("has" ''semiprimitive'' ).'
+MODPROP_000064:
+  citation: []
+  crosstable_pk: 1347
+  has: false
+  module: MOD_000023
+  property: MODPROP_000064
+  reason: Since it has $\mathbb R$ as a summand, and $\mathbb R$ as an abelian group
+    is a direct sum of infinitely many copies of $\mathbb Q$, we can show a counterexample.
+MODPROP_000065:
+  citation: []
+  crosstable_pk: 1336
+  has: true
+  module: MOD_000023
+  property: MODPROP_000065
+  reason: 'Logic (modules) 201: module("has" ''divisible (regular element)'') <===
+    module("has" ''principally injective'').'
