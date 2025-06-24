@@ -1,3 +1,2 @@
-description: 'A construction of algebras using a bilinear form on a vector space:
-  https://en.wikipedia.org/wiki/Clifford_algebra'
+description: 'Let $k$ be a field, $V$ a vector space over $k$, $Q$ a quadratic form on $V$. The Clifford algebra $\mathrm{Cl}(V,Q)$ is defined as $T(V)/(\{v\otimes v - Q(v): v \in V\})$, where $T(V)$ is the tensor algebra of $V$.'
 name: Clifford algebra

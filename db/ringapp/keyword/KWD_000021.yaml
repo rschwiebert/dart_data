@@ -1,4 +1,2 @@
-description: 'Given a group $G$ and a ring $R$, the underlying set of $R[G]$ is the
-  set of finite linear combinations using $G$ as a basis.  Addition: $(\sum_g a_gg)(\sum_h
-  b_hh)=\sum_k (a_k+b_k)k$.  Multiplication: $(\sum_g a_gg)(\sum_h b_hh):=\sum_{gh=k}a_gb_hk$'
+description: 'The <a href="keywords/keyword/10">semigroup ring</a> $R[G]$ where $G$ is a group (not necessarily commutative).'
 name: group ring

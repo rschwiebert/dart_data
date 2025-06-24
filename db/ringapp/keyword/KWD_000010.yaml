@@ -1,4 +1,2 @@
-description: Given a ring $R$ and a semigroup $S$, the underlying set is the set of
-  finite $R$-combinations of elements of $S$. Addition and multiplication defined
-  the same as for group rings.
+description: Given a ring $R$ and a semigroup $S$ (possibly noncommutative), the semigroup ring $R[S]$ is the set of finite formal $R$-combinations of elements of $S$ with pointwise addition $(\sum_g a_gg)(\sum_h b_hh)=\sum_k (a_k+b_k)k$ and convolutional multiplication $(\sum_g a_gg)(\sum_h b_hh):=\sum_{gh=k}a_gb_hk$. (If $S$ is not a monoid, $R[S]$ is a ring without identity.)
 name: semigroup ring

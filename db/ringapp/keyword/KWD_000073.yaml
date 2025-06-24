@@ -1,2 +1,4 @@
-description: ''
+description: "Let $p \in \Bbb Z$ be prime and $R$ a commutative ring. For $x = (x_0, x_1, \ldots) \in R^{\Bbb N}$, denote $x^{(n)} = \sum\limits_{i = 0}^n x_i^{p^{n-i}} p^i$. It is known that for $S = \Bbb Z[x_0, x_1, \ldots, y_0, y_1, \ldots]$ there exist sequences of polynomials $\alpha, \pi \in S^{\Bbb N}$ such that $\alpha^{(n)} = x^{(n)} + y^{(n)}$ and $\pi^{(n)} = x^{(n)} y^{(n)}$ for $x = (x_i)$, $y = (y_i)$ and every $n \ge 0$. The ring $W$ of Witt vectors is the Cartesian product $R^{\Bbb N}$, endowed with addition $a+b = (\alpha_0(a,b), \alpha_1(a,b), \ldots)$ and multiplication $ab = (\pi_0(a,b), \pi_1(a,b), \ldots)$, its unity is $(1,0,\ldots)$.\n\n\
+There are multiple variations of this construction, such as the large, $p$-typical, or truncated Witt vectors."
+
 name: ring of Witt vectors

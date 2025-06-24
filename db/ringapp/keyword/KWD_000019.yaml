@@ -1,2 +1,2 @@
-description: null
+description: "Let $\delta$: $R \to R$ be a derivation (an Abelian group homomorphism that satisfies $\delta(ab)=a\delta(b)+\delta(a)b$). Then the rule $xa=ax+\delta(a)$ defines a ring structure on the set of left polynomials $\sum a_i x^i$ ($a_i \in R$), the ring is denoted R[x,\delta]."
 name: differential polynomial ring

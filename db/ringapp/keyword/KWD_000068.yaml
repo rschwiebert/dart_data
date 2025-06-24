@@ -1,2 +1,8 @@
-description: Can be described as a Leavitt path algebra (https://en.wikipedia.org/wiki/Leavitt_path_algebra)
+description: "Let $K$ be a field and $G = (V,E)$ a directed graph. For each edge $e \in E$, denote by $s(e)$ its source, and by $r(e)$, its range. Consider the free associative algebra $F_G = K \langle V \sqcup E \sqcup E^* \rangle$ (the first two subsets of indeterminates correspond to the vertices and the edges, while the third consists of symbols $e^*$, where $e \in E$). The Leavitt path algebra $L_K(G)$ of $G$ over a field $K$ is defined as the quotient of $F_G$ by the following relations:\n\
+(V) $vv' = \delta_{vv'}v$,\n\
+(E1) $s(e)e=er(e)=e$,\n\
+(E2) $r(e)e^*=e^*s(e)=e^*$,\n\
+(CK1) $e^*e'=\delta_{ee'}r(e)$,\n\
+(CK2) $v = \sum\limits_{e \in E: s(e) = v} ee^*$.\n\
+The first four relations are imposed on all elements $v,v' \in V$ and $e, e' \in E$, while the last one is imposed only on such vertices $v$ that that the sum is finite and nonzero (such vertices are called regular)."
 name: Leavitt path algebra
