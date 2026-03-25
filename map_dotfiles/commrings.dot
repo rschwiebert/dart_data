@@ -150,7 +150,7 @@ strict digraph {
 	semisimple -> Baer
 	"von Neumann regular" -> "principally injective"
 	normal -> semiprime
-	"unique factorization domain" -> "ACC principal"
+	"ACC principal" -> "ACCP domain";
 	Frobenius -> "pseudo-Frobenius"
 	semisimple -> "von Neumann regular"
 	Frobenius -> Gorenstein

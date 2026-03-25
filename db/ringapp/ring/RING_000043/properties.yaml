@@ -1157,6 +1157,16 @@ PROP_000130:
   reason_left: 'Logic 286: Krull domain ===> Mori domain'
   reason_right: 'Logic 286: Krull domain ===> Mori domain'
   ring: RING_000043
+PROP_000131:
+  citation_left: []
+  citation_right: []
+  crosstable_pk: 32578
+  has_on_left: true
+  has_on_right: true
+  property: PROP_000131
+  reason_left: Krull dimension 1 implies catenary
+  reason_right: symmetry with left side
+  ring: RING_000043
 PROP_000133:
   citation_left: []
   citation_right: []

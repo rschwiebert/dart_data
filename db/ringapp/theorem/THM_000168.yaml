@@ -1,0 +1,9 @@
+alias: Krull's theorem on Jacobson polynomial rings
+categories:
+- THMCAT_000003
+citation:
+- CITE_000685
+commutative_only: true
+link: null
+statement: For a field $k$, the polynomial ring $k[\{X_i\mid i\in\mathbb N\}]$ is
+  Jacobson if and only if $|k|$ is uncountable.

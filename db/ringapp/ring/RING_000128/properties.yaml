@@ -1311,6 +1311,16 @@ PROP_000130:
   reason_right: 'Logic (rings) 285: \(NOT "Krull domain" \) <=== \(NOT "normal domain"
     \).'
   ring: RING_000128
+PROP_000131:
+  citation_left: []
+  citation_right: []
+  crosstable_pk: 32574
+  has_on_left: true
+  has_on_right: true
+  property: PROP_000131
+  reason_left: Krull dimension 1 implies catenary
+  reason_right: symmetry with left side
+  ring: RING_000128
 PROP_000135:
   citation_left: []
   citation_right: []
