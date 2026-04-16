@@ -65,6 +65,17 @@ PROP_000006:
     intersection is zero.
   reason_right: symmetry with left side
   ring: RING_000151
+PROP_000007:
+  citation_left:
+  - CITE_000692
+  citation_right: []
+  crosstable_pk: 32661
+  has_on_left: true
+  has_on_right: true
+  property: PROP_000007
+  reason_left: null
+  reason_right: symmetry with left side
+  ring: RING_000151
 PROP_000008:
   citation_left: []
   citation_right: []
@@ -287,6 +298,18 @@ PROP_000026:
   reason_left: 'Logic (rings) 152: \( "lift/rad" \) <=== \( "nil radical" \).'
   reason_right: 'Logic (rings) 152: \( "lift/rad" \) <=== \( "nil radical" \).'
   ring: RING_000151
+PROP_000027:
+  citation_left: []
+  citation_right: []
+  crosstable_pk: 32592
+  has_on_left: true
+  has_on_right: true
+  property: PROP_000027
+  reason_left: 'Logic (rings) 197: \( "stable range 1" \) <=== \( "exchange" \) AND
+    \( "quasi-duo" on the left or right\).'
+  reason_right: 'Logic (rings) 197: \( "stable range 1" \) <=== \( "exchange" \) AND
+    \( "quasi-duo" on the left or right\).'
+  ring: RING_000151
 PROP_000028:
   citation_left: []
   citation_right: []
@@ -497,6 +520,16 @@ PROP_000046:
   reason_right: 'Logic (rings) 242: \(NOT "$\pi$-regular" \) <=== \(NOT "strongly
     $\pi$-regular" \) AND \( "commutative" \).'
   ring: RING_000151
+PROP_000047:
+  citation_left: []
+  citation_right: []
+  crosstable_pk: 32593
+  has_on_left: true
+  has_on_right: true
+  property: PROP_000047
+  reason_left: 'Logic (rings) 134: \( "exchange" \) <=== \( "clean" \).'
+  reason_right: 'Logic (rings) 134: \( "exchange" \) <=== \( "clean" \).'
+  ring: RING_000151
 PROP_000048:
   citation_left: []
   citation_right: []
@@ -543,6 +576,26 @@ PROP_000051:
     \).'
   reason_right: 'Logic (rings) 209: \( "polynomial identity" \) <=== \( "commutative"
     \).'
+  ring: RING_000151
+PROP_000052:
+  citation_left: []
+  citation_right: []
+  crosstable_pk: 32587
+  has_on_left: true
+  has_on_right: true
+  property: PROP_000052
+  reason_left: Elementary, using properties of adeles and the local coordinate rings
+  reason_right: symmetry with left side
+  ring: RING_000151
+PROP_000053:
+  citation_left: []
+  citation_right: []
+  crosstable_pk: 32594
+  has_on_left: true
+  has_on_right: true
+  property: PROP_000053
+  reason_left: 'Logic (rings) 133: \( "weakly clean" \) <=== \( "clean" \).'
+  reason_right: 'Logic (rings) 133: \( "weakly clean" \) <=== \( "clean" \).'
   ring: RING_000151
 PROP_000054:
   citation_left: []
@@ -696,6 +749,16 @@ PROP_000066:
   reason_right: 'Logic (rings) 221: \(NOT "principal ideal ring" on the right\) <===
     \(NOT "ACC principal" on the right\).'
   ring: RING_000151
+PROP_000067:
+  citation_left: []
+  citation_right: []
+  crosstable_pk: 32588
+  has_on_left: true
+  has_on_right: true
+  property: PROP_000067
+  reason_left: https://math.stackexchange.com/questions/5132363/the-ring-of-rational-adeles-what-do-its-finitely-generated-ideals-look-like-is/5132395
+  reason_right: symmetry with left side
+  ring: RING_000151
 PROP_000068:
   citation_left: []
   citation_right: []
@@ -719,6 +782,30 @@ PROP_000069:
     \).'
   reason_right: 'Logic (rings) 273: \(NOT "Ore domain" on the right\) <=== \(NOT "domain"
     \).'
+  ring: RING_000151
+PROP_000070:
+  citation_left:
+  - CITE_000690
+  citation_right:
+  - CITE_000690
+  crosstable_pk: 32599
+  has_on_left: false
+  has_on_right: false
+  property: PROP_000070
+  reason_left: null
+  reason_right: null
+  ring: RING_000151
+PROP_000071:
+  citation_left: []
+  citation_right: []
+  crosstable_pk: 32596
+  has_on_left: true
+  has_on_right: true
+  property: PROP_000071
+  reason_left: 'Logic (rings) 591: \( "semihereditary" on the left\) <=== \( "Rickart"
+    on the left\) AND \( "Bezout" on the left\).'
+  reason_right: 'Logic (rings) 591: \( "semihereditary" on the right\) <=== \( "Rickart"
+    on the right\) AND \( "Bezout" on the right\).'
   ring: RING_000151
 PROP_000072:
   citation_left: []
@@ -808,6 +895,18 @@ PROP_000080:
   reason_right: 'Logic (rings) logical AND: ring_deduced("lacks",3,Y) <=== \( "commutative"
     \) AND ring_deduced("lacks",1,Y).'
   ring: RING_000151
+PROP_000081:
+  citation_left: []
+  citation_right: []
+  crosstable_pk: 32590
+  has_on_left: false
+  has_on_right: false
+  property: PROP_000081
+  reason_left: 'Logic (rings) 592: \(NOT "Kasch" on the left\) <=== \(NOT "semisimple"
+    \) AND \( "semiprime" \).'
+  reason_right: 'Logic (rings) 592: \(NOT "Kasch" on the right\) <=== \(NOT "semisimple"
+    \) AND \( "semiprime" \).'
+  ring: RING_000151
 PROP_000082:
   citation_left: []
   citation_right: []
@@ -862,6 +961,16 @@ PROP_000086:
     uniform dimension" on the left\).'
   reason_right: 'Logic (rings) 116: \(NOT "Goldie" on the right\) <=== \(NOT "finite
     uniform dimension" on the right\).'
+  ring: RING_000151
+PROP_000087:
+  citation_left: []
+  citation_right: []
+  crosstable_pk: 32589
+  has_on_left: true
+  has_on_right: true
+  property: PROP_000087
+  reason_left: https://math.stackexchange.com/questions/5132363/the-ring-of-rational-adeles-what-do-its-finitely-generated-ideals-look-like-is/5132395
+  reason_right: symmetry with left side
   ring: RING_000151
 PROP_000088:
   citation_left: []
@@ -1018,6 +1127,18 @@ PROP_000101:
   reason_left: Socle $\mathbb R\oplus (\bigoplus \mathbb Q_p)$
   reason_right: symmetry with left side
   ring: RING_000151
+PROP_000102:
+  citation_left: []
+  citation_right: []
+  crosstable_pk: 32591
+  has_on_left: false
+  has_on_right: false
+  property: PROP_000102
+  reason_left: 'Logic (rings) 202: \(NOT "cogenerator ring" on the left\) <=== \(NOT
+    "Kasch" on the left\).'
+  reason_right: 'Logic (rings) 202: \(NOT "cogenerator ring" on the right\) <=== \(NOT
+    "Kasch" on the right\).'
+  ring: RING_000151
 PROP_000103:
   citation_left: []
   citation_right: []
@@ -1029,6 +1150,18 @@ PROP_000103:
     \(NOT "finite uniform dimension" on the left\).'
   reason_right: 'Logic (rings) 278: \(NOT "finitely cogenerated" on the right\) <===
     \(NOT "finite uniform dimension" on the right\).'
+  ring: RING_000151
+PROP_000104:
+  citation_left: []
+  citation_right: []
+  crosstable_pk: 32597
+  has_on_left: true
+  has_on_right: true
+  property: PROP_000104
+  reason_left: 'Logic (rings) 227: \( "distributive" on the left\) <=== \( "Bezout"
+    on the left\) AND \( "quasi-duo" on the left\).'
+  reason_right: 'Logic (rings) 227: \( "distributive" on the right\) <=== \( "Bezout"
+    on the right\) AND \( "quasi-duo" on the right\).'
   ring: RING_000151
 PROP_000105:
   citation_left: []
@@ -1470,6 +1603,16 @@ PROP_000156:
   reason_right: 'Logic (rings) 422: \( "McCoy" on the right\) <=== \( "duo" on the
     right\).'
   ring: RING_000151
+PROP_000157:
+  citation_left: []
+  citation_right: []
+  crosstable_pk: 32598
+  has_on_left: true
+  has_on_right: true
+  property: PROP_000157
+  reason_left: 'Logic (rings) logical AND: ring_deduced("has",2,Y) <=== ring_deduced("has",1,Y).'
+  reason_right: 'Logic (rings) logical AND: ring_deduced("has",3,Y) <=== ring_deduced("has",1,Y).'
+  ring: RING_000151
 PROP_000158:
   citation_left: []
   citation_right: []
@@ -1481,6 +1624,18 @@ PROP_000158:
     \).'
   reason_right: 'Logic (rings) 473: \( "IC (internal cancellation)" \) <=== \( "Abelian"
     \).'
+  ring: RING_000151
+PROP_000159:
+  citation_left: []
+  citation_right: []
+  crosstable_pk: 32595
+  has_on_left: true
+  has_on_right: true
+  property: PROP_000159
+  reason_left: 'Logic (rings) 492: \( "arithmetical" \) <=== \( "commutative" \) AND
+    \( "distributive" on the left or right\).'
+  reason_right: 'Logic (rings) 492: \( "arithmetical" \) <=== \( "commutative" \)
+    AND \( "distributive" on the left or right\).'
   ring: RING_000151
 PROP_000160:
   citation_left: []

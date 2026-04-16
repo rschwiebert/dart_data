@@ -1206,6 +1206,16 @@ PROP_000116:
   reason_left: 'Logic 318: regular local <==> local and regular'
   reason_right: 'Logic 318: regular local <==> local and regular'
   ring: RING_000064
+PROP_000117:
+  citation_left: []
+  citation_right: []
+  crosstable_pk: 32666
+  has_on_left: true
+  has_on_right: true
+  property: PROP_000117
+  reason_left: 'Logic (rings) 308: \( "Cohen-Macaulay" \) <=== \( "Gorenstein" \).'
+  reason_right: 'Logic (rings) 308: \( "Cohen-Macaulay" \) <=== \( "Gorenstein" \).'
+  ring: RING_000064
 PROP_000118:
   citation_left:
   - CITE_000140
@@ -1240,6 +1250,18 @@ PROP_000120:
     unramified'
   reason_right: 'Logic 365: local and quasi-excellent and reduced ===> analytically
     unramified'
+  ring: RING_000064
+PROP_000121:
+  citation_left: []
+  citation_right: []
+  crosstable_pk: 32667
+  has_on_left: true
+  has_on_right: true
+  property: PROP_000121
+  reason_left: 'Logic (rings) 364: \( "Gorenstein" \) <=== \( "local complete intersection"
+    \).'
+  reason_right: 'Logic (rings) 364: \( "Gorenstein" \) <=== \( "local complete intersection"
+    \).'
   ring: RING_000064
 PROP_000123:
   citation_left: []
@@ -1301,6 +1323,16 @@ PROP_000128:
   has_on_right: false
   property: PROP_000128
   reason_left: local, not a field, and maximal ideal not nilpotent
+  reason_right: symmetry with left side
+  ring: RING_000064
+PROP_000129:
+  citation_left: []
+  citation_right: []
+  crosstable_pk: 32664
+  has_on_left: true
+  has_on_right: true
+  property: PROP_000129
+  reason_left: null
   reason_right: symmetry with left side
   ring: RING_000064
 PROP_000130:

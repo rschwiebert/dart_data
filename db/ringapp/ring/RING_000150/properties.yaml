@@ -766,6 +766,30 @@ PROP_000069:
   reason_right: 'Logic (rings) 273: \(NOT "Ore domain" on the right\) <=== \(NOT "domain"
     \).'
   ring: RING_000150
+PROP_000070:
+  citation_left: []
+  citation_right: []
+  crosstable_pk: 32638
+  has_on_left: true
+  has_on_right: true
+  property: PROP_000070
+  reason_left: 'Logic (rings) 204: \( "hereditary" on the left\) <=== \( "Noetherian"
+    on the left\) AND \( "semihereditary" on the left\).'
+  reason_right: 'Logic (rings) 204: \( "hereditary" on the right\) <=== \( "Noetherian"
+    on the right\) AND \( "semihereditary" on the right\).'
+  ring: RING_000150
+PROP_000071:
+  citation_left: []
+  citation_right: []
+  crosstable_pk: 32639
+  has_on_left: true
+  has_on_right: true
+  property: PROP_000071
+  reason_left: 'Logic (rings) 591: \( "semihereditary" on the left\) <=== \( "Rickart"
+    on the left\) AND \( "Bezout" on the left\).'
+  reason_right: 'Logic (rings) 591: \( "semihereditary" on the right\) <=== \( "Rickart"
+    on the right\) AND \( "Bezout" on the right\).'
+  ring: RING_000150
 PROP_000072:
   citation_left: []
   citation_right: []

@@ -691,6 +691,18 @@ PROP_000080:
   reason_right: 'Logic 232: Dedekind finite and self-injective on the left or right
     ===> stable range 1'
   ring: RING_000082
+PROP_000081:
+  citation_left: []
+  citation_right: []
+  crosstable_pk: 32615
+  has_on_left: false
+  has_on_right: false
+  property: PROP_000081
+  reason_left: 'Logic (rings) 592: \(NOT "Kasch" on the left\) <=== \(NOT "semisimple"
+    \) AND \( "semiprime" \).'
+  reason_right: 'Logic (rings) 592: \(NOT "Kasch" on the right\) <=== \(NOT "semisimple"
+    \) AND \( "semiprime" \).'
+  ring: RING_000082
 PROP_000082:
   citation_left: []
   citation_right: []
@@ -797,6 +809,18 @@ PROP_000090:
   reason_right: 'Logic 120: ACC annihilator on the right <==> DCC annihilator on the
     left'
   ring: RING_000082
+PROP_000091:
+  citation_left: []
+  citation_right: []
+  crosstable_pk: 32616
+  has_on_left: false
+  has_on_right: false
+  property: PROP_000091
+  reason_left: 'Logic (rings) 121: \(NOT "dual" on the left\) <=== \(NOT "Kasch" on
+    the left\).'
+  reason_right: 'Logic (rings) 121: \(NOT "dual" on the right\) <=== \(NOT "Kasch"
+    on the right\).'
+  ring: RING_000082
 PROP_000093:
   citation_left: []
   citation_right: []
@@ -854,6 +878,18 @@ PROP_000097:
     and right and T-nilpotent radical on the right'
   reason_right: 'Logic 150: nilpotent radical ===> T-nilpotent radical on the left
     and right and T-nilpotent radical on the right'
+  ring: RING_000082
+PROP_000102:
+  citation_left: []
+  citation_right: []
+  crosstable_pk: 32617
+  has_on_left: false
+  has_on_right: false
+  property: PROP_000102
+  reason_left: 'Logic (rings) 202: \(NOT "cogenerator ring" on the left\) <=== \(NOT
+    "Kasch" on the left\).'
+  reason_right: 'Logic (rings) 202: \(NOT "cogenerator ring" on the right\) <=== \(NOT
+    "Kasch" on the right\).'
   ring: RING_000082
 PROP_000103:
   citation_left: []

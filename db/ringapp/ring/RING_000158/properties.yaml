@@ -876,6 +876,18 @@ PROP_000080:
   reason_right: 'Logic (rings) 276: \(NOT "self-injective" on the right\) <=== \(NOT
     "strongly regular" \) AND \( "reduced" \).'
   ring: RING_000158
+PROP_000081:
+  citation_left: []
+  citation_right: []
+  crosstable_pk: 32646
+  has_on_left: false
+  has_on_right: false
+  property: PROP_000081
+  reason_left: 'Logic (rings) 592: \(NOT "Kasch" on the left\) <=== \(NOT "semisimple"
+    \) AND \( "semiprime" \).'
+  reason_right: 'Logic (rings) 592: \(NOT "Kasch" on the right\) <=== \(NOT "semisimple"
+    \) AND \( "semiprime" \).'
+  ring: RING_000158
 PROP_000082:
   citation_left: []
   citation_right: []

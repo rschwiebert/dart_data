@@ -1,0 +1,8 @@
+active: true
+citation: []
+concs: ring_deduced("has",2,71)
+hyps: ring_deduced("has",2,72) AND ring_deduced("has",2,67)
+readable: ring is Rickart on the left AND ring is Bezout on the left ===> ring is
+  semihereditary on the left
+symmetric: false
+variety: 0

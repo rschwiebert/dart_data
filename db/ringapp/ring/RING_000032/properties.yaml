@@ -786,6 +786,18 @@ PROP_000080:
     the right'
   reason_right: symmetry with left side
   ring: RING_000032
+PROP_000081:
+  citation_left: []
+  citation_right: []
+  crosstable_pk: 32603
+  has_on_left: false
+  has_on_right: false
+  property: PROP_000081
+  reason_left: 'Logic (rings) 592: \(NOT "Kasch" on the left\) <=== \(NOT "semisimple"
+    \) AND \( "semiprime" \).'
+  reason_right: 'Logic (rings) 592: \(NOT "Kasch" on the right\) <=== \(NOT "semisimple"
+    \) AND \( "semiprime" \).'
+  ring: RING_000032
 PROP_000082:
   citation_left: []
   citation_right: []

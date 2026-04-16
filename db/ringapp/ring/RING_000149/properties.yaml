@@ -1271,6 +1271,16 @@ PROP_000128:
   reason_right: 'Logic (rings) 413: \(NOT "rad-nil" \) <=== \(NOT "nil radical" \)
     AND \( "commutative" \).'
   ring: RING_000149
+PROP_000129:
+  citation_left: []
+  citation_right: []
+  crosstable_pk: 32665
+  has_on_left: false
+  has_on_right: false
+  property: PROP_000129
+  reason_left: null
+  reason_right: symmetry with left side
+  ring: RING_000149
 PROP_000130:
   citation_left: []
   citation_right: []

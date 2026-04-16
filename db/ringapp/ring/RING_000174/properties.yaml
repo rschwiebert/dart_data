@@ -795,6 +795,18 @@ PROP_000080:
   reason_right: 'Logic (rings) 89: \(NOT "self-injective" on the right\) <=== \(NOT
     "continuous" on the right\).'
   ring: RING_000174
+PROP_000081:
+  citation_left: []
+  citation_right: []
+  crosstable_pk: 32653
+  has_on_left: false
+  has_on_right: false
+  property: PROP_000081
+  reason_left: 'Logic (rings) 592: \(NOT "Kasch" on the left\) <=== \(NOT "semisimple"
+    \) AND \( "semiprime" \).'
+  reason_right: 'Logic (rings) 592: \(NOT "Kasch" on the right\) <=== \(NOT "semisimple"
+    \) AND \( "semiprime" \).'
+  ring: RING_000174
 PROP_000082:
   citation_left: []
   citation_right: []
@@ -883,6 +895,18 @@ PROP_000090:
   reason_right: 'relationlogic.dl: ring=174 lacks property=90 on the right because
     ring=173 lacks property=90 on the right and is SUBRING_OF ring=174'
   ring: RING_000174
+PROP_000091:
+  citation_left: []
+  citation_right: []
+  crosstable_pk: 32654
+  has_on_left: false
+  has_on_right: false
+  property: PROP_000091
+  reason_left: 'Logic (rings) 121: \(NOT "dual" on the left\) <=== \(NOT "Kasch" on
+    the left\).'
+  reason_right: 'Logic (rings) 121: \(NOT "dual" on the right\) <=== \(NOT "Kasch"
+    on the right\).'
+  ring: RING_000174
 PROP_000092:
   citation_left: []
   citation_right: []
@@ -933,6 +957,18 @@ PROP_000100:
   property: PROP_000100
   reason_left: columns contain copies of $\oplus Q$ which remains a simple left module
   reason_right: Rows contain copies of $\oplus Q$ which remains a simple right module
+  ring: RING_000174
+PROP_000102:
+  citation_left: []
+  citation_right: []
+  crosstable_pk: 32655
+  has_on_left: false
+  has_on_right: false
+  property: PROP_000102
+  reason_left: 'Logic (rings) 202: \(NOT "cogenerator ring" on the left\) <=== \(NOT
+    "Kasch" on the left\).'
+  reason_right: 'Logic (rings) 202: \(NOT "cogenerator ring" on the right\) <=== \(NOT
+    "Kasch" on the right\).'
   ring: RING_000174
 PROP_000103:
   citation_left: []

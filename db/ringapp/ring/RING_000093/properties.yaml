@@ -681,6 +681,18 @@ PROP_000080:
   reason_left: 'Logic (rings) logical OR: ring_deduced("lacks",2,Y) <=== ring_deduced("lacks",4,Y).'
   reason_right: 'Logic (rings) logical OR: ring_deduced("lacks",3,Y) <=== ring_deduced("lacks",4,Y).'
   ring: RING_000093
+PROP_000081:
+  citation_left: []
+  citation_right: []
+  crosstable_pk: 32618
+  has_on_left: false
+  has_on_right: false
+  property: PROP_000081
+  reason_left: 'Logic (rings) 592: \(NOT "Kasch" on the left\) <=== \(NOT "semisimple"
+    \) AND \( "semiprime" \).'
+  reason_right: 'Logic (rings) 592: \(NOT "Kasch" on the right\) <=== \(NOT "semisimple"
+    \) AND \( "semiprime" \).'
+  ring: RING_000093
 PROP_000082:
   citation_left: []
   citation_right: []
@@ -774,6 +786,18 @@ PROP_000090:
     finite'
   reason_right: 'Logic 119: DCC annihilator on the left or right ===> orthogonally
     finite'
+  ring: RING_000093
+PROP_000091:
+  citation_left: []
+  citation_right: []
+  crosstable_pk: 32619
+  has_on_left: false
+  has_on_right: false
+  property: PROP_000091
+  reason_left: 'Logic (rings) 121: \(NOT "dual" on the left\) <=== \(NOT "Kasch" on
+    the left\).'
+  reason_right: 'Logic (rings) 121: \(NOT "dual" on the right\) <=== \(NOT "Kasch"
+    on the right\).'
   ring: RING_000093
 PROP_000093:
   citation_left: []
@@ -882,6 +906,18 @@ PROP_000101:
     on the left\).'
   reason_right: 'Logic (rings) 552: \( "essential socle" on the right\) <=== \( "semi-Artinian"
     on the right\).'
+  ring: RING_000093
+PROP_000102:
+  citation_left: []
+  citation_right: []
+  crosstable_pk: 32620
+  has_on_left: false
+  has_on_right: false
+  property: PROP_000102
+  reason_left: 'Logic (rings) 202: \(NOT "cogenerator ring" on the left\) <=== \(NOT
+    "Kasch" on the left\).'
+  reason_right: 'Logic (rings) 202: \(NOT "cogenerator ring" on the right\) <=== \(NOT
+    "Kasch" on the right\).'
   ring: RING_000093
 PROP_000103:
   citation_left: []

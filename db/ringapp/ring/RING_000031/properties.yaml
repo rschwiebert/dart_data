@@ -720,6 +720,18 @@ PROP_000080:
   reason_right: 'Logic 218: orthogonally finite and self-injective on the right ===>
     semiperfect'
   ring: RING_000031
+PROP_000081:
+  citation_left: []
+  citation_right: []
+  crosstable_pk: 32600
+  has_on_left: false
+  has_on_right: false
+  property: PROP_000081
+  reason_left: 'Logic (rings) 592: \(NOT "Kasch" on the left\) <=== \(NOT "semisimple"
+    \) AND \( "semiprime" \).'
+  reason_right: 'Logic (rings) 592: \(NOT "Kasch" on the right\) <=== \(NOT "semisimple"
+    \) AND \( "semiprime" \).'
+  ring: RING_000031
 PROP_000082:
   citation_left: []
   citation_right: []
@@ -786,6 +798,18 @@ PROP_000090:
     left'
   reason_right: Chatters & Hajarnavis Rings With Chain Conditions p 30
   ring: RING_000031
+PROP_000091:
+  citation_left: []
+  citation_right: []
+  crosstable_pk: 32601
+  has_on_left: false
+  has_on_right: false
+  property: PROP_000091
+  reason_left: 'Logic (rings) 121: \(NOT "dual" on the left\) <=== \(NOT "Kasch" on
+    the left\).'
+  reason_right: 'Logic (rings) 121: \(NOT "dual" on the right\) <=== \(NOT "Kasch"
+    on the right\).'
+  ring: RING_000031
 PROP_000092:
   citation_left: []
   citation_right: []
@@ -843,6 +867,18 @@ PROP_000101:
     on the right and finitely generated socle on the right'
   reason_right: 'Logic 212: finitely cogenerated on the right <==> essential socle
     on the right and finitely generated socle on the right'
+  ring: RING_000031
+PROP_000102:
+  citation_left: []
+  citation_right: []
+  crosstable_pk: 32602
+  has_on_left: false
+  has_on_right: false
+  property: PROP_000102
+  reason_left: 'Logic (rings) 202: \(NOT "cogenerator ring" on the left\) <=== \(NOT
+    "Kasch" on the left\).'
+  reason_right: 'Logic (rings) 202: \(NOT "cogenerator ring" on the right\) <=== \(NOT
+    "Kasch" on the right\).'
   ring: RING_000031
 PROP_000103:
   citation_left: []

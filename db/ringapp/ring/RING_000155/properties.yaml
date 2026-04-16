@@ -849,6 +849,18 @@ PROP_000080:
   reason_right: 'Logic (rings) 219: \(NOT "self-injective" on the right\) <=== \(NOT
     "von Neumann regular" \) AND \( "nonsingular" on the right\).'
   ring: RING_000155
+PROP_000081:
+  citation_left: []
+  citation_right: []
+  crosstable_pk: 32640
+  has_on_left: false
+  has_on_right: false
+  property: PROP_000081
+  reason_left: 'Logic (rings) 592: \(NOT "Kasch" on the left\) <=== \(NOT "semisimple"
+    \) AND \( "semiprime" \).'
+  reason_right: 'Logic (rings) 592: \(NOT "Kasch" on the right\) <=== \(NOT "semisimple"
+    \) AND \( "semiprime" \).'
+  ring: RING_000155
 PROP_000082:
   citation_left: []
   citation_right: []
@@ -890,6 +902,18 @@ PROP_000088:
   property: PROP_000088
   reason_left: null
   reason_right: symmetry with left side
+  ring: RING_000155
+PROP_000091:
+  citation_left: []
+  citation_right: []
+  crosstable_pk: 32641
+  has_on_left: false
+  has_on_right: false
+  property: PROP_000091
+  reason_left: 'Logic (rings) 121: \(NOT "dual" on the left\) <=== \(NOT "Kasch" on
+    the left\).'
+  reason_right: 'Logic (rings) 121: \(NOT "dual" on the right\) <=== \(NOT "Kasch"
+    on the right\).'
   ring: RING_000155
 PROP_000093:
   citation_left: []
@@ -933,6 +957,42 @@ PROP_000097:
   reason_right: 'Logic (rings) 105: \(NOT "T-nilpotent radical" on the right\) <===
     \(NOT "perfect" on the right\) AND \( "semilocal" \).'
   ring: RING_000155
+PROP_000098:
+  citation_left: []
+  citation_right: []
+  crosstable_pk: 32642
+  has_on_left: false
+  has_on_right: false
+  property: PROP_000098
+  reason_left: 'Logic (rings) 154: \(NOT "simple socle" on the left\) <=== \(NOT "nonzero
+    socle" on the left\).'
+  reason_right: 'Logic (rings) 154: \(NOT "simple socle" on the right\) <=== \(NOT
+    "nonzero socle" on the right\).'
+  ring: RING_000155
+PROP_000100:
+  citation_left: []
+  citation_right: []
+  crosstable_pk: 32643
+  has_on_left: false
+  has_on_right: false
+  property: PROP_000100
+  reason_left: 'Logic (rings) 252: \(NOT "nonzero socle" on the left\) <=== \(NOT
+    "Kasch" on the left\) AND \( "local" \).'
+  reason_right: 'Logic (rings) 252: \(NOT "nonzero socle" on the right\) <=== \(NOT
+    "Kasch" on the right\) AND \( "local" \).'
+  ring: RING_000155
+PROP_000101:
+  citation_left: []
+  citation_right: []
+  crosstable_pk: 32644
+  has_on_left: false
+  has_on_right: false
+  property: PROP_000101
+  reason_left: 'Logic (rings) 156: \(NOT "essential socle" on the left\) <=== \(NOT
+    "nonzero socle" on the left\).'
+  reason_right: 'Logic (rings) 156: \(NOT "essential socle" on the right\) <=== \(NOT
+    "nonzero socle" on the right\).'
+  ring: RING_000155
 PROP_000102:
   citation_left: []
   citation_right: []
@@ -956,6 +1016,18 @@ PROP_000103:
     \(NOT "semisimple" \) AND \( "semiprime" \).'
   reason_right: 'Logic (rings) 213: \(NOT "finitely cogenerated" on the right\) <===
     \(NOT "semisimple" \) AND \( "semiprime" \).'
+  ring: RING_000155
+PROP_000107:
+  citation_left: []
+  citation_right: []
+  crosstable_pk: 32645
+  has_on_left: true
+  has_on_right: true
+  property: PROP_000107
+  reason_left: 'Logic (rings) 575: \( "simple-injective" on the left\) <=== \(NOT
+    "nonzero socle" on the left\).'
+  reason_right: 'Logic (rings) 575: \( "simple-injective" on the right\) <=== \(NOT
+    "nonzero socle" on the right\).'
   ring: RING_000155
 PROP_000111:
   citation_left: []

@@ -49,6 +49,17 @@ PROP_000005:
   reason_left: 'Logic 22: semisimple ===> principal ideal ring on the left and right'
   reason_right: 'Logic 22: semisimple ===> principal ideal ring on the left and right'
   ring: RING_000105
+PROP_000007:
+  citation_left:
+  - CITE_000691
+  citation_right: []
+  crosstable_pk: 32663
+  has_on_left: true
+  has_on_right: true
+  property: PROP_000007
+  reason_left: null
+  reason_right: symmetry with left side
+  ring: RING_000105
 PROP_000008:
   citation_left: []
   citation_right: []
@@ -552,6 +563,18 @@ PROP_000069:
   reason_right: 'Logic 273: Ore domain on the right <==> domain and finite uniform
     dimension on the right'
   ring: RING_000105
+PROP_000071:
+  citation_left: []
+  citation_right: []
+  crosstable_pk: 32626
+  has_on_left: true
+  has_on_right: true
+  property: PROP_000071
+  reason_left: 'Logic (rings) 591: \( "semihereditary" on the left\) <=== \( "Rickart"
+    on the left\) AND \( "Bezout" on the left\).'
+  reason_right: 'Logic (rings) 591: \( "semihereditary" on the right\) <=== \( "Rickart"
+    on the right\) AND \( "Bezout" on the right\).'
+  ring: RING_000105
 PROP_000072:
   citation_left: []
   citation_right: []
@@ -691,6 +714,18 @@ PROP_000086:
   reason_left: symmetry with right side
   reason_right: 'Logic 116: Goldie on the right <==> ACC annihilator on the right
     and finite uniform dimension on the right'
+  ring: RING_000105
+PROP_000087:
+  citation_left: []
+  citation_right: []
+  crosstable_pk: 32627
+  has_on_left: true
+  has_on_right: true
+  property: PROP_000087
+  reason_left: 'Logic (rings) 60: \( "coherent" on the left\) <=== \( "semihereditary"
+    on the left\).'
+  reason_right: 'Logic (rings) 60: \( "coherent" on the right\) <=== \( "semihereditary"
+    on the right\).'
   ring: RING_000105
 PROP_000088:
   citation_left: []

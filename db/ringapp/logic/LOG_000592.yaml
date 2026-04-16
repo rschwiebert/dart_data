@@ -1,0 +1,7 @@
+active: true
+citation: []
+concs: ring_deduced("has",0,5)
+hyps: ring_deduced("has",0,11) AND ring_deduced("has",2,81)
+readable: ring is semiprime AND ring is Kasch on the left ===> ring is semisimple
+symmetric: false
+variety: 0

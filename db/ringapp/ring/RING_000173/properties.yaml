@@ -828,6 +828,18 @@ PROP_000080:
   reason_right: J. Lawrence's result "a countable self-injective ring is QF" precludes
     it, since the ring is not Artinian
   ring: RING_000173
+PROP_000081:
+  citation_left: []
+  citation_right: []
+  crosstable_pk: 32650
+  has_on_left: false
+  has_on_right: false
+  property: PROP_000081
+  reason_left: 'Logic (rings) 592: \(NOT "Kasch" on the left\) <=== \(NOT "semisimple"
+    \) AND \( "semiprime" \).'
+  reason_right: 'Logic (rings) 592: \(NOT "Kasch" on the right\) <=== \(NOT "semisimple"
+    \) AND \( "semiprime" \).'
+  ring: RING_000173
 PROP_000082:
   citation_left: []
   citation_right: []
@@ -932,6 +944,18 @@ PROP_000090:
   reason_right: 'Logic (rings) 120: \(NOT "DCC annihilator" on the right\) <=== \(NOT
     "ACC annihilator" on the left\).'
   ring: RING_000173
+PROP_000091:
+  citation_left: []
+  citation_right: []
+  crosstable_pk: 32651
+  has_on_left: false
+  has_on_right: false
+  property: PROP_000091
+  reason_left: 'Logic (rings) 121: \(NOT "dual" on the left\) <=== \(NOT "Kasch" on
+    the left\).'
+  reason_right: 'Logic (rings) 121: \(NOT "dual" on the right\) <=== \(NOT "Kasch"
+    on the right\).'
+  ring: RING_000173
 PROP_000093:
   citation_left: []
   citation_right: []
@@ -996,6 +1020,18 @@ PROP_000100:
     this ring
   reason_right: 'Logic (rings) 248: \( "nonzero socle" on the right\) <=== \( "nonzero
     socle" on the left\) AND \( "semiprime" \).'
+  ring: RING_000173
+PROP_000102:
+  citation_left: []
+  citation_right: []
+  crosstable_pk: 32652
+  has_on_left: false
+  has_on_right: false
+  property: PROP_000102
+  reason_left: 'Logic (rings) 202: \(NOT "cogenerator ring" on the left\) <=== \(NOT
+    "Kasch" on the left\).'
+  reason_right: 'Logic (rings) 202: \(NOT "cogenerator ring" on the right\) <=== \(NOT
+    "Kasch" on the right\).'
   ring: RING_000173
 PROP_000103:
   citation_left: []

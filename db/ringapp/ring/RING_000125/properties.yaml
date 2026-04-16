@@ -106,6 +106,18 @@ PROP_000010:
   reason_right: 'Logic (rings) 561: \(NOT "reduced" \) <=== \(NOT "semiprimitive"
     \) AND \( "nil radical" \).'
   ring: RING_000125
+PROP_000011:
+  citation_left: []
+  citation_right: []
+  crosstable_pk: 32632
+  has_on_left: false
+  has_on_right: false
+  property: PROP_000011
+  reason_left: 'Logic (rings) 592: \(NOT "semiprime" \) <=== \(NOT "semisimple" \)
+    AND \( "Kasch" on the left\).'
+  reason_right: 'Logic (rings) 592: \(NOT "semiprime" \) <=== \(NOT "semisimple" \)
+    AND \( "Kasch" on the left\).'
+  ring: RING_000125
 PROP_000012:
   citation_left: []
   citation_right: []
@@ -147,6 +159,18 @@ PROP_000015:
   property: PROP_000015
   reason_left: 'Logic 142: semi free ideal ring ===> domain'
   reason_right: 'Logic 142: semi free ideal ring ===> domain'
+  ring: RING_000125
+PROP_000016:
+  citation_left: []
+  citation_right: []
+  crosstable_pk: 32633
+  has_on_left: false
+  has_on_right: false
+  property: PROP_000016
+  reason_left: 'Logic (rings) 143: \(NOT "fully semiprime" \) <=== \(NOT "semiprime"
+    \).'
+  reason_right: 'Logic (rings) 143: \(NOT "fully semiprime" \) <=== \(NOT "semiprime"
+    \).'
   ring: RING_000125
 PROP_000017:
   citation_left: []

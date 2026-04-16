@@ -809,10 +809,11 @@ PROP_000081:
   citation_left: []
   citation_right: []
   crosstable_pk: 277
-  has_on_left: null
+  has_on_left: false
   has_on_right: false
   property: PROP_000081
-  reason_left: null
+  reason_left: 'Logic (rings) 592: \(NOT "Kasch" on the left\) <=== \(NOT "semisimple"
+    \) AND \( "semiprime" \).'
   reason_right: 'Logic 84: pseudo-Frobenius on the right <==> Kasch on the right and
     self-injective on the right'
   ring: RING_000015
@@ -922,10 +923,11 @@ PROP_000091:
   citation_left: []
   citation_right: []
   crosstable_pk: 278
-  has_on_left: null
+  has_on_left: false
   has_on_right: false
   property: PROP_000091
-  reason_left: null
+  reason_left: 'Logic (rings) 121: \(NOT "dual" on the left\) <=== \(NOT "Kasch" on
+    the left\).'
   reason_right: 'Logic 85: pseudo-Frobenius on the right <==> dual on the right and
     self-injective on the right'
   ring: RING_000015
@@ -1048,10 +1050,11 @@ PROP_000102:
   citation_left: []
   citation_right: []
   crosstable_pk: 295
-  has_on_left: null
+  has_on_left: false
   has_on_right: false
   property: PROP_000102
-  reason_left: null
+  reason_left: 'Logic (rings) 202: \(NOT "cogenerator ring" on the left\) <=== \(NOT
+    "Kasch" on the left\).'
   reason_right: 'Logic 202: cogenerator ring on the right ===> Kasch on the right'
   ring: RING_000015
 PROP_000103:
