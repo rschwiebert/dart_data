@@ -1,3 +1,12 @@
+DIM_000001:
+  citation: []
+  crosstable_pk: 471
+  dimension_type: DIM_000001
+  left_dimension: $\infty$
+  reason_left: null
+  reason_right: null
+  right_dimension: $\infty$
+  ring: RING_000103
 DIM_000003:
   citation: []
   crosstable_pk: 313

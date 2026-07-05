@@ -1,0 +1,10 @@
+citation:
+- CITE_000696
+description: $R=R_{214}[X]$
+is_commutative: true
+keywords:
+- KWD_000002
+krull_dim: (unknown)
+name: Non-ACCP polynomial ring
+notes: null
+optional_template: ''

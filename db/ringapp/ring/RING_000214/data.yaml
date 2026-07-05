@@ -1,0 +1,15 @@
+citation:
+- CITE_000696
+description: Let $K$ be a field and $X_1, X_2, \ldots$ be indeterminates over $K$.
+  Let $R_0 = K[X_1, X_2, \ldots] / (\{X_n(X_{n-1} - X_n) \mid n \geq 2\})$. Let $x_n$
+  denote the image of $X_n$ in $R_0$. Let $R$ be the localization of $R_0$ at the
+  ideal $(x_1, x_2, \ldots)$.
+is_commutative: true
+keywords:
+- KWD_000005
+- KWD_000002
+- KWD_000003
+krull_dim: (unknown)
+name: ACCP ring with non-ACCP polynomial ring
+notes: null
+optional_template: ''

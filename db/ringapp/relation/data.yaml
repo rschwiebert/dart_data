@@ -1023,3 +1023,69 @@ RINGRELATION_000206:
   note: ''
   relation_type: IMAGE_OF
   second: RING_000206
+RINGRELATION_000207:
+  first: RING_000061
+  note: ''
+  relation_type: LOCALIZATION_OF
+  second: RING_000207
+RINGRELATION_000208:
+  first: RING_000175
+  note: ''
+  relation_type: IMAGE_OF
+  second: RING_000207
+RINGRELATION_000209:
+  first: RING_000090
+  note: ''
+  relation_type: IMAGE_OF
+  second: RING_000207
+RINGRELATION_000210:
+  first: RING_000089
+  note: ''
+  relation_type: IMAGE_OF
+  second: RING_000207
+RINGRELATION_000211:
+  first: RING_000207
+  note: ''
+  relation_type: IMAGE_OF
+  second: RING_000165
+RINGRELATION_000212:
+  first: RING_000207
+  note: ''
+  relation_type: POLYNOMIAL_RING_OF
+  second: RING_000007
+RINGRELATION_000213:
+  first: RING_000001
+  note: ''
+  relation_type: IMAGE_OF
+  second: RING_000168
+RINGRELATION_000214:
+  first: RING_000090
+  note: ''
+  relation_type: IMAGE_OF
+  second: RING_000208
+RINGRELATION_000215:
+  first: RING_000168
+  note: ''
+  relation_type: SUBRING_OF
+  second: RING_000209
+RINGRELATION_000216:
+  first: RING_000211
+  note: ''
+  relation_type: POLYNOMIAL_RING_OF
+  second: RING_000210
+RINGRELATION_000217:
+  first: RING_000215
+  note: ''
+  relation_type: POLYNOMIAL_RING_OF
+  second: RING_000214
+RINGRELATION_000218:
+  first: RING_000213
+  note: ''
+  relation_type: POWER_SERIES_OF
+  second: RING_000212
+RINGRELATION_000220:
+  first: RING_000217
+  note: "This subring is isomorphic to the 2x2 upper triangular matrices:\r\n$\\begin{bmatrix}a\
+    \ & b & 0 & 0 \\\\ 0 & d & 0 & 0 \\\\  0 & 0 & d & 0 \\\\  0 & 0 & 0 & a \\end{bmatrix}$"
+  relation_type: SUBRING_OF
+  second: RING_000170

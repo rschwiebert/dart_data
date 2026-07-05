@@ -1,0 +1,13 @@
+citation:
+- CITE_000694
+description: 'Let $T=K[Z, \{\frac{X}{Z^n},\frac{Y}{Z^n}\mid n\geq 0\}]$, and let $R=\mathcal
+  A^\infty(T)$ be the atomic closure of $T$ described in Roitman, Moshe. "Polynomial
+  extensions of atomic domains." Journal of pure and applied algebra 87.2 (1993):
+  187-199.'
+is_commutative: true
+keywords:
+- KWD_000002
+krull_dim: (unknown)
+name: Atomic domain with nonatomic polynomial ring
+notes: null
+optional_template: ''

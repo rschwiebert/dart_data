@@ -575,6 +575,17 @@ PROP_000069:
   reason_right: 'Logic 273: Ore domain on the right <==> domain and finite uniform
     dimension on the right'
   ring: RING_000104
+PROP_000070:
+  citation_left:
+  - CITE_000690
+  citation_right: []
+  crosstable_pk: 32668
+  has_on_left: false
+  has_on_right: false
+  property: PROP_000070
+  reason_left: null
+  reason_right: symmetry with left side
+  ring: RING_000104
 PROP_000072:
   citation_left: []
   citation_right: []

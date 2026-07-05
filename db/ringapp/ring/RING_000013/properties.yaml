@@ -1388,6 +1388,16 @@ PROP_000155:
   reason_right: 'Logic 424: Armendariz and finite ===> semicommutative  (SI condition,
     zero-insertive)'
   ring: RING_000013
+PROP_000156:
+  citation_left: []
+  citation_right: []
+  crosstable_pk: 33959
+  has_on_left: false
+  has_on_right: false
+  property: PROP_000156
+  reason_left: null
+  reason_right: null
+  ring: RING_000013
 PROP_000157:
   citation_left: []
   citation_right: []

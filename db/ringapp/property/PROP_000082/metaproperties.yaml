@@ -25,6 +25,15 @@ METAPROP_000003:
   metaproperty: METAPROP_000003
   property: PROP_000082
   relation: 1
+METAPROP_000006:
+  citation: []
+  commutative_only: false
+  crosstable_pk: 987
+  example: RING_000177
+  has_metaproperty: false
+  metaproperty: METAPROP_000006
+  property: PROP_000082
+  relation: null
 METAPROP_000007:
   citation:
   - 498
@@ -54,3 +63,12 @@ METAPROP_000012:
   metaproperty: METAPROP_000012
   property: PROP_000082
   relation: 167
+METAPROP_000016:
+  citation: []
+  commutative_only: false
+  crosstable_pk: 1002
+  example: null
+  has_metaproperty: false
+  metaproperty: METAPROP_000016
+  property: PROP_000082
+  relation: null

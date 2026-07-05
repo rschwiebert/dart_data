@@ -43,6 +43,15 @@ METAPROP_000009:
   metaproperty: METAPROP_000009
   property: PROP_000113
   relation: null
+METAPROP_000012:
+  citation: []
+  commutative_only: false
+  crosstable_pk: 1000
+  example: null
+  has_metaproperty: false
+  metaproperty: METAPROP_000012
+  property: PROP_000113
+  relation: 212
 METAPROP_000016:
   citation: []
   commutative_only: false

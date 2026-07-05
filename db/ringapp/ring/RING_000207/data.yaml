@@ -1,0 +1,9 @@
+citation: []
+description: Polynomial ring in two variables over $\mathbb Q$.
+is_commutative: true
+keywords:
+- KWD_000002
+krull_dim: (unknown)
+name: $\mathbb Q[x,y]$
+notes: null
+optional_template: ''

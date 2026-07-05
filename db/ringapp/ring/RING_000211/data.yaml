@@ -1,0 +1,10 @@
+citation:
+- CITE_000694
+description: The polynomial ring of $R_{210}$ in a single variable.
+is_commutative: true
+keywords:
+- KWD_000002
+krull_dim: (unknown)
+name: Non-atomic polynomial ring
+notes: null
+optional_template: ''
