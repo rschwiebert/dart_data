@@ -1,2 +1,6 @@
-description: Related to the construction of quaternions and generalized quaternions. A generalized quaternion algebra $\left(\dfrac{a,b}{F}\right)$ over a field $F$ of characteristic $\not = 2$ is defined as $F\langle i,j,k\rangle/(i^2-a, j^2-b, ij+ji, k-ij)$, where $a,b \in F \setminus \{0\}$. (In the classical construction, $a=b=-1$.)
+description: Related to the construction of quaternions and generalized quaternions.
+  A generalized quaternion algebra $\left(\dfrac{a,b}{F}\right)$ over a field $F$
+  of characteristic $\not = 2$ is defined as $F\langle i,j,k\rangle/(i^2-a, j^2-b,
+  ij+ji, k-ij)$, where $a,b \in F \setminus \{0\}$. (In the classical construction,
+  $a=b=-1$.)
 name: quaternion algebra

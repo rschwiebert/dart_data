@@ -1,3 +1,4 @@
-description: Given a ring $S$ and an endomorphism $\sigma:S\to S$, take $S[x]$
-  and define $xa=\sigma(a)x$ instead of the regular polynomial multiplication. (The symmetrical definition need not give an isomorphic ring.)
+description: "Given a ring $S$ and an endomorphism $\\sigma:S\\to S$, take $S[x]$\r\
+  \n  and define $xa=\\sigma(a)x$ instead of the regular polynomial multiplication.\
+  \ (The symmetrical definition need not give an isomorphic ring.)"
 name: twisted (skew) polynomial ring

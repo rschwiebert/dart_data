@@ -1,2 +1,8 @@
-description: The localization $S^{-1} R$ of a commutative ring $R$ by a multiplicatively closed set $S$ is defined as the set of pairs $(r,s)$ (written as $r/s$), where $r/s = r'/s'$ if and only if there exists $t\in S$ with $t(r/s-r'/s')=0$. (If $R$ is an integral domain, the natural map $R \to S^{-1} R$, $r \mapsto r/1$, is an embedding.) There are multiple generalizations of this process to noncommutative rings, often referred to as (noncommutative) localization; the resulting rings are called <a href="keywords/keyword/24/">rings of quotients</a>.
+description: The localization $S^{-1} R$ of a commutative ring $R$ by a multiplicatively
+  closed set $S$ is defined as the set of pairs $(r,s)$ (written as $r/s$), where
+  $r/s = r'/s'$ if and only if there exists $t\in S$ with $t(r/s-r'/s')=0$. (If $R$
+  is an integral domain, the natural map $R \to S^{-1} R$, $r \mapsto r/1$, is an
+  embedding.) There are multiple generalizations of this process to noncommutative
+  rings, often referred to as (noncommutative) localization; the resulting rings are
+  called <a href="keywords/keyword/24/">rings of quotients</a>.
 name: localization

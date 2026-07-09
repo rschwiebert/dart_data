@@ -1,4 +1,4 @@
-description: 'Given a ring $R$ and an $R$-bimodule $M$, the underlying set
-  is $R\times M$. Addition: $(r,m)+(r'',m'')=(r+r'', m+m'')$. Multiplication: $(r,m)(r'',m'')=(rr'',
+description: 'Given a ring $R$ and an $R,R$ bimodule $M$, the underlying set is $R\times
+  M$. Addition: $(r,m)+(r'',m'')=(r+r'', m+m'')$. Multiplication: $(r,m)(r'',m'')=(rr'',
   rm''+mr'')$'
 name: trivial extension

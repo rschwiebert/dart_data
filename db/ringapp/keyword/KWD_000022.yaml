@@ -1,2 +1,3 @@
-description: The algebraic closure of a field $k$ is defined as an algebraic extension of $k$ that is algebraically closed. It is unique up to field isomorphism.
+description: The algebraic closure of a field $k$ is defined as an algebraic extension
+  of $k$ that is algebraically closed. It is unique up to field isomorphism.
 name: algebraic closure

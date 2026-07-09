@@ -1,2 +1,4 @@
-description: Let $G$ be an ordered Abelian group. A valuation is a mapping $v$ from a ring to $G \cup \{ +\infty\}$ that satisfies the conditions $v(x) = \infty$ if and only if $x = 0$, $v(xy)$ = $v(x)+v(y)$, and $v(x-y) \ge \min(v(x), v(y))$.
+description: Let $G$ be an ordered Abelian group. A valuation is a mapping $v$ from
+  a ring to $G \cup \{ +\infty\}$ that satisfies the conditions $v(x) = \infty$ if
+  and only if $x = 0$, $v(xy)$ = $v(x)+v(y)$, and $v(x-y) \ge \min(v(x), v(y))$.
 name: valuations

@@ -1,2 +1,5 @@
-description: "A basic ring of a <a href="keywords/keyword/25">semiperfect</a> ring $R$ is a corner ring $eRe$ for $e = e_1 + \ldots + e_r$, where $e_i$ are orthogonal primitive idempotents of $R$ such that $e_i R$ constitute a complete set of isomorphism classes of principal indecomposable right $R$-modules."
+description: A basic ring of a <a href="keywords/keyword/25">semiperfect</a> ring
+  $R$ is a corner ring $eRe$ for $e = e_1 + \ldots + e_r$, where $e_i$ are orthogonal
+  primitive idempotents of $R$ such that $e_i R$ constitute a complete set of isomorphism
+  classes of principal indecomposable right $R$-modules.
 name: basic ring

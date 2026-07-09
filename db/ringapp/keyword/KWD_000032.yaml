@@ -1,2 +1,5 @@
-description: "Let $I$ be an ideal of a ring $R$. The $I$-adic completion of $R$ is defined as the inverse limit of the rings $R/I^n$, that is, the subring of $\prod\limits_{i=0}^\infty R/I^n$ that consists of sequences $(a_i)$ such that $a_m \equiv a_k \mod I^k$ for all $m > k$."
+description: Let $I$ be an ideal of a ring $R$. The $I$-adic completion of $R$ is
+  defined as the inverse limit of the rings $R/I^n$, that is, the subring of $\prod\limits_{i=0}^\infty
+  R/I^n$ that consists of sequences $(a_i)$ such that $a_m \equiv a_k \mod I^k$ for
+  all $m > k$.
 name: completion
