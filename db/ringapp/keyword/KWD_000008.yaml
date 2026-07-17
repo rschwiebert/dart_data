@@ -1,2 +1,3 @@
-description: null
+description: A ring of matrices whose columns and rows are indexed by an infinite
+  set.
 name: infinite matrix ring

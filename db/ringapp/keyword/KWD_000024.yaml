@@ -1,2 +1,6 @@
-description: null
-name: ring of quotients
+description: A ring $Q$ is usually called a right ring of fractions (or sometimes
+  ring of quotients) for a ring $R$ if there is a homomorphism $R \to Q$ that maps
+  some multiplicative set $S \subset R$ to invertible elements of $Q$. There are many
+  constructions of rings of fractions (applicable in different situations and generally
+  inequivalent), including classical, maximal, and Martindale rings of quotients.
+name: ring of fractions

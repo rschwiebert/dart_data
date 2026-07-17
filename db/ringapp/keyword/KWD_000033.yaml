@@ -1,3 +1,8 @@
-description: like a group ring but the coefficients don't necessarily commute with
-  the group elements.
+description: 'Let $k$ be a field, $G$ a group (possibly noncommutative). A twisted
+  group ring $k^\gamma[G]$ is the set of finite formal $k$-linear combinations of
+  elements of $k$ with pointwise addition and convolutional multiplication, but multiplying
+  group elements introduces a scalar factor that depends on the elements: if $g_1
+  g_2 = g$ in $G$, then $g_1 g_2 = \gamma(g_1,g_2)g$ in $k^{\gamma}[G]$. The mapping
+  $\gamma$: $G\times G \to k\setminus \{0\}$ is called a 2-cocycle; associativity
+  forces it to fulfill the condition $\gamma(x,y) \gamma(xy,z) = \gamma(y,z) \gamma(x,yz)$.'
 name: twisted group ring

@@ -1,2 +1,4 @@
-description: null
+description: The set of equivalence classes of elements of a ring $R$ modulo a two-sided
+  ideal $R$ with operations induced from those of $R$. Not to be confused with <a
+  href="keywords/keyword/24/">rings of fractions</a>.
 name: quotient ring

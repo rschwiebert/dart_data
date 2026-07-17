@@ -1,3 +1,4 @@
 description: A procedure on commutative local rings that makes extends the ring to
-  a Henselian local ring.
+  a Henselian local ring.  See <a href="https://stacks.math.columbia.edu/tag/0BSK">The
+  Stacks project</a>.
 name: Henselization

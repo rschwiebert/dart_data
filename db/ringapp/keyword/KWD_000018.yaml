@@ -1,2 +1,4 @@
-description: null
+description: Let $A \subset B$ be commutative rings. The integral closure of $A$ in
+  $B$ is the subring of elements of $B$ integral over $A$, that is, of elements that
+  satisfy monic polynomial equations with coefficients in $A$.
 name: integral closure

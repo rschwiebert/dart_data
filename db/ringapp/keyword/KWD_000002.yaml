@@ -1,2 +1,5 @@
-description: null
+description: The polynomial ring $R[x]$ is the <a href="keywords/keyword/35/">monoid
+  ring</a> of the monoid $\Bbb N$ of nonnegative integers over a ring $R$. The polynomial
+  ring $R[X]$, where $X$ is a set of variables (possibly infinite), is the monoid
+  ring of the direct sum $\bigoplus\limits_{x \in X} \Bbb N$.
 name: polynomial ring
