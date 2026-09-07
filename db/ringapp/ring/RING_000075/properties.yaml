@@ -229,10 +229,10 @@ PROP_000024:
   has_on_left: false
   has_on_right: false
   property: PROP_000024
-  reason_left: 'Logic (rings) 189: \(NOT "semilocal" \) <=== \(NOT "semisimple" \)
-    AND \( "semiprimitive" \).'
-  reason_right: 'Logic (rings) 189: \(NOT "semilocal" \) <=== \(NOT "semisimple" \)
-    AND \( "semiprimitive" \).'
+  reason_left: 'Logic (rings) 99: \(NOT "semilocal" \) <=== \(NOT "stable range 1"
+    \).'
+  reason_right: 'Logic (rings) 99: \(NOT "semilocal" \) <=== \(NOT "stable range 1"
+    \).'
   ring: RING_000075
 PROP_000025:
   citation_left: []

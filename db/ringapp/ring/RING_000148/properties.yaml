@@ -726,9 +726,9 @@ PROP_000076:
   has_on_right: false
   property: PROP_000076
   reason_left: 'Logic (rings) 414: \(NOT "uniserial ring" on the left\) <=== \(NOT
-    "local" \).'
+    "Bezout" on the left\).'
   reason_right: 'Logic (rings) 414: \(NOT "uniserial ring" on the right\) <=== \(NOT
-    "local" \).'
+    "Bezout" on the right\).'
   ring: RING_000148
 PROP_000077:
   citation_left: []
@@ -759,10 +759,10 @@ PROP_000080:
   has_on_left: false
   has_on_right: false
   property: PROP_000080
-  reason_left: 'Logic (rings) 218: \(NOT "self-injective" on the left\) <=== \(NOT
-    "semiperfect" \) AND \( "orthogonally finite" \).'
-  reason_right: 'Logic (rings) 218: \(NOT "self-injective" on the right\) <=== \(NOT
-    "semiperfect" \) AND \( "orthogonally finite" \).'
+  reason_left: 'Logic (rings) 90: \(NOT "self-injective" on the left\) <=== \(NOT
+    "principally injective" on the left\).'
+  reason_right: 'Logic (rings) 90: \(NOT "self-injective" on the right\) <=== \(NOT
+    "principally injective" on the right\).'
   ring: RING_000148
 PROP_000081:
   citation_left: []
@@ -884,9 +884,9 @@ PROP_000095:
   has_on_right: false
   property: PROP_000095
   reason_left: 'Logic (rings) 203: \(NOT "principally injective" on the left\) <===
-    \(NOT "cohopfian" on the left\) AND \( "Dedekind finite" \).'
+    \(NOT "co-Hopfian" on the left\) AND \( "Dedekind finite" \).'
   reason_right: 'Logic (rings) 203: \(NOT "principally injective" on the right\) <===
-    \(NOT "cohopfian" on the right\) AND \( "Dedekind finite" \).'
+    \(NOT "co-Hopfian" on the right\) AND \( "Dedekind finite" \).'
   ring: RING_000148
 PROP_000098:
   citation_left: []
@@ -1420,10 +1420,8 @@ PROP_000158:
   has_on_left: true
   has_on_right: true
   property: PROP_000158
-  reason_left: 'Logic (rings) 473: \( "IC (internal cancellation)" \) <=== \( "Abelian"
-    \).'
-  reason_right: 'Logic (rings) 473: \( "IC (internal cancellation)" \) <=== \( "Abelian"
-    \).'
+  reason_left: 'Logic (rings) 473: \( "IC ring" \) <=== \( "Abelian" \).'
+  reason_right: 'Logic (rings) 473: \( "IC ring" \) <=== \( "Abelian" \).'
   ring: RING_000148
 PROP_000159:
   citation_left: []

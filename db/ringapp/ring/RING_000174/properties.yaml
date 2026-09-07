@@ -58,10 +58,8 @@ PROP_000006:
   has_on_left: true
   has_on_right: true
   property: PROP_000006
-  reason_left: 'Logic (rings) 67: \( "semiprimitive" \) <=== \( "primitive" on the
-    left or right\).'
-  reason_right: 'Logic (rings) 67: \( "semiprimitive" \) <=== \( "primitive" on the
-    left or right\).'
+  reason_left: 'Logic (rings) ?: \( "semiprimitive" \) <=== ring_subset_deduced("$\{0\}$",1).'
+  reason_right: 'Logic (rings) ?: \( "semiprimitive" \) <=== ring_subset_deduced("$\{0\}$",1).'
   ring: RING_000174
 PROP_000007:
   citation_left:
@@ -137,10 +135,10 @@ PROP_000013:
   has_on_left: false
   has_on_right: false
   property: PROP_000013
-  reason_left: 'Logic (rings) 47: \(NOT "unit regular" \) <=== \(NOT "stable range
-    1" \).'
-  reason_right: 'Logic (rings) 47: \(NOT "unit regular" \) <=== \(NOT "stable range
-    1" \).'
+  reason_left: 'Logic (rings) 47: \(NOT "unit regular" \) <=== \(NOT "von Neumann
+    regular" \).'
+  reason_right: 'Logic (rings) 47: \(NOT "unit regular" \) <=== \(NOT "von Neumann
+    regular" \).'
   ring: RING_000174
 PROP_000014:
   citation_left:
@@ -267,8 +265,8 @@ PROP_000026:
   has_on_left: true
   has_on_right: true
   property: PROP_000026
-  reason_left: 'Logic (rings) 152: \( "lift/rad" \) <=== \( "nil radical" \).'
-  reason_right: 'Logic (rings) 152: \( "lift/rad" \) <=== \( "nil radical" \).'
+  reason_left: 'Logic (rings) 377: \( "lift/rad" \) <=== \( "potent" \).'
+  reason_right: 'Logic (rings) 377: \( "lift/rad" \) <=== \( "potent" \).'
   ring: RING_000174
 PROP_000027:
   citation_left: []
@@ -734,10 +732,8 @@ PROP_000073:
   has_on_left: true
   has_on_right: true
   property: PROP_000073
-  reason_left: 'Logic (rings) 61: \( "nonsingular" on the left\) <=== \( "Rickart"
-    on the left\).'
-  reason_right: 'Logic (rings) 61: \( "nonsingular" on the right\) <=== \( "Rickart"
-    on the right\).'
+  reason_left: 'Logic (rings) ?: \( "nonsingular" on the left\) <=== ring_subset_deduced("$\{0\}$",6).'
+  reason_right: 'Logic (rings) ?: \( "nonsingular" on the right\) <=== ring_subset_deduced("$\{0\}$",5).'
   ring: RING_000174
 PROP_000074:
   citation_left: []
@@ -790,10 +786,10 @@ PROP_000080:
   has_on_left: false
   has_on_right: false
   property: PROP_000080
-  reason_left: 'Logic (rings) 89: \(NOT "self-injective" on the left\) <=== \(NOT
-    "continuous" on the left\).'
-  reason_right: 'Logic (rings) 89: \(NOT "self-injective" on the right\) <=== \(NOT
-    "continuous" on the right\).'
+  reason_left: 'Logic (rings) 219: \(NOT "self-injective" on the left\) <=== \(NOT
+    "von Neumann regular" \) AND \( "nonsingular" on the left\).'
+  reason_right: 'Logic (rings) 219: \(NOT "self-injective" on the right\) <=== \(NOT
+    "von Neumann regular" \) AND \( "nonsingular" on the right\).'
   ring: RING_000174
 PROP_000081:
   citation_left: []

@@ -363,10 +363,8 @@ PROP_000032:
   has_on_left: true
   has_on_right: true
   property: PROP_000032
-  reason_left: 'Logic (rings) 179: \( "semicommutative  (SI condition, zero-insertive)"
-    \) <=== \( "reversible" \).'
-  reason_right: 'Logic (rings) 179: \( "semicommutative  (SI condition, zero-insertive)"
-    \) <=== \( "reversible" \).'
+  reason_left: 'Logic (rings) 179: \( "semicommutative" \) <=== \( "reversible" \).'
+  reason_right: 'Logic (rings) 179: \( "semicommutative" \) <=== \( "reversible" \).'
   ring: RING_000151
 PROP_000033:
   citation_left: []
@@ -375,10 +373,8 @@ PROP_000033:
   has_on_left: true
   has_on_right: true
   property: PROP_000033
-  reason_left: 'Logic (rings) 147: \( "NI (nilpotents form an ideal)" \) <=== \( "2-primal"
-    \).'
-  reason_right: 'Logic (rings) 147: \( "NI (nilpotents form an ideal)" \) <=== \(
-    "2-primal" \).'
+  reason_left: 'Logic (rings) 147: \( "NI ring" \) <=== \( "2-primal" \).'
+  reason_right: 'Logic (rings) 147: \( "NI ring" \) <=== \( "2-primal" \).'
   ring: RING_000151
 PROP_000034:
   citation_left: []
@@ -824,8 +820,10 @@ PROP_000073:
   has_on_left: true
   has_on_right: true
   property: PROP_000073
-  reason_left: 'Logic (rings) logical AND: ring_deduced("has",2,Y) <=== ring_deduced("has",1,Y).'
-  reason_right: 'Logic (rings) logical AND: ring_deduced("has",3,Y) <=== ring_deduced("has",1,Y).'
+  reason_left: 'Logic (rings) 61: \( "nonsingular" on the left\) <=== \( "Rickart"
+    on the left\).'
+  reason_right: 'Logic (rings) 61: \( "nonsingular" on the right\) <=== \( "Rickart"
+    on the right\).'
   ring: RING_000151
 PROP_000074:
   citation_left: []
@@ -1500,8 +1498,8 @@ PROP_000146:
   has_on_left: true
   has_on_right: true
   property: PROP_000146
-  reason_left: 'Logic (rings) 376: \( "potent" \) <=== \( "Zorn" \).'
-  reason_right: 'Logic (rings) 376: \( "potent" \) <=== \( "Zorn" \).'
+  reason_left: 'Logic (rings) 378: \( "potent" \) <=== \( "exchange" \).'
+  reason_right: 'Logic (rings) 378: \( "potent" \) <=== \( "exchange" \).'
   ring: RING_000151
 PROP_000147:
   citation_left: []
@@ -1578,9 +1576,9 @@ PROP_000154:
   has_on_right: false
   property: PROP_000154
   reason_left: 'Logic (rings) 425: \(NOT "uniserial domain" on the left\) <=== \(NOT
-    "domain" \).'
+    "uniserial ring" on the left\).'
   reason_right: 'Logic (rings) 425: \(NOT "uniserial domain" on the right\) <=== \(NOT
-    "domain" \).'
+    "uniserial ring" on the right\).'
   ring: RING_000151
 PROP_000155:
   citation_left: []
@@ -1620,10 +1618,8 @@ PROP_000158:
   has_on_left: true
   has_on_right: true
   property: PROP_000158
-  reason_left: 'Logic (rings) 473: \( "IC (internal cancellation)" \) <=== \( "Abelian"
-    \).'
-  reason_right: 'Logic (rings) 473: \( "IC (internal cancellation)" \) <=== \( "Abelian"
-    \).'
+  reason_left: 'Logic (rings) 473: \( "IC ring" \) <=== \( "Abelian" \).'
+  reason_right: 'Logic (rings) 473: \( "IC ring" \) <=== \( "Abelian" \).'
   ring: RING_000151
 PROP_000159:
   citation_left: []

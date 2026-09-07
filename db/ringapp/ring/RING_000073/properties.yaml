@@ -1511,6 +1511,5 @@ PROP_000178:
   property: PROP_000178
   reason_left: 'Logic (rings) 583: \(NOT "subdirectly irreducible" \) <=== \(NOT "primitive"
     on the left and right\) AND \( "semiprimitive" \).'
-  reason_right: 'Logic (rings) 583: \(NOT "subdirectly irreducible" \) <=== \(NOT
-    "primitive" on the left and right\) AND \( "semiprimitive" \).'
+  reason_right: symmetry with left side
   ring: RING_000073

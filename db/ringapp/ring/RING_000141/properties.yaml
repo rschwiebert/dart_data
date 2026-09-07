@@ -1288,9 +1288,9 @@ PROP_000154:
   has_on_left: false
   has_on_right: false
   property: PROP_000154
-  reason_left: 'Logic (rings) 425: \(NOT "valuation domain" on the left\) <=== \(NOT
+  reason_left: 'Logic (rings) 425: \(NOT "uniserial domain" on the left\) <=== \(NOT
     "uniserial ring" on the left\).'
-  reason_right: 'Logic (rings) 425: \(NOT "valuation domain" on the right\) <=== \(NOT
+  reason_right: 'Logic (rings) 425: \(NOT "uniserial domain" on the right\) <=== \(NOT
     "uniserial ring" on the right\).'
   ring: RING_000141
 PROP_000155:
@@ -1435,8 +1435,8 @@ PROP_000167:
   has_on_left: false
   has_on_right: false
   property: PROP_000167
-  reason_left: 'Logic (rings) 534: \(NOT "torch" \) <=== \( "reduced" \).'
-  reason_right: 'Logic (rings) 534: \(NOT "torch" \) <=== \( "reduced" \).'
+  reason_left: 'Logic (rings) 539: \(NOT "torch" \) <=== \(NOT "?-ring" \).'
+  reason_right: 'Logic (rings) 539: \(NOT "torch" \) <=== \(NOT "?-ring" \).'
   ring: RING_000141
 PROP_000169:
   citation_left: []
@@ -1493,10 +1493,10 @@ PROP_000173:
   has_on_left: false
   has_on_right: false
   property: PROP_000173
-  reason_left: 'Logic (rings) logical AND: ring_deduced("lacks",2,Y) <=== \( "commutative"
-    \) AND ring_deduced("lacks",1,Y).'
-  reason_right: 'Logic (rings) logical AND: ring_deduced("lacks",3,Y) <=== \( "commutative"
-    \) AND ring_deduced("lacks",1,Y).'
+  reason_left: 'Logic (rings) 334: \(NOT "valuation ring" \) <=== \(NOT "serial" on
+    the left and right\).'
+  reason_right: 'Logic (rings) 334: \(NOT "valuation ring" \) <=== \(NOT "serial"
+    on the left and right\).'
   ring: RING_000141
 PROP_000175:
   citation_left: []
