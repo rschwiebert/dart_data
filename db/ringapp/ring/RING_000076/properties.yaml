@@ -57,7 +57,7 @@ PROP_000006:
   has_on_right: true
   property: PROP_000006
   reason_left: 'Logic 261: nilpotent radical and semiprime <==> semiprimitive'
-  reason_right: 'Logic 261: nilpotent radical and semiprime <==> semiprimitive'
+  reason_right: symmetry with left side
   ring: RING_000076
 PROP_000007:
   citation_left: []
@@ -219,8 +219,7 @@ PROP_000021:
   property: PROP_000021
   reason_left: 'Logic 174: nil radical and Noetherian on the left or right ===> nilpotent
     radical'
-  reason_right: 'Logic 174: nil radical and Noetherian on the left or right ===> nilpotent
-    radical'
+  reason_right: symmetry with left side
   ring: RING_000076
 PROP_000022:
   citation_left: []
@@ -230,7 +229,7 @@ PROP_000022:
   has_on_right: true
   property: PROP_000022
   reason_left: 'Logic 413: commutative and rad-nil ===> nil radical'
-  reason_right: 'Logic 413: commutative and rad-nil ===> nil radical'
+  reason_right: symmetry with left side
   ring: RING_000076
 PROP_000023:
   citation_left: []
@@ -250,7 +249,7 @@ PROP_000024:
   has_on_right: false
   property: PROP_000024
   reason_left: 'Logic 93: semiprimary <==> nilpotent radical and semilocal'
-  reason_right: 'Logic 93: semiprimary <==> nilpotent radical and semilocal'
+  reason_right: symmetry with left side
   ring: RING_000076
 PROP_000025:
   citation_left: []
@@ -270,7 +269,7 @@ PROP_000026:
   has_on_right: true
   property: PROP_000026
   reason_left: 'Logic 152: nil radical ===> lift/rad'
-  reason_right: 'Logic 152: nil radical ===> lift/rad'
+  reason_right: symmetry with left side
   ring: RING_000076
 PROP_000028:
   citation_left: []
@@ -310,7 +309,7 @@ PROP_000031:
   has_on_right: false
   property: PROP_000031
   reason_left: 'Logic 35: von Neumann regular <==> semiprimitive and top regular'
-  reason_right: 'Logic 35: von Neumann regular <==> semiprimitive and top regular'
+  reason_right: symmetry with left side
   ring: RING_000076
 PROP_000032:
   citation_left: []
@@ -539,7 +538,7 @@ PROP_000053:
   has_on_right: false
   property: PROP_000053
   reason_left: 'Logic 476: strongly connected and weakly clean ===> local'
-  reason_right: 'Logic 476: strongly connected and weakly clean ===> local'
+  reason_right: symmetry with left side
   ring: RING_000076
 PROP_000054:
   citation_left: []
@@ -1265,7 +1264,7 @@ PROP_000120:
   has_on_right: false
   property: PROP_000120
   reason_left: 'Logic 466: analytically unramified ===> local'
-  reason_right: 'Logic 466: analytically unramified ===> local'
+  reason_right: symmetry with left side
   ring: RING_000076
 PROP_000121:
   citation_left: []
@@ -1351,7 +1350,7 @@ PROP_000128:
   has_on_right: true
   property: PROP_000128
   reason_left: 'Logic 325: 2-primal and Jacobson (Hilbert) ===> rad-nil'
-  reason_right: 'Logic 325: 2-primal and Jacobson (Hilbert) ===> rad-nil'
+  reason_right: symmetry with left side
   ring: RING_000076
 PROP_000129:
   citation_left: []
@@ -1493,8 +1492,7 @@ PROP_000142:
   has_on_right: true
   property: PROP_000142
   reason_left: 'Logic (rings) 355: \( "J-0" \) <=== \( "J-1" \) AND \( "reduced" \).'
-  reason_right: 'Logic (rings) 355: \( "J-0" \) <=== \( "J-1" \) AND \( "reduced"
-    \).'
+  reason_right: symmetry with left side
   ring: RING_000076
 PROP_000143:
   citation_left: []
@@ -1524,7 +1522,7 @@ PROP_000145:
   has_on_right: false
   property: PROP_000145
   reason_left: 'Logic 474: Goldman domain and semiprimitive ===> division ring'
-  reason_right: 'Logic 474: Goldman domain and semiprimitive ===> division ring'
+  reason_right: symmetry with left side
   ring: RING_000076
 PROP_000146:
   citation_left: []
@@ -1543,9 +1541,10 @@ PROP_000147:
   has_on_left: false
   has_on_right: false
   property: PROP_000147
-  reason_left: symmetry with right side
-  reason_right: 'Logic 382: PCI ring on the right ===> hereditary on the left and
-    right and Noetherian on the right and V ring on the right'
+  reason_left: 'Logic (rings) 382: \(NOT "PCI ring" on the left\) <=== \(NOT "V ring"
+    on the left\).'
+  reason_right: 'Logic (rings) 382: \(NOT "PCI ring" on the right\) <=== \(NOT "V
+    ring" on the right\).'
   ring: RING_000076
 PROP_000148:
   citation_left: []
@@ -1576,7 +1575,7 @@ PROP_000150:
   has_on_right: false
   property: PROP_000150
   reason_left: 'Logic 397: Henselian local ===> local'
-  reason_right: 'Logic 397: Henselian local ===> local'
+  reason_right: symmetry with left side
   ring: RING_000076
 PROP_000151:
   citation_left: []
@@ -1586,7 +1585,7 @@ PROP_000151:
   has_on_right: false
   property: PROP_000151
   reason_left: 'Logic 400: periodic ===> strongly $\pi$-regular'
-  reason_right: 'Logic 400: periodic ===> strongly $\pi$-regular'
+  reason_right: symmetry with left side
   ring: RING_000076
 PROP_000152:
   citation_left: []
@@ -1596,7 +1595,7 @@ PROP_000152:
   has_on_right: false
   property: PROP_000152
   reason_left: 'Logic 399: Boolean ===> periodic'
-  reason_right: 'Logic 399: Boolean ===> periodic'
+  reason_right: symmetry with left side
   ring: RING_000076
 PROP_000153:
   citation_left: []
@@ -1606,7 +1605,7 @@ PROP_000153:
   has_on_right: true
   property: PROP_000153
   reason_left: 'Logic 405: Dedekind domain ===> almost Dedekind domain'
-  reason_right: 'Logic 405: Dedekind domain ===> almost Dedekind domain'
+  reason_right: symmetry with left side
   ring: RING_000076
 PROP_000154:
   citation_left: []
@@ -1615,9 +1614,10 @@ PROP_000154:
   has_on_left: false
   has_on_right: false
   property: PROP_000154
-  reason_left: symmetry with right side
-  reason_right: 'Logic 415: valuation domain on the right ===> uniserial ring on the
-    right'
+  reason_left: 'Logic (rings) 425: \(NOT "uniserial domain" on the left\) <=== \(NOT
+    "uniserial ring" on the left\).'
+  reason_right: 'Logic (rings) 425: \(NOT "uniserial domain" on the right\) <=== \(NOT
+    "uniserial ring" on the right\).'
   ring: RING_000076
 PROP_000155:
   citation_left: []
@@ -1627,7 +1627,7 @@ PROP_000155:
   has_on_right: true
   property: PROP_000155
   reason_left: 'Logic 420: reduced ===> Armendariz'
-  reason_right: 'Logic 420: reduced ===> Armendariz'
+  reason_right: symmetry with left side
   ring: RING_000076
 PROP_000156:
   citation_left: []
@@ -1647,7 +1647,8 @@ PROP_000157:
   has_on_right: true
   property: PROP_000157
   reason_left: 'Logic (rings) logical AND: ring_deduced("has",2,Y) <=== ring_deduced("has",1,Y).'
-  reason_right: 'Logic (rings) logical AND: ring_deduced("has",3,Y) <=== ring_deduced("has",1,Y).'
+  reason_right: 'Logic (rings) commutativity: ring_deduced("has",3,Y) <=== \( "commutative"
+    \) AND ring_deduced("has",2,Y).'
   ring: RING_000076
 PROP_000158:
   citation_left: []
@@ -1657,7 +1658,7 @@ PROP_000158:
   has_on_right: true
   property: PROP_000158
   reason_left: 'Logic 473: Abelian ===> IC (internal cancellation)'
-  reason_right: 'Logic 473: Abelian ===> IC (internal cancellation)'
+  reason_right: symmetry with left side
   ring: RING_000076
 PROP_000159:
   citation_left: []
@@ -1668,8 +1669,7 @@ PROP_000159:
   property: PROP_000159
   reason_left: 'Logic (rings) 492: \( "arithmetical" \) <=== \( "commutative" \) AND
     \( "distributive" on the left or right\).'
-  reason_right: 'Logic (rings) 492: \( "arithmetical" \) <=== \( "commutative" \)
-    AND \( "distributive" on the left or right\).'
+  reason_right: symmetry with left side
   ring: RING_000076
 PROP_000160:
   citation_left: []
@@ -1680,8 +1680,7 @@ PROP_000160:
   property: PROP_000160
   reason_left: 'Logic (rings) 493: \(NOT "discrete valuation ring" \) <=== \(NOT "valuation
     domain" on the left and right\).'
-  reason_right: 'Logic (rings) 493: \(NOT "discrete valuation ring" \) <=== \(NOT
-    "valuation domain" on the left and right\).'
+  reason_right: symmetry with left side
   ring: RING_000076
 PROP_000161:
   citation_left: []
@@ -1692,8 +1691,7 @@ PROP_000161:
   property: PROP_000161
   reason_left: 'Logic (rings) 495: \(NOT "complete discrete valuation ring" \) <===
     \(NOT "discrete valuation ring" \).'
-  reason_right: 'Logic (rings) 495: \(NOT "complete discrete valuation ring" \) <===
-    \(NOT "discrete valuation ring" \).'
+  reason_right: symmetry with left side
   ring: RING_000076
 PROP_000162:
   citation_left: []
@@ -1703,8 +1701,7 @@ PROP_000162:
   has_on_right: true
   property: PROP_000162
   reason_left: 'Logic (rings) 496: \( "anti-automorphic" \) <=== \( "involutive" \).'
-  reason_right: 'Logic (rings) 496: \( "anti-automorphic" \) <=== \( "involutive"
-    \).'
+  reason_right: symmetry with left side
   ring: RING_000076
 PROP_000163:
   citation_left: []
@@ -1714,7 +1711,7 @@ PROP_000163:
   has_on_right: true
   property: PROP_000163
   reason_left: 'Logic (rings) 497: \( "involutive" \) <=== \( "commutative" \).'
-  reason_right: 'Logic (rings) 497: \( "involutive" \) <=== \( "commutative" \).'
+  reason_right: symmetry with left side
   ring: RING_000076
 PROP_000164:
   citation_left: []
@@ -1725,8 +1722,7 @@ PROP_000164:
   property: PROP_000164
   reason_left: 'Logic (rings) 531: \(NOT "maximal valuation ring" \) <=== \(NOT "valuation
     ring" \).'
-  reason_right: 'Logic (rings) 531: \(NOT "maximal valuation ring" \) <=== \(NOT "valuation
-    ring" \).'
+  reason_right: symmetry with left side
   ring: RING_000076
 PROP_000165:
   citation_left: []
@@ -1737,8 +1733,7 @@ PROP_000165:
   property: PROP_000165
   reason_left: 'Logic (rings) 532: \(NOT "almost maximal valuation ring" \) <=== \(NOT
     "valuation ring" \).'
-  reason_right: 'Logic (rings) 532: \(NOT "almost maximal valuation ring" \) <===
-    \(NOT "valuation ring" \).'
+  reason_right: symmetry with left side
   ring: RING_000076
 PROP_000166:
   citation_left: []
@@ -1749,8 +1744,7 @@ PROP_000166:
   property: PROP_000166
   reason_left: 'Logic (rings) 507: \( "$h$-local domain" \) <=== \( "commutative"
     \) AND \( "Noetherian" on the left or right\) AND \( "domain" \) AND ring_dim_deduced("1",0,1).'
-  reason_right: 'Logic (rings) 507: \( "$h$-local domain" \) <=== \( "commutative"
-    \) AND \( "Noetherian" on the left or right\) AND \( "domain" \) AND ring_dim_deduced("1",0,1).'
+  reason_right: symmetry with left side
   ring: RING_000076
 PROP_000167:
   citation_left: []
@@ -1760,7 +1754,7 @@ PROP_000167:
   has_on_right: false
   property: PROP_000167
   reason_left: 'Logic (rings) 534: \(NOT "torch" \) <=== \( "reduced" \).'
-  reason_right: 'Logic (rings) 534: \(NOT "torch" \) <=== \( "reduced" \).'
+  reason_right: symmetry with left side
   ring: RING_000076
 PROP_000168:
   citation_left: []
@@ -1771,8 +1765,7 @@ PROP_000168:
   property: PROP_000168
   reason_left: 'Logic (rings) 503: \( "FGC" \) <=== \( "almost maximal domain" \)
     AND \( "Bezout domain" on the left or right\).'
-  reason_right: 'Logic (rings) 503: \( "FGC" \) <=== \( "almost maximal domain" \)
-    AND \( "Bezout domain" on the left or right\).'
+  reason_right: symmetry with left side
   ring: RING_000076
 PROP_000169:
   citation_left: []
@@ -1783,8 +1776,7 @@ PROP_000169:
   property: PROP_000169
   reason_left: 'Logic (rings) 507: \( "almost maximal domain" \) <=== \( "commutative"
     \) AND \( "Noetherian" on the left or right\) AND \( "domain" \) AND ring_dim_deduced("1",0,1).'
-  reason_right: 'Logic (rings) 507: \( "almost maximal domain" \) <=== \( "commutative"
-    \) AND \( "Noetherian" on the left or right\) AND \( "domain" \) AND ring_dim_deduced("1",0,1).'
+  reason_right: symmetry with left side
   ring: RING_000076
 PROP_000170:
   citation_left: []
@@ -1795,8 +1787,8 @@ PROP_000170:
   property: PROP_000170
   reason_left: 'Logic (rings) 521: \(NOT "linearly compact" on the left\) <=== \(NOT
     "semiperfect" \).'
-  reason_right: 'Logic (rings) 521: \(NOT "linearly compact" on the right\) <=== \(NOT
-    "semiperfect" \).'
+  reason_right: 'Logic (rings) commutativity: ring_deduced("lacks",3,Y) <=== \( "commutative"
+    \) AND ring_deduced("lacks",2,Y).'
   ring: RING_000076
 PROP_000171:
   citation_left: []
@@ -1807,8 +1799,7 @@ PROP_000171:
   property: PROP_000171
   reason_left: 'Logic (rings) 522: \(NOT "maximal ring" \) <=== \(NOT "linearly compact"
     on the left or right\).'
-  reason_right: 'Logic (rings) 522: \(NOT "maximal ring" \) <=== \(NOT "linearly compact"
-    on the left or right\).'
+  reason_right: symmetry with left side
   ring: RING_000076
 PROP_000172:
   citation_left: []
@@ -1819,8 +1810,7 @@ PROP_000172:
   property: PROP_000172
   reason_left: 'Logic (rings) 527: \(NOT "valuation domain" \) <=== \(NOT "valuation
     ring" \).'
-  reason_right: 'Logic (rings) 527: \(NOT "valuation domain" \) <=== \(NOT "valuation
-    ring" \).'
+  reason_right: symmetry with left side
   ring: RING_000076
 PROP_000173:
   citation_left: []
@@ -1831,8 +1821,7 @@ PROP_000173:
   property: PROP_000173
   reason_left: 'Logic (rings) logical AND: ring_deduced("lacks",2,Y) <=== \( "commutative"
     \) AND ring_deduced("lacks",1,Y).'
-  reason_right: 'Logic (rings) logical AND: ring_deduced("lacks",3,Y) <=== \( "commutative"
-    \) AND ring_deduced("lacks",1,Y).'
+  reason_right: symmetry with left side
   ring: RING_000076
 PROP_000174:
   citation_left: []
@@ -1843,8 +1832,7 @@ PROP_000174:
   property: PROP_000174
   reason_left: 'Logic (rings) 533: \( "almost maximal ring" \) <=== \( "almost maximal
     domain" \).'
-  reason_right: 'Logic (rings) 533: \( "almost maximal ring" \) <=== \( "almost maximal
-    domain" \).'
+  reason_right: symmetry with left side
   ring: RING_000076
 PROP_000175:
   citation_left: []
@@ -1854,7 +1842,7 @@ PROP_000175:
   has_on_right: false
   property: PROP_000175
   reason_left: 'Logic (rings) 541: \(NOT "?-ring" \) <=== \( "reduced" \).'
-  reason_right: 'Logic (rings) 541: \(NOT "?-ring" \) <=== \( "reduced" \).'
+  reason_right: symmetry with left side
   ring: RING_000076
 PROP_000176:
   citation_left: []
@@ -1865,8 +1853,8 @@ PROP_000176:
   property: PROP_000176
   reason_left: 'Logic (rings) 562: \( "semi-Noetherian" on the left\) <=== \( "Noetherian"
     on the left\).'
-  reason_right: 'Logic (rings) 562: \( "semi-Noetherian" on the right\) <=== \( "Noetherian"
-    on the right\).'
+  reason_right: 'Logic (rings) commutativity: ring_deduced("has",3,Y) <=== \( "commutative"
+    \) AND ring_deduced("has",2,Y).'
   ring: RING_000076
 PROP_000177:
   citation_left: []
@@ -1877,8 +1865,8 @@ PROP_000177:
   property: PROP_000177
   reason_left: 'Logic (rings) 552: \(NOT "semi-Artinian" on the left\) <=== \(NOT
     "essential socle" on the left\).'
-  reason_right: 'Logic (rings) 552: \(NOT "semi-Artinian" on the right\) <=== \(NOT
-    "essential socle" on the right\).'
+  reason_right: 'Logic (rings) commutativity: ring_deduced("lacks",3,Y) <=== \( "commutative"
+    \) AND ring_deduced("lacks",2,Y).'
   ring: RING_000076
 PROP_000178:
   citation_left: []
@@ -1889,6 +1877,5 @@ PROP_000178:
   property: PROP_000178
   reason_left: 'Logic (rings) 590: \(NOT "subdirectly irreducible" \) <=== \(NOT "field"
     \) AND \( "commutative" \) AND \( "domain" \).'
-  reason_right: 'Logic (rings) 590: \(NOT "subdirectly irreducible" \) <=== \(NOT
-    "field" \) AND \( "commutative" \) AND \( "domain" \).'
+  reason_right: symmetry with left side
   ring: RING_000076

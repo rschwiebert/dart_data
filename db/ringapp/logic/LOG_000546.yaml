@@ -1,4 +1,4 @@
-active: true
+active: false
 citation:
 - CITE_000214
 concs: ring_deduced("has",3,147) AND ring_deduced("has",2,87)

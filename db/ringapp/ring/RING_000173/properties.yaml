@@ -733,10 +733,8 @@ PROP_000070:
   has_on_left: true
   has_on_right: true
   property: PROP_000070
-  reason_left: 'Logic (rings) 574: \( "hereditary" on the left\) <=== \( "countable"
-    \) AND \( "von Neumann regular" \).'
-  reason_right: 'Logic (rings) 574: \( "hereditary" on the right\) <=== \( "countable"
-    \) AND \( "von Neumann regular" \).'
+  reason_left: 'Logic (rings) 479: \( "hereditary" on the left\) <=== ring_dim_deduced("1",2,4).'
+  reason_right: 'Logic (rings) 479: \( "hereditary" on the right\) <=== ring_dim_deduced("1",3,4).'
   ring: RING_000173
 PROP_000071:
   citation_left: []
@@ -1609,10 +1607,10 @@ PROP_000170:
   has_on_left: false
   has_on_right: false
   property: PROP_000170
-  reason_left: 'Logic (rings) 521: \(NOT "linearly compact" on the left\) <=== \(NOT
-    "semiperfect" \).'
-  reason_right: 'Logic (rings) 521: \(NOT "linearly compact" on the right\) <=== \(NOT
-    "semiperfect" \).'
+  reason_left: 'Logic (rings) 520: \(NOT "linearly compact" on the left\) <=== \(NOT
+    "finite uniform dimension" on the left\).'
+  reason_right: 'Logic (rings) 520: \(NOT "linearly compact" on the right\) <=== \(NOT
+    "finite uniform dimension" on the right\).'
   ring: RING_000173
 PROP_000171:
   citation_left: []

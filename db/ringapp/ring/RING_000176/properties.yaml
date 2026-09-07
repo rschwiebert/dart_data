@@ -59,10 +59,10 @@ PROP_000006:
   has_on_left: false
   has_on_right: false
   property: PROP_000006
-  reason_left: 'Logic (rings) 261: \(NOT "semiprimitive" \) <=== \(NOT "nilpotent
-    radical" \).'
-  reason_right: 'Logic (rings) 261: \(NOT "semiprimitive" \) <=== \(NOT "nilpotent
-    radical" \).'
+  reason_left: 'Logic (rings) 261: \(NOT "semiprimitive" \) <=== \(NOT "semiprime"
+    \).'
+  reason_right: 'Logic (rings) 261: \(NOT "semiprimitive" \) <=== \(NOT "semiprime"
+    \).'
   ring: RING_000176
 PROP_000008:
   citation_left: []
@@ -127,10 +127,10 @@ PROP_000013:
   has_on_left: false
   has_on_right: false
   property: PROP_000013
-  reason_left: 'Logic (rings) 47: \(NOT "unit regular" \) <=== \(NOT "von Neumann
-    regular" \).'
-  reason_right: 'Logic (rings) 47: \(NOT "unit regular" \) <=== \(NOT "von Neumann
-    regular" \).'
+  reason_left: 'Logic (rings) 46: \(NOT "unit regular" \) <=== \(NOT "co-Hopfian"
+    on the left and right\).'
+  reason_right: 'Logic (rings) 46: \(NOT "unit regular" \) <=== \(NOT "co-Hopfian"
+    on the left and right\).'
   ring: RING_000176
 PROP_000014:
   citation_left: []
@@ -318,10 +318,10 @@ PROP_000030:
   has_on_left: false
   has_on_right: false
   property: PROP_000030
-  reason_left: 'Logic (rings) 262: \(NOT "top simple Artinian" \) <=== \(NOT "semilocal"
-    \).'
-  reason_right: 'Logic (rings) 262: \(NOT "top simple Artinian" \) <=== \(NOT "semilocal"
-    \).'
+  reason_left: 'Logic (rings) 205: \(NOT "top simple Artinian" \) <=== \(NOT "top
+    simple" \).'
+  reason_right: 'Logic (rings) 205: \(NOT "top simple Artinian" \) <=== \(NOT "top
+    simple" \).'
   ring: RING_000176
 PROP_000031:
   citation_left: []
@@ -462,10 +462,10 @@ PROP_000045:
   has_on_left: false
   has_on_right: false
   property: PROP_000045
-  reason_left: 'Logic (rings) 125: \(NOT "strongly $\pi$-regular" \) <=== \(NOT "$\pi$-regular"
-    \).'
-  reason_right: 'Logic (rings) 125: \(NOT "strongly $\pi$-regular" \) <=== \(NOT "$\pi$-regular"
-    \).'
+  reason_left: 'Logic (rings) 124: \(NOT "strongly $\pi$-regular" \) <=== \(NOT "co-Hopfian"
+    on the left and right\).'
+  reason_right: 'Logic (rings) 124: \(NOT "strongly $\pi$-regular" \) <=== \(NOT "co-Hopfian"
+    on the left and right\).'
   ring: RING_000176
 PROP_000046:
   citation_left: []
@@ -484,8 +484,8 @@ PROP_000047:
   has_on_left: true
   has_on_right: true
   property: PROP_000047
-  reason_left: 'Logic (rings) 131: \( "exchange" \) <=== \( "semiregular" \).'
-  reason_right: 'Logic (rings) 131: \( "exchange" \) <=== \( "semiregular" \).'
+  reason_left: 'Logic (rings) 134: \( "exchange" \) <=== \( "clean" \).'
+  reason_right: 'Logic (rings) 134: \( "exchange" \) <=== \( "clean" \).'
   ring: RING_000176
 PROP_000048:
   citation_left: []
@@ -754,10 +754,8 @@ PROP_000075:
   has_on_left: false
   has_on_right: false
   property: PROP_000075
-  reason_left: 'Logic (rings) 387: \(NOT "V ring" on the left\) <=== \(NOT "max ring"
-    on the left\).'
-  reason_right: 'Logic (rings) 387: \(NOT "V ring" on the right\) <=== \(NOT "max
-    ring" on the right\).'
+  reason_left: 'Logic (rings) logical OR: ring_deduced("lacks",2,Y) <=== ring_deduced("lacks",4,Y).'
+  reason_right: 'Logic (rings) logical OR: ring_deduced("lacks",3,Y) <=== ring_deduced("lacks",4,Y).'
   ring: RING_000176
 PROP_000076:
   citation_left: []
@@ -938,7 +936,7 @@ PROP_000094:
   has_on_right: true
   property: PROP_000094
   reason_left: null
-  reason_right: 'Logic (rings) 478: \( "Ore ring" on the right\) <=== \( "cohopfian"
+  reason_right: 'Logic (rings) 478: \( "Ore ring" on the right\) <=== \( "co-Hopfian"
     on the right\).'
   ring: RING_000176
 PROP_000095:
@@ -949,7 +947,7 @@ PROP_000095:
   has_on_right: null
   property: PROP_000095
   reason_left: 'Logic (rings) 203: \(NOT "principally injective" on the left\) <===
-    \(NOT "cohopfian" on the left\) AND \( "Dedekind finite" \).'
+    \(NOT "co-Hopfian" on the left\) AND \( "Dedekind finite" \).'
   reason_right: null
   ring: RING_000176
 PROP_000097:
@@ -1038,7 +1036,8 @@ PROP_000104:
   has_on_left: false
   has_on_right: false
   property: PROP_000104
-  reason_left: 'Logic (rings) logical OR: ring_deduced("lacks",2,Y) <=== ring_deduced("lacks",4,Y).'
+  reason_left: 'Logic (rings) 224: \(NOT "distributive" on the left\) <=== \(NOT "reduced"
+    \) AND \( "nonsingular" on the left\).'
   reason_right: 'Logic (rings) logical OR: ring_deduced("lacks",3,Y) <=== ring_deduced("lacks",4,Y).'
   ring: RING_000176
 PROP_000105:
@@ -1677,6 +1676,6 @@ PROP_000177:
   property: PROP_000177
   reason_left: 'Logic (rings) 555: \(NOT "semi-Artinian" on the left\) <=== \(NOT
     "T-nilpotent radical" on the right\).'
-  reason_right: 'Logic (rings) 555: \(NOT "semi-Artinian" on the right\) <=== \(NOT
-    "T-nilpotent radical" on the left\).'
+  reason_right: 'Logic (rings) 552: \(NOT "semi-Artinian" on the right\) <=== \(NOT
+    "essential socle" on the right\).'
   ring: RING_000176

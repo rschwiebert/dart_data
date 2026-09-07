@@ -736,10 +736,10 @@ PROP_000081:
   has_on_left: false
   has_on_right: false
   property: PROP_000081
-  reason_left: 'Logic (rings) 92: \(NOT "Kasch" on the left\) <=== \(NOT "nonzero
-    socle" on the left\).'
-  reason_right: 'Logic (rings) 92: \(NOT "Kasch" on the right\) <=== \(NOT "nonzero
-    socle" on the right\).'
+  reason_left: 'Logic (rings) 592: \(NOT "Kasch" on the left\) <=== \(NOT "semisimple"
+    \) AND \( "semiprime" \).'
+  reason_right: 'Logic (rings) 592: \(NOT "Kasch" on the right\) <=== \(NOT "semisimple"
+    \) AND \( "semiprime" \).'
   ring: RING_000187
 PROP_000082:
   citation_left: []
@@ -840,10 +840,10 @@ PROP_000091:
   has_on_left: false
   has_on_right: false
   property: PROP_000091
-  reason_left: 'Logic (rings) 459: \(NOT "dual" on the left\) <=== \(NOT "essential
-    socle" on the right\) AND \( "Noetherian" on the left\).'
-  reason_right: 'Logic (rings) 459: \(NOT "dual" on the right\) <=== \(NOT "essential
-    socle" on the left\) AND \( "Noetherian" on the right\).'
+  reason_left: 'Logic (rings) 121: \(NOT "dual" on the left\) <=== \(NOT "Kasch" on
+    the left\).'
+  reason_right: 'Logic (rings) 121: \(NOT "dual" on the right\) <=== \(NOT "Kasch"
+    on the right\).'
   ring: RING_000187
 PROP_000092:
   citation_left: []
@@ -1481,8 +1481,8 @@ PROP_000177:
   has_on_left: false
   has_on_right: false
   property: PROP_000177
-  reason_left: 'Logic (rings) 563: \(NOT "semi-Artinian" on the left\) <=== \(NOT
-    "exchange" \).'
-  reason_right: 'Logic (rings) 563: \(NOT "semi-Artinian" on the right\) <=== \(NOT
-    "exchange" \).'
+  reason_left: 'Logic (rings) 555: \(NOT "semi-Artinian" on the left\) <=== \(NOT
+    "T-nilpotent radical" on the right\).'
+  reason_right: 'Logic (rings) 555: \(NOT "semi-Artinian" on the right\) <=== \(NOT
+    "T-nilpotent radical" on the left\).'
   ring: RING_000187

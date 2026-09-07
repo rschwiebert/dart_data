@@ -1359,10 +1359,10 @@ PROP_000157:
   has_on_left: false
   has_on_right: false
   property: PROP_000157
-  reason_left: 'Logic (rings) 471: \(NOT "unique generator property" on the left\)
-    <=== \(NOT "IC (internal cancellation)" \).'
-  reason_right: 'Logic (rings) 471: \(NOT "unique generator property" on the right\)
-    <=== \(NOT "IC (internal cancellation)" \).'
+  reason_left: 'Logic (rings) 471: \(NOT "UGP ring" on the left\) <=== \(NOT "IC ring"
+    \).'
+  reason_right: 'Logic (rings) 471: \(NOT "UGP ring" on the right\) <=== \(NOT "IC
+    ring" \).'
   ring: RING_000067
 PROP_000158:
   citation_left: []

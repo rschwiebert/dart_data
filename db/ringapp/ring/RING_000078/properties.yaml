@@ -850,8 +850,10 @@ PROP_000114:
   has_on_left: false
   has_on_right: false
   property: PROP_000114
-  reason_left: 'Logic 394: unique factorization domain ===> Krull domain'
-  reason_right: 'Logic 394: unique factorization domain ===> Krull domain'
+  reason_left: 'Logic (rings) 394: \(NOT "unique factorization domain" \) <=== \(NOT
+    "Krull domain" \).'
+  reason_right: 'Logic (rings) 394: \(NOT "unique factorization domain" \) <=== \(NOT
+    "Krull domain" \).'
   ring: RING_000078
 PROP_000115:
   citation_left: []
@@ -870,8 +872,8 @@ PROP_000116:
   has_on_left: false
   has_on_right: false
   property: PROP_000116
-  reason_left: 'Logic 328: regular ===> Gorenstein'
-  reason_right: 'Logic 328: regular ===> Gorenstein'
+  reason_left: 'Logic (rings) 328: \(NOT "regular" \) <=== \(NOT "Gorenstein" \).'
+  reason_right: 'Logic (rings) 328: \(NOT "regular" \) <=== \(NOT "Gorenstein" \).'
   ring: RING_000078
 PROP_000117:
   citation_left: []
@@ -880,10 +882,10 @@ PROP_000117:
   has_on_left: false
   has_on_right: false
   property: PROP_000117
-  reason_left: 'Logic 352: Cohen-Macaulay ===> Noetherian on the left and right and
-    universally catenary'
-  reason_right: 'Logic 352: Cohen-Macaulay ===> Noetherian on the left and right and
-    universally catenary'
+  reason_left: 'Logic (rings) 352: \(NOT "Cohen-Macaulay" \) <=== \(NOT "Noetherian"
+    on the left and right\).'
+  reason_right: 'Logic (rings) 352: \(NOT "Cohen-Macaulay" \) <=== \(NOT "Noetherian"
+    on the left and right\).'
   ring: RING_000078
 PROP_000118:
   citation_left: []
@@ -912,8 +914,10 @@ PROP_000120:
   has_on_left: false
   has_on_right: false
   property: PROP_000120
-  reason_left: 'Logic 466: analytically unramified ===> local'
-  reason_right: 'Logic 466: analytically unramified ===> local'
+  reason_left: 'Logic (rings) 466: \(NOT "analytically unramified" \) <=== \(NOT "local"
+    \).'
+  reason_right: 'Logic (rings) 466: \(NOT "analytically unramified" \) <=== \(NOT
+    "local" \).'
   ring: RING_000078
 PROP_000121:
   citation_left: []
@@ -922,8 +926,10 @@ PROP_000121:
   has_on_left: false
   has_on_right: false
   property: PROP_000121
-  reason_left: 'Logic 308: Gorenstein ===> Cohen-Macaulay'
-  reason_right: 'Logic 308: Gorenstein ===> Cohen-Macaulay'
+  reason_left: 'Logic (rings) 308: \(NOT "Gorenstein" \) <=== \(NOT "Cohen-Macaulay"
+    \).'
+  reason_right: 'Logic (rings) 308: \(NOT "Gorenstein" \) <=== \(NOT "Cohen-Macaulay"
+    \).'
   ring: RING_000078
 PROP_000122:
   citation_left: []
@@ -1002,8 +1008,10 @@ PROP_000133:
   has_on_left: false
   has_on_right: false
   property: PROP_000133
-  reason_left: 'Logic 465: Grothendieck ===> Noetherian on the left and right'
-  reason_right: 'Logic 465: Grothendieck ===> Noetherian on the left and right'
+  reason_left: 'Logic (rings) 465: \(NOT "Grothendieck" \) <=== \(NOT "Noetherian"
+    on the left and right\).'
+  reason_right: 'Logic (rings) 465: \(NOT "Grothendieck" \) <=== \(NOT "Noetherian"
+    on the left and right\).'
   ring: RING_000078
 PROP_000135:
   citation_left: []
@@ -1094,10 +1102,10 @@ PROP_000147:
   has_on_left: false
   has_on_right: false
   property: PROP_000147
-  reason_left: 'Logic 382: PCI ring on the right ===> hereditary on the left and right
-    and Noetherian on the right and V ring on the right'
-  reason_right: 'Logic 382: PCI ring on the right ===> hereditary on the left and
-    right and Noetherian on the right and V ring on the right'
+  reason_left: 'Logic (rings) 382: \(NOT "PCI ring" on the left\) <=== \(NOT "Noetherian"
+    on the left\).'
+  reason_right: 'Logic (rings) 382: \(NOT "PCI ring" on the right\) <=== \(NOT "Noetherian"
+    on the right\).'
   ring: RING_000078
 PROP_000149:
   citation_left: []
@@ -1117,8 +1125,9 @@ PROP_000150:
   has_on_left: false
   has_on_right: false
   property: PROP_000150
-  reason_left: 'Logic 397: Henselian local ===> local'
-  reason_right: 'Logic 397: Henselian local ===> local'
+  reason_left: 'Logic (rings) 397: \(NOT "Henselian local" \) <=== \(NOT "local" \).'
+  reason_right: 'Logic (rings) 397: \(NOT "Henselian local" \) <=== \(NOT "local"
+    \).'
   ring: RING_000078
 PROP_000151:
   citation_left: []
@@ -1127,8 +1136,10 @@ PROP_000151:
   has_on_left: false
   has_on_right: false
   property: PROP_000151
-  reason_left: 'Logic 401: periodic ===> commutative'
-  reason_right: 'Logic 401: periodic ===> commutative'
+  reason_left: 'Logic (rings) 400: \(NOT "periodic" \) <=== \(NOT "strongly regular"
+    \).'
+  reason_right: 'Logic (rings) 400: \(NOT "periodic" \) <=== \(NOT "strongly regular"
+    \).'
   ring: RING_000078
 PROP_000152:
   citation_left: []
@@ -1137,8 +1148,8 @@ PROP_000152:
   has_on_left: false
   has_on_right: false
   property: PROP_000152
-  reason_left: 'Logic 399: Boolean ===> periodic'
-  reason_right: 'Logic 399: Boolean ===> periodic'
+  reason_left: 'Logic (rings) 399: \(NOT "Boolean" \) <=== \(NOT "periodic" \).'
+  reason_right: 'Logic (rings) 399: \(NOT "Boolean" \) <=== \(NOT "periodic" \).'
   ring: RING_000078
 PROP_000153:
   citation_left: []
@@ -1147,8 +1158,10 @@ PROP_000153:
   has_on_left: false
   has_on_right: false
   property: PROP_000153
-  reason_left: 'Logic 404: almost Dedekind domain ===> Prufer domain'
-  reason_right: 'Logic 404: almost Dedekind domain ===> Prufer domain'
+  reason_left: 'Logic (rings) 404: \(NOT "almost Dedekind domain" \) <=== \(NOT "Prufer
+    domain" \).'
+  reason_right: 'Logic (rings) 404: \(NOT "almost Dedekind domain" \) <=== \(NOT "Prufer
+    domain" \).'
   ring: RING_000078
 PROP_000154:
   citation_left: []
@@ -1157,10 +1170,10 @@ PROP_000154:
   has_on_left: false
   has_on_right: false
   property: PROP_000154
-  reason_left: 'Logic 414: valuation domain on the right ===> Bezout domain on the
-    right'
-  reason_right: 'Logic 414: valuation domain on the right ===> Bezout domain on the
-    right'
+  reason_left: 'Logic (rings) 425: \(NOT "uniserial domain" on the left\) <=== \(NOT
+    "uniserial ring" on the left\).'
+  reason_right: 'Logic (rings) 425: \(NOT "uniserial domain" on the right\) <=== \(NOT
+    "uniserial ring" on the right\).'
   ring: RING_000078
 PROP_000155:
   citation_left: []
@@ -1191,10 +1204,10 @@ PROP_000160:
   has_on_left: false
   has_on_right: false
   property: PROP_000160
-  reason_left: 'Logic (rings) 493: \(NOT "discrete valuation ring" \) <=== \(NOT "valuation
-    domain" on the left and right\).'
-  reason_right: 'Logic (rings) 493: \(NOT "discrete valuation ring" \) <=== \(NOT
-    "valuation domain" on the left and right\).'
+  reason_left: 'Logic (rings) 500: \(NOT "discrete valuation ring" \) <=== \(NOT "principal
+    ideal domain" on the left and right\).'
+  reason_right: 'Logic (rings) 500: \(NOT "discrete valuation ring" \) <=== \(NOT
+    "principal ideal domain" on the left and right\).'
   ring: RING_000078
 PROP_000161:
   citation_left: []
@@ -1295,10 +1308,10 @@ PROP_000169:
   has_on_left: false
   has_on_right: false
   property: PROP_000169
-  reason_left: 'Logic (rings) 501: \(NOT "almost maximal domain" \) <=== \(NOT "domain"
-    \).'
-  reason_right: 'Logic (rings) 501: \(NOT "almost maximal domain" \) <=== \(NOT "domain"
-    \).'
+  reason_left: 'Logic (rings) 502: \(NOT "almost maximal domain" \) <=== \(NOT "$h$-local
+    domain" \).'
+  reason_right: 'Logic (rings) 502: \(NOT "almost maximal domain" \) <=== \(NOT "$h$-local
+    domain" \).'
   ring: RING_000078
 PROP_000170:
   citation_left: []

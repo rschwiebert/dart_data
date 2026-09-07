@@ -478,8 +478,10 @@ PROP_000123:
   has_on_left: false
   has_on_right: false
   property: PROP_000123
-  reason_left: 'Logic 307: GCD domain ===> Schreier domain'
-  reason_right: 'Logic 307: GCD domain ===> Schreier domain'
+  reason_left: 'Logic (rings) 307: \(NOT "GCD domain" \) <=== \(NOT "Schreier domain"
+    \).'
+  reason_right: 'Logic (rings) 307: \(NOT "GCD domain" \) <=== \(NOT "Schreier domain"
+    \).'
   ring: RING_000113
 PROP_000124:
   citation_left: []
@@ -568,10 +570,10 @@ PROP_000147:
   has_on_left: false
   has_on_right: false
   property: PROP_000147
-  reason_left: 'Logic 382: PCI ring on the right ===> hereditary on the left and right
-    and Noetherian on the right and V ring on the right'
-  reason_right: 'Logic 382: PCI ring on the right ===> hereditary on the left and
-    right and Noetherian on the right and V ring on the right'
+  reason_left: 'Logic (rings) 382: \(NOT "PCI ring" on the left\) <=== \(NOT "V ring"
+    on the left\).'
+  reason_right: 'Logic (rings) 382: \(NOT "PCI ring" on the right\) <=== \(NOT "V
+    ring" on the right\).'
   ring: RING_000113
 PROP_000151:
   citation_left: []
@@ -600,8 +602,10 @@ PROP_000153:
   has_on_left: false
   has_on_right: false
   property: PROP_000153
-  reason_left: 'Logic 404: almost Dedekind domain ===> Prufer domain'
-  reason_right: 'Logic 404: almost Dedekind domain ===> Prufer domain'
+  reason_left: 'Logic (rings) 404: \(NOT "almost Dedekind domain" \) <=== \(NOT "Prufer
+    domain" \).'
+  reason_right: 'Logic (rings) 404: \(NOT "almost Dedekind domain" \) <=== \(NOT "Prufer
+    domain" \).'
   ring: RING_000113
 PROP_000154:
   citation_left: []
@@ -644,8 +648,8 @@ PROP_000158:
   has_on_left: true
   has_on_right: true
   property: PROP_000158
-  reason_left: 'Logic 473: Abelian ===> IC (internal cancellation)'
-  reason_right: 'Logic 473: Abelian ===> IC (internal cancellation)'
+  reason_left: 'Logic (rings) 473: \( "IC ring" \) <=== \( "Abelian" \).'
+  reason_right: 'Logic (rings) 473: \( "IC ring" \) <=== \( "Abelian" \).'
   ring: RING_000113
 PROP_000159:
   citation_left: []
@@ -666,10 +670,10 @@ PROP_000160:
   has_on_left: false
   has_on_right: false
   property: PROP_000160
-  reason_left: 'Logic (rings) 493: \(NOT "discrete valuation ring" \) <=== \(NOT "valuation
-    domain" on the left and right\).'
-  reason_right: 'Logic (rings) 493: \(NOT "discrete valuation ring" \) <=== \(NOT
-    "valuation domain" on the left and right\).'
+  reason_left: 'Logic (rings) 500: \(NOT "discrete valuation ring" \) <=== \(NOT "principal
+    ideal domain" on the left and right\).'
+  reason_right: 'Logic (rings) 500: \(NOT "discrete valuation ring" \) <=== \(NOT
+    "principal ideal domain" on the left and right\).'
   ring: RING_000113
 PROP_000161:
   citation_left: []
@@ -758,10 +762,10 @@ PROP_000169:
   has_on_left: false
   has_on_right: false
   property: PROP_000169
-  reason_left: 'Logic (rings) 501: \(NOT "almost maximal domain" \) <=== \(NOT "domain"
-    \).'
-  reason_right: 'Logic (rings) 501: \(NOT "almost maximal domain" \) <=== \(NOT "domain"
-    \).'
+  reason_left: 'Logic (rings) 502: \(NOT "almost maximal domain" \) <=== \(NOT "$h$-local
+    domain" \).'
+  reason_right: 'Logic (rings) 502: \(NOT "almost maximal domain" \) <=== \(NOT "$h$-local
+    domain" \).'
   ring: RING_000113
 PROP_000171:
   citation_left: []

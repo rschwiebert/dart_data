@@ -674,10 +674,8 @@ PROP_000073:
   has_on_left: true
   has_on_right: true
   property: PROP_000073
-  reason_left: 'Logic (rings) 61: \( "nonsingular" on the left\) <=== \( "Rickart"
-    on the left\).'
-  reason_right: 'Logic (rings) 61: \( "nonsingular" on the right\) <=== \( "Rickart"
-    on the right\).'
+  reason_left: 'Logic (rings) ?: \( "nonsingular" on the left\) <=== ring_subset_deduced("$\{0\}$",6).'
+  reason_right: 'Logic (rings) ?: \( "nonsingular" on the right\) <=== ring_subset_deduced("$\{0\}$",5).'
   ring: RING_000189
 PROP_000074:
   citation_left:

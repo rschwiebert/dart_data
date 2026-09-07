@@ -761,10 +761,8 @@ PROP_000073:
   has_on_left: true
   has_on_right: true
   property: PROP_000073
-  reason_left: 'Logic (rings) 61: \( "nonsingular" on the left\) <=== \( "Rickart"
-    on the left\).'
-  reason_right: 'Logic (rings) 61: \( "nonsingular" on the right\) <=== \( "Rickart"
-    on the right\).'
+  reason_left: 'Logic (rings) ?: \( "nonsingular" on the left\) <=== ring_subset_deduced("$\{0\}$",6).'
+  reason_right: 'Logic (rings) ?: \( "nonsingular" on the right\) <=== ring_subset_deduced("$\{0\}$",5).'
   ring: RING_000192
 PROP_000074:
   citation_left: []
@@ -1358,10 +1356,10 @@ PROP_000148:
   has_on_left: false
   has_on_right: false
   property: PROP_000148
-  reason_left: 'Logic (rings) 389: \(NOT "max ring" on the left\) <=== \(NOT "perfect"
-    on the left\) AND \( "semilocal" \).'
-  reason_right: 'Logic (rings) 389: \(NOT "max ring" on the right\) <=== \(NOT "perfect"
-    on the right\) AND \( "semilocal" \).'
+  reason_left: 'Logic (rings) 388: \(NOT "max ring" on the left\) <=== \(NOT "T-nilpotent
+    radical" on the left\).'
+  reason_right: 'Logic (rings) 388: \(NOT "max ring" on the right\) <=== \(NOT "T-nilpotent
+    radical" on the right\).'
   ring: RING_000192
 PROP_000149:
   citation_left: []
@@ -1442,8 +1440,8 @@ PROP_000158:
   has_on_left: true
   has_on_right: true
   property: PROP_000158
-  reason_left: 'Logic (rings) 473: \( "IC ring" \) <=== \( "Abelian" \).'
-  reason_right: 'Logic (rings) 473: \( "IC ring" \) <=== \( "Abelian" \).'
+  reason_left: 'Logic (rings) 471: \( "IC ring" \) <=== \( "UGP ring" on the left\).'
+  reason_right: 'Logic (rings) 471: \( "IC ring" \) <=== \( "UGP ring" on the left\).'
   ring: RING_000192
 PROP_000159:
   citation_left: []

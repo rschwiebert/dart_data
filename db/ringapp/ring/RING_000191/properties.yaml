@@ -788,10 +788,10 @@ PROP_000081:
   has_on_left: false
   has_on_right: false
   property: PROP_000081
-  reason_left: 'Logic (rings) 92: \(NOT "Kasch" on the left\) <=== \(NOT "nonzero
-    socle" on the left\).'
-  reason_right: 'Logic (rings) 92: \(NOT "Kasch" on the right\) <=== \(NOT "nonzero
-    socle" on the right\).'
+  reason_left: 'Logic (rings) 592: \(NOT "Kasch" on the left\) <=== \(NOT "semisimple"
+    \) AND \( "semiprime" \).'
+  reason_right: 'Logic (rings) 592: \(NOT "Kasch" on the right\) <=== \(NOT "semisimple"
+    \) AND \( "semiprime" \).'
   ring: RING_000191
 PROP_000082:
   citation_left: []
@@ -1282,10 +1282,10 @@ PROP_000148:
   has_on_left: false
   has_on_right: false
   property: PROP_000148
-  reason_left: 'Logic (rings) 389: \(NOT "max ring" on the left\) <=== \(NOT "perfect"
-    on the left\) AND \( "semilocal" \).'
-  reason_right: 'Logic (rings) 389: \(NOT "max ring" on the right\) <=== \(NOT "perfect"
-    on the right\) AND \( "semilocal" \).'
+  reason_left: 'Logic (rings) 388: \(NOT "max ring" on the left\) <=== \(NOT "T-nilpotent
+    radical" on the left\).'
+  reason_right: 'Logic (rings) 388: \(NOT "max ring" on the right\) <=== \(NOT "T-nilpotent
+    radical" on the right\).'
   ring: RING_000191
 PROP_000149:
   citation_left: []
@@ -1351,9 +1351,9 @@ PROP_000154:
   has_on_right: false
   property: PROP_000154
   reason_left: 'Logic (rings) 425: \(NOT "uniserial domain" on the left\) <=== \(NOT
-    "domain" \).'
+    "uniserial ring" on the left\).'
   reason_right: 'Logic (rings) 425: \(NOT "uniserial domain" on the right\) <=== \(NOT
-    "domain" \).'
+    "uniserial ring" on the right\).'
   ring: RING_000191
 PROP_000155:
   citation_left: []
