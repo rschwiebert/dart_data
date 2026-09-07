@@ -292,10 +292,8 @@ PROP_000035:
   has_on_left: false
   has_on_right: false
   property: PROP_000035
-  reason_left: 'Logic (rings) 179: \(NOT "reversible" \) <=== \(NOT "semicommutative"
-    \).'
-  reason_right: 'Logic (rings) 179: \(NOT "reversible" \) <=== \(NOT "semicommutative"
-    \).'
+  reason_left: 'Logic (rings) 177: \(NOT "reversible" \) <=== \(NOT "2-primal" \).'
+  reason_right: 'Logic (rings) 177: \(NOT "reversible" \) <=== \(NOT "2-primal" \).'
   ring: RING_000204
 PROP_000036:
   citation_left: []
@@ -1259,9 +1257,9 @@ PROP_000154:
   has_on_right: false
   property: PROP_000154
   reason_left: 'Logic (rings) 425: \(NOT "uniserial domain" on the left\) <=== \(NOT
-    "domain" \).'
+    "uniserial ring" on the left\).'
   reason_right: 'Logic (rings) 425: \(NOT "uniserial domain" on the right\) <=== \(NOT
-    "domain" \).'
+    "uniserial ring" on the right\).'
   ring: RING_000204
 PROP_000155:
   citation_left: []

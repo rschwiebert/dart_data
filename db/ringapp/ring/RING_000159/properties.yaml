@@ -295,8 +295,10 @@ PROP_000027:
   has_on_left: true
   has_on_right: true
   property: PROP_000027
-  reason_left: 'Logic (rings) 99: \( "stable range 1" \) <=== \( "semilocal" \).'
-  reason_right: 'Logic (rings) 99: \( "stable range 1" \) <=== \( "semilocal" \).'
+  reason_left: 'Logic (rings) 123: \( "stable range 1" \) <=== \( "strongly $\pi$-regular"
+    \).'
+  reason_right: 'Logic (rings) 123: \( "stable range 1" \) <=== \( "strongly $\pi$-regular"
+    \).'
   ring: RING_000159
 PROP_000028:
   citation_left: []
@@ -360,10 +362,8 @@ PROP_000033:
   has_on_left: true
   has_on_right: true
   property: PROP_000033
-  reason_left: 'Logic (rings) 568: \( "NI ring" \) <=== \( "local" \) AND \( "nil
-    radical" \).'
-  reason_right: 'Logic (rings) 568: \( "NI ring" \) <=== \( "local" \) AND \( "nil
-    radical" \).'
+  reason_left: 'Logic (rings) 147: \( "NI ring" \) <=== \( "2-primal" \).'
+  reason_right: 'Logic (rings) 147: \( "NI ring" \) <=== \( "2-primal" \).'
   ring: RING_000159
 PROP_000034:
   citation_left: []
@@ -450,8 +450,8 @@ PROP_000041:
   has_on_left: true
   has_on_right: true
   property: PROP_000041
-  reason_left: 'Logic (rings) 146: \( "Dedekind finite" \) <=== \( "Abelian" \).'
-  reason_right: 'Logic (rings) 146: \( "Dedekind finite" \) <=== \( "Abelian" \).'
+  reason_left: 'Logic (rings) 223: \( "Dedekind finite" \) <=== \( "2-primal" \).'
+  reason_right: 'Logic (rings) 223: \( "Dedekind finite" \) <=== \( "2-primal" \).'
   ring: RING_000159
 PROP_000042:
   citation_left: []
@@ -460,10 +460,10 @@ PROP_000042:
   has_on_left: true
   has_on_right: true
   property: PROP_000042
-  reason_left: 'Logic (rings) 135: \( "stably finite" \) <=== \( "stable range 1"
-    \).'
-  reason_right: 'Logic (rings) 135: \( "stably finite" \) <=== \( "stable range 1"
-    \).'
+  reason_left: 'Logic (rings) 113: \( "stably finite" \) <=== \( "finite uniform dimension"
+    on the left or right\).'
+  reason_right: 'Logic (rings) 113: \( "stably finite" \) <=== \( "finite uniform
+    dimension" on the left or right\).'
   ring: RING_000159
 PROP_000043:
   citation_left: []
@@ -538,10 +538,8 @@ PROP_000049:
   has_on_left: true
   has_on_right: true
   property: PROP_000049
-  reason_left: 'Logic (rings) 130: \( "Zorn" \) <=== \( "$I_0$" \) AND \( "nil radical"
-    \).'
-  reason_right: 'Logic (rings) 130: \( "Zorn" \) <=== \( "$I_0$" \) AND \( "nil radical"
-    \).'
+  reason_left: 'Logic (rings) 127: \( "Zorn" \) <=== \( "$\pi$-regular" \).'
+  reason_right: 'Logic (rings) 127: \( "Zorn" \) <=== \( "$\pi$-regular" \).'
   ring: RING_000159
 PROP_000050:
   citation_left: []
@@ -911,9 +909,9 @@ PROP_000094:
   has_on_left: true
   has_on_right: true
   property: PROP_000094
-  reason_left: 'Logic (rings) 478: \( "Ore ring" on the left\) <=== \( "cohopfian"
+  reason_left: 'Logic (rings) 478: \( "Ore ring" on the left\) <=== \( "co-Hopfian"
     on the left\).'
-  reason_right: 'Logic (rings) 478: \( "Ore ring" on the right\) <=== \( "cohopfian"
+  reason_right: 'Logic (rings) 478: \( "Ore ring" on the right\) <=== \( "co-Hopfian"
     on the right\).'
   ring: RING_000159
 PROP_000096:
@@ -1267,10 +1265,10 @@ PROP_000147:
   has_on_left: false
   has_on_right: false
   property: PROP_000147
-  reason_left: 'Logic (rings) 382: \(NOT "PCI ring" on the left\) <=== \(NOT "V ring"
+  reason_left: 'Logic (rings) 382: \(NOT "PCI ring" on the left\) <=== \(NOT "Noetherian"
     on the left\).'
-  reason_right: 'Logic (rings) 382: \(NOT "PCI ring" on the right\) <=== \(NOT "V
-    ring" on the right\).'
+  reason_right: 'Logic (rings) 382: \(NOT "PCI ring" on the right\) <=== \(NOT "Noetherian"
+    on the right\).'
   ring: RING_000159
 PROP_000148:
   citation_left: []

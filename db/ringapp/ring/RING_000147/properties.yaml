@@ -492,9 +492,9 @@ PROP_000045:
   has_on_left: false
   has_on_right: false
   property: PROP_000045
-  reason_left: 'Logic (rings) 125: \(NOT "strongly $\pi$-regular" \) <=== \(NOT "$\pi$-regular"
+  reason_left: 'Logic (rings) 122: \(NOT "strongly $\pi$-regular" \) <=== \(NOT "clean"
     \).'
-  reason_right: 'Logic (rings) 125: \(NOT "strongly $\pi$-regular" \) <=== \(NOT "$\pi$-regular"
+  reason_right: 'Logic (rings) 122: \(NOT "strongly $\pi$-regular" \) <=== \(NOT "clean"
     \).'
   ring: RING_000147
 PROP_000046:
@@ -865,10 +865,10 @@ PROP_000080:
   has_on_left: false
   has_on_right: false
   property: PROP_000080
-  reason_left: 'Logic (rings) 89: \(NOT "self-injective" on the left\) <=== \(NOT
-    "continuous" on the left\).'
-  reason_right: 'Logic (rings) 89: \(NOT "self-injective" on the right\) <=== \(NOT
-    "continuous" on the right\).'
+  reason_left: 'Logic (rings) 217: \(NOT "self-injective" on the left\) <=== \(NOT
+    "semiperfect" \) AND \( "semilocal" \).'
+  reason_right: 'Logic (rings) 217: \(NOT "self-injective" on the right\) <=== \(NOT
+    "semiperfect" \) AND \( "semilocal" \).'
   ring: RING_000147
 PROP_000082:
   citation_left: []
@@ -877,10 +877,10 @@ PROP_000082:
   has_on_left: false
   has_on_right: false
   property: PROP_000082
-  reason_left: 'Logic (rings) 162: \(NOT "perfect" on the left\) <=== \(NOT "ACC principal"
-    on the right\).'
-  reason_right: 'Logic (rings) 162: \(NOT "perfect" on the right\) <=== \(NOT "ACC
-    principal" on the left\).'
+  reason_left: 'Logic (rings) 391: \(NOT "perfect" on the left\) <=== \(NOT "max ring"
+    on the left\).'
+  reason_right: 'Logic (rings) 391: \(NOT "perfect" on the right\) <=== \(NOT "max
+    ring" on the right\).'
   ring: RING_000147
 PROP_000084:
   citation_left: []

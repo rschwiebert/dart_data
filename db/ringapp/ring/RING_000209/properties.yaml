@@ -1488,9 +1488,9 @@ PROP_000154:
   has_on_right: false
   property: PROP_000154
   reason_left: 'Logic (rings) 425: \(NOT "uniserial domain" on the left\) <=== \(NOT
-    "domain" \).'
+    "uniserial ring" on the left\).'
   reason_right: 'Logic (rings) 425: \(NOT "uniserial domain" on the right\) <=== \(NOT
-    "domain" \).'
+    "uniserial ring" on the right\).'
   ring: RING_000209
 PROP_000155:
   citation_left: []

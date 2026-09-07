@@ -1,0 +1,7 @@
+corrected_location:
+- CITE_000698
+description: '"ring is PCI ring on the right + ring is PCI ring on the left <==> ring
+  is PCI ring on the right + ring is coherent on the left" According to Leroy, Jain
+  & Lam, the <== direction is faulty.  The ==> direction is fine.'
+error_location: CITE_000214
+example: null

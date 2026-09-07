@@ -91,8 +91,8 @@ PROP_000010:
   has_on_left: true
   has_on_right: true
   property: PROP_000010
-  reason_left: 'Logic (rings) 65: \( "reduced" \) <=== \( "domain" \).'
-  reason_right: 'Logic (rings) 65: \( "reduced" \) <=== \( "domain" \).'
+  reason_left: 'Logic (rings) ?: \( "reduced" \) <=== ring_subset_deduced("$\{0\}$",3).'
+  reason_right: 'Logic (rings) ?: \( "reduced" \) <=== ring_subset_deduced("$\{0\}$",3).'
   ring: RING_000210
 PROP_000011:
   citation_left: []
@@ -101,8 +101,8 @@ PROP_000011:
   has_on_left: true
   has_on_right: true
   property: PROP_000011
-  reason_left: 'Logic (rings) 29: \( "semiprime" \) <=== \( "prime" \).'
-  reason_right: 'Logic (rings) 29: \( "semiprime" \) <=== \( "prime" \).'
+  reason_left: 'Logic (rings) 42: \( "semiprime" \) <=== \( "reduced" \).'
+  reason_right: 'Logic (rings) 42: \( "semiprime" \) <=== \( "reduced" \).'
   ring: RING_000210
 PROP_000012:
   citation_left: []
@@ -249,8 +249,8 @@ PROP_000034:
   has_on_left: true
   has_on_right: true
   property: PROP_000034
-  reason_left: 'Logic (rings) 64: \( "2-primal" \) <=== \( "domain" \).'
-  reason_right: 'Logic (rings) 64: \( "2-primal" \) <=== \( "domain" \).'
+  reason_left: 'Logic (rings) 42: \( "2-primal" \) <=== \( "reduced" \).'
+  reason_right: 'Logic (rings) 42: \( "2-primal" \) <=== \( "reduced" \).'
   ring: RING_000210
 PROP_000035:
   citation_left: []
@@ -279,8 +279,8 @@ PROP_000037:
   has_on_left: true
   has_on_right: true
   property: PROP_000037
-  reason_left: 'Logic (rings) 462: \( "strongly connected" \) <=== \( "domain" \).'
-  reason_right: 'Logic (rings) 462: \( "strongly connected" \) <=== \( "domain" \).'
+  reason_left: 'Logic (rings) ?: \( "strongly connected" \) <=== ring_subset_deduced("$\{0,1\}$",4).'
+  reason_right: 'Logic (rings) ?: \( "strongly connected" \) <=== ring_subset_deduced("$\{0,1\}$",4).'
   ring: RING_000210
 PROP_000038:
   citation_left: []
@@ -289,8 +289,10 @@ PROP_000038:
   has_on_left: true
   has_on_right: true
   property: PROP_000038
-  reason_left: 'Logic (rings) 30: \( "directly irreducible" \) <=== \( "prime" \).'
-  reason_right: 'Logic (rings) 30: \( "directly irreducible" \) <=== \( "prime" \).'
+  reason_left: 'Logic (rings) 149: \( "directly irreducible" \) <=== \( "strongly
+    connected" \).'
+  reason_right: 'Logic (rings) 149: \( "directly irreducible" \) <=== \( "strongly
+    connected" \).'
   ring: RING_000210
 PROP_000039:
   citation_left: []
@@ -584,10 +586,10 @@ PROP_000070:
   has_on_left: false
   has_on_right: false
   property: PROP_000070
-  reason_left: 'Logic (rings) 274: \(NOT "hereditary" on the left\) <=== \(NOT "Noetherian"
-    on the left\) AND \( "finite uniform dimension" on the left\).'
-  reason_right: 'Logic (rings) 274: \(NOT "hereditary" on the right\) <=== \(NOT "Noetherian"
-    on the right\) AND \( "finite uniform dimension" on the right\).'
+  reason_left: 'Logic (rings) logical AND: ring_deduced("lacks",2,Y) <=== \( "commutative"
+    \) AND ring_deduced("lacks",1,Y).'
+  reason_right: 'Logic (rings) logical AND: ring_deduced("lacks",3,Y) <=== \( "commutative"
+    \) AND ring_deduced("lacks",1,Y).'
   ring: RING_000210
 PROP_000072:
   citation_left: []
@@ -606,10 +608,8 @@ PROP_000073:
   has_on_left: true
   has_on_right: true
   property: PROP_000073
-  reason_left: 'Logic (rings) 61: \( "nonsingular" on the left\) <=== \( "Rickart"
-    on the left\).'
-  reason_right: 'Logic (rings) 61: \( "nonsingular" on the right\) <=== \( "Rickart"
-    on the right\).'
+  reason_left: 'Logic (rings) ?: \( "nonsingular" on the left\) <=== ring_subset_deduced("$\{0\}$",6).'
+  reason_right: 'Logic (rings) ?: \( "nonsingular" on the right\) <=== ring_subset_deduced("$\{0\}$",5).'
   ring: RING_000210
 PROP_000074:
   citation_left: []
@@ -1207,10 +1207,10 @@ PROP_000147:
   has_on_left: false
   has_on_right: false
   property: PROP_000147
-  reason_left: 'Logic (rings) 382: \(NOT "PCI ring" on the left\) <=== \(NOT "V ring"
+  reason_left: 'Logic (rings) 382: \(NOT "PCI ring" on the left\) <=== \(NOT "Noetherian"
     on the left\).'
-  reason_right: 'Logic (rings) 382: \(NOT "PCI ring" on the right\) <=== \(NOT "V
-    ring" on the right\).'
+  reason_right: 'Logic (rings) 382: \(NOT "PCI ring" on the right\) <=== \(NOT "Noetherian"
+    on the right\).'
   ring: RING_000210
 PROP_000151:
   citation_left: []

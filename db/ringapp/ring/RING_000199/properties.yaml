@@ -940,10 +940,10 @@ PROP_000091:
   has_on_left: false
   has_on_right: false
   property: PROP_000091
-  reason_left: 'Logic (rings) 459: \(NOT "dual" on the left\) <=== \(NOT "essential
-    socle" on the right\) AND \( "Noetherian" on the left\).'
-  reason_right: 'Logic (rings) 459: \(NOT "dual" on the right\) <=== \(NOT "essential
-    socle" on the left\) AND \( "Noetherian" on the right\).'
+  reason_left: 'Logic (rings) 121: \(NOT "dual" on the left\) <=== \(NOT "Kasch" on
+    the left\).'
+  reason_right: 'Logic (rings) 121: \(NOT "dual" on the right\) <=== \(NOT "Kasch"
+    on the right\).'
   ring: RING_000199
 PROP_000092:
   citation_left: []

@@ -410,10 +410,8 @@ PROP_000038:
   has_on_left: true
   has_on_right: true
   property: PROP_000038
-  reason_left: 'Logic (rings) 149: \( "directly irreducible" \) <=== \( "strongly
-    connected" \).'
-  reason_right: 'Logic (rings) 149: \( "directly irreducible" \) <=== \( "strongly
-    connected" \).'
+  reason_left: 'Logic (rings) 30: \( "directly irreducible" \) <=== \( "prime" \).'
+  reason_right: 'Logic (rings) 30: \( "directly irreducible" \) <=== \( "prime" \).'
   ring: RING_000190
 PROP_000039:
   citation_left: []
@@ -422,10 +420,10 @@ PROP_000039:
   has_on_left: true
   has_on_right: true
   property: PROP_000039
-  reason_left: 'Logic (rings) 148: \( "orthogonally finite" \) <=== \( "strongly connected"
+  reason_left: 'Logic (rings) 593: \( "orthogonally finite" \) <=== \( "semilocal"
     \).'
-  reason_right: 'Logic (rings) 148: \( "orthogonally finite" \) <=== \( "strongly
-    connected" \).'
+  reason_right: 'Logic (rings) 593: \( "orthogonally finite" \) <=== \( "semilocal"
+    \).'
   ring: RING_000190
 PROP_000040:
   citation_left: []
@@ -889,10 +887,10 @@ PROP_000081:
   has_on_left: false
   has_on_right: false
   property: PROP_000081
-  reason_left: 'Logic (rings) 92: \(NOT "Kasch" on the left\) <=== \(NOT "nonzero
-    socle" on the left\).'
-  reason_right: 'Logic (rings) 92: \(NOT "Kasch" on the right\) <=== \(NOT "nonzero
-    socle" on the right\).'
+  reason_left: 'Logic (rings) 592: \(NOT "Kasch" on the left\) <=== \(NOT "semisimple"
+    \) AND \( "semiprime" \).'
+  reason_right: 'Logic (rings) 592: \(NOT "Kasch" on the right\) <=== \(NOT "semisimple"
+    \) AND \( "semiprime" \).'
   ring: RING_000190
 PROP_000082:
   citation_left: []
@@ -989,9 +987,9 @@ PROP_000094:
   has_on_left: true
   has_on_right: true
   property: PROP_000094
-  reason_left: 'Logic (rings) 478: \( "Ore ring" on the left\) <=== \( "cohopfian"
+  reason_left: 'Logic (rings) 478: \( "Ore ring" on the left\) <=== \( "co-Hopfian"
     on the left\).'
-  reason_right: 'Logic (rings) 478: \( "Ore ring" on the right\) <=== \( "cohopfian"
+  reason_right: 'Logic (rings) 478: \( "Ore ring" on the right\) <=== \( "co-Hopfian"
     on the right\).'
   ring: RING_000190
 PROP_000096:
@@ -1071,10 +1069,10 @@ PROP_000103:
   has_on_left: false
   has_on_right: false
   property: PROP_000103
-  reason_left: 'Logic (rings) 213: \(NOT "finitely cogenerated" on the left\) <===
-    \(NOT "semisimple" \) AND \( "semiprime" \).'
-  reason_right: 'Logic (rings) 213: \(NOT "finitely cogenerated" on the right\) <===
-    \(NOT "semisimple" \) AND \( "semiprime" \).'
+  reason_left: 'Logic (rings) 278: \(NOT "finitely cogenerated" on the left\) <===
+    \(NOT "finite uniform dimension" on the left\).'
+  reason_right: 'Logic (rings) 278: \(NOT "finitely cogenerated" on the right\) <===
+    \(NOT "finite uniform dimension" on the right\).'
   ring: RING_000190
 PROP_000104:
   citation_left: []
@@ -1439,10 +1437,10 @@ PROP_000148:
   has_on_left: false
   has_on_right: false
   property: PROP_000148
-  reason_left: 'Logic (rings) 389: \(NOT "max ring" on the left\) <=== \(NOT "perfect"
-    on the left\) AND \( "semilocal" \).'
-  reason_right: 'Logic (rings) 389: \(NOT "max ring" on the right\) <=== \(NOT "perfect"
-    on the right\) AND \( "semilocal" \).'
+  reason_left: 'Logic (rings) 388: \(NOT "max ring" on the left\) <=== \(NOT "T-nilpotent
+    radical" on the left\).'
+  reason_right: 'Logic (rings) 388: \(NOT "max ring" on the right\) <=== \(NOT "T-nilpotent
+    radical" on the right\).'
   ring: RING_000190
 PROP_000149:
   citation_left: []

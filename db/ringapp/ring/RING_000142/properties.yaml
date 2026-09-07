@@ -316,10 +316,10 @@ PROP_000032:
   has_on_left: false
   has_on_right: false
   property: PROP_000032
-  reason_left: 'Logic (rings) 195: \(NOT "semicommutative  (SI condition, zero-insertive)"
-    \) <=== \(NOT "2-primal" \).'
-  reason_right: 'Logic (rings) 195: \(NOT "semicommutative  (SI condition, zero-insertive)"
-    \) <=== \(NOT "2-primal" \).'
+  reason_left: 'Logic (rings) 195: \(NOT "semicommutative" \) <=== \(NOT "2-primal"
+    \).'
+  reason_right: 'Logic (rings) 195: \(NOT "semicommutative" \) <=== \(NOT "2-primal"
+    \).'
   ring: RING_000142
 PROP_000033:
   citation_left: []
@@ -396,10 +396,10 @@ PROP_000040:
   has_on_left: false
   has_on_right: false
   property: PROP_000040
-  reason_left: 'Logic (rings) 169: \(NOT "Abelian" \) <=== \(NOT "strongly regular"
-    \) AND \( "von Neumann regular" \).'
-  reason_right: 'Logic (rings) 169: \(NOT "Abelian" \) <=== \(NOT "strongly regular"
-    \) AND \( "von Neumann regular" \).'
+  reason_left: 'Logic (rings) 149: \(NOT "Abelian" \) <=== \(NOT "strongly connected"
+    \) AND \( "directly irreducible" \).'
+  reason_right: 'Logic (rings) 149: \(NOT "Abelian" \) <=== \(NOT "strongly connected"
+    \) AND \( "directly irreducible" \).'
   ring: RING_000142
 PROP_000043:
   citation_left: []
@@ -771,10 +771,10 @@ PROP_000081:
   has_on_left: false
   has_on_right: false
   property: PROP_000081
-  reason_left: 'Logic (rings) 92: \(NOT "Kasch" on the left\) <=== \(NOT "nonzero
-    socle" on the left\).'
-  reason_right: 'Logic (rings) 92: \(NOT "Kasch" on the right\) <=== \(NOT "nonzero
-    socle" on the right\).'
+  reason_left: 'Logic (rings) 592: \(NOT "Kasch" on the left\) <=== \(NOT "semisimple"
+    \) AND \( "semiprime" \).'
+  reason_right: 'Logic (rings) 592: \(NOT "Kasch" on the right\) <=== \(NOT "semisimple"
+    \) AND \( "semiprime" \).'
   ring: RING_000142
 PROP_000082:
   citation_left: []
@@ -1336,10 +1336,10 @@ PROP_000147:
   has_on_left: false
   has_on_right: false
   property: PROP_000147
-  reason_left: 'Logic (rings) 382: \(NOT "PCI ring" on the left\) <=== \(NOT "hereditary"
-    on the left and right\).'
-  reason_right: 'Logic (rings) 382: \(NOT "PCI ring" on the right\) <=== \(NOT "hereditary"
-    on the left and right\).'
+  reason_left: 'Logic (rings) 382: \(NOT "PCI ring" on the left\) <=== \(NOT "Noetherian"
+    on the left\).'
+  reason_right: 'Logic (rings) 382: \(NOT "PCI ring" on the right\) <=== \(NOT "Noetherian"
+    on the right\).'
   ring: RING_000142
 PROP_000149:
   citation_left: []
@@ -1551,10 +1551,10 @@ PROP_000170:
   has_on_left: false
   has_on_right: false
   property: PROP_000170
-  reason_left: 'Logic (rings) 521: \(NOT "linearly compact" on the left\) <=== \(NOT
-    "semiperfect" \).'
-  reason_right: 'Logic (rings) 521: \(NOT "linearly compact" on the right\) <=== \(NOT
-    "semiperfect" \).'
+  reason_left: 'Logic (rings) 520: \(NOT "linearly compact" on the left\) <=== \(NOT
+    "finite uniform dimension" on the left\).'
+  reason_right: 'Logic (rings) 520: \(NOT "linearly compact" on the right\) <=== \(NOT
+    "finite uniform dimension" on the right\).'
   ring: RING_000142
 PROP_000171:
   citation_left: []

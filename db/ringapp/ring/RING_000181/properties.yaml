@@ -384,10 +384,10 @@ PROP_000037:
   has_on_left: false
   has_on_right: false
   property: PROP_000037
-  reason_left: 'Logic (rings) 271: \(NOT "strongly connected" \) <=== \(NOT "local"
-    \) AND \( "semiregular" \).'
-  reason_right: 'Logic (rings) 271: \(NOT "strongly connected" \) <=== \(NOT "local"
-    \) AND \( "semiregular" \).'
+  reason_left: 'Logic (rings) 148: \(NOT "strongly connected" \) <=== \(NOT "orthogonally
+    finite" \).'
+  reason_right: 'Logic (rings) 148: \(NOT "strongly connected" \) <=== \(NOT "orthogonally
+    finite" \).'
   ring: RING_000181
 PROP_000038:
   citation_left: []
@@ -508,8 +508,8 @@ PROP_000048:
   has_on_left: true
   has_on_right: true
   property: PROP_000048
-  reason_left: 'Logic (rings) 377: \( "$I_0$" \) <=== \( "potent" \).'
-  reason_right: 'Logic (rings) 377: \( "$I_0$" \) <=== \( "potent" \).'
+  reason_left: 'Logic (rings) 130: \( "$I_0$" \) <=== \( "Zorn" \).'
+  reason_right: 'Logic (rings) 130: \( "$I_0$" \) <=== \( "Zorn" \).'
   ring: RING_000181
 PROP_000049:
   citation_left: []
@@ -518,10 +518,8 @@ PROP_000049:
   has_on_left: true
   has_on_right: true
   property: PROP_000049
-  reason_left: 'Logic (rings) 130: \( "Zorn" \) <=== \( "$I_0$" \) AND \( "nil radical"
-    \).'
-  reason_right: 'Logic (rings) 130: \( "Zorn" \) <=== \( "$I_0$" \) AND \( "nil radical"
-    \).'
+  reason_left: 'Logic (rings) 127: \( "Zorn" \) <=== \( "$\pi$-regular" \).'
+  reason_right: 'Logic (rings) 127: \( "Zorn" \) <=== \( "$\pi$-regular" \).'
   ring: RING_000181
 PROP_000050:
   citation_left: []
@@ -842,10 +840,10 @@ PROP_000086:
   has_on_left: false
   has_on_right: false
   property: PROP_000086
-  reason_left: 'Logic (rings) 116: \(NOT "Goldie" on the left\) <=== \(NOT "finite
-    uniform dimension" on the left\).'
-  reason_right: 'Logic (rings) 116: \(NOT "Goldie" on the right\) <=== \(NOT "finite
-    uniform dimension" on the right\).'
+  reason_left: 'Logic (rings) 116: \(NOT "Goldie" on the left\) <=== \(NOT "ACC annihilator"
+    on the left\).'
+  reason_right: 'Logic (rings) 116: \(NOT "Goldie" on the right\) <=== \(NOT "ACC
+    annihilator" on the right\).'
   ring: RING_000181
 PROP_000088:
   citation_left: []
@@ -910,9 +908,9 @@ PROP_000094:
   has_on_left: true
   has_on_right: true
   property: PROP_000094
-  reason_left: 'Logic (rings) 478: \( "Ore ring" on the left\) <=== \( "cohopfian"
+  reason_left: 'Logic (rings) 478: \( "Ore ring" on the left\) <=== \( "co-Hopfian"
     on the left\).'
-  reason_right: 'Logic (rings) 478: \( "Ore ring" on the right\) <=== \( "cohopfian"
+  reason_right: 'Logic (rings) 478: \( "Ore ring" on the right\) <=== \( "co-Hopfian"
     on the right\).'
   ring: RING_000181
 PROP_000097:
@@ -1331,10 +1329,10 @@ PROP_000147:
   has_on_left: false
   has_on_right: false
   property: PROP_000147
-  reason_left: 'Logic (rings) 382: \(NOT "PCI ring" on the left\) <=== \(NOT "V ring"
+  reason_left: 'Logic (rings) 382: \(NOT "PCI ring" on the left\) <=== \(NOT "Noetherian"
     on the left\).'
-  reason_right: 'Logic (rings) 382: \(NOT "PCI ring" on the right\) <=== \(NOT "V
-    ring" on the right\).'
+  reason_right: 'Logic (rings) 382: \(NOT "PCI ring" on the right\) <=== \(NOT "Noetherian"
+    on the right\).'
   ring: RING_000181
 PROP_000148:
   citation_left: []

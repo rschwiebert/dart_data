@@ -243,8 +243,10 @@ PROP_000022:
   has_on_left: false
   has_on_right: false
   property: PROP_000022
-  reason_left: 'Logic (rings) 152: \(NOT "nil radical" \) <=== \(NOT "lift/rad" \).'
-  reason_right: 'Logic (rings) 152: \(NOT "nil radical" \) <=== \(NOT "lift/rad" \).'
+  reason_left: 'Logic (rings) 561: \(NOT "nil radical" \) <=== \(NOT "semiprimitive"
+    \) AND \( "reduced" \).'
+  reason_right: 'Logic (rings) 561: \(NOT "nil radical" \) <=== \(NOT "semiprimitive"
+    \) AND \( "reduced" \).'
   ring: RING_000144
 PROP_000023:
   citation_left: []
@@ -274,9 +276,9 @@ PROP_000025:
   has_on_right: false
   property: PROP_000025
   reason_left: 'Logic (rings) 228: \(NOT "semiperfect" \) <=== \(NOT "local" \) AND
-    \( "commutative" \) AND \( "connected" \).'
+    \( "commutative" \) AND \( "directly irreducible" \).'
   reason_right: 'Logic (rings) 228: \(NOT "semiperfect" \) <=== \(NOT "local" \) AND
-    \( "commutative" \) AND \( "connected" \).'
+    \( "commutative" \) AND \( "directly irreducible" \).'
   ring: RING_000144
 PROP_000026:
   citation_left: []
@@ -1424,10 +1426,10 @@ PROP_000125:
   has_on_left: false
   has_on_right: false
   property: PROP_000125
-  reason_left: 'Logic (rings) 325: \(NOT "Jacobson (Hilbert)" \) <=== \(NOT "rad-nil"
-    \) AND \( "2-primal" \).'
-  reason_right: 'Logic (rings) 325: \(NOT "Jacobson (Hilbert)" \) <=== \(NOT "rad-nil"
-    \) AND \( "2-primal" \).'
+  reason_left: 'Logic (rings) 325: \(NOT "Jacobson" \) <=== \(NOT "rad-nil" \) AND
+    \( "2-primal" \).'
+  reason_right: 'Logic (rings) 325: \(NOT "Jacobson" \) <=== \(NOT "rad-nil" \) AND
+    \( "2-primal" \).'
   ring: RING_000144
 PROP_000126:
   citation_left: []

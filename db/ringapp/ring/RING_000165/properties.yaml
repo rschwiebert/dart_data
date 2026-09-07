@@ -112,8 +112,8 @@ PROP_000011:
   has_on_left: true
   has_on_right: true
   property: PROP_000011
-  reason_left: 'Logic (rings) 29: \( "semiprime" \) <=== \( "prime" \).'
-  reason_right: 'Logic (rings) 29: \( "semiprime" \) <=== \( "prime" \).'
+  reason_left: 'Logic (rings) 261: \( "semiprime" \) <=== \( "semiprimitive" \).'
+  reason_right: 'Logic (rings) 261: \( "semiprime" \) <=== \( "semiprimitive" \).'
   ring: RING_000165
 PROP_000012:
   citation_left: []
@@ -264,10 +264,10 @@ PROP_000024:
   has_on_left: false
   has_on_right: false
   property: PROP_000024
-  reason_left: 'Logic (rings) 189: \(NOT "semilocal" \) <=== \(NOT "semisimple" \)
-    AND \( "semiprimitive" \).'
-  reason_right: 'Logic (rings) 189: \(NOT "semilocal" \) <=== \(NOT "semisimple" \)
-    AND \( "semiprimitive" \).'
+  reason_left: 'Logic (rings) 99: \(NOT "semilocal" \) <=== \(NOT "stable range 1"
+    \).'
+  reason_right: 'Logic (rings) 99: \(NOT "semilocal" \) <=== \(NOT "stable range 1"
+    \).'
   ring: RING_000165
 PROP_000025:
   citation_left: []
@@ -805,10 +805,8 @@ PROP_000073:
   has_on_left: true
   has_on_right: true
   property: PROP_000073
-  reason_left: 'Logic (rings) 61: \( "nonsingular" on the left\) <=== \( "Rickart"
-    on the left\).'
-  reason_right: 'Logic (rings) 61: \( "nonsingular" on the right\) <=== \( "Rickart"
-    on the right\).'
+  reason_left: 'Logic (rings) ?: \( "nonsingular" on the left\) <=== ring_subset_deduced("$\{0\}$",6).'
+  reason_right: 'Logic (rings) ?: \( "nonsingular" on the right\) <=== ring_subset_deduced("$\{0\}$",5).'
   ring: RING_000165
 PROP_000075:
   citation_left: []
@@ -829,10 +827,10 @@ PROP_000076:
   has_on_left: false
   has_on_right: false
   property: PROP_000076
-  reason_left: 'Logic (rings) 414: \(NOT "uniserial ring" on the left\) <=== \(NOT
-    "local" \).'
-  reason_right: 'Logic (rings) 414: \(NOT "uniserial ring" on the right\) <=== \(NOT
-    "local" \).'
+  reason_left: 'Logic (rings) 74: \(NOT "uniserial ring" on the left\) <=== \(NOT
+    "distributive" on the left\).'
+  reason_right: 'Logic (rings) 74: \(NOT "uniserial ring" on the right\) <=== \(NOT
+    "distributive" on the right\).'
   ring: RING_000165
 PROP_000077:
   citation_left: []
@@ -1533,8 +1531,8 @@ PROP_000158:
   has_on_left: true
   has_on_right: true
   property: PROP_000158
-  reason_left: 'Logic (rings) 473: \( "IC ring" \) <=== \( "Abelian" \).'
-  reason_right: 'Logic (rings) 473: \( "IC ring" \) <=== \( "Abelian" \).'
+  reason_left: 'Logic (rings) 471: \( "IC ring" \) <=== \( "UGP ring" on the left\).'
+  reason_right: 'Logic (rings) 471: \( "IC ring" \) <=== \( "UGP ring" on the left\).'
   ring: RING_000165
 PROP_000159:
   citation_left: []
@@ -1646,10 +1644,10 @@ PROP_000170:
   has_on_left: false
   has_on_right: false
   property: PROP_000170
-  reason_left: 'Logic (rings) 521: \(NOT "linearly compact" on the left\) <=== \(NOT
-    "semiperfect" \).'
-  reason_right: 'Logic (rings) 521: \(NOT "linearly compact" on the right\) <=== \(NOT
-    "semiperfect" \).'
+  reason_left: 'Logic (rings) 520: \(NOT "linearly compact" on the left\) <=== \(NOT
+    "finite uniform dimension" on the left\).'
+  reason_right: 'Logic (rings) 520: \(NOT "linearly compact" on the right\) <=== \(NOT
+    "finite uniform dimension" on the right\).'
   ring: RING_000165
 PROP_000171:
   citation_left: []

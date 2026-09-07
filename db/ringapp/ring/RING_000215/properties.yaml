@@ -402,9 +402,9 @@ PROP_000082:
   has_on_right: false
   property: PROP_000082
   reason_left: 'Logic (rings) 162: \(NOT "perfect" on the left\) <=== \(NOT "ACC principal"
-    on the right\).'
+    on the left\).'
   reason_right: 'Logic (rings) 162: \(NOT "perfect" on the right\) <=== \(NOT "ACC
-    principal" on the left\).'
+    principal" on the right\).'
   ring: RING_000215
 PROP_000084:
   citation_left: []

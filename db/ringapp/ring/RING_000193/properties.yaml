@@ -267,10 +267,10 @@ PROP_000024:
   has_on_left: false
   has_on_right: false
   property: PROP_000024
-  reason_left: 'Logic (rings) 189: \(NOT "semilocal" \) <=== \(NOT "semisimple" \)
-    AND \( "semiprimitive" \).'
-  reason_right: 'Logic (rings) 189: \(NOT "semilocal" \) <=== \(NOT "semisimple" \)
-    AND \( "semiprimitive" \).'
+  reason_left: 'Logic (rings) 99: \(NOT "semilocal" \) <=== \(NOT "stable range 1"
+    \).'
+  reason_right: 'Logic (rings) 99: \(NOT "semilocal" \) <=== \(NOT "stable range 1"
+    \).'
   ring: RING_000193
 PROP_000025:
   citation_left: []
@@ -518,10 +518,10 @@ PROP_000047:
   has_on_left: false
   has_on_right: false
   property: PROP_000047
-  reason_left: 'Logic (rings) 380: \(NOT "exchange" \) <=== \(NOT "local" \) AND \(
-    "strongly connected" \).'
-  reason_right: 'Logic (rings) 380: \(NOT "exchange" \) <=== \(NOT "local" \) AND
-    \( "strongly connected" \).'
+  reason_left: 'Logic (rings) 197: \(NOT "exchange" \) <=== \(NOT "stable range 1"
+    \) AND \( "quasi-duo" on the left or right\).'
+  reason_right: 'Logic (rings) 197: \(NOT "exchange" \) <=== \(NOT "stable range 1"
+    \) AND \( "quasi-duo" on the left or right\).'
   ring: RING_000193
 PROP_000048:
   citation_left: []

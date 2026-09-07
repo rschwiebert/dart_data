@@ -230,10 +230,8 @@ PROP_000023:
   has_on_left: false
   has_on_right: false
   property: PROP_000023
-  reason_left: 'Logic (rings) 380: \(NOT "local" \) <=== \(NOT "strongly connected"
-    \).'
-  reason_right: 'Logic (rings) 380: \(NOT "local" \) <=== \(NOT "strongly connected"
-    \).'
+  reason_left: 'Logic (rings) 96: \(NOT "local" \) <=== \(NOT "semiperfect" \).'
+  reason_right: 'Logic (rings) 96: \(NOT "local" \) <=== \(NOT "semiperfect" \).'
   ring: RING_000197
 PROP_000024:
   citation_left: []
@@ -1129,10 +1127,10 @@ PROP_000147:
   has_on_left: false
   has_on_right: false
   property: PROP_000147
-  reason_left: 'Logic (rings) 382: \(NOT "PCI ring" on the left\) <=== \(NOT "V ring"
+  reason_left: 'Logic (rings) 382: \(NOT "PCI ring" on the left\) <=== \(NOT "Noetherian"
     on the left\).'
-  reason_right: 'Logic (rings) 382: \(NOT "PCI ring" on the right\) <=== \(NOT "V
-    ring" on the right\).'
+  reason_right: 'Logic (rings) 382: \(NOT "PCI ring" on the right\) <=== \(NOT "Noetherian"
+    on the right\).'
   ring: RING_000197
 PROP_000150:
   citation_left: []

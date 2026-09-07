@@ -246,8 +246,8 @@ PROP_000026:
   has_on_left: true
   has_on_right: true
   property: PROP_000026
-  reason_left: 'Logic (rings) 152: \( "lift/rad" \) <=== \( "nil radical" \).'
-  reason_right: 'Logic (rings) 152: \( "lift/rad" \) <=== \( "nil radical" \).'
+  reason_left: 'Logic (rings) 377: \( "lift/rad" \) <=== \( "potent" \).'
+  reason_right: 'Logic (rings) 377: \( "lift/rad" \) <=== \( "potent" \).'
   ring: RING_000188
 PROP_000028:
   citation_left: []
@@ -404,8 +404,8 @@ PROP_000047:
   has_on_left: true
   has_on_right: true
   property: PROP_000047
-  reason_left: 'Logic (rings) 126: \( "exchange" \) <=== \( "$\pi$-regular" \).'
-  reason_right: 'Logic (rings) 126: \( "exchange" \) <=== \( "$\pi$-regular" \).'
+  reason_left: 'Logic (rings) 134: \( "exchange" \) <=== \( "clean" \).'
+  reason_right: 'Logic (rings) 134: \( "exchange" \) <=== \( "clean" \).'
   ring: RING_000188
 PROP_000048:
   citation_left: []
@@ -689,10 +689,8 @@ PROP_000073:
   has_on_left: true
   has_on_right: true
   property: PROP_000073
-  reason_left: 'Logic (rings) 61: \( "nonsingular" on the left\) <=== \( "Rickart"
-    on the left\).'
-  reason_right: 'Logic (rings) 61: \( "nonsingular" on the right\) <=== \( "Rickart"
-    on the right\).'
+  reason_left: 'Logic (rings) ?: \( "nonsingular" on the left\) <=== ring_subset_deduced("$\{0\}$",6).'
+  reason_right: 'Logic (rings) ?: \( "nonsingular" on the right\) <=== ring_subset_deduced("$\{0\}$",5).'
   ring: RING_000188
 PROP_000074:
   citation_left:
@@ -1309,8 +1307,8 @@ PROP_000146:
   has_on_left: true
   has_on_right: true
   property: PROP_000146
-  reason_left: 'Logic (rings) 376: \( "potent" \) <=== \( "Zorn" \).'
-  reason_right: 'Logic (rings) 376: \( "potent" \) <=== \( "Zorn" \).'
+  reason_left: 'Logic (rings) 378: \( "potent" \) <=== \( "exchange" \).'
+  reason_right: 'Logic (rings) 378: \( "potent" \) <=== \( "exchange" \).'
   ring: RING_000188
 PROP_000147:
   citation_left: []
@@ -1331,10 +1329,10 @@ PROP_000149:
   has_on_left: false
   has_on_right: false
   property: PROP_000149
-  reason_left: 'Logic (rings) 577: \(NOT "countable" \) <=== \(NOT "primitive" on
-    the left and right\) AND \( "prime" \) AND \( "von Neumann regular" \).'
-  reason_right: 'Logic (rings) 577: \(NOT "countable" \) <=== \(NOT "primitive" on
-    the left and right\) AND \( "prime" \) AND \( "von Neumann regular" \).'
+  reason_left: 'Logic (rings) 574: \(NOT "countable" \) <=== \(NOT "hereditary" on
+    the left\) AND \( "von Neumann regular" \).'
+  reason_right: 'Logic (rings) 574: \(NOT "countable" \) <=== \(NOT "hereditary" on
+    the left\) AND \( "von Neumann regular" \).'
   ring: RING_000188
 PROP_000150:
   citation_left: []

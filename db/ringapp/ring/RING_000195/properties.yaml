@@ -408,10 +408,8 @@ PROP_000041:
   has_on_left: true
   has_on_right: true
   property: PROP_000041
-  reason_left: 'Logic (rings) 151: \( "Dedekind finite" \) <=== \( "orthogonally finite"
-    \).'
-  reason_right: 'Logic (rings) 151: \( "Dedekind finite" \) <=== \( "orthogonally
-    finite" \).'
+  reason_left: 'Logic (rings) 181: \( "Dedekind finite" \) <=== \( "NI ring" \).'
+  reason_right: 'Logic (rings) 181: \( "Dedekind finite" \) <=== \( "NI ring" \).'
   ring: RING_000195
 PROP_000042:
   citation_left: []
@@ -747,9 +745,9 @@ PROP_000076:
   has_on_right: false
   property: PROP_000076
   reason_left: 'Logic (rings) 414: \(NOT "uniserial ring" on the left\) <=== \(NOT
-    "local" \).'
+    "Bezout" on the left\).'
   reason_right: 'Logic (rings) 414: \(NOT "uniserial ring" on the right\) <=== \(NOT
-    "local" \).'
+    "Bezout" on the right\).'
   ring: RING_000195
 PROP_000077:
   citation_left: []
@@ -1032,10 +1030,10 @@ PROP_000105:
   has_on_left: false
   has_on_right: false
   property: PROP_000105
-  reason_left: 'Logic (rings) 458: \(NOT "uniform" on the left\) <=== \(NOT "strongly
-    connected" \).'
-  reason_right: 'Logic (rings) 458: \(NOT "uniform" on the right\) <=== \(NOT "strongly
-    connected" \).'
+  reason_left: 'Logic (rings) 566: \(NOT "uniform" on the left\) <=== \( "nonzero
+    socle" on the left\) AND \(NOT "simple socle" on the left\).'
+  reason_right: 'Logic (rings) 566: \(NOT "uniform" on the right\) <=== \( "nonzero
+    socle" on the right\) AND \(NOT "simple socle" on the right\).'
   ring: RING_000195
 PROP_000108:
   citation_left: []
@@ -1557,8 +1555,8 @@ PROP_000177:
   has_on_left: false
   has_on_right: false
   property: PROP_000177
-  reason_left: 'Logic (rings) 559: \(NOT "semi-Artinian" on the left\) <=== \(NOT
-    "Artinian" on the left\) AND \( "Noetherian" on the left\).'
-  reason_right: 'Logic (rings) 559: \(NOT "semi-Artinian" on the right\) <=== \(NOT
-    "Artinian" on the right\) AND \( "Noetherian" on the right\).'
+  reason_left: 'Logic (rings) 552: \(NOT "semi-Artinian" on the left\) <=== \(NOT
+    "essential socle" on the left\).'
+  reason_right: 'Logic (rings) 552: \(NOT "semi-Artinian" on the right\) <=== \(NOT
+    "essential socle" on the right\).'
   ring: RING_000195

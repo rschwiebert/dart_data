@@ -155,10 +155,10 @@ PROP_000023:
   has_on_left: false
   has_on_right: false
   property: PROP_000023
-  reason_left: 'Logic (rings) 380: \(NOT "local" \) <=== \(NOT "strongly connected"
-    \).'
-  reason_right: 'Logic (rings) 380: \(NOT "local" \) <=== \(NOT "strongly connected"
-    \).'
+  reason_left: 'Logic (rings) 97: \(NOT "local" \) <=== \(NOT "quasi-duo" on the left
+    and right\).'
+  reason_right: 'Logic (rings) 97: \(NOT "local" \) <=== \(NOT "quasi-duo" on the
+    left and right\).'
   ring: RING_000143
 PROP_000028:
   citation_left: []
@@ -422,8 +422,7 @@ PROP_000073:
   has_on_right: true
   property: PROP_000073
   reason_left: null
-  reason_right: 'Logic (rings) 61: \( "nonsingular" on the right\) <=== \( "Rickart"
-    on the right\).'
+  reason_right: 'Logic (rings) ?: \( "nonsingular" on the right\) <=== ring_subset_deduced("$\{0\}$",5).'
   ring: RING_000143
 PROP_000076:
   citation_left: []
@@ -825,8 +824,8 @@ PROP_000138:
   has_on_left: false
   has_on_right: false
   property: PROP_000138
-  reason_left: 'Logic (rings) 350: \(NOT "Japanese (N-2)" \) <=== \(NOT "N-1" \).'
-  reason_right: 'Logic (rings) 350: \(NOT "Japanese (N-2)" \) <=== \(NOT "N-1" \).'
+  reason_left: 'Logic (rings) 350: \(NOT "N-2" \) <=== \(NOT "N-1" \).'
+  reason_right: 'Logic (rings) 350: \(NOT "N-2" \) <=== \(NOT "N-1" \).'
   ring: RING_000143
 PROP_000140:
   citation_left: []
@@ -869,10 +868,10 @@ PROP_000147:
   has_on_left: false
   has_on_right: false
   property: PROP_000147
-  reason_left: 'Logic (rings) 382: \(NOT "PCI ring" on the left\) <=== \(NOT "hereditary"
-    on the left and right\).'
-  reason_right: 'Logic (rings) 382: \(NOT "PCI ring" on the right\) <=== \(NOT "hereditary"
-    on the left and right\).'
+  reason_left: 'Logic (rings) 382: \(NOT "PCI ring" on the left\) <=== \(NOT "Noetherian"
+    on the left\).'
+  reason_right: 'Logic (rings) 382: \(NOT "PCI ring" on the right\) <=== \(NOT "Noetherian"
+    on the right\).'
   ring: RING_000143
 PROP_000149:
   citation_left: []
