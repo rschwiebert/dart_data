@@ -1,4 +1,4 @@
-active: true
+active: false
 citation: []
 concs: ring_deduced("has",1,64)
 hyps: ring_deduced("has",0,111) AND ring_deduced("has",0,1)
