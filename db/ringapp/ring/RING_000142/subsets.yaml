@@ -1,13 +1,13 @@
 SUBSET_000001:
   citation: []
-  crosstable_pk: 575
+  crosstable_pk: 1036
   reason: 'Logic (rings) ?: has Jacobson radical $\{0\}$ <=== ring is semiprimitive'
   ring: RING_000142
   subset: $\{0\}$
   subset_type: SUBSET_000001
 SUBSET_000005:
   citation: []
-  crosstable_pk: 576
+  crosstable_pk: 1037
   reason: 'Logic (rings) ?: has Right singular ideal $\{0\}$ <=== ring is nonsingular
     on the right'
   ring: RING_000142
@@ -15,7 +15,7 @@ SUBSET_000005:
   subset_type: SUBSET_000005
 SUBSET_000006:
   citation: []
-  crosstable_pk: 577
+  crosstable_pk: 1038
   reason: 'Logic (rings) ?: has Left singular ideal $\{0\}$ <=== ring is nonsingular
     on the left'
   ring: RING_000142
