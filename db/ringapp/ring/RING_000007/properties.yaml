@@ -1501,7 +1501,8 @@ PROP_000142:
   has_on_right: true
   property: PROP_000142
   reason_left: 'Logic (rings) 355: \( "J-0" \) <=== \( "J-1" \) AND \( "reduced" \).'
-  reason_right: symmetry with left side
+  reason_right: 'Logic (rings) 355: \( "J-0" \) <=== \( "J-1" \) AND \( "reduced"
+    \).'
   ring: RING_000007
 PROP_000143:
   citation_left: []
@@ -1658,8 +1659,7 @@ PROP_000157:
   has_on_right: true
   property: PROP_000157
   reason_left: 'Logic (rings) logical AND: ring_deduced("has",2,Y) <=== ring_deduced("has",1,Y).'
-  reason_right: 'Logic (rings) commutativity: ring_deduced("has",3,Y) <=== \( "commutative"
-    \) AND ring_deduced("has",2,Y).'
+  reason_right: 'Logic (rings) logical AND: ring_deduced("has",3,Y) <=== ring_deduced("has",1,Y).'
   ring: RING_000007
 PROP_000158:
   citation_left: []
@@ -1888,5 +1888,6 @@ PROP_000178:
   property: PROP_000178
   reason_left: 'Logic (rings) 590: \(NOT "subdirectly irreducible" \) <=== \(NOT "field"
     \) AND \( "commutative" \) AND \( "domain" \).'
-  reason_right: symmetry with left side
+  reason_right: 'Logic (rings) 590: \(NOT "subdirectly irreducible" \) <=== \(NOT
+    "field" \) AND \( "commutative" \) AND \( "domain" \).'
   ring: RING_000007
