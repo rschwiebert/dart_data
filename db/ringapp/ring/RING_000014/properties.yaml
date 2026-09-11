@@ -953,7 +953,7 @@ PROP_000095:
   citation_right: []
   crosstable_pk: 19150
   has_on_left: null
-  has_on_right: null
+  has_on_right: false
   property: PROP_000095
   reason_left: null
   reason_right: lann(rann(a))\neq Ra for a=E_{1,2}
