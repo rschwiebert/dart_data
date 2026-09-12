@@ -20,6 +20,17 @@ PROP_000002:
   reason_right: 'Logic (rings) 192: \(NOT "division ring" \) <=== \(NOT "von Neumann
     regular" \).'
   ring: RING_000143
+PROP_000003:
+  citation_left: []
+  citation_right: []
+  crosstable_pk: 34172
+  has_on_left: false
+  has_on_right: false
+  property: PROP_000003
+  reason_left: 'relationlogic.dl: ring=143 lacks property=3 because ring=142 lacks
+    property=3 and is IMAGE_OF ring=143'
+  reason_right: symmetry with left side
+  ring: RING_000143
 PROP_000004:
   citation_left: []
   citation_right: []
@@ -111,6 +122,26 @@ PROP_000015:
     on the left and right\).'
   reason_right: 'Logic (rings) 141: \(NOT "semi free ideal ring" \) <=== \(NOT "semihereditary"
     on the left and right\).'
+  ring: RING_000143
+PROP_000016:
+  citation_left: []
+  citation_right: []
+  crosstable_pk: 34173
+  has_on_left: null
+  has_on_right: null
+  property: PROP_000016
+  reason_left: null
+  reason_right: null
+  ring: RING_000143
+PROP_000017:
+  citation_left: []
+  citation_right: []
+  crosstable_pk: 34174
+  has_on_left: null
+  has_on_right: null
+  property: PROP_000017
+  reason_left: null
+  reason_right: null
   ring: RING_000143
 PROP_000018:
   citation_left: []

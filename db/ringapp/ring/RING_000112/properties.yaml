@@ -277,8 +277,8 @@ PROP_000027:
   citation_left: []
   citation_right: []
   crosstable_pk: 27971
-  has_on_left: true
-  has_on_right: true
+  has_on_left: false
+  has_on_right: false
   property: PROP_000027
   reason_left: There is no $y$ so that $b + y(1-b^2)$ is a unit
   reason_right: symmetry with left side
@@ -435,13 +435,11 @@ PROP_000042:
   citation_left: []
   citation_right: []
   crosstable_pk: 27972
-  has_on_left: true
-  has_on_right: true
+  has_on_left: null
+  has_on_right: null
   property: PROP_000042
-  reason_left: 'Logic (rings) 135: \( "stably finite" \) <=== \( "stable range 1"
-    \).'
-  reason_right: 'Logic (rings) 135: \( "stably finite" \) <=== \( "stable range 1"
-    \).'
+  reason_left: null
+  reason_right: null
   ring: RING_000112
 PROP_000043:
   citation_left: []
@@ -1451,11 +1449,11 @@ PROP_000157:
   citation_left: []
   citation_right: []
   crosstable_pk: 27973
-  has_on_left: true
-  has_on_right: true
+  has_on_left: null
+  has_on_right: null
   property: PROP_000157
-  reason_left: 'Logic (rings) logical AND: ring_deduced("has",2,Y) <=== ring_deduced("has",1,Y).'
-  reason_right: 'Logic (rings) logical AND: ring_deduced("has",3,Y) <=== ring_deduced("has",1,Y).'
+  reason_left: null
+  reason_right: null
   ring: RING_000112
 PROP_000158:
   citation_left: []

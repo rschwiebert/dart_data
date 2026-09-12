@@ -735,10 +735,10 @@ PROP_000067:
   has_on_left: false
   has_on_right: false
   property: PROP_000067
-  reason_left: 'Logic (rings) 52: \(NOT "Bezout" on the left\) <=== \(NOT "Bezout
-    domain" on the left\) AND \( "domain" \).'
-  reason_right: 'Logic (rings) 52: \(NOT "Bezout" on the right\) <=== \(NOT "Bezout
-    domain" on the right\) AND \( "domain" \).'
+  reason_left: 'relationlogic.dl: ring=165 lacks property=67 on the left because ring=89
+    lacks property=67 on the left and is IMAGE_OF ring=165'
+  reason_right: 'relationlogic.dl: ring=165 lacks property=67 on the right because
+    ring=89 lacks property=67 on the right and is IMAGE_OF ring=165'
   ring: RING_000165
 PROP_000068:
   citation_left: []
@@ -747,10 +747,10 @@ PROP_000068:
   has_on_left: false
   has_on_right: false
   property: PROP_000068
-  reason_left: 'Logic (rings) 186: \(NOT "Bezout domain" on the left\) <=== \(NOT
-    "Ore domain" on the left\).'
-  reason_right: 'Logic (rings) 186: \(NOT "Bezout domain" on the right\) <=== \(NOT
-    "Ore domain" on the right\).'
+  reason_left: 'Logic (rings) 52: \(NOT "Bezout domain" on the left\) <=== \(NOT "Bezout"
+    on the left\).'
+  reason_right: 'Logic (rings) 52: \(NOT "Bezout domain" on the right\) <=== \(NOT
+    "Bezout" on the right\).'
   ring: RING_000165
 PROP_000069:
   citation_left: []
