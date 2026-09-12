@@ -127,23 +127,21 @@ PROP_000016:
   citation_left: []
   citation_right: []
   crosstable_pk: 34173
-  has_on_left: false
-  has_on_right: false
+  has_on_left: null
+  has_on_right: null
   property: PROP_000016
-  reason_left: 'relationlogic.dl: ring=143 lacks property=16 because ring=142 lacks
-    property=16 and is IMAGE_OF ring=143'
-  reason_right: symmetry with left side
+  reason_left: null
+  reason_right: null
   ring: RING_000143
 PROP_000017:
   citation_left: []
   citation_right: []
   crosstable_pk: 34174
-  has_on_left: false
-  has_on_right: false
+  has_on_left: null
+  has_on_right: null
   property: PROP_000017
-  reason_left: 'relationlogic.dl: ring=143 lacks property=17 because ring=142 lacks
-    property=17 and is IMAGE_OF ring=143'
-  reason_right: symmetry with left side
+  reason_left: null
+  reason_right: null
   ring: RING_000143
 PROP_000018:
   citation_left: []
