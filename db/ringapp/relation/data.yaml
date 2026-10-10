@@ -128,11 +128,6 @@ RINGRELATION_000027:
   note: ''
   relation_type: SUBRING_OF
   second: RING_000036
-RINGRELATION_000028:
-  first: RING_000167
-  note: ''
-  relation_type: SUBRING_OF
-  second: RING_000166
 RINGRELATION_000029:
   first: RING_000006
   note: ''
@@ -275,10 +270,10 @@ RINGRELATION_000056:
   relation_type: SUBRING_OF
   second: RING_000085
 RINGRELATION_000057:
-  first: RING_000084
+  first: RING_000085
   note: ''
   relation_type: RING_OF_QUOTIENTS_OF
-  second: RING_000085
+  second: RING_000084
 RINGRELATION_000058:
   first: RING_000002
   note: ''

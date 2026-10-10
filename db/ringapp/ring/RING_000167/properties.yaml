@@ -306,10 +306,10 @@ PROP_000029:
   has_on_left: false
   has_on_right: false
   property: PROP_000029
-  reason_left: 'Logic (rings) 238: \(NOT "top simple" \) <=== \(NOT "local" \) AND
-    \( "commutative" \).'
-  reason_right: 'Logic (rings) 238: \(NOT "top simple" \) <=== \(NOT "local" \) AND
-    \( "commutative" \).'
+  reason_left: 'Logic (rings) 206: \(NOT "top simple" \) <=== \(NOT "simple" \) AND
+    \( "semiprimitive" \).'
+  reason_right: 'Logic (rings) 206: \(NOT "top simple" \) <=== \(NOT "simple" \) AND
+    \( "semiprimitive" \).'
   ring: RING_000167
 PROP_000030:
   citation_left: []
@@ -318,10 +318,10 @@ PROP_000030:
   has_on_left: false
   has_on_right: false
   property: PROP_000030
-  reason_left: 'Logic (rings) 205: \(NOT "top simple Artinian" \) <=== \(NOT "top
-    simple" \).'
-  reason_right: 'Logic (rings) 205: \(NOT "top simple Artinian" \) <=== \(NOT "top
-    simple" \).'
+  reason_left: 'Logic (rings) 207: \(NOT "top simple Artinian" \) <=== \(NOT "simple
+    Artinian" \) AND \( "semiprimitive" \).'
+  reason_right: 'Logic (rings) 207: \(NOT "top simple Artinian" \) <=== \(NOT "simple
+    Artinian" \) AND \( "semiprimitive" \).'
   ring: RING_000167
 PROP_000031:
   citation_left: []
@@ -513,9 +513,9 @@ PROP_000048:
   has_on_left: false
   has_on_right: false
   property: PROP_000048
-  reason_left: 'Logic (rings) 477: \(NOT "$I_0$" \) <=== \(NOT "local" \) AND \( "strongly
+  reason_left: 'Logic (rings) 239: \(NOT "$I_0$" \) <=== \(NOT "local" \) AND \( "strongly
     connected" \).'
-  reason_right: 'Logic (rings) 477: \(NOT "$I_0$" \) <=== \(NOT "local" \) AND \(
+  reason_right: 'Logic (rings) 239: \(NOT "$I_0$" \) <=== \(NOT "local" \) AND \(
     "strongly connected" \).'
   ring: RING_000167
 PROP_000049:
@@ -856,6 +856,18 @@ PROP_000078:
     "finitely cogenerated" on the left\).'
   reason_right: 'Logic (rings) 83: \(NOT "pseudo-Frobenius" on the right\) <=== \(NOT
     "finitely cogenerated" on the right\).'
+  ring: RING_000167
+PROP_000079:
+  citation_left: []
+  citation_right: []
+  crosstable_pk: 34407
+  has_on_left: false
+  has_on_right: false
+  property: PROP_000079
+  reason_left: 'Logic (rings) 599: \(NOT "finitely pseudo-Frobenius" on the left\)
+    <=== \(NOT "Prufer domain" \) AND \( "commutative" \) AND \( "domain" \).'
+  reason_right: 'Logic (rings) 599: \(NOT "finitely pseudo-Frobenius" on the right\)
+    <=== \(NOT "Prufer domain" \) AND \( "commutative" \) AND \( "domain" \).'
   ring: RING_000167
 PROP_000080:
   citation_left: []
@@ -1580,8 +1592,7 @@ PROP_000149:
   has_on_left: true
   has_on_right: true
   property: PROP_000149
-  reason_left: 'relationlogic.dl: ring=167 has property=149 because it is SUBRING_OF
-    ring=166 which has property=149'
+  reason_left: Countable union of countable rings.
   reason_right: symmetry with left side
   ring: RING_000167
 PROP_000150:
@@ -1816,9 +1827,9 @@ PROP_000172:
   has_on_left: false
   has_on_right: false
   property: PROP_000172
-  reason_left: 'Logic (rings) 527: \(NOT "valuation domain" \) <=== \(NOT "valuation
+  reason_left: 'Logic (rings) 524: \(NOT "valuation domain" \) <=== \(NOT "valuation
     ring" \).'
-  reason_right: 'Logic (rings) 527: \(NOT "valuation domain" \) <=== \(NOT "valuation
+  reason_right: 'Logic (rings) 524: \(NOT "valuation domain" \) <=== \(NOT "valuation
     ring" \).'
   ring: RING_000167
 PROP_000173:
