@@ -1504,14 +1504,14 @@ PROP_000144:
   reason_right: 'Logic 370: Abelian ===> compressible'
   ring: RING_000061
 PROP_000145:
-  citation_left:
-  - CITE_000169
+  citation_left: []
   citation_right: []
   crosstable_pk: 11192
-  has_on_left: true
-  has_on_right: true
+  has_on_left: false
+  has_on_right: false
   property: PROP_000145
-  reason_left: semilocal Noetherian domain with dimension $1$
+  reason_left: $( X-nY )$  for  $n \in \mathbb Q$  are all distinct height 1 prime
+    ideals and these must have null-intersection since the generators are all co-prime.
   reason_right: symmetry with left side
   ring: RING_000061
 PROP_000146:
