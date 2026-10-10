@@ -1,0 +1,9 @@
+active: true
+citation:
+- CITE_000702
+concs: ring_deduced("has",0,112)
+hyps: ring_deduced("has",0,1) AND ring_deduced("has",0,8) AND ring_deduced("has",3,79)
+readable: ring is commutative AND ring is domain AND ring is finitely pseudo-Frobenius
+  on the right ===> ring is Prufer domain
+symmetric: false
+variety: 0

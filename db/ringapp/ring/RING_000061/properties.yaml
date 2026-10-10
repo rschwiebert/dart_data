@@ -811,10 +811,10 @@ PROP_000079:
   citation_left: []
   citation_right: []
   crosstable_pk: 2681
-  has_on_left: true
-  has_on_right: true
+  has_on_left: false
+  has_on_right: false
   property: PROP_000079
-  reason_left: symmetry with right side
+  reason_left: An FPF domain is Prufer
   reason_right: symmetry with left side
   ring: RING_000061
 PROP_000080:
