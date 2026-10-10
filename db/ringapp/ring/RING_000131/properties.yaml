@@ -1009,6 +1009,16 @@ PROP_000115:
   reason_left: 'Logic 316: regular local ===> unique factorization domain'
   reason_right: 'Logic 316: regular local ===> unique factorization domain'
   ring: RING_000131
+PROP_000116:
+  citation_left: []
+  citation_right: []
+  crosstable_pk: 34274
+  has_on_left: false
+  has_on_right: false
+  property: PROP_000116
+  reason_left: 'Logic (rings) 596: \(NOT "regular" \) <=== \(NOT "J-1" \).'
+  reason_right: 'Logic (rings) 596: \(NOT "regular" \) <=== \(NOT "J-1" \).'
+  ring: RING_000131
 PROP_000118:
   citation_left: []
   citation_right: []

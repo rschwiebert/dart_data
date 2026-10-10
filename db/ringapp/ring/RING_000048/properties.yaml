@@ -594,6 +594,16 @@ PROP_000058:
   reason_left: 'Logic 310: ordered field ===> characteristic 0 field'
   reason_right: 'Logic 310: ordered field ===> characteristic 0 field'
   ring: RING_000048
+PROP_000059:
+  citation_left: []
+  citation_right: []
+  crosstable_pk: 34356
+  has_on_left: false
+  has_on_right: false
+  property: PROP_000059
+  reason_left: since with this $p$ $F_p$ cannot be Pythagorean.
+  reason_right: symmetry with left side
+  ring: RING_000048
 PROP_000060:
   citation_left: []
   citation_right: []

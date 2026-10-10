@@ -1042,6 +1042,54 @@ PROP_000097:
   reason_right: 'Logic (rings) 388: \( "T-nilpotent radical" on the right\) <=== \(
     "max ring" on the right\).'
   ring: RING_000177
+PROP_000098:
+  citation_left: []
+  citation_right: []
+  crosstable_pk: 34256
+  has_on_left: false
+  has_on_right: false
+  property: PROP_000098
+  reason_left: 'Logic (rings) 270: \(NOT "simple socle" on the left\) <=== \(NOT "uniform"
+    on the left\) AND \( "essential socle" on the left\).'
+  reason_right: 'Logic (rings) 270: \(NOT "simple socle" on the right\) <=== \(NOT
+    "uniform" on the right\) AND \( "essential socle" on the right\).'
+  ring: RING_000177
+PROP_000099:
+  citation_left: []
+  citation_right: []
+  crosstable_pk: 34257
+  has_on_left: false
+  has_on_right: false
+  property: PROP_000099
+  reason_left: 'Logic (rings) 212: \(NOT "finitely generated socle" on the left\)
+    <=== \(NOT "finitely cogenerated" on the left\) AND \( "essential socle" on the
+    left\).'
+  reason_right: 'Logic (rings) 212: \(NOT "finitely generated socle" on the right\)
+    <=== \(NOT "finitely cogenerated" on the right\) AND \( "essential socle" on the
+    right\).'
+  ring: RING_000177
+PROP_000100:
+  citation_left: []
+  citation_right: []
+  crosstable_pk: 34258
+  has_on_left: true
+  has_on_right: true
+  property: PROP_000100
+  reason_left: 'Logic (rings) 156: \( "nonzero socle" on the left\) <=== \( "essential
+    socle" on the left\).'
+  reason_right: 'Logic (rings) 156: \( "nonzero socle" on the right\) <=== \( "essential
+    socle" on the right\).'
+  ring: RING_000177
+PROP_000101:
+  citation_left: []
+  citation_right: []
+  crosstable_pk: 34255
+  has_on_left: true
+  has_on_right: true
+  property: PROP_000101
+  reason_left: $\oplus \mathbb Q$ is clearly the essential socle
+  reason_right: symmetry with left side
+  ring: RING_000177
 PROP_000102:
   citation_left: []
   citation_right: []

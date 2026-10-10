@@ -291,6 +291,16 @@ PROP_000026:
   reason_left: 'Logic (rings) 152: \( "lift/rad" \) <=== \( "nil radical" \).'
   reason_right: 'Logic (rings) 152: \( "lift/rad" \) <=== \( "nil radical" \).'
   ring: RING_000207
+PROP_000027:
+  citation_left: []
+  citation_right: []
+  crosstable_pk: 34259
+  has_on_left: false
+  has_on_right: false
+  property: PROP_000027
+  reason_left: Use $xx + (1-x^2)=1$
+  reason_right: symmetry with left side
+  ring: RING_000207
 PROP_000028:
   citation_left: []
   citation_right: []

@@ -28,3 +28,17 @@ SUBSET_000006:
   ring: RING_000177
   subset: $\{0\}$
   subset_type: SUBSET_000006
+SUBSET_000007:
+  citation: []
+  crosstable_pk: 1049
+  reason: null
+  ring: RING_000177
+  subset: $\oplus_{i=0}^\infty \mathbb Q$
+  subset_type: SUBSET_000007
+SUBSET_000008:
+  citation: []
+  crosstable_pk: 1048
+  reason: null
+  ring: RING_000177
+  subset: $\oplus_{i=0}^\infty \mathbb Q$
+  subset_type: SUBSET_000008

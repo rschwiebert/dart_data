@@ -270,6 +270,16 @@ PROP_000026:
   reason_left: 'Logic 152: nil radical ===> lift/rad'
   reason_right: 'Logic 152: nil radical ===> lift/rad'
   ring: RING_000006
+PROP_000027:
+  citation_left: []
+  citation_right: []
+  crosstable_pk: 34281
+  has_on_left: false
+  has_on_right: false
+  property: PROP_000027
+  reason_left: $a=x$, $b=1-x^2$.
+  reason_right: symmetry with left side
+  ring: RING_000006
 PROP_000028:
   citation_left: []
   citation_right: []

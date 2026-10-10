@@ -417,3 +417,11 @@ MODPROP_000064:
   module: MOD_000016
   property: MODPROP_000064
   reason: Obviously $M\cong \mathbb Z\oplus M$
+MODPROP_000065:
+  citation: []
+  crosstable_pk: 1361
+  has: false
+  module: MOD_000016
+  property: MODPROP_000065
+  reason: 'Logic (modules) 206: module("lacks" ''divisible (regular element)'') <===
+    module("lacks" ''divisible (naive)'') AND ring("has" ''domain'' ).'

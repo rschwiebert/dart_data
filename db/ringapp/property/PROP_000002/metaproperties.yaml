@@ -96,7 +96,7 @@ METAPROP_000014:
   has_metaproperty: false
   metaproperty: METAPROP_000014
   property: PROP_000002
-  relation: null
+  relation: 166
 METAPROP_000016:
   citation: []
   commutative_only: false

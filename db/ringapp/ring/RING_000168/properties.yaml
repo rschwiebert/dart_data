@@ -54,6 +54,17 @@ PROP_000005:
   reason_right: 'Logic (rings) 213: \(NOT "semisimple" \) <=== \(NOT "finitely cogenerated"
     on the left\).'
   ring: RING_000168
+PROP_000006:
+  citation_left: []
+  citation_right: []
+  crosstable_pk: 34176
+  has_on_left: true
+  has_on_right: true
+  property: PROP_000006
+  reason_left: The units are sequences of $\pm 1$.  If $x$ is nonzero somewhere, $1-3x$
+    isn't invertible.
+  reason_right: symmetry with left side
+  ring: RING_000168
 PROP_000008:
   citation_left: []
   citation_right: []
@@ -201,6 +212,30 @@ PROP_000020:
   reason_left: 'Logic (rings) 93: \(NOT "semiprimary" \) <=== \(NOT "semilocal" \).'
   reason_right: 'Logic (rings) 93: \(NOT "semiprimary" \) <=== \(NOT "semilocal" \).'
   ring: RING_000168
+PROP_000021:
+  citation_left: []
+  citation_right: []
+  crosstable_pk: 34178
+  has_on_left: true
+  has_on_right: true
+  property: PROP_000021
+  reason_left: 'Logic (rings) 261: \( "nilpotent radical" \) <=== \( "semiprimitive"
+    \).'
+  reason_right: 'Logic (rings) 261: \( "nilpotent radical" \) <=== \( "semiprimitive"
+    \).'
+  ring: RING_000168
+PROP_000022:
+  citation_left: []
+  citation_right: []
+  crosstable_pk: 34179
+  has_on_left: true
+  has_on_right: true
+  property: PROP_000022
+  reason_left: 'Logic (rings) 413: \( "nil radical" \) <=== \( "commutative" \) AND
+    \( "rad-nil" \).'
+  reason_right: 'Logic (rings) 413: \( "nil radical" \) <=== \( "commutative" \) AND
+    \( "rad-nil" \).'
+  ring: RING_000168
 PROP_000023:
   citation_left: []
   citation_right: []
@@ -232,6 +267,26 @@ PROP_000025:
   property: PROP_000025
   reason_left: 'Logic (rings) 101: \(NOT "semiperfect" \) <=== \(NOT "clean" \).'
   reason_right: 'Logic (rings) 101: \(NOT "semiperfect" \) <=== \(NOT "clean" \).'
+  ring: RING_000168
+PROP_000026:
+  citation_left: []
+  citation_right: []
+  crosstable_pk: 34180
+  has_on_left: true
+  has_on_right: true
+  property: PROP_000026
+  reason_left: 'Logic (rings) 152: \( "lift/rad" \) <=== \( "nil radical" \).'
+  reason_right: 'Logic (rings) 152: \( "lift/rad" \) <=== \( "nil radical" \).'
+  ring: RING_000168
+PROP_000027:
+  citation_left: []
+  citation_right: []
+  crosstable_pk: 34197
+  has_on_left: false
+  has_on_right: false
+  property: PROP_000027
+  reason_left: Start with $(5,\ldots)(2,\ldots) + (-9,\ldots)=(1,\ldots)$
+  reason_right: symmetry with left side
   ring: RING_000168
 PROP_000028:
   citation_left: []
@@ -266,6 +321,18 @@ PROP_000030:
     \).'
   reason_right: 'Logic (rings) 262: \(NOT "top simple Artinian" \) <=== \(NOT "semilocal"
     \).'
+  ring: RING_000168
+PROP_000031:
+  citation_left: []
+  citation_right: []
+  crosstable_pk: 34177
+  has_on_left: false
+  has_on_right: false
+  property: PROP_000031
+  reason_left: 'Logic (rings) 35: \(NOT "top regular" \) <=== \(NOT "von Neumann regular"
+    \) AND \( "semiprimitive" \).'
+  reason_right: 'Logic (rings) 35: \(NOT "top regular" \) <=== \(NOT "von Neumann
+    regular" \) AND \( "semiprimitive" \).'
   ring: RING_000168
 PROP_000032:
   citation_left: []
@@ -437,6 +504,26 @@ PROP_000047:
   reason_left: 'relationlogic.dl: ring=168 lacks property=47 because ring=1 lacks
     property=47 and is IMAGE_OF ring=168'
   reason_right: symmetry with left side
+  ring: RING_000168
+PROP_000048:
+  citation_left: []
+  citation_right: []
+  crosstable_pk: 34183
+  has_on_left: false
+  has_on_right: false
+  property: PROP_000048
+  reason_left: $((2,2,\ldots))$ cannot contain a nonzero idempotent
+  reason_right: symmetry with left side
+  ring: RING_000168
+PROP_000049:
+  citation_left: []
+  citation_right: []
+  crosstable_pk: 34184
+  has_on_left: false
+  has_on_right: false
+  property: PROP_000049
+  reason_left: 'Logic (rings) 130: \(NOT "Zorn" \) <=== \(NOT "$I_0$" \).'
+  reason_right: 'Logic (rings) 130: \(NOT "Zorn" \) <=== \(NOT "$I_0$" \).'
   ring: RING_000168
 PROP_000050:
   citation_left: []
@@ -623,6 +710,16 @@ PROP_000066:
   reason_right: 'Logic (rings) 49: \(NOT "principal ideal ring" on the right\) <===
     \(NOT "Noetherian" on the right\).'
   ring: RING_000168
+PROP_000067:
+  citation_left: []
+  citation_right: []
+  crosstable_pk: 34190
+  has_on_left: true
+  has_on_right: true
+  property: PROP_000067
+  reason_left: Behaves coordinate-wise. Also equational definition explains it.
+  reason_right: symmetry with left side
+  ring: RING_000168
 PROP_000068:
   citation_left: []
   citation_right: []
@@ -749,6 +846,16 @@ PROP_000082:
   reason_right: 'Logic (rings) 391: \(NOT "perfect" on the right\) <=== \(NOT "max
     ring" on the right\).'
   ring: RING_000168
+PROP_000083:
+  citation_left: []
+  citation_right: []
+  crosstable_pk: 34193
+  has_on_left: false
+  has_on_right: false
+  property: PROP_000083
+  reason_left: $(2,2,2,\ldots)$ is regular but not invertible
+  reason_right: symmetry with left side
+  ring: RING_000168
 PROP_000084:
   citation_left: []
   citation_right: []
@@ -853,6 +960,18 @@ PROP_000094:
   reason_left: 'Logic (rings) logical AND: ring_deduced("has",2,Y) <=== ring_deduced("has",1,Y).'
   reason_right: 'Logic (rings) logical AND: ring_deduced("has",3,Y) <=== ring_deduced("has",1,Y).'
   ring: RING_000168
+PROP_000095:
+  citation_left: []
+  citation_right: []
+  crosstable_pk: 34194
+  has_on_left: false
+  has_on_right: false
+  property: PROP_000095
+  reason_left: 'Logic (rings) 203: \(NOT "principally injective" on the left\) <===
+    \(NOT "co-Hopfian" on the left\) AND \( "Dedekind finite" \).'
+  reason_right: 'Logic (rings) 203: \(NOT "principally injective" on the right\) <===
+    \(NOT "co-Hopfian" on the right\) AND \( "Dedekind finite" \).'
+  ring: RING_000168
 PROP_000096:
   citation_left: []
   citation_right: []
@@ -864,6 +983,61 @@ PROP_000096:
     left\).'
   reason_right: 'Logic (rings) 111: \( "quasi-duo" on the right\) <=== \( "duo" on
     the right\).'
+  ring: RING_000168
+PROP_000097:
+  citation_left: []
+  citation_right: []
+  crosstable_pk: 34182
+  has_on_left: true
+  has_on_right: true
+  property: PROP_000097
+  reason_left: 'Logic (rings) logical AND: ring_deduced("has",2,Y) <=== ring_deduced("has",1,Y).'
+  reason_right: 'Logic (rings) 150: \( "T-nilpotent radical" on the right\) <=== \(
+    "nilpotent radical" \).'
+  ring: RING_000168
+PROP_000098:
+  citation_left: []
+  citation_right: []
+  crosstable_pk: 34187
+  has_on_left: false
+  has_on_right: false
+  property: PROP_000098
+  reason_left: 'Logic (rings) 154: \(NOT "simple socle" on the left\) <=== \(NOT "nonzero
+    socle" on the left\).'
+  reason_right: 'Logic (rings) 154: \(NOT "simple socle" on the right\) <=== \(NOT
+    "nonzero socle" on the right\).'
+  ring: RING_000168
+PROP_000099:
+  citation_left: []
+  citation_right: []
+  crosstable_pk: 34198
+  has_on_left: true
+  has_on_right: true
+  property: PROP_000099
+  reason_left: socle is zero, finitely generated
+  reason_right: symmetry with left side
+  ring: RING_000168
+PROP_000100:
+  citation_left: []
+  citation_right: []
+  crosstable_pk: 34186
+  has_on_left: false
+  has_on_right: false
+  property: PROP_000100
+  reason_left: Straightforward elementary argument
+  reason_right: symmetry with left side
+  ring: RING_000168
+PROP_000101:
+  citation_left: []
+  citation_right: []
+  crosstable_pk: 34188
+  has_on_left: false
+  has_on_right: false
+  property: PROP_000101
+  reason_left: 'Logic (rings) 156: \(NOT "essential socle" on the left\) <=== \(NOT
+    "nonzero socle" on the left\).'
+  reason_right: 'Logic (rings) 156: \(NOT "essential socle" on the right\) <=== \(NOT
+    "nonzero socle" on the right\).'
   ring: RING_000168
 PROP_000102:
   citation_left: []
@@ -889,6 +1063,18 @@ PROP_000103:
   reason_right: 'Logic (rings) 278: \(NOT "finitely cogenerated" on the right\) <===
     \(NOT "finite uniform dimension" on the right\).'
   ring: RING_000168
+PROP_000104:
+  citation_left: []
+  citation_right: []
+  crosstable_pk: 34192
+  has_on_left: true
+  has_on_right: true
+  property: PROP_000104
+  reason_left: 'Logic (rings) 227: \( "distributive" on the left\) <=== \( "Bezout"
+    on the left\) AND \( "quasi-duo" on the left\).'
+  reason_right: 'Logic (rings) 227: \( "distributive" on the right\) <=== \( "Bezout"
+    on the right\) AND \( "quasi-duo" on the right\).'
+  ring: RING_000168
 PROP_000105:
   citation_left: []
   citation_right: []
@@ -900,6 +1086,30 @@ PROP_000105:
     uniform dimension" on the left\).'
   reason_right: 'Logic (rings) 165: \(NOT "uniform" on the right\) <=== \(NOT "finite
     uniform dimension" on the right\).'
+  ring: RING_000168
+PROP_000107:
+  citation_left: []
+  citation_right: []
+  crosstable_pk: 34189
+  has_on_left: true
+  has_on_right: true
+  property: PROP_000107
+  reason_left: 'Logic (rings) 575: \( "simple-injective" on the left\) <=== \(NOT
+    "nonzero socle" on the left\).'
+  reason_right: 'Logic (rings) 575: \( "simple-injective" on the right\) <=== \(NOT
+    "nonzero socle" on the right\).'
+  ring: RING_000168
+PROP_000108:
+  citation_left: []
+  citation_right: []
+  crosstable_pk: 34195
+  has_on_left: false
+  has_on_right: false
+  property: PROP_000108
+  reason_left: 'Logic (rings) 160: \(NOT "FI-injective" on the left\) <=== \(NOT "principally
+    injective" on the left\).'
+  reason_right: 'Logic (rings) 160: \(NOT "FI-injective" on the right\) <=== \(NOT
+    "principally injective" on the right\).'
   ring: RING_000168
 PROP_000111:
   citation_left: []
@@ -982,6 +1192,16 @@ PROP_000117:
     on the left and right\).'
   reason_right: 'Logic (rings) 352: \(NOT "Cohen-Macaulay" \) <=== \(NOT "Noetherian"
     on the left and right\).'
+  ring: RING_000168
+PROP_000118:
+  citation_left: []
+  citation_right: []
+  crosstable_pk: 34327
+  has_on_left: true
+  has_on_right: true
+  property: PROP_000118
+  reason_left: Localizations are all fields and DVRs.
+  reason_right: symmetry with left side
   ring: RING_000168
 PROP_000119:
   citation_left: []
@@ -1073,6 +1293,18 @@ PROP_000127:
   reason_left: 'Logic (rings) 326: \(NOT "normal domain" \) <=== \(NOT "domain" \).'
   reason_right: 'Logic (rings) 326: \(NOT "normal domain" \) <=== \(NOT "domain" \).'
   ring: RING_000168
+PROP_000128:
+  citation_left: []
+  citation_right: []
+  crosstable_pk: 34181
+  has_on_left: true
+  has_on_right: true
+  property: PROP_000128
+  reason_left: 'Logic (rings) 338: \( "rad-nil" \) <=== \( "commutative" \) AND \(
+    "semiprimitive" \).'
+  reason_right: 'Logic (rings) 338: \( "rad-nil" \) <=== \( "commutative" \) AND \(
+    "semiprimitive" \).'
+  ring: RING_000168
 PROP_000129:
   citation_left: []
   citation_right: []
@@ -1096,6 +1328,16 @@ PROP_000130:
     \).'
   reason_right: 'Logic (rings) 285: \(NOT "Krull domain" \) <=== \(NOT "normal domain"
     \).'
+  ring: RING_000168
+PROP_000131:
+  citation_left: []
+  citation_right: []
+  crosstable_pk: 34326
+  has_on_left: true
+  has_on_right: true
+  property: PROP_000131
+  reason_left: localizations at primes are all fields and DVRs.
+  reason_right: symmetry with left side
   ring: RING_000168
 PROP_000133:
   citation_left: []
@@ -1165,6 +1407,26 @@ PROP_000140:
   reason_right: 'Logic (rings) 348: \(NOT "Nagata" \) <=== \(NOT "Noetherian" on the
     left and right\).'
   ring: RING_000168
+PROP_000141:
+  citation_left: []
+  citation_right: []
+  crosstable_pk: 34383
+  has_on_left: true
+  has_on_right: true
+  property: PROP_000141
+  reason_left: null
+  reason_right: symmetry with left side
+  ring: RING_000168
+PROP_000142:
+  citation_left: []
+  citation_right: []
+  crosstable_pk: 34382
+  has_on_left: true
+  has_on_right: true
+  property: PROP_000142
+  reason_left: null
+  reason_right: symmetry with left side
+  ring: RING_000168
 PROP_000143:
   citation_left: []
   citation_right: []
@@ -1195,6 +1457,16 @@ PROP_000145:
   reason_left: 'Logic (rings) 372: \(NOT "Goldman domain" \) <=== \(NOT "domain" \).'
   reason_right: 'Logic (rings) 372: \(NOT "Goldman domain" \) <=== \(NOT "domain"
     \).'
+  ring: RING_000168
+PROP_000146:
+  citation_left: []
+  citation_right: []
+  crosstable_pk: 34185
+  has_on_left: false
+  has_on_right: false
+  property: PROP_000146
+  reason_left: 'Logic (rings) 377: \(NOT "potent" \) <=== \(NOT "$I_0$" \).'
+  reason_right: 'Logic (rings) 377: \(NOT "potent" \) <=== \(NOT "$I_0$" \).'
   ring: RING_000168
 PROP_000147:
   citation_left: []
@@ -1308,6 +1580,16 @@ PROP_000156:
   reason_left: 'Logic (rings) logical AND: ring_deduced("has",2,Y) <=== ring_deduced("has",1,Y).'
   reason_right: 'Logic (rings) logical AND: ring_deduced("has",3,Y) <=== ring_deduced("has",1,Y).'
   ring: RING_000168
+PROP_000157:
+  citation_left: []
+  citation_right: []
+  crosstable_pk: 34196
+  has_on_left: true
+  has_on_right: true
+  property: PROP_000157
+  reason_left: Coordinate-wise argument
+  reason_right: symmetry with left side
+  ring: RING_000168
 PROP_000158:
   citation_left: []
   citation_right: []
@@ -1317,6 +1599,18 @@ PROP_000158:
   property: PROP_000158
   reason_left: 'Logic (rings) 473: \( "IC ring" \) <=== \( "Abelian" \).'
   reason_right: 'Logic (rings) 473: \( "IC ring" \) <=== \( "Abelian" \).'
+  ring: RING_000168
+PROP_000159:
+  citation_left: []
+  citation_right: []
+  crosstable_pk: 34191
+  has_on_left: true
+  has_on_right: true
+  property: PROP_000159
+  reason_left: 'Logic (rings) 492: \( "arithmetical" \) <=== \( "commutative" \) AND
+    \( "distributive" on the left or right\).'
+  reason_right: 'Logic (rings) 492: \( "arithmetical" \) <=== \( "commutative" \)
+    AND \( "distributive" on the left or right\).'
   ring: RING_000168
 PROP_000160:
   citation_left: []

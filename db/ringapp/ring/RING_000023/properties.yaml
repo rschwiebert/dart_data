@@ -1628,6 +1628,17 @@ PROP_000154:
   reason_right: 'Logic (rings) 425: \(NOT "uniserial domain" on the right\) <=== \(NOT
     "uniserial ring" on the right\).'
   ring: RING_000023
+PROP_000155:
+  citation_left:
+  - CITE_000701
+  citation_right: []
+  crosstable_pk: 34175
+  has_on_left: true
+  has_on_right: true
+  property: PROP_000155
+  reason_left: In citation, all rings <16 elements are Armendariz
+  reason_right: symmetry with left side
+  ring: RING_000023
 PROP_000156:
   citation_left: []
   citation_right: []

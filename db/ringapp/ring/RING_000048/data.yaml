@@ -1,5 +1,6 @@
 citation: []
-description: ring of rational polynomials over the finite field of $p$ elements
+description: ring of rational polynomials over the finite field of $p$ elements, $p$
+  prime and $p>2$.
 is_commutative: true
 keywords:
 - KWD_000001

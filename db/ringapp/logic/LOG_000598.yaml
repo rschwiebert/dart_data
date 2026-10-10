@@ -1,0 +1,8 @@
+active: true
+citation: []
+concs: ring_deduced("has",0,141)
+hyps: ring_deduced("has",0,1) AND ring_deduced("has",0,24) AND ring_deduced("has",0,45)
+readable: ring is commutative AND ring is semilocal AND ring is strongly $\pi$-regular
+  ===> ring is J-1
+symmetric: true
+variety: 0

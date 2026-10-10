@@ -1290,6 +1290,60 @@ PROP_000131:
   reason_left: catenary is preserved by quotients
   reason_right: symmetry with left side
   ring: RING_000090
+PROP_000132:
+  citation_left: []
+  citation_right: []
+  crosstable_pk: 34305
+  has_on_left: true
+  has_on_right: true
+  property: PROP_000132
+  reason_left: 'Logic (rings) 357: \( "universally catenary" \) <=== \( "excellent"
+    \).'
+  reason_right: 'Logic (rings) 357: \( "universally catenary" \) <=== \( "excellent"
+    \).'
+  ring: RING_000090
+PROP_000133:
+  citation_left: []
+  citation_right: []
+  crosstable_pk: 34306
+  has_on_left: true
+  has_on_right: true
+  property: PROP_000133
+  reason_left: 'Logic (rings) 356: \( "Grothendieck" \) <=== \( "quasi-excellent"
+    \).'
+  reason_right: 'Logic (rings) 356: \( "Grothendieck" \) <=== \( "quasi-excellent"
+    \).'
+  ring: RING_000090
+PROP_000134:
+  citation_left: []
+  citation_right: []
+  crosstable_pk: 34307
+  has_on_left: true
+  has_on_right: true
+  property: PROP_000134
+  reason_left: 'Logic (rings) 356: \( "J-2" \) <=== \( "quasi-excellent" \).'
+  reason_right: 'Logic (rings) 356: \( "J-2" \) <=== \( "quasi-excellent" \).'
+  ring: RING_000090
+PROP_000135:
+  citation_left: []
+  citation_right: []
+  crosstable_pk: 34308
+  has_on_left: true
+  has_on_right: true
+  property: PROP_000135
+  reason_left: 'Logic (rings) 357: \( "quasi-excellent" \) <=== \( "excellent" \).'
+  reason_right: 'Logic (rings) 357: \( "quasi-excellent" \) <=== \( "excellent" \).'
+  ring: RING_000090
+PROP_000136:
+  citation_left: []
+  citation_right: []
+  crosstable_pk: 34304
+  has_on_left: true
+  has_on_right: true
+  property: PROP_000136
+  reason_left: Finitely generated algebra over $\mathbb Q$
+  reason_right: symmetry with left side
+  ring: RING_000090
 PROP_000137:
   citation_left: []
   citation_right: []
@@ -1329,6 +1383,26 @@ PROP_000140:
   property: PROP_000140
   reason_left: 'Logic 348: Nagata <==> Noetherian on the left and right and universally
     Japanese'
+  reason_right: symmetry with left side
+  ring: RING_000090
+PROP_000141:
+  citation_left: []
+  citation_right: []
+  crosstable_pk: 34309
+  has_on_left: true
+  has_on_right: true
+  property: PROP_000141
+  reason_left: 'Logic (rings) 354: \( "J-1" \) <=== \( "J-2" \).'
+  reason_right: 'Logic (rings) 354: \( "J-1" \) <=== \( "J-2" \).'
+  ring: RING_000090
+PROP_000142:
+  citation_left: []
+  citation_right: []
+  crosstable_pk: 34310
+  has_on_left: true
+  has_on_right: true
+  property: PROP_000142
+  reason_left: It is J-1, and it is regular at the maximal ideal $(X,Y-1)$
   reason_right: symmetry with left side
   ring: RING_000090
 PROP_000143:
@@ -1660,4 +1734,14 @@ PROP_000177:
     "essential socle" on the left\).'
   reason_right: 'Logic (rings) commutativity: ring_deduced("lacks",3,Y) <=== \( "commutative"
     \) AND ring_deduced("lacks",2,Y).'
+  ring: RING_000090
+PROP_000178:
+  citation_left: []
+  citation_right: []
+  crosstable_pk: 34201
+  has_on_left: false
+  has_on_right: false
+  property: PROP_000178
+  reason_left: $xR\cap yR=\{0\}$.
+  reason_right: symmetry with left side
   ring: RING_000090

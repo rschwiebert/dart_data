@@ -950,6 +950,16 @@ PROP_000087:
   reason_right: 'Logic (rings) 60: \( "coherent" on the right\) <=== \( "semihereditary"
     on the right\).'
   ring: RING_000165
+PROP_000088:
+  citation_left: []
+  citation_right: []
+  crosstable_pk: 34355
+  has_on_left: true
+  has_on_right: true
+  property: PROP_000088
+  reason_left: null
+  reason_right: null
+  ring: RING_000165
 PROP_000089:
   citation_left: []
   citation_right: []
@@ -1706,4 +1716,14 @@ PROP_000177:
     "essential socle" on the left\).'
   reason_right: 'Logic (rings) 552: \(NOT "semi-Artinian" on the right\) <=== \(NOT
     "essential socle" on the right\).'
+  ring: RING_000165
+PROP_000178:
+  citation_left: []
+  citation_right: []
+  crosstable_pk: 34331
+  has_on_left: false
+  has_on_right: false
+  property: PROP_000178
+  reason_left: null
+  reason_right: symmetry with left side
   ring: RING_000165

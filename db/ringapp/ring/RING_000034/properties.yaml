@@ -271,6 +271,16 @@ PROP_000026:
   reason_left: 'Logic 152: nil radical ===> lift/rad'
   reason_right: symmetry with left side
   ring: RING_000034
+PROP_000027:
+  citation_left: []
+  citation_right: []
+  crosstable_pk: 34203
+  has_on_left: false
+  has_on_right: false
+  property: PROP_000027
+  reason_left: Use $a=\frac{1+\sqrt{-19}}{2}$, $x=\frac{1-\sqrt{-19}}{2}$, $b=-4$.
+  reason_right: symmetry with left side
+  ring: RING_000034
 PROP_000028:
   citation_left: []
   citation_right: []

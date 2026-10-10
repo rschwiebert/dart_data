@@ -51,3 +51,10 @@ SUBSET_000008:
   ring: RING_000116
   subset: $\{0\}$
   subset_type: SUBSET_000008
+SUBSET_000009:
+  citation: []
+  crosstable_pk: 1042
+  reason: null
+  ring: RING_000116
+  subset: $(z)\cup (x,y)$
+  subset_type: SUBSET_000009

@@ -28,3 +28,17 @@ SUBSET_000006:
   ring: RING_000095
   subset: $\{0\}$
   subset_type: SUBSET_000006
+SUBSET_000007:
+  citation: []
+  crosstable_pk: 1046
+  reason: null
+  ring: RING_000095
+  subset: $\oplus Q$
+  subset_type: SUBSET_000007
+SUBSET_000008:
+  citation: []
+  crosstable_pk: 1045
+  reason: null
+  ring: RING_000095
+  subset: $\oplus Q$
+  subset_type: SUBSET_000008

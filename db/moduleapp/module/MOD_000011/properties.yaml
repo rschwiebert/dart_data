@@ -202,6 +202,13 @@ MODPROP_000028:
   property: MODPROP_000028
   reason: 'Logic (modules) 23: module("has" ''finite composition length'') <=== module("has"
     ''simple'').'
+MODPROP_000029:
+  citation: []
+  crosstable_pk: 1357
+  has: true
+  module: MOD_000011
+  property: MODPROP_000029
+  reason: $M^2=\{0\}$.
 MODPROP_000030:
   citation: []
   crosstable_pk: 397

@@ -1281,6 +1281,26 @@ PROP_000137:
   reason_left: 'Logic 410: normal domain ===> N-1'
   reason_right: 'Logic 410: normal domain ===> N-1'
   ring: RING_000100
+PROP_000141:
+  citation_left: []
+  citation_right: []
+  crosstable_pk: 34270
+  has_on_left: true
+  has_on_right: true
+  property: PROP_000141
+  reason_left: 'Logic (rings) 596: \( "J-1" \) <=== \( "regular" \).'
+  reason_right: 'Logic (rings) 596: \( "J-1" \) <=== \( "regular" \).'
+  ring: RING_000100
+PROP_000142:
+  citation_left: []
+  citation_right: []
+  crosstable_pk: 34271
+  has_on_left: true
+  has_on_right: true
+  property: PROP_000142
+  reason_left: 'Logic (rings) 597: \( "J-0" \) <=== \( "regular" \).'
+  reason_right: 'Logic (rings) 597: \( "J-0" \) <=== \( "regular" \).'
+  ring: RING_000100
 PROP_000143:
   citation_left: []
   citation_right: []

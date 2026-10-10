@@ -833,6 +833,16 @@ PROP_000082:
   reason_right: 'Logic 390: perfect on the right <==> max ring on the right and orthogonally
     finite and $\pi$-regular'
   ring: RING_000116
+PROP_000083:
+  citation_left: []
+  citation_right: []
+  crosstable_pk: 34200
+  has_on_left: false
+  has_on_right: false
+  property: PROP_000083
+  reason_left: $(1+x)$ is a regular nonunit
+  reason_right: symmetry with left side
+  ring: RING_000116
 PROP_000084:
   citation_left: []
   citation_right: []
@@ -1492,6 +1502,16 @@ PROP_000156:
   has_on_right: true
   property: PROP_000156
   reason_left: 'Logic 418: reversible ===> McCoy on the left and right'
+  reason_right: symmetry with left side
+  ring: RING_000116
+PROP_000157:
+  citation_left: []
+  citation_right: []
+  crosstable_pk: 34199
+  has_on_left: true
+  has_on_right: true
+  property: PROP_000157
+  reason_left: null
   reason_right: symmetry with left side
   ring: RING_000116
 PROP_000158:

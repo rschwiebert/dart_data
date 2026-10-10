@@ -269,6 +269,16 @@ PROP_000026:
   reason_left: 'Logic 152: nil radical ===> lift/rad'
   reason_right: 'Logic 152: nil radical ===> lift/rad'
   ring: RING_000098
+PROP_000027:
+  citation_left: []
+  citation_right: []
+  crosstable_pk: 34226
+  has_on_left: false
+  has_on_right: false
+  property: PROP_000027
+  reason_left: $a=x_1$, $x=x_1$, $b=(1-x_1^2)$
+  reason_right: symmetry with left side
+  ring: RING_000098
 PROP_000028:
   citation_left: []
   citation_right: []
@@ -1395,6 +1405,26 @@ PROP_000140:
     Japanese'
   reason_right: 'Logic 348: Nagata <==> Noetherian on the left and right and universally
     Japanese'
+  ring: RING_000098
+PROP_000141:
+  citation_left: []
+  citation_right: []
+  crosstable_pk: 34268
+  has_on_left: true
+  has_on_right: true
+  property: PROP_000141
+  reason_left: 'Logic (rings) 596: \( "J-1" \) <=== \( "regular" \).'
+  reason_right: 'Logic (rings) 596: \( "J-1" \) <=== \( "regular" \).'
+  ring: RING_000098
+PROP_000142:
+  citation_left: []
+  citation_right: []
+  crosstable_pk: 34269
+  has_on_left: true
+  has_on_right: true
+  property: PROP_000142
+  reason_left: 'Logic (rings) 597: \( "J-0" \) <=== \( "regular" \).'
+  reason_right: 'Logic (rings) 597: \( "J-0" \) <=== \( "regular" \).'
   ring: RING_000098
 PROP_000143:
   citation_left: []

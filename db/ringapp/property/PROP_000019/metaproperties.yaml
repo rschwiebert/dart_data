@@ -61,3 +61,12 @@ METAPROP_000012:
   metaproperty: METAPROP_000012
   property: PROP_000019
   relation: 167
+METAPROP_000014:
+  citation: []
+  commutative_only: false
+  crosstable_pk: 1032
+  example: null
+  has_metaproperty: false
+  metaproperty: METAPROP_000014
+  property: PROP_000019
+  relation: 166

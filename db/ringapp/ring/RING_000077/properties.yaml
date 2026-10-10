@@ -268,6 +268,16 @@ PROP_000026:
   reason_left: 'Logic 152: nil radical ===> lift/rad'
   reason_right: 'Logic 152: nil radical ===> lift/rad'
   ring: RING_000077
+PROP_000027:
+  citation_left: []
+  citation_right: []
+  crosstable_pk: 34204
+  has_on_left: false
+  has_on_right: false
+  property: PROP_000027
+  reason_left: Use $a=\sqrt{-5}$, $x=-\sqrt{-5}$ $b=-4$
+  reason_right: symmetry with left side
+  ring: RING_000077
 PROP_000028:
   citation_left: []
   citation_right: []

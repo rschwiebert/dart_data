@@ -1519,6 +1519,26 @@ PROP_000140:
   reason_right: 'Logic (rings) 348: \(NOT "Nagata" \) <=== \(NOT "universally Japanese"
     \).'
   ring: RING_000137
+PROP_000141:
+  citation_left: []
+  citation_right: []
+  crosstable_pk: 34275
+  has_on_left: true
+  has_on_right: true
+  property: PROP_000141
+  reason_left: 'Logic (rings) 596: \( "J-1" \) <=== \( "regular" \).'
+  reason_right: 'Logic (rings) 596: \( "J-1" \) <=== \( "regular" \).'
+  ring: RING_000137
+PROP_000142:
+  citation_left: []
+  citation_right: []
+  crosstable_pk: 34276
+  has_on_left: true
+  has_on_right: true
+  property: PROP_000142
+  reason_left: 'Logic (rings) 597: \( "J-0" \) <=== \( "regular" \).'
+  reason_right: 'Logic (rings) 597: \( "J-0" \) <=== \( "regular" \).'
+  ring: RING_000137
 PROP_000143:
   citation_left: []
   citation_right: []

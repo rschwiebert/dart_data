@@ -1,0 +1,9 @@
+citation: []
+description: Field of rational polynomials over the field of two elements
+is_commutative: true
+keywords: []
+krull_dim: (unknown)
+name: $F_2(x)$
+notes: Unlike the case for other prime characteristics, this one is a Pythagorean
+  field
+optional_template: ''

@@ -1549,6 +1549,17 @@ PROP_000141:
   reason_left: 'Logic (rings) 354: \( "J-1" \) <=== \( "J-2" \).'
   reason_right: 'Logic (rings) 354: \( "J-1" \) <=== \( "J-2" \).'
   ring: RING_000164
+PROP_000142:
+  citation_left: []
+  citation_right: []
+  crosstable_pk: 34311
+  has_on_left: false
+  has_on_right: false
+  property: PROP_000142
+  reason_left: It has a single prime ideal $(X,2)$, and $X$ is a zero divisor in the
+    localization, so it's not regular local
+  reason_right: symmetry with left side
+  ring: RING_000164
 PROP_000143:
   citation_left: []
   citation_right: []

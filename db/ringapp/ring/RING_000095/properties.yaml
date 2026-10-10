@@ -682,6 +682,16 @@ PROP_000066:
   reason_right: 'Logic 49: principal ideal ring on the right <==> Bezout on the right
     and Noetherian on the right'
   ring: RING_000095
+PROP_000067:
+  citation_left: []
+  citation_right: []
+  crosstable_pk: 34339
+  has_on_left: true
+  has_on_right: true
+  property: PROP_000067
+  reason_left: null
+  reason_right: symmetry with left side
+  ring: RING_000095
 PROP_000068:
   citation_left: []
   citation_right: []
@@ -702,6 +712,18 @@ PROP_000069:
   reason_left: symmetry with right side
   reason_right: 'Logic 273: Ore domain on the right <==> domain and finite uniform
     dimension on the right'
+  ring: RING_000095
+PROP_000071:
+  citation_left: []
+  citation_right: []
+  crosstable_pk: 34384
+  has_on_left: true
+  has_on_right: true
+  property: PROP_000071
+  reason_left: 'Logic (rings) 591: \( "semihereditary" on the left\) <=== \( "Rickart"
+    on the left\) AND \( "Bezout" on the left\).'
+  reason_right: 'Logic (rings) 591: \( "semihereditary" on the right\) <=== \( "Rickart"
+    on the right\) AND \( "Bezout" on the right\).'
   ring: RING_000095
 PROP_000072:
   citation_left: []
@@ -812,6 +834,16 @@ PROP_000082:
   reason_right: 'Logic 105: perfect on the right <==> semilocal and T-nilpotent radical
     on the right'
   ring: RING_000095
+PROP_000083:
+  citation_left: []
+  citation_right: []
+  crosstable_pk: 34219
+  has_on_left: false
+  has_on_right: false
+  property: PROP_000083
+  reason_left: $2$ is regular but not a unit
+  reason_right: symmetry with left side
+  ring: RING_000095
 PROP_000084:
   citation_left: []
   citation_right: []
@@ -843,6 +875,18 @@ PROP_000086:
   reason_left: symmetry with right side
   reason_right: 'Logic 253: finite uniform dimension on the right and nonsingular
     on the right and semiprime <==> Goldie on the right and semiprime'
+  ring: RING_000095
+PROP_000087:
+  citation_left: []
+  citation_right: []
+  crosstable_pk: 34385
+  has_on_left: true
+  has_on_right: true
+  property: PROP_000087
+  reason_left: 'Logic (rings) 60: \( "coherent" on the left\) <=== \( "semihereditary"
+    on the left\).'
+  reason_right: 'Logic (rings) 60: \( "coherent" on the right\) <=== \( "semihereditary"
+    on the right\).'
   ring: RING_000095
 PROP_000088:
   citation_left: []
@@ -920,6 +964,18 @@ PROP_000094:
   reason_left: 'Logic 2: commutative ===> Ore ring on the left and right'
   reason_right: symmetry with left side
   ring: RING_000095
+PROP_000095:
+  citation_left: []
+  citation_right: []
+  crosstable_pk: 34220
+  has_on_left: false
+  has_on_right: false
+  property: PROP_000095
+  reason_left: 'Logic (rings) 203: \(NOT "principally injective" on the left\) <===
+    \(NOT "co-Hopfian" on the left\) AND \( "Dedekind finite" \).'
+  reason_right: 'Logic (rings) 203: \(NOT "principally injective" on the right\) <===
+    \(NOT "co-Hopfian" on the right\) AND \( "Dedekind finite" \).'
+  ring: RING_000095
 PROP_000096:
   citation_left: []
   citation_right: []
@@ -939,6 +995,54 @@ PROP_000097:
   property: PROP_000097
   reason_left: 'Logic 150: nilpotent radical ===> T-nilpotent radical on the left
     and right and T-nilpotent radical on the right'
+  reason_right: symmetry with left side
+  ring: RING_000095
+PROP_000098:
+  citation_left: []
+  citation_right: []
+  crosstable_pk: 34223
+  has_on_left: false
+  has_on_right: false
+  property: PROP_000098
+  reason_left: 'Logic (rings) 270: \(NOT "simple socle" on the left\) <=== \(NOT "uniform"
+    on the left\) AND \( "essential socle" on the left\).'
+  reason_right: 'Logic (rings) 270: \(NOT "simple socle" on the right\) <=== \(NOT
+    "uniform" on the right\) AND \( "essential socle" on the right\).'
+  ring: RING_000095
+PROP_000099:
+  citation_left: []
+  citation_right: []
+  crosstable_pk: 34224
+  has_on_left: false
+  has_on_right: false
+  property: PROP_000099
+  reason_left: 'Logic (rings) 212: \(NOT "finitely generated socle" on the left\)
+    <=== \(NOT "finitely cogenerated" on the left\) AND \( "essential socle" on the
+    left\).'
+  reason_right: 'Logic (rings) 212: \(NOT "finitely generated socle" on the right\)
+    <=== \(NOT "finitely cogenerated" on the right\) AND \( "essential socle" on the
+    right\).'
+  ring: RING_000095
+PROP_000100:
+  citation_left: []
+  citation_right: []
+  crosstable_pk: 34225
+  has_on_left: true
+  has_on_right: true
+  property: PROP_000100
+  reason_left: 'Logic (rings) 156: \( "nonzero socle" on the left\) <=== \( "essential
+    socle" on the left\).'
+  reason_right: 'Logic (rings) 156: \( "nonzero socle" on the right\) <=== \( "essential
+    socle" on the right\).'
+  ring: RING_000095
+PROP_000101:
+  citation_left: []
+  citation_right: []
+  crosstable_pk: 34222
+  has_on_left: true
+  has_on_right: true
+  property: PROP_000101
+  reason_left: $\oplus Q$ is essential (just like R_96)
   reason_right: symmetry with left side
   ring: RING_000095
 PROP_000102:
@@ -964,6 +1068,18 @@ PROP_000103:
   reason_right: 'Logic 213: semisimple <==> finitely cogenerated on the right and
     semiprime'
   ring: RING_000095
+PROP_000104:
+  citation_left: []
+  citation_right: []
+  crosstable_pk: 34314
+  has_on_left: true
+  has_on_right: true
+  property: PROP_000104
+  reason_left: 'Logic (rings) logical OR: ring_deduced("has",2,Y) <=== \( "commutative"
+    \) AND ring_deduced("has",4,Y).'
+  reason_right: 'Logic (rings) logical OR: ring_deduced("has",3,Y) <=== \( "commutative"
+    \) AND ring_deduced("has",4,Y).'
+  ring: RING_000095
 PROP_000105:
   citation_left: []
   citation_right: []
@@ -973,6 +1089,18 @@ PROP_000105:
   property: PROP_000105
   reason_left: 'Logic 164: uniform on the left or right ===> strongly connected'
   reason_right: symmetry with left side
+  ring: RING_000095
+PROP_000108:
+  citation_left: []
+  citation_right: []
+  crosstable_pk: 34221
+  has_on_left: false
+  has_on_right: false
+  property: PROP_000108
+  reason_left: 'Logic (rings) 160: \(NOT "FI-injective" on the left\) <=== \(NOT "principally
+    injective" on the left\).'
+  reason_right: 'Logic (rings) 160: \(NOT "FI-injective" on the right\) <=== \(NOT
+    "principally injective" on the right\).'
   ring: RING_000095
 PROP_000111:
   citation_left: []
@@ -1051,6 +1179,16 @@ PROP_000117:
   property: PROP_000117
   reason_left: 'Logic 352: Cohen-Macaulay ===> Noetherian on the left and right and
     universally catenary'
+  reason_right: symmetry with left side
+  ring: RING_000095
+PROP_000118:
+  citation_left: []
+  citation_right: []
+  crosstable_pk: 34315
+  has_on_left: true
+  has_on_right: true
+  property: PROP_000118
+  reason_left: Localizations are fields and a DVR.
   reason_right: symmetry with left side
   ring: RING_000095
 PROP_000119:
@@ -1163,6 +1301,16 @@ PROP_000130:
   reason_left: 'Logic 286: Krull domain ===> Mori domain'
   reason_right: 'Logic 286: Krull domain ===> Mori domain'
   ring: RING_000095
+PROP_000131:
+  citation_left: []
+  citation_right: []
+  crosstable_pk: 34323
+  has_on_left: true
+  has_on_right: true
+  property: PROP_000131
+  reason_left: All localizations are catenary
+  reason_right: symmetry with left side
+  ring: RING_000095
 PROP_000133:
   citation_left: []
   citation_right: []
@@ -1224,6 +1372,26 @@ PROP_000140:
     Japanese'
   reason_right: 'Logic 348: Nagata <==> Noetherian on the left and right and universally
     Japanese'
+  ring: RING_000095
+PROP_000141:
+  citation_left: []
+  citation_right: []
+  crosstable_pk: 34379
+  has_on_left: true
+  has_on_right: true
+  property: PROP_000141
+  reason_left: null
+  reason_right: symmetry with left side
+  ring: RING_000095
+PROP_000142:
+  citation_left: []
+  citation_right: []
+  crosstable_pk: 34378
+  has_on_left: true
+  has_on_right: true
+  property: PROP_000142
+  reason_left: null
+  reason_right: symmetry with left side
   ring: RING_000095
 PROP_000143:
   citation_left: []
@@ -1378,6 +1546,16 @@ PROP_000158:
   property: PROP_000158
   reason_left: 'Logic 471: unique generator property on the left ===> IC (internal
     cancellation)'
+  reason_right: symmetry with left side
+  ring: RING_000095
+PROP_000159:
+  citation_left: []
+  citation_right: []
+  crosstable_pk: 34313
+  has_on_left: true
+  has_on_right: true
+  property: PROP_000159
+  reason_left: Localizations are same as those of $S$ and $\mathbb Q$
   reason_right: symmetry with left side
   ring: RING_000095
 PROP_000160:
