@@ -1339,6 +1339,17 @@ PROP_000148:
   reason_left: null
   reason_right: 'Logic 387: V ring on the right ===> max ring on the right'
   ring: RING_000109
+PROP_000149:
+  citation_left: []
+  citation_right: []
+  crosstable_pk: 34408
+  has_on_left: true
+  has_on_right: true
+  property: PROP_000149
+  reason_left: 'ringspeclogic.dl: ring=109 has property=149 on the left as a special
+    case of 45'
+  reason_right: symmetry with left side
+  ring: RING_000109
 PROP_000150:
   citation_left: []
   citation_right: []

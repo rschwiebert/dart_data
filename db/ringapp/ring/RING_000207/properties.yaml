@@ -1838,6 +1838,17 @@ PROP_000165:
   reason_right: 'Logic (rings) 505: \(NOT "almost maximal valuation ring" \) <===
     \(NOT "FGC" \).'
   ring: RING_000207
+PROP_000166:
+  citation_left: []
+  citation_right: []
+  crosstable_pk: 34409
+  has_on_left: false
+  has_on_right: false
+  property: PROP_000166
+  reason_left: 'ringspeclogic.dl: ring=207 lacks property=166 on the left as a special
+    case of 98'
+  reason_right: symmetry with left side
+  ring: RING_000207
 PROP_000167:
   citation_left: []
   citation_right: []
@@ -1859,6 +1870,17 @@ PROP_000168:
     and right\).'
   reason_right: 'Logic (rings) 516: \(NOT "FGC" \) <=== \(NOT "Bezout" on the left
     and right\).'
+  ring: RING_000207
+PROP_000169:
+  citation_left: []
+  citation_right: []
+  crosstable_pk: 34410
+  has_on_left: false
+  has_on_right: false
+  property: PROP_000169
+  reason_left: 'ringspeclogic.dl: ring=207 lacks property=169 on the left as a special
+    case of 98'
+  reason_right: symmetry with left side
   ring: RING_000207
 PROP_000170:
   citation_left: []

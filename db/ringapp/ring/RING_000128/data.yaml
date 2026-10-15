@@ -1,13 +1,13 @@
 citation:
 - CITE_000461
-description: For a sequence of non-negative integers $\{n_i\}$ such that $n_0 = 0$
-  and $n_r \ge 2 n_{r-1} + 2$, take a transcendental element $z_0 \in \Bbb Z_2$ of
-  form $z_0 = \sum\limits_{r = 0}^\infty  2^{n_r}$. Set $z_{r + 1} = (z_r - 1) / (2^{n_{r+1}
-  - \sum_{i=0}^r n_r})$. The ring is $\Bbb Z[2 (z_0 - 1), \{(z_i - 1)^2 | i = 0, 1,
-  \ldots\}] \subset \Bbb Z_2$.
+description: Let $A=$<a href="/rings/ring/69"> $R_{69}$</a>, and $k=A/(2)$, and $\widehat{A}$
+  be the $(2)$-adic completion of $A$.  The ring in question is a localization of
+  a ring between $A$ and $\widehat{A}$. (See link for details, $C_M$ in the article.)
 is_commutative: true
 keywords:
-- KWD_000012
+- KWD_000032
+- KWD_000005
+- KWD_000007
 krull_dim: (unknown)
 name: Akizuki's counterexample
 notes: Details in https://arxiv.org/pdf/alg-geom/9503017.pdf

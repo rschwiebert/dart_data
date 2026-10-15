@@ -64,6 +64,17 @@ PROP_000006:
   reason_left: null
   reason_right: symmetry with left side
   ring: RING_000217
+PROP_000007:
+  citation_left: []
+  citation_right: []
+  crosstable_pk: 34411
+  has_on_left: true
+  has_on_right: true
+  property: PROP_000007
+  reason_left: 'ringspeclogic.dl: ring=217 has property=7 on the left as a special
+    case of 16'
+  reason_right: symmetry with left side
+  ring: RING_000217
 PROP_000008:
   citation_left: []
   citation_right: []
@@ -996,6 +1007,18 @@ PROP_000091:
   reason_right: 'Logic (rings) 121: \(NOT "dual" on the right\) <=== \(NOT "Kasch"
     on the right\).'
   ring: RING_000217
+PROP_000092:
+  citation_left: []
+  citation_right: []
+  crosstable_pk: 34415
+  has_on_left: false
+  has_on_right: false
+  property: PROP_000092
+  reason_left: 'ringspeclogic.dl: ring=217 lacks property=92 on the left as a special
+    case of 16'
+  reason_right: 'ringspeclogic.dl: ring=217 lacks property=92 on the right as a special
+    case of 16'
+  ring: RING_000217
 PROP_000093:
   citation_left: []
   citation_right: []
@@ -1027,6 +1050,18 @@ PROP_000095:
   property: PROP_000095
   reason_left: null
   reason_right: null
+  ring: RING_000217
+PROP_000096:
+  citation_left: []
+  citation_right: []
+  crosstable_pk: 34412
+  has_on_left: true
+  has_on_right: true
+  property: PROP_000096
+  reason_left: 'ringspeclogic.dl: ring=217 has property=96 on the left as a special
+    case of 16'
+  reason_right: 'ringspeclogic.dl: ring=217 has property=96 on the right as a special
+    case of 16'
   ring: RING_000217
 PROP_000097:
   citation_left: []
@@ -1164,6 +1199,30 @@ PROP_000108:
     injective" on the left\).'
   reason_right: 'Logic (rings) 160: \(NOT "FI-injective" on the right\) <=== \(NOT
     "principally injective" on the right\).'
+  ring: RING_000217
+PROP_000109:
+  citation_left: []
+  citation_right: []
+  crosstable_pk: 34416
+  has_on_left: false
+  has_on_right: false
+  property: PROP_000109
+  reason_left: 'ringspeclogic.dl: ring=217 lacks property=109 on the left as a special
+    case of 16'
+  reason_right: 'ringspeclogic.dl: ring=217 lacks property=109 on the right as a special
+    case of 16'
+  ring: RING_000217
+PROP_000110:
+  citation_left: []
+  citation_right: []
+  crosstable_pk: 34413
+  has_on_left: true
+  has_on_right: true
+  property: PROP_000110
+  reason_left: 'ringspeclogic.dl: ring=217 has property=110 on the left as a special
+    case of 16'
+  reason_right: 'ringspeclogic.dl: ring=217 has property=110 on the right as a special
+    case of 16'
   ring: RING_000217
 PROP_000111:
   citation_left: []
@@ -1358,6 +1417,17 @@ PROP_000143:
     \) AND \( "Noetherian" on the left or right\).'
   reason_right: 'Logic (rings) 536: \(NOT "complete local" \) <=== \(NOT "maximal
     ring" \) AND \( "Noetherian" on the left or right\).'
+  ring: RING_000217
+PROP_000144:
+  citation_left: []
+  citation_right: []
+  crosstable_pk: 34414
+  has_on_left: true
+  has_on_right: true
+  property: PROP_000144
+  reason_left: 'ringspeclogic.dl: ring=217 has property=144 on the left as a special
+    case of 16'
+  reason_right: symmetry with left side
   ring: RING_000217
 PROP_000145:
   citation_left: []
