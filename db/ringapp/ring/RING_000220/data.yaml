@@ -1,0 +1,12 @@
+citation:
+- CITE_000706
+- CITE_000704
+- CITE_000705
+description: $R=\prod_{i=1}^\infty \mathbb Z$, where addition is done pointwise, but
+  the product $ab$ is done via the rule $(ab)_n :=  \sum \{\gcd(i,j)a_ib_j \mid \mathrm{lcm}(i,j)=n\}$
+is_commutative: true
+keywords: []
+krull_dim: (unknown)
+name: Necklace ring of $\mathbb Z$
+notes: null
+optional_template: ''
