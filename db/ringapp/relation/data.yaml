@@ -1084,3 +1084,20 @@ RINGRELATION_000220:
     \ & b & 0 & 0 \\\\ 0 & d & 0 & 0 \\\\  0 & 0 & d & 0 \\\\  0 & 0 & 0 & a \\end{bmatrix}$"
   relation_type: SUBRING_OF
   second: RING_000170
+RINGRELATION_000221:
+  first: RING_000001
+  note: The "ghost map," composed with a projection on any single coordinate, gives
+    a map onto $\mathbb Z$.
+  relation_type: IMAGE_OF
+  second: RING_000220
+RINGRELATION_000222:
+  first: RING_000001
+  note: Just the elements $(\mathbb Z,0,0,0\ldots)$
+  relation_type: SUBRING_OF
+  second: RING_000220
+RINGRELATION_000223:
+  first: RING_000220
+  note: The ghost map injects this ring into $\prod \mathbb Z$, which obviously injects
+    into $\prod \mathbb Q$.
+  relation_type: SUBRING_OF
+  second: RING_000177
