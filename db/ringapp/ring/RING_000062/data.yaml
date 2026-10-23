@@ -1,6 +1,6 @@
 citation: []
-description: Let $V$ be an infinite dimensional $\mathbb Q$-vector space, and consider
-  the trivial extension $T(\mathbb Q,V)$.
+description: Let $V$ be a $\mathbb Q$-vector space of countably infinite dimension,
+  and consider the trivial extension $T(\mathbb Q,V)$.
 is_commutative: true
 keywords:
 - KWD_000009
