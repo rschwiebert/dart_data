@@ -492,10 +492,11 @@ PROP_000081:
   citation_left: []
   citation_right: []
   crosstable_pk: 5697
-  has_on_left: null
+  has_on_left: false
   has_on_right: true
   property: PROP_000081
-  reason_left: null
+  reason_left: 'Logic (rings) 92: \(NOT "Kasch" on the left\) <=== \(NOT "nonzero
+    socle" on the left\).'
   reason_right: 'Logic 121: dual on the right ===> Kasch on the right'
   ring: RING_000056
 PROP_000082:
@@ -631,6 +632,17 @@ PROP_000095:
   reason_right: 'Logic 264: Noetherian on the right and principally injective on the
     right ===> Artinian on the left and right'
   ring: RING_000056
+PROP_000098:
+  citation_left: []
+  citation_right: []
+  crosstable_pk: 34580
+  has_on_left: false
+  has_on_right: null
+  property: PROP_000098
+  reason_left: 'Logic (rings) 154: \(NOT "simple socle" on the left\) <=== \(NOT "nonzero
+    socle" on the left\).'
+  reason_right: null
+  ring: RING_000056
 PROP_000099:
   citation_left: []
   citation_right: []
@@ -646,21 +658,21 @@ PROP_000100:
   citation_left: []
   citation_right: []
   crosstable_pk: 5710
-  has_on_left: true
+  has_on_left: false
   has_on_right: true
   property: PROP_000100
-  reason_left: 'Logic 156: essential socle on the right ===> nonzero socle on the
-    right'
+  reason_left: https://github.com/rschwiebert/dart_data/issues/176
   reason_right: 'Logic 92: Kasch on the right ===> nonzero socle on the right'
   ring: RING_000056
 PROP_000101:
   citation_left: []
   citation_right: []
   crosstable_pk: 16401
-  has_on_left: null
+  has_on_left: false
   has_on_right: true
   property: PROP_000101
-  reason_left: null
+  reason_left: 'Logic (rings) 156: \(NOT "essential socle" on the left\) <=== \(NOT
+    "nonzero socle" on the left\).'
   reason_right: 'Logic (rings) 595: \( "essential socle" on the right\) <=== \( "Noetherian"
     on the right\) AND \( "dual" on the right\).'
   ring: RING_000056
@@ -679,12 +691,24 @@ PROP_000103:
   citation_left: []
   citation_right: []
   crosstable_pk: 34129
-  has_on_left: null
+  has_on_left: false
   has_on_right: true
   property: PROP_000103
-  reason_left: null
+  reason_left: 'Logic (rings) 212: \(NOT "finitely cogenerated" on the left\) <===
+    \(NOT "essential socle" on the left\).'
   reason_right: 'Logic (rings) 212: \( "finitely cogenerated" on the right\) <===
     \( "essential socle" on the right\) AND \( "finitely generated socle" on the right\).'
+  ring: RING_000056
+PROP_000107:
+  citation_left: []
+  citation_right: []
+  crosstable_pk: 34581
+  has_on_left: true
+  has_on_right: null
+  property: PROP_000107
+  reason_left: 'Logic (rings) 575: \( "simple-injective" on the left\) <=== \(NOT
+    "nonzero socle" on the left\).'
+  reason_right: null
   ring: RING_000056
 PROP_000108:
   citation_left: []
@@ -1176,10 +1200,11 @@ PROP_000177:
   citation_left: []
   citation_right: []
   crosstable_pk: 24428
-  has_on_left: null
+  has_on_left: false
   has_on_right: false
   property: PROP_000177
-  reason_left: null
+  reason_left: 'Logic (rings) 552: \(NOT "semi-Artinian" on the left\) <=== \(NOT
+    "essential socle" on the left\).'
   reason_right: 'Logic (rings) 559: \(NOT "semi-Artinian" on the right\) <=== \(NOT
     "Artinian" on the right\) AND \( "Noetherian" on the right\).'
   ring: RING_000056
