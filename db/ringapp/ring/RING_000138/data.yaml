@@ -2,7 +2,8 @@ citation:
 - CITE_000525
 - CITE_000524
 description: 'See Example 2.5 of Nishimura, Jun-Ichi. "A few examples of local rings,
-  I." Kyoto Journal of Mathematics 52.1 (2012): 51-87. page 64'
+  I." Kyoto Journal of Mathematics 52.1 (2012): 51-87. page 64, using the option $F
+  (Z_1, Z_2) = Z_1Z_2$'
 is_commutative: true
 keywords: []
 krull_dim: null
