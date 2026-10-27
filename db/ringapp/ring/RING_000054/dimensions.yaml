@@ -20,8 +20,8 @@ DIM_000003:
   citation: []
   crosstable_pk: 284
   dimension_type: DIM_000003
-  left_dimension: $\mathfrak c$
+  left_dimension: $\aleph_0$
   reason_left: null
   reason_right: null
-  right_dimension: $\mathfrak c$
+  right_dimension: $\aleph_0$
   ring: RING_000054

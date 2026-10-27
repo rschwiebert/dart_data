@@ -1459,10 +1459,10 @@ PROP_000149:
   citation_left: []
   citation_right: []
   crosstable_pk: 12887
-  has_on_left: false
-  has_on_right: false
+  has_on_left: true
+  has_on_right: true
   property: PROP_000149
-  reason_left: contains a copy of a power series ring
+  reason_left: null
   reason_right: symmetry with left side
   ring: RING_000054
 PROP_000151:
@@ -1602,6 +1602,30 @@ PROP_000163:
   reason_left: 'Logic (rings) 497: \( "involutive" \) <=== \( "commutative" \).'
   reason_right: symmetry with left side
   ring: RING_000054
+PROP_000164:
+  citation_left: []
+  citation_right: []
+  crosstable_pk: 34582
+  has_on_left: false
+  has_on_right: false
+  property: PROP_000164
+  reason_left: 'Logic (rings) 530: \(NOT "maximal valuation ring" \) <=== \(NOT "almost
+    maximal valuation ring" \).'
+  reason_right: 'Logic (rings) 530: \(NOT "maximal valuation ring" \) <=== \(NOT "almost
+    maximal valuation ring" \).'
+  ring: RING_000054
+PROP_000165:
+  citation_left: []
+  citation_right: []
+  crosstable_pk: 34583
+  has_on_left: false
+  has_on_right: false
+  property: PROP_000165
+  reason_left: 'Logic (rings) 505: \(NOT "almost maximal valuation ring" \) <=== \(NOT
+    "FGC" \).'
+  reason_right: 'Logic (rings) 505: \(NOT "almost maximal valuation ring" \) <===
+    \(NOT "FGC" \).'
+  ring: RING_000054
 PROP_000166:
   citation_left: []
   citation_right: []
@@ -1623,6 +1647,18 @@ PROP_000167:
   reason_left: 'Logic (rings) 518: \(NOT "torch" \) <=== \( "local" \).'
   reason_right: symmetry with left side
   ring: RING_000054
+PROP_000168:
+  citation_left: []
+  citation_right: []
+  crosstable_pk: 34584
+  has_on_left: false
+  has_on_right: false
+  property: PROP_000168
+  reason_left: 'Logic (rings) 538: \(NOT "FGC" \) <=== \(NOT "principal ideal ring"
+    on the left and right\) AND \( "countable" \).'
+  reason_right: 'Logic (rings) 538: \(NOT "FGC" \) <=== \(NOT "principal ideal ring"
+    on the left and right\) AND \( "countable" \).'
+  ring: RING_000054
 PROP_000169:
   citation_left: []
   citation_right: []
@@ -1633,6 +1669,28 @@ PROP_000169:
   reason_left: 'Logic (rings) 501: \(NOT "almost maximal domain" \) <=== \(NOT "domain"
     \).'
   reason_right: symmetry with left side
+  ring: RING_000054
+PROP_000170:
+  citation_left: []
+  citation_right: []
+  crosstable_pk: 34587
+  has_on_left: false
+  has_on_right: false
+  property: PROP_000170
+  reason_left: 'Logic (rings) logical OR: ring_deduced("lacks",2,Y) <=== ring_deduced("lacks",4,Y).'
+  reason_right: 'Logic (rings) logical OR: ring_deduced("lacks",3,Y) <=== ring_deduced("lacks",4,Y).'
+  ring: RING_000054
+PROP_000171:
+  citation_left: []
+  citation_right: []
+  crosstable_pk: 34585
+  has_on_left: false
+  has_on_right: false
+  property: PROP_000171
+  reason_left: 'Logic (rings) 529: \(NOT "maximal ring" \) <=== \(NOT "almost maximal
+    ring" \).'
+  reason_right: 'Logic (rings) 529: \(NOT "maximal ring" \) <=== \(NOT "almost maximal
+    ring" \).'
   ring: RING_000054
 PROP_000172:
   citation_left: []
@@ -1655,6 +1713,18 @@ PROP_000173:
   reason_left: 'Logic (rings) 334: \( "valuation ring" \) <=== \( "commutative" \)
     AND \( "connected" \) AND \( "serial" on the left and right\).'
   reason_right: symmetry with left side
+  ring: RING_000054
+PROP_000174:
+  citation_left: []
+  citation_right: []
+  crosstable_pk: 34586
+  has_on_left: false
+  has_on_right: false
+  property: PROP_000174
+  reason_left: 'Logic (rings) 532: \(NOT "almost maximal ring" \) <=== \(NOT "almost
+    maximal valuation ring" \) AND \( "valuation ring" \).'
+  reason_right: 'Logic (rings) 532: \(NOT "almost maximal ring" \) <=== \(NOT "almost
+    maximal valuation ring" \) AND \( "valuation ring" \).'
   ring: RING_000054
 PROP_000175:
   citation_left: []
