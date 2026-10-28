@@ -29,7 +29,7 @@ setup(
             get_templates(),
         ),
         (
-            os.path.join(RELATIVE_PACKAGE_DIR, "static", "img"),
+            os.path.join(RELATIVE_PACKAGE_DIR, "dart_data","static", "img"),
             get_images()
         )
     ],
