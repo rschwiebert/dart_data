@@ -1,0 +1,8 @@
+corrected_location:
+- CITE_000707
+description: The conclusion "not self-injective" requires additionally that the DVR
+  is NOT $I$-adically complete.  Therefore the sentence starting "A routine computation
+  shows that..." does not hold. The linked citation is not a corrigendum for this
+  issue, but it does witness the link with completeness.
+error_location: CITE_000086
+example: null
