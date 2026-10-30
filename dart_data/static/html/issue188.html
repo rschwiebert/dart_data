@@ -1,0 +1,123 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8">
+    <title>Evidence Record: Issue 188</title>
+    <script type="text/x-mathjax-config">
+        MathJax.Hub.Config({tex2jax: {inlineMath: [['$','$']]}});
+    </script>
+    <script type="text/javascript" async
+        src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.0/MathJax.js?config=TeX-AMS_CHTML">
+    </script>
+</head>
+<body>
+
+<h1>Erratum Record: Issue #188</h1>
+
+<table border="1">
+    <thead>
+        <tr>
+            <th colspan="2">1. Context &amp; Claim</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <th>Subject / Target</th>
+            <td><a href="https://github.com/rschwiebert/dart_data/issues/188">Issue 188</a></td>
+        </tr>
+        <tr>
+            <th>Target Citation</th>
+            <td>
+                J. H. Cozzens (1972). <i>Simple principal left ideal domains</i>. Journal of Algebra, 23(1), 66–75, p. 69.<br>
+                <em>Claim:</em> "$x_0$ and $x_0^2 \notin E$", leading to failure of the ring to be simple.
+            </td>
+        </tr>
+        <tr>
+            <th>Statement Established</th>
+            <td>
+                $x_0 \in E$, which implies that $\delta$ is an inner $\rho$-derivation of $E$ and the resulting ring $R = E[t; \rho, \delta]$ is not simple.
+            </td>
+        </tr>
+    </tbody>
+
+    <thead>
+        <tr>
+            <th colspan="2">2. Provenance &amp; Verification</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <th>Human Author(s)</th>
+            <td><a href="https://github.com/vlad902">https://github.com/vlad902</a></td>
+        </tr>
+        <tr>
+            <th>LLM Assistance</th>
+            <td>
+                <strong>Model:</strong> None / Not used<br>
+            </td>
+        </tr>
+        <tr>
+            <th>Formalization</th>
+            <td>
+                <strong>Status:</strong> Not Formalized<br>
+                <strong>Toolchain:</strong> Lean 4 / Mathlib<br>
+                <strong>Repository:</strong> N/A<br>
+                <strong>Theorem:</strong>
+            </td>
+        </tr>
+    </tbody>
+</table>
+
+<h2>Proof</h2>
+
+<p>In Cozzens' paper on page 69 he states:
+<blockquote>
+    <p>Also note that $x_0$ and $x_0^2 \notin E$. (See [1].)</p>
+</blockquote>
+</p>
+
+<p>This statement is wrong, and it leads to his resulting construction not being simple. As far as I can tell, this has never been pointed out before. (Cohn's later correct construction cites Cozzens without mentioning it.) At the bottom of pg 66/top of pg 67, he states:</p>
+<blockquote>
+    <p>If $\delta$ is an inner $\rho$-derivation of $k$ determined by $x \in k$, then one easily checks that the principal left ideal of $R = k[t; \rho, \delta], R(t+x)$ is two-sided and non-trivial.</p>
+</blockquote>
+
+<p>I show below that $x_0 \in E$. Since $\delta(a) = \rho(a)x_0 - x_0a$ by definition (pg 69), $\delta$ is an inner $\rho$-derivation of $E$, so by the remark above (which holds for $k$ non-commutative by (*)) his constructed ring is not simple.</p>
+
+<p>We start with some simple computations:</p>
+$$
+\begin{align}
+x_1x_1 = t_{11} Y t_{11} Y = t_{11} \sigma(t_{11}) Y^2 &= t_{11} t_{12} Y^2 \\
+x_1x_2 = t_{11} Y t_{21} Y = t_{11} \sigma(t_{21}) Y^2 &= t_{11} t_{22} Y^2 \\
+[x_1, x_0] = x_2 x_0 - x_0 x_1 = (t_{21} \sigma(t_{01}) Y^2 - t_{01} \sigma(t_{11}) Y^2) &= (t_{21} t_{02} - t_{01} t_{12}) Y^2 \\
+[x_2, x_0] = x_3 x_0 - x_0 x_2 &= (t_{31} t_{02} - t_{01} t_{22}) Y^2
+\end{align}
+$$
+
+<p>Now we define:</p>
+$$
+\begin{align}
+a &:= x_2 x_1^{-1} = t_{21} Y (Y^{-1} t_{11}^{-1}) &= t_{21} t_{11}^{-1} \\
+b &:= x_3 x_1^{-1} &= t_{31} t_{11}^{-1} \\
+c &:= x_1 x_2 x_1^{-2} = t_{11} t_{22} Y^2 (Y^{-2} t_{12}^{-1} t_{11}^{-1}) &= t_{22} t_{12}^{-1} \\
+g_1 &:= [x_1, x_0] x_1^{-2} &= (t_{21} t_{02} - t_{01} t_{12}) / (t_{11} t_{12}) \\
+g_2 &:= [x_2, x_0] x_1^{-2} &= (t_{31} t_{02} - t_{01} t_{22}) / (t_{11} t_{12})
+\end{align}
+$$
+
+<p>By definition $x_1, x_2, x_3, [x_1, x_0], [x_2, x_0] \in E$, so then $a, b, c, g_1, g_2 \in E$ as well. Now we can compute that $(ag_2 - bg_1)(b - ac)^{-1} x_1 = x_0$. Here $b - ac$ is invertible because it is a rational function with non-zero numerator since the terms are independent indeterminates. <a href="https://sagecell.sagemath.org/?z=eJxlkMEOgyAQRO8k_MPGXsDYKHj2Q3oUUw1JKUZIo3_fHRp78UJmZt8OyrzFQOkI60E-rHHLMC6-UkOJg5efDymkyJ1pKHeWDwNloCyUheoNDeeiqhgGCxQkQHDAKo22kWmELRApHGz_t1OZ2mKtFAu6FfC6tN4J_TWGmhmFW36OWVvY_sLaKyvFuvl3VudvKjXybMGSgzBlw7FFPmmtiW7oa8sTpEjZh2eiHd_HUf2gxX84YIT1QHv3BZP2VWY=&lang=sage&interacts=eJyLjgUAARUAuQ==">Using sympy</a>, we find that $(ag_2 - bg_1)(b - ac)^{-1} = t_{01}t_{11}^{-1}$. So the left-hand side can be computed as:</p>
+
+$$t_{01}t_{11}^{-1} x_1 = t_{01}t_{11}^{-1} t_{11} Y = t_{01} Y = x_0$$
+
+<p>as desired.</p>
+
+
+<p>(*) $\delta(a) = \rho(a)x_0 - x_0 a$ forces $(t + x_0)a = ta + x_0a = \rho(a)t + \delta(a) + x_0a = \rho(a)t + \rho(a)x_0 - x_0a + x_0a = \rho(a)(t + x_0)$, so we can derive that $R(t+x_0)$ is a proper two-sided ideal. $\square$</p>
+
+<h2>Lean 4 Formalization</h2>
+<p><em>Not yet formalized.</em></p>
+<pre><code>-- Theorem signature (placeholder):
+-- content
+</code></pre>
+
+</body>
+</html>

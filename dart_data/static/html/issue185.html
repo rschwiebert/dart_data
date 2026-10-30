@@ -1,0 +1,106 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8">
+    <title>Evidence Record: Issue 185</title>
+    <script type="text/x-mathjax-config">
+        MathJax.Hub.Config({tex2jax: {inlineMath: [['$','$']]}});
+    </script>
+    <script type="text/javascript" async
+        src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.0/MathJax.js?config=TeX-AMS_CHTML">
+    </script>
+</head>
+<body>
+
+<h1>Erratum Record: Issue #185</h1>
+
+<table border="1">
+    <thead>
+        <tr>
+            <th colspan="2">1. Context &amp; Claim</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <th>Subject / Target</th>
+            <td><a href="https://github.com/rschwiebert/dart_data/issues/185">Issue 185</a></td>
+        </tr>
+        <tr>
+            <th>Target Citation</th>
+            <td>
+                Matsumura, Hideyuki (2022). <i>Commutative algebra</i>. 2nd Ed. (14.E) &amp; (34.B), p. 258.<br>
+                <em>Claim:</em> "The ring $A$ of (14.E) is a G-ring which is not u.c."
+            </td>
+        </tr>
+        <tr>
+            <th>Statement Established</th>
+            <td>
+                The claim does not hold when $k$ is perfect with positive characteristic ($\operatorname{char}(k) > 0$).
+                Under these parameters, $A$ is not a G-ring.
+            </td>
+        </tr>
+    </tbody>
+
+    <thead>
+        <tr>
+            <th colspan="2">2. Provenance &amp; Verification</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <th>Human Author(s)</th>
+            <td><a href="https://github.com/vlad902">https://github.com/vlad902</a></td>
+        </tr>
+        <tr>
+            <th>LLM Assistance</th>
+            <td>
+                <strong>Model:</strong> None / Not used<br>
+            </td>
+        </tr>
+        <tr>
+            <th>Formalization</th>
+            <td>
+                <strong>Status:</strong> Not Formalized<br>
+                <strong>Toolchain:</strong> Lean 4 / Mathlib<br>
+                <strong>Repository:</strong> N/A<br>
+                <strong>Theorem:</strong>
+            </td>
+        </tr>
+    </tbody>
+</table>
+
+<h2>Proof</h2>
+
+<p><strong>Setting (14.E).</strong> $S=k[[x]]$; $z=\sum_{i\ge1}a_ix^i\in S$ transcendental over $k(x)$; $z_j=(z-\sum_{i\le j}a_ix^i)/x^{j-1}$;
+$R=k[x,z_1,z_2,\dots]\subset S$; $\mathfrak m=(x)$, $\mathfrak n=(x-1,z_1,z_2,\dots)$; $B$ the localization of $R$ at $(R\setminus\mathfrak m)\cap(R\setminus\mathfrak n)$;
+$A=k+\text{rad} B$. Matsumura proves: $B$ is a finite $A$-module, $D:=B_{\mathfrak mB}=R_{\mathfrak m}$
+is a regular local ring of dimension 1 with maximal ideal $xD$, $R/\mathfrak m=k$, and $R\subset k(x,z)$. Put $K=k(x,z)$, $K'=k((x))$.
+$k$ is perfect of $\operatorname{char}(k) > 0$.</p>
+
+<p><strong>Step 1:</strong> Since $x,z\in R\subset K$, $\operatorname{Frac} D=K$; $D$ is a DVR with uniformizer $x$ and residue field $k$, so $K=D[1/x]$.
+For each $n$, $D/x^nD\to S/x^nS$ is surjective (as $k[x]\subset D$) between $k$-spaces of dimension $n$, hence
+bijective; so $D\subset S$ induces $\widehat D\cong S$, and $\widehat D\otimes_DK=S[1/x]=K'$.</p>
+
+<p><strong>Step 2:</strong> Let $L=K(\xi,\zeta)$ with $\xi^p=x$, $\zeta^p=z$. We show $K'\otimes_KL$ is not reduced. Since $\xi,\zeta$ are algebraically independent over $k$,
+$[L:K]=[k(\xi,\zeta):k(\xi^p,\zeta^p)]=p^2$, so $K'\otimes_KL=K'[\xi,\zeta]/(\xi^p-x,\zeta^p-z)$ is free over $K'$ with basis
+$\xi^a\zeta^b$, $0\le a,b\le p$. Sorting $z$ by exponents mod $p$ and using $a_i\in k^p$,</p>
+
+$$
+z=\sum_{j=0}^{p-1}x^j e_j^{\,p},\qquad e_j=\sum_{i\equiv j\ (p)}a_i^{1/p}\,x^{(i-j)/p}\in S\subset K'.
+$$
+
+<p>Put $w=\sum_j e_j\xi^j$. Then $w^p=\sum_j e_j^{\,p}x^j=z=\zeta^p$, so $(\zeta-w)^p=0$, while $\zeta-w\neq0$ (its coefficient on the basis
+element $\zeta$ is $1$). (Equivalently: MacLane's criterion, Ex. 27.1 / Stacks 030W(3), fails, so $K'/K$ is inseparable.)</p>
+
+<p><strong>Step 3: Conclusion.</strong> If $A$ were a G-ring, so would be the finite $A$-algebra $B$ (Th. 77, (33.G)) and its localization $D$ ((33.A)); then
+$D\to\widehat D$ is regular, so by (33.A) its fibre over $(0)$, which is $K'$ by Step 1, satisfies: $K'\otimes_KL$ is regular, in particular
+reduced, for every finite $L/K$, contradicting Step 2. $\square$</p>
+
+<h2>Lean 4 Formalization</h2>
+<p><em>Not yet formalized.</em></p>
+<pre><code>-- Theorem signature (placeholder):
+-- content
+</code></pre>
+
+</body>
+</html>

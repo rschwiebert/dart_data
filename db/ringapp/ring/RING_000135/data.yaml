@@ -1,7 +1,12 @@
 citation: []
-description: See https://stacks.math.columbia.edu/tag/02JE, or https://stacks.math.columbia.edu/download/examples.pdf#nameddest=02JE
+description: See https://stacks.math.columbia.edu/tag/02JE, or https://stacks.math.columbia.edu/download/examples.pdf#nameddest=02JE.  We
+  use $\mathbb Q$ as the field for the construction. Matsumura describes it as a subring
+  of a localization of a subring of $\mathbb Q[[X]]$.
 is_commutative: true
-keywords: []
+keywords:
+- KWD_000005
+- KWD_000012
+- KWD_000007
 krull_dim: null
 name: catenary, not universally catenary
 notes: null
