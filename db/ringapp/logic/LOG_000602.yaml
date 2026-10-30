@@ -1,0 +1,7 @@
+active: true
+citation: []
+concs: ring_deduced("has",0,23)
+hyps: ring_deduced("has",3,76)
+readable: ring is uniserial ring on the right ===> ring is local
+symmetric: false
+variety: 0

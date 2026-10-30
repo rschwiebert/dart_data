@@ -1,0 +1,7 @@
+corrected_location:
+- CITE_000709
+description: 14.E is constructed for an arbitrary field, and 34.B says it is a G-ring.
+  However, it may not be a G ring for fields of positive characteristics.  The assertion
+  is fine for a field of characteristic 0.
+error_location: CITE_000708
+example: null

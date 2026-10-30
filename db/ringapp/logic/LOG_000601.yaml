@@ -1,0 +1,9 @@
+active: true
+citation:
+- CITE_000411
+concs: ring_deduced("has",3,64) AND ring_deduced("has",3,93)
+hyps: ring_deduced("has",3,65)
+readable: ring is principal ideal domain on the right <==> ring is Noetherian on the
+  right AND ring is free ideal ring on the right
+symmetric: false
+variety: 1
