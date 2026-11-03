@@ -24,7 +24,7 @@ PROP_000002:
   ring: RING_000118
 PROP_000003:
   citation_left:
-  - CITE_000384
+  - CITE_000710
   citation_right: []
   crosstable_pk: 15426
   has_on_left: true
@@ -661,7 +661,7 @@ PROP_000063:
 PROP_000064:
   citation_left: []
   citation_right:
-  - CITE_000384
+  - CITE_000710
   crosstable_pk: 15427
   has_on_left: true
   has_on_right: false

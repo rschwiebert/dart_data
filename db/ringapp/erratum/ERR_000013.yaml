@@ -1,0 +1,7 @@
+corrected_location:
+- CITE_000711
+description: In Cozzens' paper on page 69 he states "Also note that $x_0$ and $x_0^2
+  \notin E$. This seems to be in error and results in the construction not being simple.  See
+  the corrected-in link for details.
+error_location: CITE_000384
+example: null
