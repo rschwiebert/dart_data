@@ -3,7 +3,7 @@ citation:
 description: We take a free algebra $A$ over $\mathbb Q$ in noncommuting indeterminates
   indexed by $\mathbb N\times \mathbb N$. Define $\alpha(x_{i,j})=x_{i+1,j}$ and $\delta(x_{i,j})=x_{i,j+1}$.  Let
   $D$ be the division ring of fractions of $A$.  $\alpha$ and $\delta$ extend to $D$
-  and satisfy $\alpha\delta=\delta\alpha$.  $\alpha$ is an automorphism that is not
+  and satisfy $\alpha\delta=\delta\alpha$.  $\alpha$ is an endomorphism that is not
   an automorphism, and $\delta$ is a derivation that is not inner, and the ring required
   is the opposite ring of the twisted polynomial ring $D[t;\alpha,\delta]$ (where
   the product is defined $ct:=t\alpha(c)+\delta(c)$ for all $c\in D$.
