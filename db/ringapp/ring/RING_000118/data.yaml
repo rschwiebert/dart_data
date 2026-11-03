@@ -6,7 +6,7 @@ description: We take a free algebra $A$ over $\mathbb Q$ in noncommuting indeter
   and satisfy $\alpha\delta=\delta\alpha$.  $\alpha$ is an endomorphism that is not
   an automorphism, and $\delta$ is a derivation that is not inner, and the ring required
   is the opposite ring of the twisted polynomial ring $D[t;\alpha,\delta]$ (where
-  the product is defined $ct:=t\alpha(c)+\delta(c)$ for all $c\in D$.
+  the product is defined $ct:=t\alpha(c)+\delta(c)$ for all $c\in D$.)
 is_commutative: false
 keywords:
 - KWD_000026
