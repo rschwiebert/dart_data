@@ -80,6 +80,16 @@ PROP_000008:
   reason_left: 'Logic 65: domain ===> reduced'
   reason_right: 'Logic 65: domain ===> reduced'
   ring: RING_000078
+PROP_000009:
+  citation_left: []
+  citation_right: []
+  crosstable_pk: 34822
+  has_on_left: false
+  has_on_right: false
+  property: PROP_000009
+  reason_left: 'Logic (rings) 29: \(NOT "prime" \) <=== \(NOT "semiprime" \).'
+  reason_right: 'Logic (rings) 29: \(NOT "prime" \) <=== \(NOT "semiprime" \).'
+  ring: RING_000078
 PROP_000010:
   citation_left: []
   citation_right: []
@@ -89,6 +99,18 @@ PROP_000010:
   property: PROP_000010
   reason_left: 'Logic 43: reduced ===> nonsingular on the left and right'
   reason_right: 'Logic 43: reduced ===> nonsingular on the left and right'
+  ring: RING_000078
+PROP_000011:
+  citation_left: []
+  citation_right: []
+  crosstable_pk: 34823
+  has_on_left: false
+  has_on_right: false
+  property: PROP_000011
+  reason_left: 'Logic (rings) 609: \(NOT "semiprime" \) <=== \(NOT "nonsingular" on
+    the left\) AND \( "finitely pseudo-Frobenius" on the left\).'
+  reason_right: 'Logic (rings) 609: \(NOT "semiprime" \) <=== \(NOT "nonsingular"
+    on the left\) AND \( "finitely pseudo-Frobenius" on the left\).'
   ring: RING_000078
 PROP_000012:
   citation_left: []
@@ -131,6 +153,18 @@ PROP_000015:
   property: PROP_000015
   reason_left: 'Logic 142: semi free ideal ring ===> domain'
   reason_right: 'Logic 142: semi free ideal ring ===> domain'
+  ring: RING_000078
+PROP_000016:
+  citation_left: []
+  citation_right: []
+  crosstable_pk: 34824
+  has_on_left: false
+  has_on_right: false
+  property: PROP_000016
+  reason_left: 'Logic (rings) 143: \(NOT "fully semiprime" \) <=== \(NOT "semiprime"
+    \).'
+  reason_right: 'Logic (rings) 143: \(NOT "fully semiprime" \) <=== \(NOT "semiprime"
+    \).'
   ring: RING_000078
 PROP_000017:
   citation_left: []

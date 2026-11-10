@@ -779,6 +779,18 @@ PROP_000078:
   reason_right: 'Logic (rings) 83: \(NOT "pseudo-Frobenius" on the right\) <=== \(NOT
     "finitely cogenerated" on the right\).'
   ring: RING_000174
+PROP_000079:
+  citation_left: []
+  citation_right: []
+  crosstable_pk: 34859
+  has_on_left: false
+  has_on_right: false
+  property: PROP_000079
+  reason_left: 'Logic (rings) 608: \(NOT "finitely pseudo-Frobenius" on the left\)
+    <=== \(NOT "semisimple" \) AND \( "primitive" on the left\).'
+  reason_right: 'Logic (rings) 608: \(NOT "finitely pseudo-Frobenius" on the right\)
+    <=== \(NOT "semisimple" \) AND \( "primitive" on the right\).'
+  ring: RING_000174
 PROP_000080:
   citation_left: []
   citation_right: []
@@ -1524,6 +1536,18 @@ PROP_000167:
   property: PROP_000167
   reason_left: 'Logic (rings) 539: \(NOT "torch" \) <=== \(NOT "?-ring" \).'
   reason_right: 'Logic (rings) 539: \(NOT "torch" \) <=== \(NOT "?-ring" \).'
+  ring: RING_000174
+PROP_000168:
+  citation_left: []
+  citation_right: []
+  crosstable_pk: 34858
+  has_on_left: false
+  has_on_right: false
+  property: PROP_000168
+  reason_left: 'Logic (rings) 517: \(NOT "FGC" \) <=== \(NOT "finitely pseudo-Frobenius"
+    on the left and right\).'
+  reason_right: 'Logic (rings) 517: \(NOT "FGC" \) <=== \(NOT "finitely pseudo-Frobenius"
+    on the left and right\).'
   ring: RING_000174
 PROP_000169:
   citation_left: []

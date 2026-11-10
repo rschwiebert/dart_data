@@ -1,0 +1,9 @@
+active: true
+citation:
+- CITE_000718
+concs: ring_deduced("has",3,79) AND ring_deduced("has",0,11)
+hyps: ring_deduced("has",3,79) AND ring_deduced("has",3,73)
+readable: ring is finitely pseudo-Frobenius on the right AND ring is nonsingular on
+  the right <==> ring is finitely pseudo-Frobenius on the right AND ring is semiprime
+symmetric: false
+variety: 1

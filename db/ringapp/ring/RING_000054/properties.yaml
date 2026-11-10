@@ -813,6 +813,20 @@ PROP_000078:
     on the right and self-injective on the right'
   reason_right: symmetry with left side
   ring: RING_000054
+PROP_000079:
+  citation_left: []
+  citation_right: []
+  crosstable_pk: 34815
+  has_on_left: false
+  has_on_right: false
+  property: PROP_000079
+  reason_left: 'Logic (rings) 604: \(NOT "finitely pseudo-Frobenius" on the left\)
+    <=== \(NOT "self-injective" on the left\) AND \( "semiperfect" \) AND \( "co-Hopfian"
+    on the left\).'
+  reason_right: 'Logic (rings) 604: \(NOT "finitely pseudo-Frobenius" on the right\)
+    <=== \(NOT "self-injective" on the right\) AND \( "semiperfect" \) AND \( "co-Hopfian"
+    on the right\).'
+  ring: RING_000054
 PROP_000080:
   citation_left: []
   citation_right: []

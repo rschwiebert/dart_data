@@ -797,6 +797,17 @@ PROP_000078:
   reason_right: 'Logic 83: pseudo-Frobenius on the right <==> finitely cogenerated
     on the right and self-injective on the right'
   ring: RING_000022
+PROP_000079:
+  citation_left: []
+  citation_right: []
+  crosstable_pk: 34801
+  has_on_left: false
+  has_on_right: null
+  property: PROP_000079
+  reason_left: 'Logic (rings) 609: \(NOT "finitely pseudo-Frobenius" on the left\)
+    <=== \(NOT "semiprime" \) AND \( "nonsingular" on the left\).'
+  reason_right: null
+  ring: RING_000022
 PROP_000080:
   citation_left: []
   citation_right: []

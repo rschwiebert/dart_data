@@ -722,6 +722,18 @@ PROP_000078:
   reason_right: 'Logic (rings) 84: \(NOT "pseudo-Frobenius" on the right\) <=== \(NOT
     "Kasch" on the right\).'
   ring: RING_000189
+PROP_000079:
+  citation_left: []
+  citation_right: []
+  crosstable_pk: 34868
+  has_on_left: false
+  has_on_right: false
+  property: PROP_000079
+  reason_left: 'Logic (rings) 606: \(NOT "finitely pseudo-Frobenius" on the left\)
+    <=== \(NOT "Goldie" on the left and right\) AND \( "prime" \).'
+  reason_right: 'Logic (rings) 606: \(NOT "finitely pseudo-Frobenius" on the right\)
+    <=== \(NOT "Goldie" on the left and right\) AND \( "prime" \).'
+  ring: RING_000189
 PROP_000081:
   citation_left: []
   citation_right: []
@@ -1480,6 +1492,18 @@ PROP_000167:
   property: PROP_000167
   reason_left: 'Logic (rings) 539: \(NOT "torch" \) <=== \(NOT "?-ring" \).'
   reason_right: 'Logic (rings) 539: \(NOT "torch" \) <=== \(NOT "?-ring" \).'
+  ring: RING_000189
+PROP_000168:
+  citation_left: []
+  citation_right: []
+  crosstable_pk: 34867
+  has_on_left: false
+  has_on_right: false
+  property: PROP_000168
+  reason_left: 'Logic (rings) 517: \(NOT "FGC" \) <=== \(NOT "finitely pseudo-Frobenius"
+    on the left and right\).'
+  reason_right: 'Logic (rings) 517: \(NOT "FGC" \) <=== \(NOT "finitely pseudo-Frobenius"
+    on the left and right\).'
   ring: RING_000189
 PROP_000169:
   citation_left: []

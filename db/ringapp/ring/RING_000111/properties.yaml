@@ -788,6 +788,18 @@ PROP_000078:
   reason_right: 'Logic 83: pseudo-Frobenius on the right <==> finitely cogenerated
     on the right and self-injective on the right'
   ring: RING_000111
+PROP_000079:
+  citation_left: []
+  citation_right: []
+  crosstable_pk: 34834
+  has_on_left: false
+  has_on_right: false
+  property: PROP_000079
+  reason_left: 'Logic (rings) 606: \(NOT "finitely pseudo-Frobenius" on the left\)
+    <=== \(NOT "Goldie" on the left and right\) AND \( "prime" \).'
+  reason_right: 'Logic (rings) 603: \(NOT "finitely pseudo-Frobenius" on the right\)
+    <=== \(NOT "finite uniform dimension" on the right\) AND \( "semiperfect" \).'
+  ring: RING_000111
 PROP_000080:
   citation_left: []
   citation_right: []
@@ -828,6 +840,17 @@ PROP_000083:
   property: PROP_000083
   reason_left: 'Logic 237: division ring <==> cohopfian on the right and domain'
   reason_right: 'Logic 237: division ring <==> cohopfian on the right and domain'
+  ring: RING_000111
+PROP_000084:
+  citation_left: []
+  citation_right: []
+  crosstable_pk: 34835
+  has_on_left: true
+  has_on_right: null
+  property: PROP_000084
+  reason_left: 'Logic (rings) 613: \( "duo" on the left\) <=== \( "Noetherian" on
+    the left\) AND \( "uniserial ring" on the left\).'
+  reason_right: null
   ring: RING_000111
 PROP_000085:
   citation_left: []

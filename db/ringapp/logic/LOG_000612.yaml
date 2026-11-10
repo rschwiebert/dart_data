@@ -1,0 +1,12 @@
+active: true
+citation:
+- CITE_000721
+concs: ring_deduced("has",3,79) AND ring_deduced("has",1,73) AND ring_deduced("has",2,71)
+  AND ring_deduced("has",3,87)
+hyps: ring_deduced("has",3,79) AND ring_deduced("has",1,73) AND ring_deduced("has",3,71)
+readable: ring is finitely pseudo-Frobenius on the right AND ring is nonsingular on
+  the left and right AND ring is semihereditary on the right <==> ring is finitely
+  pseudo-Frobenius on the right AND ring is nonsingular on the left and right AND
+  ring is semihereditary on the left AND ring is coherent on the right
+symmetric: false
+variety: 1

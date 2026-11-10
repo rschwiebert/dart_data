@@ -1,0 +1,9 @@
+active: true
+citation:
+- CITE_000715
+concs: ring_deduced("has",1,86)
+hyps: ring_deduced("has",0,9) AND ring_deduced("has",3,79)
+readable: ring is prime AND ring is finitely pseudo-Frobenius on the right ===> ring
+  is Goldie on the left and right
+symmetric: false
+variety: 0
