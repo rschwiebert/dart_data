@@ -833,6 +833,20 @@ PROP_000078:
   reason_right: 'Logic (rings) 86: \(NOT "pseudo-Frobenius" on the right\) <=== \(NOT
     "self-injective" on the right\).'
   ring: RING_000155
+PROP_000079:
+  citation_left: []
+  citation_right: []
+  crosstable_pk: 34851
+  has_on_left: false
+  has_on_right: false
+  property: PROP_000079
+  reason_left: 'Logic (rings) 611: \(NOT "finitely pseudo-Frobenius" on the left\)
+    <=== \(NOT "semihereditary" on the left and right\) AND \( "semiprime" \) AND
+    \( "semiperfect" \).'
+  reason_right: 'Logic (rings) 611: \(NOT "finitely pseudo-Frobenius" on the right\)
+    <=== \(NOT "semihereditary" on the left and right\) AND \( "semiprime" \) AND
+    \( "semiperfect" \).'
+  ring: RING_000155
 PROP_000080:
   citation_left: []
   citation_right: []
@@ -1511,6 +1525,30 @@ PROP_000163:
   reason_left: 'Logic (rings) 497: \( "involutive" \) <=== \( "commutative" \).'
   reason_right: 'Logic (rings) 497: \( "involutive" \) <=== \( "commutative" \).'
   ring: RING_000155
+PROP_000164:
+  citation_left: []
+  citation_right: []
+  crosstable_pk: 34848
+  has_on_left: false
+  has_on_right: false
+  property: PROP_000164
+  reason_left: 'Logic (rings) 530: \(NOT "maximal valuation ring" \) <=== \(NOT "almost
+    maximal valuation ring" \).'
+  reason_right: 'Logic (rings) 530: \(NOT "maximal valuation ring" \) <=== \(NOT "almost
+    maximal valuation ring" \).'
+  ring: RING_000155
+PROP_000165:
+  citation_left: []
+  citation_right: []
+  crosstable_pk: 34849
+  has_on_left: false
+  has_on_right: false
+  property: PROP_000165
+  reason_left: 'Logic (rings) 505: \(NOT "almost maximal valuation ring" \) <=== \(NOT
+    "FGC" \).'
+  reason_right: 'Logic (rings) 505: \(NOT "almost maximal valuation ring" \) <===
+    \(NOT "FGC" \).'
+  ring: RING_000155
 PROP_000166:
   citation_left: []
   citation_right: []
@@ -1532,6 +1570,18 @@ PROP_000167:
   property: PROP_000167
   reason_left: 'Logic (rings) 539: \(NOT "torch" \) <=== \(NOT "?-ring" \).'
   reason_right: 'Logic (rings) 539: \(NOT "torch" \) <=== \(NOT "?-ring" \).'
+  ring: RING_000155
+PROP_000168:
+  citation_left: []
+  citation_right: []
+  crosstable_pk: 34850
+  has_on_left: false
+  has_on_right: false
+  property: PROP_000168
+  reason_left: 'Logic (rings) 517: \(NOT "FGC" \) <=== \(NOT "finitely pseudo-Frobenius"
+    on the left and right\).'
+  reason_right: 'Logic (rings) 517: \(NOT "FGC" \) <=== \(NOT "finitely pseudo-Frobenius"
+    on the left and right\).'
   ring: RING_000155
 PROP_000169:
   citation_left: []

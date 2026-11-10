@@ -1,0 +1,9 @@
+active: true
+citation:
+- CITE_000720
+concs: ring_deduced("has",1,71)
+hyps: ring_deduced("has",3,79) AND ring_deduced("has",0,11) AND ring_deduced("has",0,25)
+readable: ring is finitely pseudo-Frobenius on the right AND ring is semiprime AND
+  ring is semiperfect ===> ring is semihereditary on the left and right
+symmetric: false
+variety: 0

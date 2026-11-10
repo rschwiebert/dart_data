@@ -1,0 +1,9 @@
+active: true
+citation:
+- CITE_000717
+concs: ring_deduced("has",0,5)
+hyps: ring_deduced("has",3,74) AND ring_deduced("has",3,79)
+readable: ring is primitive on the right AND ring is finitely pseudo-Frobenius on
+  the right ===> ring is semisimple
+symmetric: false
+variety: 0

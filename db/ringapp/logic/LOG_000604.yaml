@@ -1,0 +1,11 @@
+active: true
+citation:
+- CITE_000713
+concs: ring_deduced("has",3,79) AND ring_deduced("has",3,80) AND ring_deduced("has",3,85)
+hyps: ring_deduced("has",3,79) AND ring_deduced("has",0,25) AND ring_deduced("has",3,83)
+readable: ring is finitely pseudo-Frobenius on the right AND ring is semiperfect AND
+  ring is co-Hopfian on the right <==> ring is finitely pseudo-Frobenius on the right
+  AND ring is self-injective on the right AND ring is finite uniform dimension on
+  the right
+symmetric: false
+variety: 1
