@@ -951,6 +951,17 @@ PROP_000103:
   reason_right: 'Logic 212: finitely cogenerated on the right <==> essential socle
     on the right and finitely generated socle on the right'
   ring: RING_000042
+PROP_000104:
+  citation_left: []
+  citation_right: []
+  crosstable_pk: 34924
+  has_on_left: null
+  has_on_right: false
+  property: PROP_000104
+  reason_left: null
+  reason_right: 'Logic (rings) 616: \(NOT "distributive" on the right\) <=== \(NOT
+    "uniserial ring" on the right\) AND \( "local" \).'
+  ring: RING_000042
 PROP_000105:
   citation_left: []
   citation_right: []

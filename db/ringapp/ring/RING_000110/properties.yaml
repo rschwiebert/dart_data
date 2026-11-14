@@ -1112,11 +1112,12 @@ PROP_000104:
   citation_right: []
   crosstable_pk: 14490
   has_on_left: true
-  has_on_right: null
+  has_on_right: false
   property: PROP_000104
   reason_left: 'Logic (rings) 74: \( "distributive" on the left\) <=== \( "uniserial
     ring" on the left\).'
-  reason_right: null
+  reason_right: 'Logic (rings) 616: \(NOT "distributive" on the right\) <=== \(NOT
+    "uniserial ring" on the right\) AND \( "local" \).'
   ring: RING_000110
 PROP_000105:
   citation_left: []

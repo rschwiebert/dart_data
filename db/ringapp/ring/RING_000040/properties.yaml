@@ -1129,10 +1129,11 @@ PROP_000104:
   citation_left: []
   citation_right: []
   crosstable_pk: 9185
-  has_on_left: null
+  has_on_left: false
   has_on_right: true
   property: PROP_000104
-  reason_left: null
+  reason_left: 'Logic (rings) 616: \(NOT "distributive" on the left\) <=== \(NOT "uniserial
+    ring" on the left\) AND \( "local" \).'
   reason_right: 'Logic 74: valuation ring on the right ===> distributive on the right'
   ring: RING_000040
 PROP_000105:

@@ -1,0 +1,9 @@
+active: true
+citation:
+- CITE_000726
+concs: ring_deduced("has",3,77) AND ring_deduced("has",3,71)
+hyps: ring_deduced("has",3,77) AND ring_deduced("has",3,73)
+readable: ring is serial on the right AND ring is nonsingular on the right <==> ring
+  is serial on the right AND ring is semihereditary on the right
+symmetric: false
+variety: 1

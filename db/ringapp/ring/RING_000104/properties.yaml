@@ -552,6 +552,18 @@ PROP_000066:
   reason_right: 'Logic 49: principal ideal ring on the right <==> Bezout on the right
     and Noetherian on the right'
   ring: RING_000104
+PROP_000067:
+  citation_left: []
+  citation_right: []
+  crosstable_pk: 34916
+  has_on_left: false
+  has_on_right: false
+  property: PROP_000067
+  reason_left: 'Logic (rings) 227: \(NOT "Bezout" on the left\) <=== \(NOT "distributive"
+    on the left\) AND \( "quasi-duo" on the left\).'
+  reason_right: 'Logic (rings) 227: \(NOT "Bezout" on the right\) <=== \(NOT "distributive"
+    on the right\) AND \( "quasi-duo" on the right\).'
+  ring: RING_000104
 PROP_000068:
   citation_left: []
   citation_right: []
@@ -866,6 +878,16 @@ PROP_000103:
   reason_left: symmetry with right side
   reason_right: 'Logic 278: finitely cogenerated on the right ===> finite uniform
     dimension on the right'
+  ring: RING_000104
+PROP_000104:
+  citation_left: []
+  citation_right: []
+  crosstable_pk: 34913
+  has_on_left: false
+  has_on_right: false
+  property: PROP_000104
+  reason_left: It has a nondistributive quotient, $\mathbb Q[[X,Y]]$.
+  reason_right: symmetry with left side
   ring: RING_000104
 PROP_000105:
   citation_left: []
@@ -1299,6 +1321,18 @@ PROP_000158:
   reason_left: 'Logic 473: Abelian ===> IC (internal cancellation)'
   reason_right: symmetry with left side
   ring: RING_000104
+PROP_000159:
+  citation_left: []
+  citation_right: []
+  crosstable_pk: 34914
+  has_on_left: false
+  has_on_right: false
+  property: PROP_000159
+  reason_left: 'Logic (rings) 492: \(NOT "arithmetical" \) <=== \(NOT "distributive"
+    on the left or right\).'
+  reason_right: 'Logic (rings) 492: \(NOT "arithmetical" \) <=== \(NOT "distributive"
+    on the left or right\).'
+  ring: RING_000104
 PROP_000160:
   citation_left: []
   citation_right: []
@@ -1383,6 +1417,18 @@ PROP_000167:
   property: PROP_000167
   reason_left: 'Logic (rings) 534: \(NOT "torch" \) <=== \( "reduced" \).'
   reason_right: symmetry with left side
+  ring: RING_000104
+PROP_000168:
+  citation_left: []
+  citation_right: []
+  crosstable_pk: 34915
+  has_on_left: false
+  has_on_right: false
+  property: PROP_000168
+  reason_left: 'Logic (rings) 516: \(NOT "FGC" \) <=== \(NOT "Bezout" on the left
+    and right\).'
+  reason_right: 'Logic (rings) 516: \(NOT "FGC" \) <=== \(NOT "Bezout" on the left
+    and right\).'
   ring: RING_000104
 PROP_000169:
   citation_left: []

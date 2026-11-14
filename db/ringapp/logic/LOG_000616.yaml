@@ -1,0 +1,10 @@
+active: true
+citation:
+- CITE_000727
+- CITE_000728
+concs: ring_deduced("has",3,76)
+hyps: ring_deduced("has",0,23) AND ring_deduced("has",3,104)
+readable: ring is local AND ring is distributive on the right ===> ring is uniserial
+  ring on the right
+symmetric: false
+variety: 0
