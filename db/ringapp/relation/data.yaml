@@ -1101,3 +1101,18 @@ RINGRELATION_000223:
     into $\prod \mathbb Q$.
   relation_type: SUBRING_OF
   second: RING_000177
+RINGRELATION_000224:
+  first: RING_000221
+  note: ''
+  relation_type: IMAGE_OF
+  second: RING_000167
+RINGRELATION_000225:
+  first: RING_000221
+  note: ''
+  relation_type: SUBRING_OF
+  second: RING_000177
+RINGRELATION_000226:
+  first: RING_000001
+  note: Project onto any one of the coordinates.
+  relation_type: IMAGE_OF
+  second: RING_000221

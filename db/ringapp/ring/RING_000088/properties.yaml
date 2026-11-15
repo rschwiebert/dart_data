@@ -271,6 +271,17 @@ PROP_000026:
   reason_left: 'Logic (rings) 152: \( "lift/rad" \) <=== \( "nil radical" \).'
   reason_right: symmetry with left side
   ring: RING_000088
+PROP_000027:
+  citation_left: []
+  citation_right: []
+  crosstable_pk: 35079
+  has_on_left: false
+  has_on_right: false
+  property: PROP_000027
+  reason_left: 'relationlogic.dl: ring=88 lacks property=27 because ring=202 lacks
+    property=27 and is IMAGE_OF ring=88'
+  reason_right: symmetry with left side
+  ring: RING_000088
 PROP_000028:
   citation_left: []
   citation_right: []
