@@ -1,6 +1,6 @@
 citation: []
-description: $R$ is the subring of $\prod_{i=1}^\infty \mathbb{Z}$ consisting of elements such
-  that there exists a positive integer $n$ such that $a_{n+i}=a_i$ for all nonnegative
+description: $R$ is the subring of $\prod_{i=1}^\infty \mathbb Z$ consisting of elements
+  such that there exists a positive integer $n$ such that $a_{n+i}=a_i$ for all nonnegative
   integers $i$.
 is_commutative: true
 keywords:

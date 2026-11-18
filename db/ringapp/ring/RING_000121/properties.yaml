@@ -1043,6 +1043,30 @@ PROP_000104:
   reason_right: 'Logic 224: distributive on the right and nonsingular on the right
     <==> distributive on the right and reduced'
   ring: RING_000121
+PROP_000105:
+  citation_left: []
+  citation_right: []
+  crosstable_pk: 35108
+  has_on_left: false
+  has_on_right: false
+  property: PROP_000105
+  reason_left: 'Logic (rings) 619: \(NOT "uniform" on the left\) <=== \(NOT "domain"
+    \) AND \( "nonsingular" on the left\).'
+  reason_right: 'Logic (rings) 619: \(NOT "uniform" on the right\) <=== \(NOT "domain"
+    \) AND \( "nonsingular" on the right\).'
+  ring: RING_000121
+PROP_000106:
+  citation_left: []
+  citation_right: []
+  crosstable_pk: 35109
+  has_on_left: false
+  has_on_right: false
+  property: PROP_000106
+  reason_left: 'Logic (rings) 158: \(NOT "Ikeda-Nakayama" on the left\) <=== \(NOT
+    "quasi-continuous" on the left\).'
+  reason_right: 'Logic (rings) 158: \(NOT "Ikeda-Nakayama" on the right\) <=== \(NOT
+    "quasi-continuous" on the right\).'
+  ring: RING_000121
 PROP_000107:
   citation_left: []
   citation_right: []
@@ -1066,6 +1090,30 @@ PROP_000108:
     the right'
   reason_right: 'Logic 160: FI-injective on the right ===> principally injective on
     the right'
+  ring: RING_000121
+PROP_000109:
+  citation_left: []
+  citation_right: []
+  crosstable_pk: 35110
+  has_on_left: false
+  has_on_right: false
+  property: PROP_000109
+  reason_left: 'Logic (rings) 157: \(NOT "quasi-continuous" on the left\) <=== \(NOT
+    "CS" on the left\).'
+  reason_right: 'Logic (rings) 157: \(NOT "quasi-continuous" on the right\) <=== \(NOT
+    "CS" on the right\).'
+  ring: RING_000121
+PROP_000110:
+  citation_left: []
+  citation_right: []
+  crosstable_pk: 35111
+  has_on_left: false
+  has_on_right: false
+  property: PROP_000110
+  reason_left: 'Logic (rings) 458: \(NOT "CS" on the left\) <=== \(NOT "uniform" on
+    the left\) AND \( "strongly connected" \).'
+  reason_right: 'Logic (rings) 458: \(NOT "CS" on the right\) <=== \(NOT "uniform"
+    on the right\) AND \( "strongly connected" \).'
   ring: RING_000121
 PROP_000111:
   citation_left: []
