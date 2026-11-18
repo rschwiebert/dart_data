@@ -849,24 +849,27 @@ PROP_000079:
   citation_right: []
   crosstable_pk: 23878
   has_on_left: false
-  has_on_right: null
+  has_on_right: false
   property: PROP_000079
   reason_left: 'Logic (rings) 231: \(NOT "finitely pseudo-Frobenius" on the left\)
     <=== \(NOT "self-injective" on the left\) AND \( "nil radical" \) AND \( "semiperfect"
     \).'
-  reason_right: null
+  reason_right: 'Logic (rings) 231: \(NOT "finitely pseudo-Frobenius" on the right\)
+    <=== \(NOT "self-injective" on the right\) AND \( "nil radical" \) AND \( "semiperfect"
+    \).'
   ring: RING_000044
 PROP_000080:
   citation_left: []
   citation_right: []
   crosstable_pk: 23879
   has_on_left: false
-  has_on_right: null
+  has_on_right: false
   property: PROP_000080
   reason_left: 'Logic (rings) 86: \(NOT "self-injective" on the left\) <=== \(NOT
     "pseudo-Frobenius" on the left\) AND \( "essential socle" on the left\) AND \(
     "semilocal" \).'
-  reason_right: null
+  reason_right: 'Logic (rings) 618: \(NOT "self-injective" on the right\) <=== \(NOT
+    "quasi-Frobenius" \) AND \( "countable" \).'
   ring: RING_000044
 PROP_000081:
   citation_left: []

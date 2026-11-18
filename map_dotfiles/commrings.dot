@@ -1,5 +1,5 @@
 strict digraph {
-    label=<Commutative ring properties<br/>(© Database of Ring Theory; Last updated 2024-12-04)>
+    label=<Commutative ring properties<br/>(© Database of Ring Theory; Last updated 2026-11-15)>
     URL="https://ringtheory.herokuapp.com/";
     labelloc=top
 	graph [pad="0.5", ranksep="2.000"];
@@ -197,6 +197,7 @@ strict digraph {
 	"valuation ring" -> Bezout
 	domain -> Goldie
 	uniform -> connected
+	uniform -> "quasi-continuous"
 	continuous -> semiregular
 	Goldie -> "finite uniform dimension"
 	Artinian -> semiprimary

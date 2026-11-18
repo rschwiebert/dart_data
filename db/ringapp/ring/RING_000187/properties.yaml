@@ -985,6 +985,18 @@ PROP_000104:
   reason_right: 'Logic (rings) 224: \(NOT "distributive" on the right\) <=== \(NOT
     "reduced" \) AND \( "nonsingular" on the right\).'
   ring: RING_000187
+PROP_000105:
+  citation_left: []
+  citation_right: []
+  crosstable_pk: 35107
+  has_on_left: false
+  has_on_right: false
+  property: PROP_000105
+  reason_left: 'Logic (rings) 619: \(NOT "uniform" on the left\) <=== \(NOT "domain"
+    \) AND \( "nonsingular" on the left\).'
+  reason_right: 'Logic (rings) 619: \(NOT "uniform" on the right\) <=== \(NOT "domain"
+    \) AND \( "nonsingular" on the right\).'
+  ring: RING_000187
 PROP_000107:
   citation_left: []
   citation_right: []

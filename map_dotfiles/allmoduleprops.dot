@@ -1,5 +1,5 @@
     strict digraph {
-        label = <All module properties<br/>(© Database of Ring Theory; Last updated 2025-06-09)>
+        label = <All module properties<br/>(© Database of Ring Theory; Last updated 2026-11-15)>
         URL = "https://ringtheory.herokuapp.com/";
         labelloc = top;
 
@@ -63,7 +63,7 @@
         "semisimple" -> "quasi-injective"
         "semisimple" -> "quasi-projective"
         "uniserial" -> "hollow"
-        "uniform" -> "CS"
+        "uniform" -> "quasi-continuous"
         "subdirectly irreducible" -> "uniform"
         "subdirectly irreducible" -> "simple socle"
         # "subdirectly irreducible" -> "essential socle"

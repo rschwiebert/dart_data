@@ -1024,10 +1024,11 @@ PROP_000105:
   citation_left: []
   citation_right: []
   crosstable_pk: 5629
-  has_on_left: null
+  has_on_left: false
   has_on_right: false
   property: PROP_000105
-  reason_left: null
+  reason_left: 'Logic (rings) 619: \(NOT "uniform" on the left\) <=== \(NOT "domain"
+    \) AND \( "nonsingular" on the left\).'
   reason_right: 'Logic 165: uniform on the right ===> finite uniform dimension on
     the right'
   ring: RING_000022
@@ -1035,10 +1036,11 @@ PROP_000106:
   citation_left: []
   citation_right: []
   crosstable_pk: 18888
-  has_on_left: null
+  has_on_left: false
   has_on_right: false
   property: PROP_000106
-  reason_left: null
+  reason_left: 'Logic (rings) 158: \(NOT "Ikeda-Nakayama" on the left\) <=== \(NOT
+    "quasi-continuous" on the left\).'
   reason_right: 'Logic (rings) 158: \(NOT "Ikeda-Nakayama" on the right\) <=== \(NOT
     "quasi-continuous" on the right\).'
   ring: RING_000022
@@ -1057,10 +1059,11 @@ PROP_000109:
   citation_left: []
   citation_right: []
   crosstable_pk: 18887
-  has_on_left: null
+  has_on_left: false
   has_on_right: false
   property: PROP_000109
-  reason_left: null
+  reason_left: 'Logic (rings) 157: \(NOT "quasi-continuous" on the left\) <=== \(NOT
+    "CS" on the left\).'
   reason_right: 'Logic (rings) 157: \(NOT "quasi-continuous" on the right\) <=== \(NOT
     "CS" on the right\).'
   ring: RING_000022
@@ -1068,10 +1071,11 @@ PROP_000110:
   citation_left: []
   citation_right: []
   crosstable_pk: 18882
-  has_on_left: null
+  has_on_left: false
   has_on_right: false
   property: PROP_000110
-  reason_left: null
+  reason_left: 'Logic (rings) 458: \(NOT "CS" on the left\) <=== \(NOT "uniform" on
+    the left\) AND \( "strongly connected" \).'
   reason_right: 'Logic (rings) 458: \(NOT "CS" on the right\) <=== \(NOT "uniform"
     on the right\) AND \( "strongly connected" \).'
   ring: RING_000022

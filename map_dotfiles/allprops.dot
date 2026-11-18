@@ -11,7 +11,7 @@ subgraph cluster_01 {
     "left and right" -> "all these " [color=blue shape=rectangle]
 }
 
-    label=<All ring properties<br/>(© Database of Ring Theory; Last updated 2025-02-07)>
+    label=<All ring properties<br/>(© Database of Ring Theory; Last updated 2026-11-15)>
     URL="https://ringtheory.herokuapp.com/";
     labelloc=top;
 
@@ -29,6 +29,7 @@ subgraph cluster_01 {
 	domain -> prime [color=black]
 	"semi free ideal ring" -> domain [color=black]
 	"self-injective" -> "FI-injective" [color=green]
+	"uniform" -> "quasi-continuous" [color=green]
 	semicommutative -> Abelian [color=black]
 	"strongly regular" -> "unit regular" [color=black]
 	perfect -> "$\pi$-regular" [color=black]
