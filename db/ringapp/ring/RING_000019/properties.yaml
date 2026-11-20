@@ -59,6 +59,18 @@ PROP_000006:
   reason_left: Strictly upper triangular matrices are in the Jacobson radical
   reason_right: symmetry with left side
   ring: RING_000019
+PROP_000007:
+  citation_left: []
+  citation_right: []
+  crosstable_pk: 35139
+  has_on_left: true
+  has_on_right: true
+  property: PROP_000007
+  reason_left: 'Logic (rings) 621: \( "Baer" \) <=== \( "orthogonally finite" \) AND
+    \( "Rickart" on the left\).'
+  reason_right: 'Logic (rings) 621: \( "Baer" \) <=== \( "orthogonally finite" \)
+    AND \( "Rickart" on the left\).'
+  ring: RING_000019
 PROP_000008:
   citation_left: []
   citation_right: []
