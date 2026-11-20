@@ -66,6 +66,17 @@ PROP_000006:
   reason_right: 'Logic (rings) 35: \( "semiprimitive" \) <=== \( "von Neumann regular"
     \).'
   ring: RING_000209
+PROP_000007:
+  citation_left:
+  - CITE_000454
+  citation_right: []
+  crosstable_pk: 35135
+  has_on_left: false
+  has_on_right: false
+  property: PROP_000007
+  reason_left: null
+  reason_right: symmetry with left side
+  ring: RING_000209
 PROP_000008:
   citation_left: []
   citation_right: []
@@ -1007,6 +1018,18 @@ PROP_000091:
   reason_right: 'Logic (rings) logical AND: ring_deduced("lacks",3,Y) <=== \( "commutative"
     \) AND ring_deduced("lacks",1,Y).'
   ring: RING_000209
+PROP_000092:
+  citation_left: []
+  citation_right: []
+  crosstable_pk: 35171
+  has_on_left: false
+  has_on_right: false
+  property: PROP_000092
+  reason_left: 'Logic (rings) 138: \(NOT "continuous" on the left\) <=== \(NOT "quasi-continuous"
+    on the left\).'
+  reason_right: 'Logic (rings) 138: \(NOT "continuous" on the right\) <=== \(NOT "quasi-continuous"
+    on the right\).'
+  ring: RING_000209
 PROP_000093:
   citation_left: []
   citation_right: []
@@ -1155,6 +1178,42 @@ PROP_000105:
     connected" \).'
   reason_right: 'Logic (rings) 458: \(NOT "uniform" on the right\) <=== \(NOT "strongly
     connected" \).'
+  ring: RING_000209
+PROP_000106:
+  citation_left: []
+  citation_right: []
+  crosstable_pk: 35172
+  has_on_left: false
+  has_on_right: false
+  property: PROP_000106
+  reason_left: 'Logic (rings) 158: \(NOT "Ikeda-Nakayama" on the left\) <=== \(NOT
+    "quasi-continuous" on the left\).'
+  reason_right: 'Logic (rings) 158: \(NOT "Ikeda-Nakayama" on the right\) <=== \(NOT
+    "quasi-continuous" on the right\).'
+  ring: RING_000209
+PROP_000109:
+  citation_left: []
+  citation_right: []
+  crosstable_pk: 35173
+  has_on_left: false
+  has_on_right: false
+  property: PROP_000109
+  reason_left: 'Logic (rings) 157: \(NOT "quasi-continuous" on the left\) <=== \(NOT
+    "CS" on the left\).'
+  reason_right: 'Logic (rings) 157: \(NOT "quasi-continuous" on the right\) <=== \(NOT
+    "CS" on the right\).'
+  ring: RING_000209
+PROP_000110:
+  citation_left: []
+  citation_right: []
+  crosstable_pk: 35174
+  has_on_left: false
+  has_on_right: false
+  property: PROP_000110
+  reason_left: 'Logic (rings) 620: \(NOT "CS" on the left\) <=== \(NOT "Baer" \) AND
+    \( "nonsingular" on the left\).'
+  reason_right: 'Logic (rings) 620: \(NOT "CS" on the right\) <=== \(NOT "Baer" \)
+    AND \( "nonsingular" on the right\).'
   ring: RING_000209
 PROP_000111:
   citation_left: []

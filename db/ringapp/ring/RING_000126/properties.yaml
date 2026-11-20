@@ -40,6 +40,18 @@ PROP_000005:
   reason_right: 'Logic 272: semisimple <==> hereditary on the right and self-injective
     on the right'
   ring: RING_000126
+PROP_000007:
+  citation_left: []
+  citation_right: []
+  crosstable_pk: 35159
+  has_on_left: false
+  has_on_right: false
+  property: PROP_000007
+  reason_left: 'Logic (rings) 622: \(NOT "Baer" \) <=== \(NOT "ACC annihilator" on
+    the left and right\) AND \( "orthogonally finite" \).'
+  reason_right: 'Logic (rings) 622: \(NOT "Baer" \) <=== \(NOT "ACC annihilator" on
+    the left and right\) AND \( "orthogonally finite" \).'
+  ring: RING_000126
 PROP_000008:
   citation_left: []
   citation_right: []
@@ -462,6 +474,42 @@ PROP_000069:
     right'
   reason_right: 'Logic 56: Ore domain on the right <==> domain and Ore ring on the
     right'
+  ring: RING_000126
+PROP_000070:
+  citation_left: []
+  citation_right: []
+  crosstable_pk: 35160
+  has_on_left: false
+  has_on_right: false
+  property: PROP_000070
+  reason_left: 'Logic (rings) 58: \(NOT "hereditary" on the left\) <=== \(NOT "semihereditary"
+    on the left\).'
+  reason_right: 'Logic (rings) 58: \(NOT "hereditary" on the right\) <=== \(NOT "semihereditary"
+    on the right\).'
+  ring: RING_000126
+PROP_000071:
+  citation_left: []
+  citation_right: []
+  crosstable_pk: 35161
+  has_on_left: false
+  has_on_right: false
+  property: PROP_000071
+  reason_left: 'Logic (rings) 59: \(NOT "semihereditary" on the left\) <=== \(NOT
+    "Rickart" on the left\).'
+  reason_right: 'Logic (rings) 59: \(NOT "semihereditary" on the right\) <=== \(NOT
+    "Rickart" on the right\).'
+  ring: RING_000126
+PROP_000072:
+  citation_left: []
+  citation_right: []
+  crosstable_pk: 35162
+  has_on_left: false
+  has_on_right: false
+  property: PROP_000072
+  reason_left: 'Logic (rings) 621: \(NOT "Rickart" on the left\) <=== \(NOT "Baer"
+    \) AND \( "orthogonally finite" \).'
+  reason_right: 'Logic (rings) 621: \(NOT "Rickart" on the right\) <=== \(NOT "Baer"
+    \) AND \( "orthogonally finite" \).'
   ring: RING_000126
 PROP_000076:
   citation_left: []
@@ -940,11 +988,12 @@ PROP_000147:
   citation_right: []
   crosstable_pk: 16888
   has_on_left: false
-  has_on_right: null
+  has_on_right: false
   property: PROP_000147
   reason_left: 'Logic (rings) 382: \(NOT "PCI ring" on the left\) <=== \(NOT "Noetherian"
     on the left\).'
-  reason_right: null
+  reason_right: 'Logic (rings) 382: \(NOT "PCI ring" on the right\) <=== \(NOT "hereditary"
+    on the right\).'
   ring: RING_000126
 PROP_000149:
   citation_left: []

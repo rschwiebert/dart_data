@@ -1090,6 +1090,18 @@ PROP_000105:
   reason_left: 'Logic 164: uniform on the left or right ===> strongly connected'
   reason_right: symmetry with left side
   ring: RING_000095
+PROP_000106:
+  citation_left: []
+  citation_right: []
+  crosstable_pk: 35153
+  has_on_left: false
+  has_on_right: false
+  property: PROP_000106
+  reason_left: 'Logic (rings) 158: \(NOT "Ikeda-Nakayama" on the left\) <=== \(NOT
+    "quasi-continuous" on the left\).'
+  reason_right: 'Logic (rings) 158: \(NOT "Ikeda-Nakayama" on the right\) <=== \(NOT
+    "quasi-continuous" on the right\).'
+  ring: RING_000095
 PROP_000108:
   citation_left: []
   citation_right: []
@@ -1101,6 +1113,30 @@ PROP_000108:
     injective" on the left\).'
   reason_right: 'Logic (rings) 160: \(NOT "FI-injective" on the right\) <=== \(NOT
     "principally injective" on the right\).'
+  ring: RING_000095
+PROP_000109:
+  citation_left: []
+  citation_right: []
+  crosstable_pk: 35154
+  has_on_left: false
+  has_on_right: false
+  property: PROP_000109
+  reason_left: 'Logic (rings) 157: \(NOT "quasi-continuous" on the left\) <=== \(NOT
+    "CS" on the left\).'
+  reason_right: 'Logic (rings) 157: \(NOT "quasi-continuous" on the right\) <=== \(NOT
+    "CS" on the right\).'
+  ring: RING_000095
+PROP_000110:
+  citation_left: []
+  citation_right: []
+  crosstable_pk: 35155
+  has_on_left: false
+  has_on_right: false
+  property: PROP_000110
+  reason_left: 'Logic (rings) 620: \(NOT "CS" on the left\) <=== \(NOT "Baer" \) AND
+    \( "nonsingular" on the left\).'
+  reason_right: 'Logic (rings) 620: \(NOT "CS" on the right\) <=== \(NOT "Baer" \)
+    AND \( "nonsingular" on the right\).'
   ring: RING_000095
 PROP_000111:
   citation_left: []

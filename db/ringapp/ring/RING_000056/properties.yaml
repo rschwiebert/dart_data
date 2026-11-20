@@ -64,6 +64,18 @@ PROP_000006:
   reason_right: 'Logic (rings) 261: \(NOT "semiprimitive" \) <=== \(NOT "semiprime"
     \).'
   ring: RING_000056
+PROP_000007:
+  citation_left: []
+  citation_right: []
+  crosstable_pk: 35148
+  has_on_left: false
+  has_on_right: false
+  property: PROP_000007
+  reason_left: 'Logic (rings) 622: \(NOT "Baer" \) <=== \(NOT "ACC annihilator" on
+    the left and right\) AND \( "orthogonally finite" \).'
+  reason_right: 'Logic (rings) 622: \(NOT "Baer" \) <=== \(NOT "ACC annihilator" on
+    the left and right\) AND \( "orthogonally finite" \).'
+  ring: RING_000056
 PROP_000008:
   citation_left: []
   citation_right: []
@@ -443,6 +455,42 @@ PROP_000069:
   reason_left: 'Logic 56: Ore domain on the right <==> Ore ring on the right and domain'
   reason_right: 'Logic 56: Ore domain on the right <==> Ore ring on the right and
     domain'
+  ring: RING_000056
+PROP_000070:
+  citation_left: []
+  citation_right: []
+  crosstable_pk: 35149
+  has_on_left: false
+  has_on_right: false
+  property: PROP_000070
+  reason_left: 'Logic (rings) 58: \(NOT "hereditary" on the left\) <=== \(NOT "semihereditary"
+    on the left\).'
+  reason_right: 'Logic (rings) 58: \(NOT "hereditary" on the right\) <=== \(NOT "semihereditary"
+    on the right\).'
+  ring: RING_000056
+PROP_000071:
+  citation_left: []
+  citation_right: []
+  crosstable_pk: 35150
+  has_on_left: false
+  has_on_right: false
+  property: PROP_000071
+  reason_left: 'Logic (rings) 59: \(NOT "semihereditary" on the left\) <=== \(NOT
+    "Rickart" on the left\).'
+  reason_right: 'Logic (rings) 59: \(NOT "semihereditary" on the right\) <=== \(NOT
+    "Rickart" on the right\).'
+  ring: RING_000056
+PROP_000072:
+  citation_left: []
+  citation_right: []
+  crosstable_pk: 35151
+  has_on_left: false
+  has_on_right: false
+  property: PROP_000072
+  reason_left: 'Logic (rings) 621: \(NOT "Rickart" on the left\) <=== \(NOT "Baer"
+    \) AND \( "orthogonally finite" \).'
+  reason_right: 'Logic (rings) 621: \(NOT "Rickart" on the right\) <=== \(NOT "Baer"
+    \) AND \( "orthogonally finite" \).'
   ring: RING_000056
 PROP_000074:
   citation_left: []
