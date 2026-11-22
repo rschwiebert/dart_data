@@ -61,6 +61,15 @@ METAPROP_000008:
   metaproperty: METAPROP_000008
   property: PROP_000080
   relation: null
+METAPROP_000010:
+  citation: []
+  commutative_only: false
+  crosstable_pk: 1084
+  example: null
+  has_metaproperty: false
+  metaproperty: METAPROP_000010
+  property: PROP_000080
+  relation: 228
 METAPROP_000012:
   citation: []
   commutative_only: false
