@@ -1,0 +1,10 @@
+citation: []
+description: $F_2[D_4]$ the group ring of the dihedral group on four elements (which
+  has order 8) over the field of two elements.
+is_commutative: false
+keywords:
+- KWD_000021
+krull_dim: null
+name: $F_2[D_4]$
+notes: null
+optional_template: ''

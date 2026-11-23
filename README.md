@@ -19,8 +19,6 @@ for the website. The .html files from the /db path wind up there during installa
 ## Contributing
 
 There are several ways to help contribute
-1. (The old way) You can create an account on 
-   [the main site](https://ringtheory.herokuapp.com/) and use the webform there to make a suggestion.
 1. You can open a ticket on this repository explaining your suggestion (this requires you to create a github account.)
 1. You can create a pull request with your changes for review (this requires a github account too.)  The changes can be 
 made by hand, or else you can set up a local development environment with the DaRT Django app and use Django admin to 
@@ -29,7 +27,10 @@ made by hand, or else you can set up a local development environment with the Da
 If you choose either of the first two, a developer will need to do the third one for you during the review process.
 
 In any case, your contribution will need to be reviewed for appropriateness, and then correctness before inclusion.  
-Please bear in mind that not all suggestions will be accepted.
+If you have the right skill set, you may be interested in [dart-lean](https://github.com/vlad902/dart-lean), 
+an interactive theorem-proving project in Lean 4 built on Mathlib.
+
+Please bear in mind that some suggestions may be declined.
 
 Once the pull request is integrated into this repository, a developer will need to take one more step to push the new
 data to the website where it can be seen. Then your contribution will be live!

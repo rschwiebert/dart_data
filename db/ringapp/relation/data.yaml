@@ -1121,3 +1121,18 @@ RINGRELATION_000227:
   note: using the idempotent $e_1$.
   relation_type: CORNER_OF
   second: RING_000168
+RINGRELATION_000228:
+  first: RING_000216
+  note: Identify $1, W,X,Y,Z$ with the center generators $1, i+(-i),j+(-j),k+(-k)$
+  relation_type: CENTER_OF
+  second: RING_000025
+RINGRELATION_000229:
+  first: RING_000023
+  note: ''
+  relation_type: IMAGE_OF
+  second: RING_000216
+RINGRELATION_000230:
+  first: RING_000216
+  note: Map $1,W,X,Y,Z$ to $1,1+r^2,r+r^3,t+r^2t,rt+r^3t$
+  relation_type: CENTER_OF
+  second: RING_000218

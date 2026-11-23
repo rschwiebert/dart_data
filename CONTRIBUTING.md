@@ -37,6 +37,17 @@ Here are a few tips to follow:
     
 After discussion of your suggestion, any contributor can make a Pull Request (see below) to implement your improvement. 
 
+  ### Formal Verification with `dart-lean`
+
+  Much of The Database of Ring Theory can be formally verified using [dart-lean](https://github.com/vlad902/dart-lean), an interactive theorem-proving project in Lean 4 built on Mathlib.
+  If you are able to use this, it will help guarantee a higher quality submission.
+
+  When developing or modifying `dart_data`, `dart-lean` serves as an automated correctness oracle and sanity checker:
+- **Catches Regressions & Contradictions**: Flags any new logic rules, properties, or ring definitions that contradict mathematical facts or kernel-checked theorems.
+- **Rule Verification & Linting**: Automatically detects whether new deduction rules are mathematically valid, already subsumed by existing theory, or vacuous (unsatisfiable hypotheses).
+- **PR Review Automation**: Includes tooling (`scripts/pr_review.py`) to diff PRs against the formal closure, instantly highlighting conflicts, broken relation propagations, and dangling
+metaproperty counterexamples before merging.
+
 ### Make a Pull Request
 
 To add a pull request implementing any changes to the repository, [fork](https://help.github.com/articles/about-forks/)
@@ -52,12 +63,8 @@ Our reviewers will
 
 Once the PR is approved, a developer can go about integrating it into the master branch.
 
-### Submit a webform
-This is the least flexible method, but if you really won't use git, then you can 
-[log into the website](https://ringtheory.herokuapp.com/accounts/login/) and 
-send a message via [the suggestion form](https://ringtheory.herokuapp.com/contribute/).
 
-### Caveat
+### Caveats
 Not all suggestions can be approved. There are an infinitude of conditions and examples out there, 
 but we need to balance quantity and quality to try to create the best experience.  Deliberations in a GitHub issue 
 should suffice for deciding unusual cases, and ultimately it's up to the discretion of the maintainers.
@@ -78,6 +85,8 @@ These are our current mathematical reviewers.
 
 - Ryan Schwiebert, @rschwiebert
 - Jose Brox
+- @dyunov
+- @vlad902
 
 Please feel free to contact us with any questions.  If you are interested in becoming a reviewer, please make contact.
 

@@ -1016,6 +1016,18 @@ PROP_000101:
   reason_right: 'Logic (rings) 552: \( "essential socle" on the right\) <=== \( "semi-Artinian"
     on the right\).'
   ring: RING_000185
+PROP_000102:
+  citation_left: []
+  citation_right: []
+  crosstable_pk: 35177
+  has_on_left: false
+  has_on_right: false
+  property: PROP_000102
+  reason_left: 'Logic (rings) logical AND: ring_deduced("lacks",2,Y) <=== \( "anti-automorphic"
+    \) AND ring_deduced("lacks",1,Y).'
+  reason_right: 'Logic (rings) logical AND: ring_deduced("lacks",3,Y) <=== \( "anti-automorphic"
+    \) AND ring_deduced("lacks",1,Y).'
+  ring: RING_000185
 PROP_000103:
   citation_left: []
   citation_right: []
@@ -1049,6 +1061,18 @@ PROP_000105:
     connected" \).'
   reason_right: 'Logic (rings) 458: \(NOT "uniform" on the right\) <=== \(NOT "strongly
     connected" \).'
+  ring: RING_000185
+PROP_000106:
+  citation_left: []
+  citation_right: []
+  crosstable_pk: 35178
+  has_on_left: false
+  has_on_right: false
+  property: PROP_000106
+  reason_left: 'Logic (rings) logical AND: ring_deduced("lacks",2,Y) <=== \( "anti-automorphic"
+    \) AND ring_deduced("lacks",1,Y).'
+  reason_right: 'Logic (rings) logical AND: ring_deduced("lacks",3,Y) <=== \( "anti-automorphic"
+    \) AND ring_deduced("lacks",1,Y).'
   ring: RING_000185
 PROP_000107:
   citation_left: []
