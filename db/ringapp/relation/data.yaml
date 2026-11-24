@@ -1136,3 +1136,8 @@ RINGRELATION_000230:
   note: Map $1,W,X,Y,Z$ to $1,1+r^2,r+r^3,t+r^2t,rt+r^3t$
   relation_type: CENTER_OF
   second: RING_000218
+RINGRELATION_000231:
+  first: RING_000218
+  note: ''
+  relation_type: SUBRING_OF
+  second: RING_000157

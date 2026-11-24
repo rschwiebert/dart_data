@@ -1,0 +1,7 @@
+corrected_location:
+- CITE_000734
+description: Lean says the proposal for grading $\nu$ is flawed, and that it does
+  not actually define a grading.  The counterexample Lean gives is available here
+  https://github.com/vlad902/dart-lean/blob/cec18849e17b9a068d6fda57b289e1be59e05fd9/DartLean/Slop/Counterexamples/Issue204/GradeCounterexample.lean
+error_location: CITE_000676
+example: null
