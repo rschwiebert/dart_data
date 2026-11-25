@@ -1,0 +1,7 @@
+corrected_location:
+- CITE_000737
+description: In the construction, using the ideal $(y^2,yx)$ is not large enough.
+  Rather it needs to be the completion of this ideal inside the power series ring.  With
+  that addition, the rest of the argument survives.
+error_location: CITE_000107
+example: null
