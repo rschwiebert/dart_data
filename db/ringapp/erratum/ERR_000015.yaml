@@ -1,0 +1,7 @@
+corrected_location:
+- CITE_000736
+description: The proof that the ring is not left and right coherent is faulty.  In
+  fact all point-annihilators are finitely generated, and the ring is left and right
+  coherent.
+error_location: CITE_000559
+example: null
