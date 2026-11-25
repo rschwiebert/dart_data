@@ -887,7 +887,7 @@ PROP_000087:
   citation_left:
   - CITE_000736
   citation_right:
-  - CITE_000559
+  - CITE_000736
   crosstable_pk: 24091
   has_on_left: true
   has_on_right: true
