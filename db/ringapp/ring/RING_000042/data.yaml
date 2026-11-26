@@ -1,7 +1,9 @@
 citation:
+- CITE_000737
 - CITE_000107
 description: Let $k$ be a countably infinite field. Let $S$ be the power series ring
-  over $k$ in two noncommuting variables $x,y$. The ring is $R=S/(y^2,yx)$
+  over $k$ in two noncommuting variables $x,y$. Let $I$ be the completion of $(y^2,yx)$
+  inside $S$.  The ring is $R=S/I$.
 is_commutative: false
 keywords:
 - KWD_000012
