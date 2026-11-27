@@ -6,5 +6,6 @@ keywords:
 - KWD_000003
 krull_dim: null
 name: Algebra of differential operators on the line (1st Weyl algebra)
-notes: null
+notes: "Bj\xF6rk \"Rings of Differential operators\" Th7.1p20: any left ideal of a\
+  \ Weyl algebra is 2-generated."
 optional_template: ''
