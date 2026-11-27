@@ -1,6 +1,6 @@
 citation: []
 description: The ring of $n \times n$ matrices with entries from $F_2$, the field
-  of two elements
+  of two elements, with $n>1$
 is_commutative: false
 keywords:
 - KWD_000015

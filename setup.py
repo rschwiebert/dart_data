@@ -10,6 +10,7 @@ RELATIVE_PACKAGE_DIR = str(Path(FULL_PACKAGE_DIR).relative_to(Path(sys.prefix)))
 
 def get_templates():
     return ([str(path) for path in Path('dart_data/templates').rglob("*.html")] +
+            [str(path) for path in Path('db/ringapp/ring').rglob("*_details.html")] +
             [str(path) for path in Path('dart_data/templates').rglob("*.csv")])
 
 

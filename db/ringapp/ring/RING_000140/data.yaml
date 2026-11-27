@@ -1,8 +1,8 @@
 citation:
 - CITE_000530
-description: Let $K$ and $M$ be splitting fields of $x^4+5x+5$ and $x^3-18x+18$ over
-  $\mathbb Q$, and let $K=MF$.  Then $Gal(M/F)$ is cyclic with a generator $\sigma$
-  with order 3. The cyclic algebra $D=(M/F,\sigma,11)$
+description: Let $F$ be the splitting field of $x^4+5x+5$ over $\mathbb Q$, and $M$
+  be the splitting field of $x^3-18x+18$ over $\mathbb Q$, and $K=MF$. The required
+  ring is the cyclic algebra $D=(K/F,\sigma,11)$
 is_commutative: false
 keywords:
 - KWD_000071
