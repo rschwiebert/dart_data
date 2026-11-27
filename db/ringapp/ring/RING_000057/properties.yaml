@@ -820,7 +820,7 @@ PROP_000080:
   has_on_left: true
   has_on_right: true
   property: PROP_000080
-  reason_left: null
+  reason_left: aribtrary product of self-injective rings is self-injective
   reason_right: symmetry with left side
   ring: RING_000057
 PROP_000081:
