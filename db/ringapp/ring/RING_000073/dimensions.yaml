@@ -7,3 +7,13 @@ DIM_000002:
   reason_right: null
   right_dimension: $\infty$
   ring: RING_000073
+DIM_000006:
+  citation: []
+  crosstable_pk: 543
+  dimension_type: DIM_000006
+  left_dimension: ''
+  reason_left: null
+  reason_right: 'Logic (rings) 631: has uniform dimension $\infty$ on the right <===
+    ring is not finite uniform dimension on the right'
+  right_dimension: $\infty$
+  ring: RING_000073

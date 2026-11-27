@@ -1,0 +1,8 @@
+active: true
+citation:
+- CITE_000744
+concs: ring_deduced("has",1,176)
+hyps: ring_deduced("has",0,6)
+readable: ring is semiprimitive ===> ring is semi-Noetherian on the left and right
+symmetric: true
+variety: 0

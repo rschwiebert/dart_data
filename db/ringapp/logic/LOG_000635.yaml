@@ -1,0 +1,8 @@
+active: true
+citation:
+- CITE_000740
+concs: ring_deduced("has",0,118)
+hyps: ring_deduced("has",0,116)
+readable: ring is regular ===> ring is normal
+symmetric: true
+variety: 0

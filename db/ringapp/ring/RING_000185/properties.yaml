@@ -1144,6 +1144,16 @@ PROP_000115:
   reason_left: 'Logic (rings) 318: \(NOT "regular local" \) <=== \(NOT "local" \).'
   reason_right: 'Logic (rings) 318: \(NOT "regular local" \) <=== \(NOT "local" \).'
   ring: RING_000185
+PROP_000116:
+  citation_left: []
+  citation_right: []
+  crosstable_pk: 35794
+  has_on_left: false
+  has_on_right: false
+  property: PROP_000116
+  reason_left: 'Logic (rings) 635: \(NOT "regular" \) <=== \(NOT "normal" \).'
+  reason_right: 'Logic (rings) 635: \(NOT "regular" \) <=== \(NOT "normal" \).'
+  ring: RING_000185
 PROP_000118:
   citation_left: []
   citation_right: []

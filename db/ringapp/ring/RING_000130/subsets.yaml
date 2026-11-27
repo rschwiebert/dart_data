@@ -51,3 +51,10 @@ SUBSET_000008:
   ring: RING_000130
   subset: $\{0\}$
   subset_type: SUBSET_000008
+SUBSET_000011:
+  citation: []
+  crosstable_pk: 1177
+  reason: 'Logic (rings) 633: has prime radical $\{0\}$ <=== ring is semiprime'
+  ring: RING_000130
+  subset: $\{0\}$
+  subset_type: SUBSET_000011

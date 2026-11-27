@@ -1494,10 +1494,10 @@ PROP_000176:
   citation_left: []
   citation_right: []
   crosstable_pk: 24344
-  has_on_left: null
+  has_on_left: true
   has_on_right: true
   property: PROP_000176
-  reason_left: null
+  reason_left: 'Logic (rings) logical AND: ring_deduced("has",2,Y) <=== ring_deduced("has",1,Y).'
   reason_right: 'Logic (rings) 558: \( "semi-Noetherian" on the right\) <=== \( "max
     ring" on the right\).'
   ring: RING_000093

@@ -25,3 +25,14 @@ DIM_000004:
   reason_right: null
   right_dimension: ''
   ring: RING_000021
+DIM_000006:
+  citation: []
+  crosstable_pk: 505
+  dimension_type: DIM_000006
+  left_dimension: '1'
+  reason_left: 'Logic (rings) 630: has uniform dimension 1 on the left <=== ring is
+    uniform on the left'
+  reason_right: 'Logic (rings) 631: has uniform dimension $\infty$ on the right <===
+    ring is not finite uniform dimension on the right'
+  right_dimension: $\infty$
+  ring: RING_000021

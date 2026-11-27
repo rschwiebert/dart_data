@@ -1,0 +1,8 @@
+active: true
+citation:
+- CITE_000739
+concs: ring_dim_deduced("1",3,6)
+hyps: ring_deduced("has",3,105)
+readable: ring is uniform on the right ===> has uniform dimension 1 on the right
+symmetric: false
+variety: 0

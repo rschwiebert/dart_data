@@ -1161,6 +1161,16 @@ PROP_000115:
   reason_left: 'Logic 282: regular local ===> local'
   reason_right: 'Logic 282: regular local ===> local'
   ring: RING_000014
+PROP_000116:
+  citation_left: []
+  citation_right: []
+  crosstable_pk: 35636
+  has_on_left: false
+  has_on_right: false
+  property: PROP_000116
+  reason_left: 'Logic (rings) 635: \(NOT "regular" \) <=== \(NOT "normal" \).'
+  reason_right: 'Logic (rings) 635: \(NOT "regular" \) <=== \(NOT "normal" \).'
+  ring: RING_000014
 PROP_000118:
   citation_left: []
   citation_right: []

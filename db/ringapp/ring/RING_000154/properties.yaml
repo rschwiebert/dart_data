@@ -1083,11 +1083,11 @@ PROP_000116:
   citation_left: []
   citation_right: []
   crosstable_pk: 24131
-  has_on_left: null
-  has_on_right: null
+  has_on_left: false
+  has_on_right: false
   property: PROP_000116
-  reason_left: null
-  reason_right: null
+  reason_left: 'Logic (rings) 635: \(NOT "regular" \) <=== \(NOT "normal" \).'
+  reason_right: 'Logic (rings) 635: \(NOT "regular" \) <=== \(NOT "normal" \).'
   ring: RING_000154
 PROP_000117:
   citation_left: []

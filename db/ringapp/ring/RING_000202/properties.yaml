@@ -1480,6 +1480,18 @@ PROP_000147:
     ring=91 lacks property=147 on the left and is IMAGE_OF ring=202'
   reason_right: symmetry with left side
   ring: RING_000202
+PROP_000148:
+  citation_left: []
+  citation_right: []
+  crosstable_pk: 35840
+  has_on_left: false
+  has_on_right: false
+  property: PROP_000148
+  reason_left: 'Logic (rings) 640: \(NOT "max ring" on the left\) <=== \(NOT "strongly
+    $\pi$-regular" \) AND \( "polynomial identity" \).'
+  reason_right: 'Logic (rings) 640: \(NOT "max ring" on the right\) <=== \(NOT "strongly
+    $\pi$-regular" \) AND \( "polynomial identity" \).'
+  ring: RING_000202
 PROP_000149:
   citation_left: []
   citation_right: []

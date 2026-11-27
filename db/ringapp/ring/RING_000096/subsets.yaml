@@ -42,3 +42,10 @@ SUBSET_000008:
   ring: RING_000096
   subset: $\oplus \mathbb Q$
   subset_type: SUBSET_000008
+SUBSET_000011:
+  citation: []
+  crosstable_pk: 1151
+  reason: 'Logic (rings) 633: has prime radical $\{0\}$ <=== ring is semiprime'
+  ring: RING_000096
+  subset: $\{0\}$
+  subset_type: SUBSET_000011

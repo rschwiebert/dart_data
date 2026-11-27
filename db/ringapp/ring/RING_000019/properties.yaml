@@ -1409,11 +1409,12 @@ PROP_000148:
   citation_right: []
   crosstable_pk: 24729
   has_on_left: false
-  has_on_right: null
+  has_on_right: false
   property: PROP_000148
   reason_left: 'Logic (rings) 558: \(NOT "max ring" on the left\) <=== \(NOT "semi-Noetherian"
     on the left\).'
-  reason_right: null
+  reason_right: 'Logic (rings) 640: \(NOT "max ring" on the right\) <=== \(NOT "strongly
+    $\pi$-regular" \) AND \( "polynomial identity" \).'
   ring: RING_000019
 PROP_000149:
   citation_left: []
