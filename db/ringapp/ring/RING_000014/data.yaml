@@ -1,6 +1,6 @@
 citation: []
-description: The ring of $n \times n$ matrices over $\mathbb Q$ whose entries below
-  the diagonal are zero.
+description: The ring of $n \times n$ matrices over $\mathbb Q$ with $n>1$ whose entries
+  below the diagonal are zero.
 is_commutative: false
 keywords:
 - KWD_000015
