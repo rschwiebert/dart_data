@@ -1,0 +1,9 @@
+active: true
+citation:
+- CITE_000742
+concs: ring_deduced("has",3,101)
+hyps: ring_deduced("has",0,9) AND ring_deduced("has",3,100)
+readable: ring is prime AND ring is nonzero socle on the right ===> ring is essential
+  socle on the right
+symmetric: false
+variety: 0

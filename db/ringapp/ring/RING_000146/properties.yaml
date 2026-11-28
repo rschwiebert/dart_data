@@ -974,6 +974,16 @@ PROP_000115:
   reason_left: 'Logic (rings) 318: \(NOT "regular local" \) <=== \(NOT "local" \).'
   reason_right: 'Logic (rings) 318: \(NOT "regular local" \) <=== \(NOT "local" \).'
   ring: RING_000146
+PROP_000116:
+  citation_left: []
+  citation_right: []
+  crosstable_pk: 35761
+  has_on_left: false
+  has_on_right: false
+  property: PROP_000116
+  reason_left: 'Logic (rings) 635: \(NOT "regular" \) <=== \(NOT "normal" \).'
+  reason_right: 'Logic (rings) 635: \(NOT "regular" \) <=== \(NOT "normal" \).'
+  ring: RING_000146
 PROP_000118:
   citation_left: []
   citation_right: []
@@ -1156,6 +1166,18 @@ PROP_000147:
   property: PROP_000147
   reason_left: 'Logic (rings) logical OR: ring_deduced("lacks",2,Y) <=== ring_deduced("lacks",4,Y).'
   reason_right: 'Logic (rings) logical OR: ring_deduced("lacks",3,Y) <=== ring_deduced("lacks",4,Y).'
+  ring: RING_000146
+PROP_000148:
+  citation_left: []
+  citation_right: []
+  crosstable_pk: 35762
+  has_on_left: false
+  has_on_right: false
+  property: PROP_000148
+  reason_left: 'Logic (rings) 640: \(NOT "max ring" on the left\) <=== \(NOT "strongly
+    $\pi$-regular" \) AND \( "polynomial identity" \).'
+  reason_right: 'Logic (rings) 640: \(NOT "max ring" on the right\) <=== \(NOT "strongly
+    $\pi$-regular" \) AND \( "polynomial identity" \).'
   ring: RING_000146
 PROP_000150:
   citation_left: []

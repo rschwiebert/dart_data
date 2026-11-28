@@ -1248,6 +1248,18 @@ PROP_000147:
   reason_right: 'Logic (rings) 382: \(NOT "PCI ring" on the right\) <=== \(NOT "V
     ring" on the right\).'
   ring: RING_000141
+PROP_000148:
+  citation_left: []
+  citation_right: []
+  crosstable_pk: 35759
+  has_on_left: false
+  has_on_right: false
+  property: PROP_000148
+  reason_left: 'Logic (rings) 640: \(NOT "max ring" on the left\) <=== \(NOT "strongly
+    $\pi$-regular" \) AND \( "polynomial identity" \).'
+  reason_right: 'Logic (rings) 640: \(NOT "max ring" on the right\) <=== \(NOT "strongly
+    $\pi$-regular" \) AND \( "polynomial identity" \).'
+  ring: RING_000141
 PROP_000150:
   citation_left: []
   citation_right: []

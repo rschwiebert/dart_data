@@ -1,0 +1,8 @@
+active: true
+citation: []
+concs: ring_dim_deduced("$\\infty$",3,6)
+hyps: ring_deduced("lacks",3,85)
+readable: ring is not finite uniform dimension on the right ===> has uniform dimension
+  $\\infty$ on the right
+symmetric: false
+variety: 0

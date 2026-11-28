@@ -1651,11 +1651,11 @@ PROP_000176:
   citation_right: []
   crosstable_pk: 24730
   has_on_left: true
-  has_on_right: null
+  has_on_right: true
   property: PROP_000176
   reason_left: 'Logic (rings) 562: \( "semi-Noetherian" on the left\) <=== \( "Noetherian"
     on the left\).'
-  reason_right: null
+  reason_right: 'Logic (rings) logical AND: ring_deduced("has",3,Y) <=== ring_deduced("has",1,Y).'
   ring: RING_000021
 PROP_000177:
   citation_left: []

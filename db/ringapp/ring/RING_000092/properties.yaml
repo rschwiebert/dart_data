@@ -1143,6 +1143,16 @@ PROP_000117:
   reason_left: 'Logic 308: Gorenstein ===> Cohen-Macaulay'
   reason_right: 'Logic 308: Gorenstein ===> Cohen-Macaulay'
   ring: RING_000092
+PROP_000118:
+  citation_left: []
+  citation_right: []
+  crosstable_pk: 35686
+  has_on_left: true
+  has_on_right: true
+  property: PROP_000118
+  reason_left: 'Logic (rings) 635: \( "normal" \) <=== \( "regular" \).'
+  reason_right: 'Logic (rings) 635: \( "normal" \) <=== \( "regular" \).'
+  ring: RING_000092
 PROP_000119:
   citation_left: []
   citation_right: []
@@ -1172,6 +1182,16 @@ PROP_000121:
   property: PROP_000121
   reason_left: 'Logic 328: regular ===> Gorenstein'
   reason_right: 'Logic 328: regular ===> Gorenstein'
+  ring: RING_000092
+PROP_000122:
+  citation_left: []
+  citation_right: []
+  crosstable_pk: 35687
+  has_on_left: true
+  has_on_right: true
+  property: PROP_000122
+  reason_left: 'Logic (rings) 286: \( "Mori domain" \) <=== \( "Krull domain" \).'
+  reason_right: 'Logic (rings) 286: \( "Mori domain" \) <=== \( "Krull domain" \).'
   ring: RING_000092
 PROP_000123:
   citation_left: []
@@ -1209,6 +1229,18 @@ PROP_000126:
   reason_right: 'Logic 341: commutative and unique factorization domain <==> atomic
     domain and commutative and Schreier domain'
   ring: RING_000092
+PROP_000127:
+  citation_left: []
+  citation_right: []
+  crosstable_pk: 35688
+  has_on_left: true
+  has_on_right: true
+  property: PROP_000127
+  reason_left: 'Logic (rings) 326: \( "normal domain" \) <=== \( "domain" \) AND \(
+    "normal" \).'
+  reason_right: 'Logic (rings) 326: \( "normal domain" \) <=== \( "domain" \) AND
+    \( "normal" \).'
+  ring: RING_000092
 PROP_000129:
   citation_left: []
   citation_right: []
@@ -1218,6 +1250,18 @@ PROP_000129:
   property: PROP_000129
   reason_left: 'Logic 361: local complete intersection ===> Gorenstein and local'
   reason_right: 'Logic 361: local complete intersection ===> Gorenstein and local'
+  ring: RING_000092
+PROP_000130:
+  citation_left: []
+  citation_right: []
+  crosstable_pk: 35689
+  has_on_left: true
+  has_on_right: true
+  property: PROP_000130
+  reason_left: 'Logic (rings) 636: \( "Krull domain" \) <=== \( "commutative" \) AND
+    \( "Noetherian" on the right\) AND \( "normal domain" \).'
+  reason_right: 'Logic (rings) 636: \( "Krull domain" \) <=== \( "commutative" \)
+    AND \( "Noetherian" on the right\) AND \( "normal domain" \).'
   ring: RING_000092
 PROP_000131:
   citation_left: []
@@ -1238,6 +1282,16 @@ PROP_000132:
   property: PROP_000132
   reason_left: 'Logic 352: Cohen-Macaulay ===> universally catenary'
   reason_right: 'Logic 352: Cohen-Macaulay ===> universally catenary'
+  ring: RING_000092
+PROP_000137:
+  citation_left: []
+  citation_right: []
+  crosstable_pk: 35690
+  has_on_left: true
+  has_on_right: true
+  property: PROP_000137
+  reason_left: 'Logic (rings) 410: \( "N-1" \) <=== \( "normal domain" \).'
+  reason_right: 'Logic (rings) 410: \( "N-1" \) <=== \( "normal domain" \).'
   ring: RING_000092
 PROP_000141:
   citation_left: []
@@ -1298,6 +1352,18 @@ PROP_000147:
   property: PROP_000147
   reason_left: symmetry with right side
   reason_right: 'Logic 407: commutative and PCI ring on the left or right ===> semisimple'
+  ring: RING_000092
+PROP_000148:
+  citation_left: []
+  citation_right: []
+  crosstable_pk: 35685
+  has_on_left: false
+  has_on_right: false
+  property: PROP_000148
+  reason_left: 'Logic (rings) 640: \(NOT "max ring" on the left\) <=== \(NOT "strongly
+    $\pi$-regular" \) AND \( "polynomial identity" \).'
+  reason_right: 'Logic (rings) 640: \(NOT "max ring" on the right\) <=== \(NOT "strongly
+    $\pi$-regular" \) AND \( "polynomial identity" \).'
   ring: RING_000092
 PROP_000149:
   citation_left: []

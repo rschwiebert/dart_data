@@ -26,3 +26,13 @@ DIM_000003:
   reason_right: null
   right_dimension: $\aleph_0$
   ring: RING_000038
+DIM_000006:
+  citation: []
+  crosstable_pk: 514
+  dimension_type: DIM_000006
+  left_dimension: '1'
+  reason_left: 'Logic (rings) 630: has uniform dimension 1 on the left <=== ring is
+    uniform on the left'
+  reason_right: null
+  right_dimension: ''
+  ring: RING_000038

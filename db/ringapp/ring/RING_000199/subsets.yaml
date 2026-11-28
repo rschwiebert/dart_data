@@ -21,3 +21,26 @@ SUBSET_000006:
   ring: RING_000199
   subset: $\{0\}$
   subset_type: SUBSET_000006
+SUBSET_000007:
+  citation: []
+  crosstable_pk: 1222
+  reason: 'Logic (rings) 550: has Right socle $\{0\}$ <=== ring is not nonzero socle
+    on the right'
+  ring: RING_000199
+  subset: $\{0\}$
+  subset_type: SUBSET_000007
+SUBSET_000008:
+  citation: []
+  crosstable_pk: 1223
+  reason: 'Logic (rings) 549: has Left socle $\{0\}$ <=== ring is not nonzero socle
+    on the left'
+  ring: RING_000199
+  subset: $\{0\}$
+  subset_type: SUBSET_000008
+SUBSET_000011:
+  citation: []
+  crosstable_pk: 1224
+  reason: 'Logic (rings) 633: has prime radical $\{0\}$ <=== ring is semiprime'
+  ring: RING_000199
+  subset: $\{0\}$
+  subset_type: SUBSET_000011

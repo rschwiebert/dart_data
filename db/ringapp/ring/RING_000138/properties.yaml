@@ -1312,6 +1312,16 @@ PROP_000119:
   reason_left: null
   reason_right: symmetry with left side
   ring: RING_000138
+PROP_000122:
+  citation_left: []
+  citation_right: []
+  crosstable_pk: 35757
+  has_on_left: true
+  has_on_right: true
+  property: PROP_000122
+  reason_left: 'Logic (rings) 286: \( "Mori domain" \) <=== \( "Krull domain" \).'
+  reason_right: 'Logic (rings) 286: \( "Mori domain" \) <=== \( "Krull domain" \).'
+  ring: RING_000138
 PROP_000124:
   citation_left: []
   citation_right: []
@@ -1360,6 +1370,18 @@ PROP_000128:
   reason_right: 'Logic (rings) 413: \(NOT "rad-nil" \) <=== \(NOT "nil radical" \)
     AND \( "commutative" \).'
   ring: RING_000138
+PROP_000130:
+  citation_left: []
+  citation_right: []
+  crosstable_pk: 35758
+  has_on_left: true
+  has_on_right: true
+  property: PROP_000130
+  reason_left: 'Logic (rings) 636: \( "Krull domain" \) <=== \( "commutative" \) AND
+    \( "Noetherian" on the right\) AND \( "normal domain" \).'
+  reason_right: 'Logic (rings) 636: \( "Krull domain" \) <=== \( "commutative" \)
+    AND \( "Noetherian" on the right\) AND \( "normal domain" \).'
+  ring: RING_000138
 PROP_000131:
   citation_left: []
   citation_right: []
@@ -1383,6 +1405,18 @@ PROP_000132:
     \).'
   reason_right: 'Logic (rings) 352: \( "universally catenary" \) <=== \( "Cohen-Macaulay"
     \).'
+  ring: RING_000138
+PROP_000133:
+  citation_left: []
+  citation_right: []
+  crosstable_pk: 35756
+  has_on_left: false
+  has_on_right: false
+  property: PROP_000133
+  reason_left: 'Logic (rings) 638: \(NOT "Grothendieck" \) <=== \(NOT "quasi-excellent"
+    \) AND \( "commutative" \) AND \( "semilocal" \).'
+  reason_right: 'Logic (rings) 638: \(NOT "Grothendieck" \) <=== \(NOT "quasi-excellent"
+    \) AND \( "commutative" \) AND \( "semilocal" \).'
   ring: RING_000138
 PROP_000135:
   citation_left: []

@@ -1,0 +1,9 @@
+active: true
+citation:
+- CITE_000738
+concs: ring_dim_deduced("$\\infty$",3,2)
+hyps: ring_deduced("lacks",3,63)
+readable: ring is not Artinian on the right ===> has composition length $\\infty$
+  on the right
+symmetric: false
+variety: 0

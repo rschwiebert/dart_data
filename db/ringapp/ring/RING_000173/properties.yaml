@@ -1019,6 +1019,32 @@ PROP_000097:
   reason_right: 'Logic (rings) 150: \( "T-nilpotent radical" on the right\) <=== \(
     "nilpotent radical" \).'
   ring: RING_000173
+PROP_000098:
+  citation_left: []
+  citation_right: []
+  crosstable_pk: 35782
+  has_on_left: false
+  has_on_right: false
+  property: PROP_000098
+  reason_left: 'Logic (rings) 270: \(NOT "simple socle" on the left\) <=== \(NOT "uniform"
+    on the left\) AND \( "essential socle" on the left\).'
+  reason_right: 'Logic (rings) 270: \(NOT "simple socle" on the right\) <=== \(NOT
+    "uniform" on the right\) AND \( "essential socle" on the right\).'
+  ring: RING_000173
+PROP_000099:
+  citation_left: []
+  citation_right: []
+  crosstable_pk: 35783
+  has_on_left: false
+  has_on_right: false
+  property: PROP_000099
+  reason_left: 'Logic (rings) 212: \(NOT "finitely generated socle" on the left\)
+    <=== \(NOT "finitely cogenerated" on the left\) AND \( "essential socle" on the
+    left\).'
+  reason_right: 'Logic (rings) 212: \(NOT "finitely generated socle" on the right\)
+    <=== \(NOT "finitely cogenerated" on the right\) AND \( "essential socle" on the
+    right\).'
+  ring: RING_000173
 PROP_000100:
   citation_left: []
   citation_right: []
@@ -1030,6 +1056,18 @@ PROP_000100:
     this ring
   reason_right: 'Logic (rings) 248: \( "nonzero socle" on the right\) <=== \( "nonzero
     socle" on the left\) AND \( "semiprime" \).'
+  ring: RING_000173
+PROP_000101:
+  citation_left: []
+  citation_right: []
+  crosstable_pk: 35784
+  has_on_left: true
+  has_on_right: true
+  property: PROP_000101
+  reason_left: 'Logic (rings) 637: \( "essential socle" on the left\) <=== \( "prime"
+    \) AND \( "nonzero socle" on the left\).'
+  reason_right: 'Logic (rings) 637: \( "essential socle" on the right\) <=== \( "prime"
+    \) AND \( "nonzero socle" on the right\).'
   ring: RING_000173
 PROP_000102:
   citation_left: []
@@ -1669,6 +1707,16 @@ PROP_000175:
   property: PROP_000175
   reason_left: 'Logic (rings) 542: \(NOT "?-ring" \) <=== \(NOT "arithmetical" \).'
   reason_right: 'Logic (rings) 542: \(NOT "?-ring" \) <=== \(NOT "arithmetical" \).'
+  ring: RING_000173
+PROP_000176:
+  citation_left: []
+  citation_right: []
+  crosstable_pk: 35785
+  has_on_left: true
+  has_on_right: true
+  property: PROP_000176
+  reason_left: 'Logic (rings) logical AND: ring_deduced("has",2,Y) <=== ring_deduced("has",1,Y).'
+  reason_right: 'Logic (rings) logical AND: ring_deduced("has",3,Y) <=== ring_deduced("has",1,Y).'
   ring: RING_000173
 PROP_000178:
   citation_left: []

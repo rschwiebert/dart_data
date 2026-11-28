@@ -58,3 +58,12 @@ DIM_000006:
     is semisimple AND has composition length X on the right'
   right_dimension: '1'
   ring: RING_000003
+DIM_000007:
+  citation: []
+  crosstable_pk: 492
+  dimension_type: DIM_000007
+  left_dimension: '1'
+  reason_left: 'Logic (rings) 632: has Loewy length 1 on the left <=== ring is semisimple'
+  reason_right: 'Logic (rings) 632: has Loewy length 1 on the right <=== ring is semisimple'
+  right_dimension: '1'
+  ring: RING_000003

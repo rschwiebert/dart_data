@@ -1063,6 +1063,18 @@ PROP_000098:
   reason_right: 'Logic (rings) 154: \(NOT "simple socle" on the right\) <=== \(NOT
     "nonzero socle" on the right\).'
   ring: RING_000183
+PROP_000099:
+  citation_left: []
+  citation_right: []
+  crosstable_pk: 35792
+  has_on_left: true
+  has_on_right: true
+  property: PROP_000099
+  reason_left: 'Logic (rings) 634: \( "finitely generated socle" on the left\) <===
+    \(NOT "nonzero socle" on the left\).'
+  reason_right: 'Logic (rings) 634: \( "finitely generated socle" on the right\) <===
+    \(NOT "nonzero socle" on the right\).'
+  ring: RING_000183
 PROP_000100:
   citation_left: []
   citation_right: []
@@ -1742,6 +1754,16 @@ PROP_000175:
   property: PROP_000175
   reason_left: 'Logic (rings) 542: \(NOT "?-ring" \) <=== \(NOT "arithmetical" \).'
   reason_right: 'Logic (rings) 542: \(NOT "?-ring" \) <=== \(NOT "arithmetical" \).'
+  ring: RING_000183
+PROP_000176:
+  citation_left: []
+  citation_right: []
+  crosstable_pk: 35793
+  has_on_left: true
+  has_on_right: true
+  property: PROP_000176
+  reason_left: 'Logic (rings) logical AND: ring_deduced("has",2,Y) <=== ring_deduced("has",1,Y).'
+  reason_right: 'Logic (rings) logical AND: ring_deduced("has",3,Y) <=== ring_deduced("has",1,Y).'
   ring: RING_000183
 PROP_000177:
   citation_left: []
